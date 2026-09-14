@@ -1,0 +1,8 @@
+{
+  "F02": {
+    "master": "masters/F02-R3.png",
+    "atlas": "atlases/F02-R3-v2.png",
+    "sideEnd": 502,
+    "detailStart": 514
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "06",
+  "batch": 2,
+  "type": "campaign",
+  "target": "campaign/06-ash-frame-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/06-ash-frame.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Black/graphite low elongated technical runner. Grey WHITE ASH marbling only on the perforated flowing overlay cage, with large oval openings revealing black mesh. Black round laces, black loop tabs tongue and heel. Multi-lobed graphite sole, rear flared horizontally but not taller platform. Preserve dark molded heel strap and tiny recessed gate, no bright new side logo. Scene: Adult lower legs in wide charcoal technical trousers, cuffs end at shoe collar. One foot planted sideways on dark asphalt beside a clean concrete curb, second foot further back at a different angle. Tight low-camera flash editorial; cold-neutral side illumination reveals ash-gray cage over black mesh. One hard long shadow, no fog. Quiet garage-like architecture, no vehicles. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-dedc160e-194c-4c49-884e-e7dc7c436fd8.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/06-ash-frame-campaign.png",
+  "status": "selected"
+}

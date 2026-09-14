@@ -1,0 +1,27 @@
+[
+  {
+    "id": "D01",
+    "version": 2,
+    "reason": "Correct elongated oval/diamond side emblem to the existing standard twin-panel geometry.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/masters/D01-v1.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Localized product image edit. Input1 is the approved shoe SHAPE to preserve exactly; Input2 is the exact MOVERNO EMBLEM template. Edit ONLY the single small black-on-black emblem on the foreground shoe side, directly above MOVERNO. Replace its incorrect diamond/oval shape with the exact upright two mirrored solid panels from Input2: both OUTER boundaries vertical straight full-height lines, both upper tips at the OUTSIDE top corners, inward-curving upper shoulders leading to the narrow vertical central gap, inward-curving bottom shoulders leading back to outside bottom tips. Match the supplied graphic precisely, no rotation, no diamonds, no X, no butterfly, no inventing M. Low matte black relief on black suede, same small size and location as original emblem. KEEP every other pixel-like feature: both shoe shapes, entire collar pattern, gold MOVERNO spelling, suede, heel height, toe volume, low sole, light background, original camera and shadows. Do not add a new mark or change the gold chain border. Landscape 3:2, entire pair uncropped.",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-840f2a08-1217-49ec-a2b7-c5ca2928787e.png",
+    "master": "masters/D01-v2.png"
+  },
+  {
+    "id": "D05",
+    "version": 2,
+    "reason": "Correct the two tongue emblems and outer sidewall emboss to the standard twin-panel emblem.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/masters/D05-v1.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Localized product image correction, not a new shoe design. Preserve Input1 pair, giant cream platform, black high shafts, upright tongues, bone round rubber caps, lacing, sole, camera, lighting and background EXACTLY. Input2 is the exact standard MOVERNO twin-panel emblem. Replace the incorrect pointed double-diamond symbols at THREE existing locations: BOTH tongue emblems (small smoke-silver relief) and the foreground shoe OUTER HEEL sidewall embossed outline (cream tonal, same size/location). Precisely trace the template Input2: two mirrored UPRIGHT elongated solid panels; straight vertical full-height OUTER edges; upper tips at OUTSIDE top corners, curved inner shoulders contracting into a narrow vertical central gap; bottom inner curves expanding out toward outside bottom tips. No diamonds, no leaf shape, no butterfly/X, no invented M, no new symbol. The sidewall outline must outline the same two panels, not pointed capsules. Preserve MOVERNO heel-loop wordmarks as in Input1. Change nothing else. Full entire matching pair, landscape3:2. No fold-over tongues, no zipper, no added pattern.",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-941d476a-98ed-440a-8657-4f4043bfdae7.png",
+    "master": "masters/D05-v2.png"
+  }
+]
+

@@ -1,0 +1,619 @@
+{
+  "checkedAt": "2026-09-11T02:43:10.997Z",
+  "checks": 151,
+  "passed": 151,
+  "failed": [],
+  "note": "Mechanical artifact checks only; not user aesthetic acceptance, exact production-logo matching, material performance or multi-view construction validation.",
+  "details": [
+    {
+      "name": "six unique expansion styles R07-R12",
+      "pass": true
+    },
+    {
+      "name": "six distinct visible descriptions",
+      "pass": true
+    },
+    {
+      "name": "six individual reference sources",
+      "pass": true
+    },
+    {
+      "name": "no rejected or prior shoe image used as generation input",
+      "pass": true
+    },
+    {
+      "name": "each prompt uses exact three supplied brand proof assets",
+      "pass": true
+    },
+    {
+      "name": "R07 master dimensions",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "R07 copy equals ImageGen original",
+      "pass": true
+    },
+    {
+      "name": "R07 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "R07 master embedded byte-identical",
+      "pass": true
+    },
+    {
+      "name": "R07 identity and caveat",
+      "pass": true
+    },
+    {
+      "name": "R07 three image elements: wordmark, emblem plus master and source",
+      "pass": true
+    },
+    {
+      "name": "R07 reference decodes",
+      "pass": true
+    },
+    {
+      "name": "R07 awaiting review",
+      "pass": true
+    },
+    {
+      "name": "R07 generation input exists vans-maryjane.png",
+      "pass": true
+    },
+    {
+      "name": "R07 generation input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R07 generation input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R07 generation input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "R08 master dimensions",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "R08 copy equals ImageGen original",
+      "pass": true
+    },
+    {
+      "name": "R08 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "R08 master embedded byte-identical",
+      "pass": true
+    },
+    {
+      "name": "R08 identity and caveat",
+      "pass": true
+    },
+    {
+      "name": "R08 three image elements: wordmark, emblem plus master and source",
+      "pass": true
+    },
+    {
+      "name": "R08 reference decodes",
+      "pass": true
+    },
+    {
+      "name": "R08 awaiting review",
+      "pass": true
+    },
+    {
+      "name": "R08 generation input exists vans-slipon.png",
+      "pass": true
+    },
+    {
+      "name": "R08 generation input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R08 generation input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R08 generation input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "R09 master dimensions",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "R09 copy equals ImageGen original",
+      "pass": true
+    },
+    {
+      "name": "R09 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "R09 master embedded byte-identical",
+      "pass": true
+    },
+    {
+      "name": "R09 identity and caveat",
+      "pass": true
+    },
+    {
+      "name": "R09 three image elements: wordmark, emblem plus master and source",
+      "pass": true
+    },
+    {
+      "name": "R09 reference decodes",
+      "pass": true
+    },
+    {
+      "name": "R09 awaiting review",
+      "pass": true
+    },
+    {
+      "name": "R09 generation input exists ugg-goldenglow.png",
+      "pass": true
+    },
+    {
+      "name": "R09 generation input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R09 generation input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R09 generation input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "R10 master dimensions",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "R10 copy equals ImageGen original",
+      "pass": true
+    },
+    {
+      "name": "R10 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "R10 master embedded byte-identical",
+      "pass": true
+    },
+    {
+      "name": "R10 identity and caveat",
+      "pass": true
+    },
+    {
+      "name": "R10 three image elements: wordmark, emblem plus master and source",
+      "pass": true
+    },
+    {
+      "name": "R10 reference decodes",
+      "pass": true
+    },
+    {
+      "name": "R10 awaiting review",
+      "pass": true
+    },
+    {
+      "name": "R10 generation input exists ugg-chelsea.jpg",
+      "pass": true
+    },
+    {
+      "name": "R10 generation input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R10 generation input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R10 generation input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "R11 master dimensions",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "R11 copy equals ImageGen original",
+      "pass": true
+    },
+    {
+      "name": "R11 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "R11 master embedded byte-identical",
+      "pass": true
+    },
+    {
+      "name": "R11 identity and caveat",
+      "pass": true
+    },
+    {
+      "name": "R11 three image elements: wordmark, emblem plus master and source",
+      "pass": true
+    },
+    {
+      "name": "R11 reference decodes",
+      "pass": true
+    },
+    {
+      "name": "R11 awaiting review",
+      "pass": true
+    },
+    {
+      "name": "R11 generation input exists ugg-lowmel.png",
+      "pass": true
+    },
+    {
+      "name": "R11 generation input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R11 generation input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R11 generation input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "R12 master dimensions",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "R12 copy equals ImageGen original",
+      "pass": true
+    },
+    {
+      "name": "R12 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "R12 master embedded byte-identical",
+      "pass": true
+    },
+    {
+      "name": "R12 identity and caveat",
+      "pass": true
+    },
+    {
+      "name": "R12 three image elements: wordmark, emblem plus master and source",
+      "pass": true
+    },
+    {
+      "name": "R12 reference decodes",
+      "pass": true
+    },
+    {
+      "name": "R12 awaiting review",
+      "pass": true
+    },
+    {
+      "name": "R12 generation input exists rick-high-sock.jpg",
+      "pass": true
+    },
+    {
+      "name": "R12 generation input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R12 generation input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "R12 generation input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "overview-R07-R12.png dimensions",
+      "pass": true
+    },
+    {
+      "name": "overview-R01-R12.png dimensions",
+      "pass": true
+    },
+    {
+      "name": "overview-R01-R12-preview.jpg dimensions",
+      "pass": true
+    },
+    {
+      "name": "combined preserves prior R01",
+      "pass": true
+    },
+    {
+      "name": "combined preserves prior R02",
+      "pass": true
+    },
+    {
+      "name": "combined preserves prior R03",
+      "pass": true
+    },
+    {
+      "name": "combined preserves prior R04",
+      "pass": true
+    },
+    {
+      "name": "combined preserves prior R05",
+      "pass": true
+    },
+    {
+      "name": "combined preserves prior R06",
+      "pass": true
+    },
+    {
+      "name": "gallery local link overview-R07-R12.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link overview-R01-R12.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link REFERENCE-MAP.md",
+      "pass": true
+    },
+    {
+      "name": "gallery local link QA.md",
+      "pass": true
+    },
+    {
+      "name": "gallery local link prompts.json",
+      "pass": true
+    },
+    {
+      "name": "gallery local link boards/R07-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link masters/R07-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link editable/R07-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery local link boards/R08-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link masters/R08-v2.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link editable/R08-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery local link boards/R09-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link masters/R09-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link editable/R09-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery local link boards/R10-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link masters/R10-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link editable/R10-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery local link boards/R11-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link masters/R11-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link editable/R11-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery local link boards/R12-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link masters/R12-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery local link editable/R12-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery local link selected-assets.json",
+      "pass": true
+    },
+    {
+      "name": "gallery local link research/JAPAN-KOREA.md",
+      "pass": true
+    },
+    {
+      "name": "no remote image/script dependencies",
+      "pass": true
+    },
+    {
+      "name": "six linked official credits",
+      "pass": true
+    },
+    {
+      "name": "no automatic previous approval",
+      "pass": true
+    },
+    {
+      "name": "protected 01-bone-signal.png",
+      "pass": true
+    },
+    {
+      "name": "protected 02-strata.png",
+      "pass": true
+    },
+    {
+      "name": "protected 03-notch.png",
+      "pass": true
+    },
+    {
+      "name": "protected 04-quiet-panel.png",
+      "pass": true
+    },
+    {
+      "name": "protected 05-afterhours.png",
+      "pass": true
+    },
+    {
+      "name": "protected 06-ash-frame.png",
+      "pass": true
+    },
+    {
+      "name": "protected 07-chain-form.png",
+      "pass": true
+    },
+    {
+      "name": "protected 08-ivory-cage.png",
+      "pass": true
+    },
+    {
+      "name": "protected 09-silver-wave.png",
+      "pass": true
+    },
+    {
+      "name": "protected 10-sand-current.png",
+      "pass": true
+    },
+    {
+      "name": "protected 11-graphite-cage.png",
+      "pass": true
+    },
+    {
+      "name": "protected 12-bone-layer.png",
+      "pass": true
+    },
+    {
+      "name": "protected 13-cross-weave.png",
+      "pass": true
+    },
+    {
+      "name": "protected 14-veil-high.png",
+      "pass": true
+    },
+    {
+      "name": "protected 15-gate-high.png",
+      "pass": true
+    },
+    {
+      "name": "protected F01-board.png",
+      "pass": true
+    },
+    {
+      "name": "protected F03-board.png",
+      "pass": true
+    },
+    {
+      "name": "protected F01-master-v2.png",
+      "pass": true
+    },
+    {
+      "name": "protected F03-master-v1.png",
+      "pass": true
+    },
+    {
+      "name": "protected F04-R2.png",
+      "pass": true
+    },
+    {
+      "name": "protected F04-board.png",
+      "pass": true
+    },
+    {
+      "name": "protected F02-R2.png",
+      "pass": true
+    },
+    {
+      "name": "protected F02-board.png",
+      "pass": true
+    },
+    {
+      "name": "rejected N preserved N01-v1.png",
+      "pass": true
+    },
+    {
+      "name": "rejected N preserved N02-v1.png",
+      "pass": true
+    },
+    {
+      "name": "rejected N preserved N03-v1.png",
+      "pass": true
+    },
+    {
+      "name": "rejected N preserved N04-v2.png",
+      "pass": true
+    },
+    {
+      "name": "rejected N preserved N05-v1.png",
+      "pass": true
+    },
+    {
+      "name": "rejected N preserved N06-v2.png",
+      "pass": true
+    },
+    {
+      "name": "prior R preserved R01-v1.png",
+      "pass": true
+    },
+    {
+      "name": "prior R preserved R02-v1.png",
+      "pass": true
+    },
+    {
+      "name": "prior R preserved R03-v1.png",
+      "pass": true
+    },
+    {
+      "name": "prior R preserved R04-v1.png",
+      "pass": true
+    },
+    {
+      "name": "prior R preserved R05-v2.png",
+      "pass": true
+    },
+    {
+      "name": "prior R preserved R06-v1.png",
+      "pass": true
+    },
+    {
+      "name": "historical original F02-R3-EXACT.png",
+      "pass": true
+    },
+    {
+      "name": "historical original F06-v1-EXACT.png",
+      "pass": true
+    }
+  ]
+}

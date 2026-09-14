@@ -1,0 +1,161 @@
+[
+  {
+    "id": "R01",
+    "name": "链纹低口绒鞋",
+    "category": "图 1 / 低口闭趾",
+    "materials": "墨黑磨砂面 · 黑色绒里 · 骨白纹样织边",
+    "refs": [
+      1
+    ],
+    "statement": "完整圆头与低口比例不变，品牌纹样沿鞋口绕行。",
+    "brand": "鞋口改为双片纹样织边，侧身用低对比字标。",
+    "keep": [
+      "低口、包住后跟的浅围边与饱满闭趾。",
+      "平缓黑底、完整磨砂鞋面，不加系带。"
+    ],
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-01.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "spec": "Inputs 1=shoe shape reference, 2=standard emblem, 3=wordmark, 4=brand chain-pattern. Keep the low closed-toe black suede clog/slip-on proportions of input1 almost unchanged: full softly rounded dome toe, single uninterrupted low vamp, very shallow heel cup, simple dark flat continuous sole of the same modest thickness as input1. NOT a boot, NOT a sneaker, NOT a pointy house slipper. Black short-pile suede, charcoal-black plush lining mostly hidden just inside the opening. Replace the original white zigzag collar braid with a refined narrow BLACK JACQUARD RIBBON woven with repeated small upright BONE-WHITE MOVERNO double-panel units from input2, linked in a regular rhythm derived from input4. It must look woven into the binding, not a metal chain, not a tribal zigzag, and not a new graphic. Maintain the reference collar route and width. One subtle MOVERNO debossed serif wordmark at outer rear quarter just below the binding, not a large label. Add a tiny same-black dual-panel emboss on the outer heel-side sole. No other paneling or decorative changes. Preserve the relaxed low round shape that makes the reference appealing.",
+    "prompt": "Use case: product-mockup. Photorealistic MOVERNO footwear concept for fashion-conscious young adults. The provided shoe references are DIRECT SILHOUETTE AND PROPORTION guides: preserve their recognizable footwear category, toe fullness, collar height, openness, upper volume and sole thickness. This task is reference-led adaptation, not inventing a different silhouette. Remove every source-brand logo, lettering and signature textile motif; use only the supplied MOVERNO identity. Brand references show a two-panel mirror-symmetric upright emblem with straight outer edges and inward curved tips around a narrow vertical gap; faithfully preserve its geometry, no X, butterfly, new letter M, parallel slashes or random symbols. Exact small serif wordmark where specified: \"MOVERNO\", M-O-V-E-R-N-O. Studio product photography: entire PAIR uncropped, slightly elevated three-quarter view emphasizing the outer side of the front shoe and visible collar/instep, light warm-grey seamless background, elegant soft contact shadows, tack-sharp realistic suede/rubber/fabric construction. Pair occupies about 82% of a landscape 3:2 frame. No people, boxes, surrounding typography, design labels, posters, large jewelry or decorative hardware unless specified. This is a fashion concept, no performance text.\nInputs 1=shoe shape reference, 2=standard emblem, 3=wordmark, 4=brand chain-pattern. Keep the low closed-toe black suede clog/slip-on proportions of input1 almost unchanged: full softly rounded dome toe, single uninterrupted low vamp, very shallow heel cup, simple dark flat continuous sole of the same modest thickness as input1. NOT a boot, NOT a sneaker, NOT a pointy house slipper. Black short-pile suede, charcoal-black plush lining mostly hidden just inside the opening. Replace the original white zigzag collar braid with a refined narrow BLACK JACQUARD RIBBON woven with repeated small upright BONE-WHITE MOVERNO double-panel units from input2, linked in a regular rhythm derived from input4. It must look woven into the binding, not a metal chain, not a tribal zigzag, and not a new graphic. Maintain the reference collar route and width. One subtle MOVERNO debossed serif wordmark at outer rear quarter just below the binding, not a large label. Add a tiny same-black dual-panel emboss on the outer heel-side sole. No other paneling or decorative changes. Preserve the relaxed low round shape that makes the reference appealing.",
+    "master": "masters/R01-v1.png",
+    "status": "概念待审核"
+  },
+  {
+    "id": "R02",
+    "name": "奶绒厚底穆勒",
+    "category": "图 2 / 4 / 5 · 绒口后空",
+    "materials": "栗棕磨砂面 · 奶油绒口 · 同色厚底",
+    "refs": [
+      2,
+      4,
+      5
+    ],
+    "statement": "让绒口成为主体，栗棕鞋面保持完整和柔软。",
+    "brand": "侧腰一枚小型深棕徽记，鞋垫落标准字标。",
+    "keep": [
+      "后跟开放，宽绒口沿脚背向两侧包落。",
+      "圆钝鞋头与平缓厚底保持参考体积。"
+    ],
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-04.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-02.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-05.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "spec": "Inputs1,2,3=fur collar mule shape and finish references; 4=emblem and5=wordmark. Reproduce the same category and relaxed proportions as these references: open heel mule, ROUND FULL toe, soft single-panel suede vamp and VERY GENEROUS plush collar rolling over the high curved instep edge. Pair in a comparable three-quarter view to input1. Selected colorway is rich CHESTNUT suede and CREAM dense fluffy collar as inputs1/2, with chestnut/tan flat chunky sole of the same moderate thickness. Input3 provides tidy low-contrast finishing and fully open heel construction, do not turn this into a separate black colorway. Keep the dense cream fur ribbon wide and continuous from near one heel side across instep to other side, high quality natural-looking fibres, not shaggy entire shoe. No strap, no zipper, no laces, no metal chain. Replace all UGG marks: a single small dark-chestnut smooth suede applique cut to the exact twin-panel MOVERNO emblem on the outer quarter, matching two-panel geometry and neat edge stitching, with no shield backing. A small MOVERNO serif print on the visible heel area of the lined footbed. Retain thin rolled seam at the upper/sole boundary, clean broad sidewall; change tread to subtle short rectangular notches instead of source-specific outsole pattern. Do not narrow or lengthen the toe or make it a boot.",
+    "prompt": "Use case: product-mockup. Photorealistic MOVERNO footwear concept for fashion-conscious young adults. The provided shoe references are DIRECT SILHOUETTE AND PROPORTION guides: preserve their recognizable footwear category, toe fullness, collar height, openness, upper volume and sole thickness. This task is reference-led adaptation, not inventing a different silhouette. Remove every source-brand logo, lettering and signature textile motif; use only the supplied MOVERNO identity. Brand references show a two-panel mirror-symmetric upright emblem with straight outer edges and inward curved tips around a narrow vertical gap; faithfully preserve its geometry, no X, butterfly, new letter M, parallel slashes or random symbols. Exact small serif wordmark where specified: \"MOVERNO\", M-O-V-E-R-N-O. Studio product photography: entire PAIR uncropped, slightly elevated three-quarter view emphasizing the outer side of the front shoe and visible collar/instep, light warm-grey seamless background, elegant soft contact shadows, tack-sharp realistic suede/rubber/fabric construction. Pair occupies about 82% of a landscape 3:2 frame. No people, boxes, surrounding typography, design labels, posters, large jewelry or decorative hardware unless specified. This is a fashion concept, no performance text.\nInputs1,2,3=fur collar mule shape and finish references; 4=emblem and5=wordmark. Reproduce the same category and relaxed proportions as these references: open heel mule, ROUND FULL toe, soft single-panel suede vamp and VERY GENEROUS plush collar rolling over the high curved instep edge. Pair in a comparable three-quarter view to input1. Selected colorway is rich CHESTNUT suede and CREAM dense fluffy collar as inputs1/2, with chestnut/tan flat chunky sole of the same moderate thickness. Input3 provides tidy low-contrast finishing and fully open heel construction, do not turn this into a separate black colorway. Keep the dense cream fur ribbon wide and continuous from near one heel side across instep to other side, high quality natural-looking fibres, not shaggy entire shoe. No strap, no zipper, no laces, no metal chain. Replace all UGG marks: a single small dark-chestnut smooth suede applique cut to the exact twin-panel MOVERNO emblem on the outer quarter, matching two-panel geometry and neat edge stitching, with no shield backing. A small MOVERNO serif print on the visible heel area of the lined footbed. Retain thin rolled seam at the upper/sole boundary, clean broad sidewall; change tread to subtle short rectangular notches instead of source-specific outsole pattern. Do not narrow or lengthen the toe or make it a boot.",
+    "master": "masters/R02-v1.png",
+    "status": "概念待审核"
+  },
+  {
+    "id": "R03",
+    "name": "低筒绒里短靴",
+    "category": "图 3 / 极短筒",
+    "materials": "烟可可麂皮感面 · 同色绒里 · 深棕底",
+    "refs": [
+      3
+    ],
+    "statement": "保留短筒和柔软圆头，把识别集中在后跟窄带。",
+    "brand": "后提带加入低对比链纹，后跟底压 MOVERNO。",
+    "keep": [
+      "极短筒、浅绒口与不收尖的圆头。",
+      "柔软整体鞋面，平整低底，不加运动护壳。"
+    ],
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-03.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "spec": "Inputs1=ultra-short boot direct shape reference;2=standard emblem;3=wordmark;4=brand repeat pattern. Maintain the compact ultra-short winter boot silhouette of input1: shaft just around ankle, soft full rounded toe, smooth gently falling instep, simple cocoa/taupe suede, thin plush lining visible at top opening, flat modest-depth dark brown sole. NO laces, NO velcro, NO strap, NO puffer/quilting, NO hiking toe guard, NO tall ankle cuff, NO platform inflation. Foreground shoe in outer front three-quarter view, matching partner behind turned enough to show the BACK HEEL and short pull-tab. Front shoe still looks compact and soft like source, not a long pointed boot. Replace source UGG rear badge by a small tonal charcoal-suede rectangular heel patch carrying the exact MOVERNO serif wordmark. Above it a narrow short rear pull-tab woven with subtle cocoa-on-espresso repeating double-panel chain pattern derived from input4, realistically stitched down to heel patch. One tiny tonal standard twin-panel embossed emblem on outer upper heel. Small debossed MOVERNO on heel-facing rubber sole block below, not oversized. Keep exposed construction seams restrained and tone-on-tone; one gently curved side seam is enough. Do not draw arbitrary new decorative cut-outs or panels.",
+    "prompt": "Use case: product-mockup. Photorealistic MOVERNO footwear concept for fashion-conscious young adults. The provided shoe references are DIRECT SILHOUETTE AND PROPORTION guides: preserve their recognizable footwear category, toe fullness, collar height, openness, upper volume and sole thickness. This task is reference-led adaptation, not inventing a different silhouette. Remove every source-brand logo, lettering and signature textile motif; use only the supplied MOVERNO identity. Brand references show a two-panel mirror-symmetric upright emblem with straight outer edges and inward curved tips around a narrow vertical gap; faithfully preserve its geometry, no X, butterfly, new letter M, parallel slashes or random symbols. Exact small serif wordmark where specified: \"MOVERNO\", M-O-V-E-R-N-O. Studio product photography: entire PAIR uncropped, slightly elevated three-quarter view emphasizing the outer side of the front shoe and visible collar/instep, light warm-grey seamless background, elegant soft contact shadows, tack-sharp realistic suede/rubber/fabric construction. Pair occupies about 82% of a landscape 3:2 frame. No people, boxes, surrounding typography, design labels, posters, large jewelry or decorative hardware unless specified. This is a fashion concept, no performance text.\nInputs1=ultra-short boot direct shape reference;2=standard emblem;3=wordmark;4=brand repeat pattern. Maintain the compact ultra-short winter boot silhouette of input1: shaft just around ankle, soft full rounded toe, smooth gently falling instep, simple cocoa/taupe suede, thin plush lining visible at top opening, flat modest-depth dark brown sole. NO laces, NO velcro, NO strap, NO puffer/quilting, NO hiking toe guard, NO tall ankle cuff, NO platform inflation. Foreground shoe in outer front three-quarter view, matching partner behind turned enough to show the BACK HEEL and short pull-tab. Front shoe still looks compact and soft like source, not a long pointed boot. Replace source UGG rear badge by a small tonal charcoal-suede rectangular heel patch carrying the exact MOVERNO serif wordmark. Above it a narrow short rear pull-tab woven with subtle cocoa-on-espresso repeating double-panel chain pattern derived from input4, realistically stitched down to heel patch. One tiny tonal standard twin-panel embossed emblem on outer upper heel. Small debossed MOVERNO on heel-facing rubber sole block below, not oversized. Keep exposed construction seams restrained and tone-on-tone; one gently curved side seam is enough. Do not draw arbitrary new decorative cut-outs or panels.",
+    "master": "masters/R03-v1.png",
+    "status": "概念待审核"
+  },
+  {
+    "id": "R04",
+    "name": "链纹厚底高帮",
+    "category": "图 6 / 7 · 高帮包头",
+    "materials": "哑黑织物 · 骨白胶底 · 黑金局部纹样",
+    "refs": [
+      6,
+      7
+    ],
+    "statement": "黑白高帮的量感保留，链纹藏进拉链旁的侧片。",
+    "brand": "外侧局部链纹嵌片，鞋舌字标与后跟小徽记。",
+    "keep": [
+      "高帮、长系带、饱满包头与明显厚底。",
+      "侧拉链细节与黑／骨白强对比。"
+    ],
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-07.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-06.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "spec": "Inputs1/2=direct high-top references,3=emblem,4=wordmark,5=chain pattern. Preserve input1's striking HIGH straight ankle shaft, rounded rubber-covered toe, substantial BONE-WHITE platform sidewall, long BONE laces and black upper; use the controlled silver ZIPPER accent from input2. Do not reduce it to slim canvas shoes, a formal ankle boot or a low-top. Pair in source-like elevated front three-quarter view. Black dense matte cotton textile, bone lining edge, no fold-over tongue. Thick continuous bone sole close in visual height to input1 with a SINGLE narrow stepped seam and fine straight micro-rib tread, no source-specific shark teeth. Rounded bone toe bumper with a lower curved seam, not pointy, not steel/plastic cage. A single realistic slim gunmetal zipper runs obliquely on outer quarter, with a narrow BLACK/GOLD woven MOVERNO chain-pattern inset just BEHIND it spanning the rear lateral quarter; this is a soft flush textile insert, not a separate metal ornament and not full-upper monogram. Main vamp remains matte plain black. Exact small MOVERNO wordmark centered on normal non-folding black tongue, black-on-bone tiny standard double-panel emblem at rear sole badge. Original brand pattern supplied in input5 must remain recognizable as linked paired curved vertical panels, subdued brass line on black. Preserve the energetic oversized high-top look and broad cap/sole contrast; do not add buckles or more zippers.",
+    "prompt": "Use case: product-mockup. Photorealistic MOVERNO footwear concept for fashion-conscious young adults. The provided shoe references are DIRECT SILHOUETTE AND PROPORTION guides: preserve their recognizable footwear category, toe fullness, collar height, openness, upper volume and sole thickness. This task is reference-led adaptation, not inventing a different silhouette. Remove every source-brand logo, lettering and signature textile motif; use only the supplied MOVERNO identity. Brand references show a two-panel mirror-symmetric upright emblem with straight outer edges and inward curved tips around a narrow vertical gap; faithfully preserve its geometry, no X, butterfly, new letter M, parallel slashes or random symbols. Exact small serif wordmark where specified: \"MOVERNO\", M-O-V-E-R-N-O. Studio product photography: entire PAIR uncropped, slightly elevated three-quarter view emphasizing the outer side of the front shoe and visible collar/instep, light warm-grey seamless background, elegant soft contact shadows, tack-sharp realistic suede/rubber/fabric construction. Pair occupies about 82% of a landscape 3:2 frame. No people, boxes, surrounding typography, design labels, posters, large jewelry or decorative hardware unless specified. This is a fashion concept, no performance text.\nInputs1/2=direct high-top references,3=emblem,4=wordmark,5=chain pattern. Preserve input1's striking HIGH straight ankle shaft, rounded rubber-covered toe, substantial BONE-WHITE platform sidewall, long BONE laces and black upper; use the controlled silver ZIPPER accent from input2. Do not reduce it to slim canvas shoes, a formal ankle boot or a low-top. Pair in source-like elevated front three-quarter view. Black dense matte cotton textile, bone lining edge, no fold-over tongue. Thick continuous bone sole close in visual height to input1 with a SINGLE narrow stepped seam and fine straight micro-rib tread, no source-specific shark teeth. Rounded bone toe bumper with a lower curved seam, not pointy, not steel/plastic cage. A single realistic slim gunmetal zipper runs obliquely on outer quarter, with a narrow BLACK/GOLD woven MOVERNO chain-pattern inset just BEHIND it spanning the rear lateral quarter; this is a soft flush textile insert, not a separate metal ornament and not full-upper monogram. Main vamp remains matte plain black. Exact small MOVERNO wordmark centered on normal non-folding black tongue, black-on-bone tiny standard double-panel emblem at rear sole badge. Original brand pattern supplied in input5 must remain recognizable as linked paired curved vertical panels, subdued brass line on black. Preserve the energetic oversized high-top look and broad cap/sole contrast; do not add buckles or more zippers.",
+    "master": "masters/R04-v1.png",
+    "status": "概念待审核"
+  },
+  {
+    "id": "R05",
+    "name": "雾银粗绳运动鞋",
+    "category": "图 8 / 9 · 饱满低帮",
+    "materials": "骨白鞋面 · 雾银拼片 · 粗织圆绳",
+    "refs": [
+      8,
+      9
+    ],
+    "statement": "粗圆绳和蓬松鞋舌占据视觉中心，银色只落在拼片。",
+    "brand": "外侧清楚的双片徽记，短鞋舌采用 MOVERNO。",
+    "keep": [
+      "短宽前掌、低鞋口与充足鞋舌量感。",
+      "厚实奶白底边，局部银色与可见织物。"
+    ],
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-08.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-09.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/ocai-retro001-white.jpg",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "spec": "Inputs1 and3=direct chunky OCAI proportion references; input2=silver/mesh material reference only; input4=standard emblem;input5=wordmark. Keep the short full forefoot, clearly LOW heavily padded opening, inflated tongue and extraordinary thick short round ROPE LACES of inputs1/3. This is a compact chunky street sneaker, absolutely NOT a thin runner or narrow racer. Pair front three-quarter view like input1. Bone-white soft leather-look base, pale grey open mesh zones and small FOG-SILVER satin metallic overlays from input2, silver limited to eyestay/forefoot/rear pieces not whole chrome upper. Lacing is a compact run of 3 to4 plush thick round woven bone/grey speckled rope crosses resting on huge soft tongue; no long wraps around toe or sole. Maintain milk platform-like sculpted outsole volume, with front and rear broad shallow inset panels recolored warm grey instead of copying source oval pods or exact mould. Replace the oval Ocai badge entirely with an original soft rounded RECTANGULAR bone quarter patch containing one medium exact paired upright black MOVERNO emblem. Surrounding panel cut follows the padding shape, no circular orbit, no athletic swoosh. Small MOVERNO serif wordmark at tongue top, subtle tiny rear woven tab. Replace source X tacking with two parallel bar tacks. Strong young bread-shoe volume and material contrast, both shoes matching. Do not slim the collar, sharpen toe, hide the big rope laces or substitute a knit slip-on.",
+    "prompt": "Use case: product-mockup. Photorealistic MOVERNO footwear concept for fashion-conscious young adults. The provided shoe references are DIRECT SILHOUETTE AND PROPORTION guides: preserve their recognizable footwear category, toe fullness, collar height, openness, upper volume and sole thickness. This task is reference-led adaptation, not inventing a different silhouette. Remove every source-brand logo, lettering and signature textile motif; use only the supplied MOVERNO identity. Brand references show a two-panel mirror-symmetric upright emblem with straight outer edges and inward curved tips around a narrow vertical gap; faithfully preserve its geometry, no X, butterfly, new letter M, parallel slashes or random symbols. Exact small serif wordmark where specified: \"MOVERNO\", M-O-V-E-R-N-O. Studio product photography: entire PAIR uncropped, slightly elevated three-quarter view emphasizing the outer side of the front shoe and visible collar/instep, light warm-grey seamless background, elegant soft contact shadows, tack-sharp realistic suede/rubber/fabric construction. Pair occupies about 82% of a landscape 3:2 frame. No people, boxes, surrounding typography, design labels, posters, large jewelry or decorative hardware unless specified. This is a fashion concept, no performance text.\nInputs1 and3=direct chunky OCAI proportion references; input2=silver/mesh material reference only; input4=standard emblem;input5=wordmark. Keep the short full forefoot, clearly LOW heavily padded opening, inflated tongue and extraordinary thick short round ROPE LACES of inputs1/3. This is a compact chunky street sneaker, absolutely NOT a thin runner or narrow racer. Pair front three-quarter view like input1. Bone-white soft leather-look base, pale grey open mesh zones and small FOG-SILVER satin metallic overlays from input2, silver limited to eyestay/forefoot/rear pieces not whole chrome upper. Lacing is a compact run of 3 to4 plush thick round woven bone/grey speckled rope crosses resting on huge soft tongue; no long wraps around toe or sole. Maintain milk platform-like sculpted outsole volume, with front and rear broad shallow inset panels recolored warm grey instead of copying source oval pods or exact mould. Replace the oval Ocai badge entirely with an original soft rounded RECTANGULAR bone quarter patch containing one medium exact paired upright black MOVERNO emblem. Surrounding panel cut follows the padding shape, no circular orbit, no athletic swoosh. Small MOVERNO serif wordmark at tongue top, subtle tiny rear woven tab. Replace source X tacking with two parallel bar tacks. Strong young bread-shoe volume and material contrast, both shoes matching. Do not slim the collar, sharpen toe, hide the big rope laces or substitute a knit slip-on.",
+    "master": "masters/R05-v1.png",
+    "status": "概念待审核"
+  },
+  {
+    "id": "R06",
+    "name": "链纹帆布厚底鞋",
+    "category": "图 10 / 11 · 低帮帆布",
+    "materials": "石墨链纹织面 · 骨白包头 · 黑色字标",
+    "refs": [
+      10,
+      11
+    ],
+    "statement": "低帮包头比例保留，以品牌链纹替代格纹。",
+    "brand": "自有纹样进入织面，外侧底墙使用一次 MOVERNO。",
+    "keep": [
+      "低帮、圆胶包头、宽白鞋带。",
+      "规整厚底与简洁帆布结构。"
+    ],
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-11.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-reset-round2/references/user-10.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "spec": "Inputs1/2=direct low-top canvas platform proportion references;3=standard emblem;4=wordmark;5=MOVERNO chain repeat. Preserve the reference LOW ankle opening, rounded WHITE/BONE rubber toe cap, broad clean white foxing, visible flat WHITE laces and straightforward canvas shape. Pair facing three-quarter front like input1. Platform height and full rounded toe comparable to input1, not a thin dress shoe. REPLACE the entire Burberry check fabric with original MOVERNO linked-double-panel jacquard from input5, translated to a muted STONE/GREIGE field with GRAPHITE chain panels and a few dull brass outline threads: a sophisticated regular elongated curved-panel repeat, NOT any tartan, grid checks, red stripe or Burberry motif. Dense woven fabric texture and matched pattern scale across both shoes. Plain bone eyestays and bone collar binding frame the patterned quarters, plain graphite tongue; keep solid bone rubber toe clean. On outer foxing sidewall print \"MOVERNO\" once in large BLACK clean high-contrast serif type, like a deliberate editorial band, sized to remain readable and not stretched past heel, no random lettering or repeated paragraph. Tiny original twin-panel emblem on tongue patch, no competitor badge. Clean continuous bone sidewall with a fine dark line close to outsole only; tread original fine herringbone not copied reference trademark details. Do not change this into a runner, leather office shoe or high-top, and do not add unrelated hardware.",
+    "prompt": "Use case: product-mockup. Photorealistic MOVERNO footwear concept for fashion-conscious young adults. The provided shoe references are DIRECT SILHOUETTE AND PROPORTION guides: preserve their recognizable footwear category, toe fullness, collar height, openness, upper volume and sole thickness. This task is reference-led adaptation, not inventing a different silhouette. Remove every source-brand logo, lettering and signature textile motif; use only the supplied MOVERNO identity. Brand references show a two-panel mirror-symmetric upright emblem with straight outer edges and inward curved tips around a narrow vertical gap; faithfully preserve its geometry, no X, butterfly, new letter M, parallel slashes or random symbols. Exact small serif wordmark where specified: \"MOVERNO\", M-O-V-E-R-N-O. Studio product photography: entire PAIR uncropped, slightly elevated three-quarter view emphasizing the outer side of the front shoe and visible collar/instep, light warm-grey seamless background, elegant soft contact shadows, tack-sharp realistic suede/rubber/fabric construction. Pair occupies about 82% of a landscape 3:2 frame. No people, boxes, surrounding typography, design labels, posters, large jewelry or decorative hardware unless specified. This is a fashion concept, no performance text.\nInputs1/2=direct low-top canvas platform proportion references;3=standard emblem;4=wordmark;5=MOVERNO chain repeat. Preserve the reference LOW ankle opening, rounded WHITE/BONE rubber toe cap, broad clean white foxing, visible flat WHITE laces and straightforward canvas shape. Pair facing three-quarter front like input1. Platform height and full rounded toe comparable to input1, not a thin dress shoe. REPLACE the entire Burberry check fabric with original MOVERNO linked-double-panel jacquard from input5, translated to a muted STONE/GREIGE field with GRAPHITE chain panels and a few dull brass outline threads: a sophisticated regular elongated curved-panel repeat, NOT any tartan, grid checks, red stripe or Burberry motif. Dense woven fabric texture and matched pattern scale across both shoes. Plain bone eyestays and bone collar binding frame the patterned quarters, plain graphite tongue; keep solid bone rubber toe clean. On outer foxing sidewall print \"MOVERNO\" once in large BLACK clean high-contrast serif type, like a deliberate editorial band, sized to remain readable and not stretched past heel, no random lettering or repeated paragraph. Tiny original twin-panel emblem on tongue patch, no competitor badge. Clean continuous bone sidewall with a fine dark line close to outsole only; tread original fine herringbone not copied reference trademark details. Do not change this into a runner, leather office shoe or high-top, and do not add unrelated hardware.",
+    "master": "masters/R06-v1.png",
+    "status": "概念待审核"
+  }
+]

@@ -1,0 +1,268 @@
+{
+  "stage": "asset-and-layout-check",
+  "passed": true,
+  "count": 10,
+  "records": [
+    {
+      "id": "01",
+      "name": "幕隙经典高帮",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3302644,
+      "posterSha256": "04165eae2b261048dc8029fbb5922561f8e7efe6f276bac1bebe0b870c5626c1",
+      "sourceSha256": "afd96e60a6d5822092dfb729716eb7018a16ad3268b05f448b073c1ae9c5ecc5",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "02",
+      "name": "偏幕提花高帮",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3547082,
+      "posterSha256": "a0b86316dc9e8d6d33dcd3a5c9d2e4e427b2a41d04ae178cb8390c10fe15f41b",
+      "sourceSha256": "919c1137b528024b9bd77ca56d48350ca04afcf27ca2d1a02973e3249a799cae",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "03",
+      "name": "黑白巨幅幕片 · 交织版",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3532027,
+      "posterSha256": "ab5534208fabb563aef75c945f6d6b372abde5a1e79859176d7bdcc6c9e18122",
+      "sourceSha256": "303aee9168f9894d922f430ea2a699d22e19daea2069ab5bc66d5e8adab155d8",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "04",
+      "name": "流银门轨",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3797110,
+      "posterSha256": "34012a010be28d9d1f106e329801440eac831af377369d71523910236b910529",
+      "sourceSha256": "9b1dadd4bf2663a8dfae7e002aa4ee5c4e581d470c75fe0f9e509fde14a3fd23",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "05",
+      "name": "骨灰反相幕片 · 嵌纹版",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3822534,
+      "posterSha256": "73f17b0524ef9f8e3cf1f0c0102f83ea0c7c2b29145fab7d2d8d4113d4012b76",
+      "sourceSha256": "13bdc4a2f389dc4e2fd351a483669df312c88afb401a9dbe37db740dff38e7cc",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "06",
+      "name": "毛边暗纹",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3715333,
+      "posterSha256": "ee3f8f6ce46b02f8d7d88808e113ec956db91e4d9f1d9b79f7c1f1a32fbfb815",
+      "sourceSha256": "ae94d7a8e7c20dbacd8d7d638e926f578cd83518512da2b6bb3aeaae4b41ecb2",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "07",
+      "name": "黑皮银徽",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3332865,
+      "posterSha256": "61d4d865dfa3aa734b1315db653dfe22e5e15e3bdffd1281d43f82de27f259c2",
+      "sourceSha256": "7fc8a4444a4f8ad4a704fd9d478f562519fd61abd44c83e7a799dd70a5c5a01b",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "08",
+      "name": "白皮暗格",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3094719,
+      "posterSha256": "a9a9f686e69af74a33abf63e0b8e004c6e8bd295de97ea19e85ce73bb9017bf9",
+      "sourceSha256": "d2df42c099cb034135b459862ea7a36fc529a64515dd2d465cc7245865e82684",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "09",
+      "name": "烟胶脊纹",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 3493537,
+      "posterSha256": "0f4e1bdbed9cb730bbfbe3be404860e0b064289d551155c4c2e3e6a46dc5a0f2",
+      "sourceSha256": "d9e0ee598d912b9f45c8ce54bcf3f8aa1f7f4606b44cd83faced384fa08eebd1",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    },
+    {
+      "id": "10",
+      "name": "纯白浮雕",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "atlasDimensions": [
+        1448,
+        1086
+      ],
+      "posterBytes": 2978019,
+      "posterSha256": "4f6eed36dff67b72422b81bd21c70611bfa87d60fca86403dc7954b096c2b03f",
+      "sourceSha256": "4360b43363d1b2e51ff75118d3bc6855f73f5d9f56e0325cb8e7794cc30ac2f0",
+      "checks": {
+        "correctDimensions": true,
+        "masterEmbeddedVerbatim": true,
+        "atlasEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "conceptDisclaimerPresent": true,
+        "headlinePresent": true,
+        "noExternalRasterDependencies": true,
+        "atlasAspectAndMinimumSize": true
+      },
+      "pass": true
+    }
+  ],
+  "note": "Technical file checks plus separately performed visual review; not factory or manufacturing approval."
+}

@@ -1,0 +1,54 @@
+{
+  "project": "MOVERNO SS27 pants",
+  "stage": "MV pant mark selection gate",
+  "round": 2,
+  "status": "rejected_all_concepts",
+  "createdAt": "2026-08-30",
+  "rejectedAt": "2026-08-30",
+  "decision": "User returned to Round 1-B MV RELAY. D/E/F are retained as rejected exploration only.",
+  "method": {
+    "stytrix": "methodology_only_no_paid_generation",
+    "renderer": "OpenAI ImageGen",
+    "workflow": "initial_generation_then_consistency_edit"
+  },
+  "asset": {
+    "file": "01-mv-pant-mark-industrial-dark-round2.png",
+    "width": 1536,
+    "height": 1024,
+    "colorMode": "RGB",
+    "sha256": "822E6D85F45BD983EE0855B1802F2DC3D0E16C34B44F8A3CA52CD745376C7BC5"
+  },
+  "concepts": [
+    {
+      "id": "D",
+      "name": "MV SHEAR LOCK",
+      "zh": "剪切锁",
+      "principle": "错位重板与单一斜向剪切，以负空间隐藏 V、阶梯端部暗示 M"
+    },
+    {
+      "id": "E",
+      "name": "MV RAIL CLAMP",
+      "zh": "轨道夹",
+      "principle": "两条非等宽轨道与斜向夹持件，利用断开的中央通道完成 M 到 V 的转换"
+    },
+    {
+      "id": "F",
+      "name": "MV BLACK FOUNDRY",
+      "zh": "铸隙印",
+      "principle": "四片压铸碎块、缺角与中央深缝共同形成隐性 M/V"
+    }
+  ],
+  "applicationsShown": [
+    "8mm deboss",
+    "woven label",
+    "back-waist patch",
+    "button/rivet",
+    "zipper pull"
+  ],
+  "constraints": [
+    "secondary mark only; master Veil Gate remains unchanged",
+    "monochrome bone ash and oxidized nickel on matte black",
+    "no gold, no three stripes, no cross, crown, shield or weapon",
+    "concept image is not a production or trademark master"
+  ]
+}

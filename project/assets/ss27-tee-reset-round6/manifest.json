@@ -1,0 +1,27 @@
+{
+  "round": "ss27-tee-reset-round6",
+  "status": "awaiting_user_approval",
+  "active_candidate": {
+    "style_code": "SS27-TS13",
+    "name": "OFFSET RELAY",
+    "file": "00-offset-relay-master-v2.png",
+    "canvas": "1536x1024",
+    "sha256": "B2EBC1D75ADD43775DD28DF444A4A640B7CE5D6B36D8F35771C1378490CF6839"
+  },
+  "silhouette": "FRAME V3 influencer oversize",
+  "locked_visual_rules": [
+    "black fashion/streetwear base; never sportswear styling",
+    "small Veil Gate emblem on wearer's left chest",
+    "one Relay Veil chain per shoulder with unequal phase and length",
+    "dark motif interiors with edge-only antique gilding and restrained dark-red nodes",
+    "sparse gilded light flecks restricted to the upper back",
+    "black woven collar label with Veil Gate and MOVERNO"
+  ],
+  "rejected_directions": [
+    "sports shoulder stripes",
+    "symmetrical aligned shoulder chains",
+    "large-area graphic coverage",
+    "bright multicolor treatment"
+  ],
+  "next_gate": "User approval is required before expanding to the 12-look FRAME/RHYTHM V capsule."
+}

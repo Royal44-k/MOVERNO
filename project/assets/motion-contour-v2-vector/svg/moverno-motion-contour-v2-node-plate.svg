@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240mm" height="360mm" viewBox="0 0 240 360">
+  <title>MOVERNO Motion Contour V2</title>
+  <desc>DRIED_BLOOD node plate. Black indicates the hidden red accent layer.</desc>
+  <rect x="0" y="0" width="240" height="360" fill="#FFFFFF"/>
+  <g id="NODE_PLATE">
+    <polygon points="53.2,-3.4 56.4,0 53.2,3.4 50,0" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="66.8,-3.4 70,0 66.8,3.4 63.6,0" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="53.2,176.6 56.4,180 53.2,183.4 50,180" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="66.8,176.6 70,180 66.8,183.4 63.6,180" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="53.2,356.6 56.4,360 53.2,363.4 50,360" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="66.8,356.6 70,360 66.8,363.4 63.6,360" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="173.2,-93.4 176.4,-90 173.2,-86.6 170,-90" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="186.8,-93.4 190,-90 186.8,-86.6 183.6,-90" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="173.2,86.6 176.4,90 173.2,93.4 170,90" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="186.8,86.6 190,90 186.8,93.4 183.6,90" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="173.2,266.6 176.4,270 173.2,273.4 170,270" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="186.8,266.6 190,270 186.8,273.4 183.6,270" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="173.2,446.6 176.4,450 173.2,453.4 170,450" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+    <polygon points="186.8,446.6 190,450 186.8,453.4 183.6,450" fill="#000000" stroke="none" stroke-width="0" stroke-linejoin="round"/>
+  </g>
+  <g id="L_REGISTRATION_MARKS" fill="none" stroke="#000000" stroke-width="0.25">
+    <path d="M 3 12 L 3 3 L 12 3"/><path d="M 228 3 L 237 3 L 237 12"/>
+    <path d="M 3 348 L 3 357 L 12 357"/><path d="M 228 357 L 237 357 L 237 348"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "id": "05",
+  "type": "atlas-refinement",
+  "target": "views/05-afterhours-six-views.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/05-afterhours-six-views.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: precise-object-edit. Input1 is a completed SIX PANEL black high-top MOVERNO shoe atlas. Input2 is authoritative gate emblem. Make ONE strictly local correction in input1: the small gray gate centered in the LOWER LEFT REAR-VIEW shoe panel must exactly match the two separated upright curved blades in input2, with a visible narrow black vertical GAP equal to around 12% total emblem width running open full height. Flat gray deboss/inlay integrated into same black heel surface, same small overall size, not two joined diamonds, not butterfly, not X. The rear emblem must have straight outer vertical edges and inward curved tops and bottoms as in the reference. Also use that exact separated gate for the tiny insole glyph in LOWER MIDDLE top view only. Preserve every other pixel/composition/angle, side zipper location, grain, padded ankle ribs, sole shape, all MOVERNO wordmark spelling, and all other cells unchanged. No redesign, no added text, no new borders, no color change. Output same landscape 4:3 six-panel board."
+}

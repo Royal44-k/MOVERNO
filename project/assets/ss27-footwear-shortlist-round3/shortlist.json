@@ -1,0 +1,67 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "season": "SS27",
+  "selectedOn": "2026-09-03",
+  "status": "SIX_FINALIST_MASTERS__DEVELOP_ONE_AT_A_TIME",
+  "selectionSource": "Six images reattached by the user after the twelve-concept review gate",
+  "sharedRules": {
+    "palette": ["Obsidian", "Graphite", "Bone Ash", "Sand", "Aged Brass <= 1%", "Dried Blood <= 1%"],
+    "logo": "Approved MOVERNO gate emblem only; wordmark added later as controlled vector artwork",
+    "pattern": "Approved Motion Contour used structurally, not as random decoration",
+    "fitBlock": "UNIVERSAL",
+    "sizeRange": "EU35-45",
+    "last": "Unisex broad forefoot; mature outsole only; no proprietary bottom mold in first release"
+  },
+  "finalists": [
+    {
+      "order": 1,
+      "provisionalCode": "SS27-SH01",
+      "workingName": "SAND RELAY RUNNER / 沙幕复古跑",
+      "family": "TECHNICAL_RUNNER",
+      "file": "01-sand-relay-runner.png",
+      "designPriority": "Commercial hero colorway; refine the oversized blank quarter overlay into clearer Motion Contour geometry."
+    },
+    {
+      "order": 2,
+      "provisionalCode": "SS27-SH02",
+      "workingName": "VEIL CROSS RUNNER / 幕隙笼架跑",
+      "family": "TECHNICAL_RUNNER",
+      "file": "02-veil-cross-runner.png",
+      "designPriority": "Editorial halo style; rationalize strap paths, reduce snag points, preserve broad forefoot."
+    },
+    {
+      "order": 3,
+      "provisionalCode": "SS27-SH03",
+      "workingName": "MONOLITH PLATFORM LOW / 幕台厚底低帮",
+      "family": "PLATFORM_LOW",
+      "file": "03-monolith-platform-low.png",
+      "designPriority": "Commercial low-top; reduce platform visual weight slightly and move emblem to a protected heel/arch location."
+    },
+    {
+      "order": 4,
+      "provisionalCode": "SS27-SH04",
+      "workingName": "REGISTER ZIP HI / 暗档拉链高帮",
+      "family": "ZIP_HIGH_TOP",
+      "file": "04-register-zip-hi.png",
+      "designPriority": "Functional high-top; verify zipper placement and replace exposed gold chain effect with restrained aged-nickel hardware."
+    },
+    {
+      "order": 5,
+      "provisionalCode": "SS27-SH05",
+      "workingName": "RELAY CONTOUR HI / 接隙轮廓高帮",
+      "family": "PATTERN_HIGH_TOP",
+      "file": "05-relay-contour-hi.png",
+      "designPriority": "Strongest signature-pattern carrier; simplify the ankle cell into stitchable layered panels and protect the red node."
+    },
+    {
+      "order": 6,
+      "provisionalCode": "SS27-SH06",
+      "workingName": "VEIL PANEL SKATE LOW / 幕片低帮板鞋",
+      "family": "SKATE_LOW",
+      "file": "06-veil-panel-skate-low.png",
+      "designPriority": "Entry commercial style; improve emblem recognition through panel negative space rather than adding more marks."
+    }
+  ],
+  "recommendedDevelopmentOrder": [1, 6, 5, 2, 4, 3],
+  "nextGate": "Choose the first finalist to refine; only that style receives a single-variable revision and multi-angle lock."
+}

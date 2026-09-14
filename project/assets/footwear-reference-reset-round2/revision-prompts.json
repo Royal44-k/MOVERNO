@@ -1,0 +1,12 @@
+[
+  {
+    "id": "R05",
+    "version": "v2",
+    "inputs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-4e7b91c9-4678-4a5a-a3c3-975e9f312305.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Targeted EDIT of input1, the existing MOVERNO silver/bone chunky rope-lace sneaker PAIR. Preserve absolutely the camera framing, light-grey studio background, image size 3:2, position of both shoes, full rounded short toe, low puffed collar, thick rope-lacing, padded tongue, MOVERNO tongue lettering, silver/material colors, sole thickness and overall sneaker shape. Only two localized corrections: (1) On the OUTER side quarter of the foreground shoe, replace the existing OVAL bone badge with a subtly HORIZONTAL ROUNDED-RECTANGLE bone leather inset with straight upper/lower portions and softly rounded corners, integrated flush into the silver quarter. Keep approximately same placement and area. Print the EXACT black MOVERNO two-panel emblem from input2 centered in this new patch; do not create an oval, circle, orbit, or differently shaped symbol. Make the outline modern and integral to panel construction. Matching corresponding patch on partner only where actually visible. (2) At the outer rear of the foreground shoe remove the tiny source-derived white X-shaped cross tack and replace it with TWO SHORT PARALLEL horizontal white bar tacks. Preserve all other pixel content/geometry as far as possible. Keep the whole PAIR uncropped, no text outside shoes, no additional decorations, no reinterpretation or new silhouette. Input2 is standard emblem geometry; input3 is standard wordmark reference for preserving existing lettering, do not add new wordmarks."
+  }
+]

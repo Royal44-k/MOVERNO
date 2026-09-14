@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>MOVERNO SS27 Footwear Identity Board</title>
+<style>
+  :root {
+    --obsidian:#0D0D0F; --graphite:#25262A; --bone:#D9D4C8; --sand:#B8A98E;
+    --nickel:#73777A; --gold:#8B7247; --blood:#5B1F25; --ink:#17181B;
+    --paper:#EEEAE1; --line:rgba(13,13,15,.16);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:#191A1D;color:var(--ink);font-family:"Noto Sans CJK SC","Microsoft YaHei",Arial,sans-serif}
+  body{width:1754px;height:1240px;overflow:hidden}
+  .board{width:1754px;height:1240px;background:var(--paper);display:grid;grid-template-rows:156px 1fr 54px;position:relative;overflow:hidden}
+  .board:before{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(255,255,255,.5),transparent 34%),radial-gradient(circle at 82% 9%,rgba(139,114,71,.13),transparent 25%);pointer-events:none}
+  header{position:relative;background:var(--obsidian);color:#fff;display:grid;grid-template-columns:72px 1fr auto;align-items:center;padding:28px 44px;border-bottom:3px solid var(--gold)}
+  header .emblem{width:54px;height:92px;object-fit:contain}
+  .headline{padding-left:22px}
+  .eyebrow{font-size:13px;letter-spacing:.28em;color:var(--bone);text-transform:uppercase;margin-bottom:7px}
+  h1{margin:0;font:500 36px/1.05 Georgia,"Times New Roman",serif;letter-spacing:.05em}
+  h1 span{font:400 22px/1.1 "Noto Sans CJK SC","Microsoft YaHei",sans-serif;color:var(--bone);margin-left:18px;letter-spacing:.12em}
+  .meta{text-align:right;font-size:13px;line-height:1.7;color:#BDB8AE;letter-spacing:.08em}
+  .meta b{color:#fff;font-weight:600}
+  main{position:relative;padding:26px 38px 22px;display:grid;grid-template-columns:1.02fr 1.38fr 1.05fr;gap:20px;min-height:0}
+  .column{display:flex;flex-direction:column;gap:16px;min-width:0}
+  .card{border:1px solid var(--line);background:rgba(255,255,255,.54);padding:17px 18px;position:relative;overflow:hidden}
+  .card.dark{background:var(--graphite);color:#fff;border-color:#37383D}
+  .card-title{font-size:12px;letter-spacing:.17em;text-transform:uppercase;color:#5C5D61;margin-bottom:12px;font-weight:700}
+  .dark .card-title{color:#C2BEB4}
+  .section-no{color:var(--blood);margin-right:8px}
+  .brand-lockup{height:167px;display:grid;grid-template-columns:135px 1fr;align-items:center;gap:18px}
+  .brand-lockup .mark{width:98px;height:142px;justify-self:center;object-fit:contain}
+  .brand-lockup .word{width:100%;max-width:275px;filter:none}
+  .mission{font-size:14px;line-height:1.7;color:#D8D4CB;margin-top:12px;border-left:3px solid var(--blood);padding-left:12px}
+  .touchpoints{display:grid;grid-template-columns:1fr;gap:8px}
+  .touch{display:grid;grid-template-columns:62px 1fr auto;gap:10px;align-items:center;border-top:1px solid var(--line);padding-top:8px;font-size:12px}
+  .touch:first-child{border-top:0;padding-top:0}
+  .touch b{font-weight:700}.touch small{color:#6D6C6A;line-height:1.35}
+  .size{font:700 12px/1 Arial,sans-serif;color:var(--blood);border:1px solid rgba(91,31,37,.35);padding:6px 8px;white-space:nowrap}
+  .principles{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .principle{min-height:58px;background:#E3DED4;padding:10px 11px;font-size:11px;line-height:1.45;border-left:3px solid var(--gold)}
+  .principle b{display:block;font-size:12px;margin-bottom:2px}
+  .pattern-master{height:254px;background-image:url('../motion-contour-round1/05-relay-veil-edge-gilded-v2.png');background-size:cover;background-position:center;position:relative;border:1px solid #393A3E}
+  .pattern-master:after{content:"SOURCE MASTER · CROP ONLY";position:absolute;left:14px;bottom:12px;background:rgba(13,13,15,.86);color:var(--bone);padding:7px 10px;font-size:10px;letter-spacing:.14em}
+  .pattern-master .cropbox{position:absolute;border:2px solid rgba(217,212,200,.86);box-shadow:0 0 0 1px rgba(13,13,15,.7)}
+  .pattern-master .a{left:15%;top:8%;width:34%;height:80%}.pattern-master .b{right:12%;top:20%;width:27%;height:64%}
+  .applications{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  .application{background:#161719;color:#fff;border:1px solid #34353A;overflow:hidden}
+  .pattern-crop{height:112px;background-image:url('../motion-contour-round1/05-relay-veil-edge-gilded-v2.png');background-repeat:no-repeat}
+  .runner{background-size:245%;background-position:47% 25%}.skate{background-size:305%;background-position:52% 58%}.hi{background-size:185%;background-position:64% 42%}
+  .application .copy{padding:10px 11px 12px}
+  .application h3{font:600 12px/1.2 Arial,sans-serif;letter-spacing:.07em;margin:0 0 5px;color:var(--bone)}
+  .application p{font-size:10px;line-height:1.45;margin:0;color:#B7B4AD}
+  .application strong{color:#fff}
+  .line-test{display:grid;grid-template-columns:78px 1fr;gap:10px;align-items:center;font-size:11px;margin-top:8px}
+  .line{height:1px;background:var(--gold)}.line.m{height:2px}.line.l{height:3px}
+  .warning{margin-top:10px;background:#E1DBD0;border-left:4px solid var(--blood);padding:9px 11px;font-size:11px;line-height:1.45}
+  .palette{display:grid;grid-template-columns:repeat(7,1fr);height:94px;border:1px solid rgba(13,13,15,.12);overflow:hidden}
+  .swatch{position:relative}
+  .swatch span{position:absolute;left:3px;right:3px;bottom:7px;text-align:center;white-space:normal;font:700 7px/1.08 Arial;color:#fff;letter-spacing:.04em;text-shadow:0 1px 2px #000}
+  .swatch.light span{color:#242529;text-shadow:none}
+  .materials{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .material{background:#E3DED4;padding:9px 10px;min-height:54px;font-size:10px;line-height:1.4}
+  .material b{font-size:11px;display:block;color:#28292D}
+  .refs{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}
+  .ref{height:110px;background:#F7F6F2;border:1px solid var(--line);position:relative;overflow:hidden}
+  .ref img{display:block;width:100%;height:100%;object-fit:contain;filter:saturate(.56) contrast(1.02)}
+  .ref span{position:absolute;left:4px;right:4px;bottom:4px;background:rgba(13,13,15,.78);color:#fff;font-size:8px;padding:4px 5px;text-align:center;letter-spacing:.05em}
+  .trend{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .trend div{background:#2A2B2F;color:#DCD8CF;padding:9px 10px;font-size:10px;line-height:1.4;border-top:2px solid var(--gold)}
+  .trend b{color:#fff;display:block;margin-bottom:3px}
+  footer{background:var(--obsidian);color:#A6A197;display:flex;align-items:center;justify-content:space-between;padding:0 40px;font-size:10px;letter-spacing:.1em}
+  footer b{color:var(--bone)}
+</style>
+</head>
+<body>
+<div class="board">
+  <header>
+    <img class="emblem" src="../logo-direction-01/svg/moverno-standalone-emblem-reverse.svg" alt="MOVERNO emblem" />
+    <div class="headline">
+      <div class="eyebrow">SS27 · Footwear Identity Gate</div>
+      <h1>MOVERNO <span>墨维诺 鞋履识别板</span></h1>
+    </div>
+    <div class="meta"><b>VERSION 1.0</b><br>EU42 BASE · 2026.09.01<br>INTERNAL DESIGN SYSTEM</div>
+  </header>
+
+  <main>
+    <section class="column">
+      <article class="card dark">
+        <div class="card-title"><span class="section-no">01</span>Brand hierarchy</div>
+        <div class="brand-lockup">
+          <img class="mark" src="../logo-direction-01/svg/moverno-standalone-emblem-reverse.svg" alt="Veil Gate" />
+          <div>
+            <img class="word" src="../logo-direction-01/svg/moverno-primary-wordmark-reverse.svg" alt="MOVERNO" />
+            <div class="mission">让黑夜不必黯然，让差异不必喧哗。<br><b>DIFFERENT BUT EXCELLENT.</b></div>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-title"><span class="section-no">02</span>Logo touchpoints · EU42</div>
+        <div class="touchpoints">
+          <div class="touch"><b>鞋舌</b><small>MOVERNO 主字标<br>织唛 / 压印 / 低光硅胶</small><span class="size">H 8 mm</span></div>
+          <div class="touch"><b>后跟</b><small>幕隙门徽<br>单色压印 / TPU / 刺绣</small><span class="size">H 14 mm</span></div>
+          <div class="touch"><b>鞋垫</b><small>中英组合标<br>允许“墨维诺”出现</small><span class="size">H ≥14 mm</span></div>
+          <div class="touch"><b>足弓</b><small>仅成熟底有合法空白区<br>不得为 Logo 改模</small><span class="size">H 10 mm</span></div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-title"><span class="section-no">03</span>Asset discipline</div>
+        <div class="principles">
+          <div class="principle"><b>一面一主角</b>外侧以纹样裁片为主，字标与门徽退居鞋舌和后跟。</div>
+          <div class="principle"><b>中文向内</b>“墨维诺”用于鞋垫、内舌、标签，不做鞋面小字。</div>
+          <div class="principle"><b>不横拉成侧标</b>纹样保持纵向门隙逻辑，不变成波浪、星形或 Swoosh 式横标。</div>
+          <div class="principle"><b>不靠 AI 写字</b>所有正式字样使用现有 SVG，不接受模型变形字。</div>
+        </div>
+      </article>
+    </section>
+
+    <section class="column">
+      <article class="card dark">
+        <div class="card-title"><span class="section-no">04</span>Motion Contour · master crop</div>
+        <div class="pattern-master"><span class="cropbox a"></span><span class="cropbox b"></span></div>
+      </article>
+
+      <article class="card">
+        <div class="card-title"><span class="section-no">05</span>Three footwear applications</div>
+        <div class="applications">
+          <div class="application"><div class="pattern-crop runner"></div><div class="copy"><h3>SHROUD RUNNER</h3><p><strong>30–35%</strong> visible upper<br>1 full unit on shroud + ½ lateral echo</p></div></div>
+          <div class="application"><div class="pattern-crop skate"></div><div class="copy"><h3>RELAY SKATE</h3><p><strong>25–30%</strong> visible upper<br>1 unit as abrasion saddle; no gold in friction zone</p></div></div>
+          <div class="application"><div class="pattern-crop hi"></div><div class="copy"><h3>VEIL-HI</h3><p><strong>25–40%</strong> by collar state<br>1 vertical unit; tonal repeat hidden inside fold</p></div></div>
+        </div>
+        <div class="line-test"><b>0.35 mm</b><span class="line"></span></div>
+        <div class="line-test"><b>0.45 mm</b><span class="line m"></span></div>
+        <div class="line-test"><b>0.60 mm</b><span class="line l"></span></div>
+        <div class="warning"><b>EDGE ONLY.</b> 旧金仅描外轮廓与倒角，不进入黑色板块；暗红节点 ≤ 2%，必须对应真实连接或转折。</div>
+      </article>
+    </section>
+
+    <section class="column">
+      <article class="card">
+        <div class="card-title"><span class="section-no">06</span>Muted footwear palette</div>
+        <div class="palette">
+          <div class="swatch" style="background:#0D0D0F"><span>OBSIDIAN</span></div>
+          <div class="swatch" style="background:#25262A"><span>GRAPHITE</span></div>
+          <div class="swatch light" style="background:#D9D4C8"><span>BONE ASH</span></div>
+          <div class="swatch" style="background:#B8A98E"><span>SAND</span></div>
+          <div class="swatch" style="background:#73777A"><span>NICKEL</span></div>
+          <div class="swatch" style="background:#8B7247"><span>AGED GOLD</span></div>
+          <div class="swatch" style="background:#5B1F25"><span>DRIED BLOOD</span></div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-title"><span class="section-no">07</span>Material contrast</div>
+        <div class="materials">
+          <div class="material"><b>RUNNER</b>石墨网布 · 微纤绒面 · 哑光 TPU · 分段橡胶</div>
+          <div class="material"><b>SKATE</b>耐磨绒面 · 10–12 oz 帆布 · 骨灰胶墙 · 高摩擦橡胶</div>
+          <div class="material"><b>VEIL-HI</b>12–14 oz 重磅帆布 · 微纤补强 · 骨灰鞋带</div>
+          <div class="material"><b>ACCENTS</b>氧化镍只作功能五金；旧金只描边；暗红只作节点</div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-title"><span class="section-no">08</span>User references · internal only</div>
+        <div class="refs">
+          <div class="ref"><img src="references/01-sand-tech-runner.png"><span>TECH LAYERING</span></div>
+          <div class="ref"><img src="references/05-cross-cage-tech-runner.png"><span>CONTROLLED WRAP</span></div>
+          <div class="ref"><img src="references/04-black-white-skate-low.png"><span>LOW SKATE</span></div>
+          <div class="ref"><img src="references/07-black-bone-low.png"><span>BLACK / BONE</span></div>
+          <div class="ref"><img src="references/03-classic-canvas-high.png"><span>CLEAN HIGH-TOP</span></div>
+          <div class="ref"><img src="references/06-black-bone-high.png"><span>VERTICAL PROPORTION</span></div>
+        </div>
+      </article>
+
+      <article class="card dark">
+        <div class="card-title"><span class="section-no">09</span>2026 signal → MOVERNO response</div>
+        <div class="trend">
+          <div><b>VOLUME / TECH RUNNER</b>功能叠层保留，但只允许一个远距结构动作。</div>
+          <div><b>LOW / SLIM RETURN</b>板鞋降低重心，以材料和纹样裁片建立差异。</div>
+          <div><b>BLACK / BONE LONGEVITY</b>不用高饱和色，靠表面密度与旧化层次。</div>
+          <div><b>PROCESS OVER HYPE</b>社媒展示裁切、试穿、拆装与测试，不只放渲染。</div>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer><span><b>MOVERNO / 墨维诺</b> · MOVE DARK. STAY SOFT.</span><span>FOOTWEAR IDENTITY GATE · INTERNAL REFERENCE ONLY · V1.0</span></footer>
+</div>
+</body>
+</html>

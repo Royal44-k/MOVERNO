@@ -1,0 +1,40 @@
+{
+  "round": "ss27-tee-reset-round7",
+  "status": "ready_for_user_review",
+  "benchmark": "../ss27-tee-reset-round6/00-offset-relay-master-v2.png",
+  "design_matrix": "../../docs/20_ss27_tee_capsule_research_and_matrix.md",
+  "final_count": 12,
+  "silhouette_split": {
+    "FRAME_V3": 6,
+    "RHYTHM_V": 6
+  },
+  "final_assets": [
+    {"style":"SS27-TS14","name":"SPINE RELIC","block":"FRAME_V3","file":"01-ts14-spine-relic.png","sha256":"542F1946ECEF48FAD3207EB2A06C536BD7268D3F19714059070245F246EE8870"},
+    {"style":"SS27-TS15","name":"LATERAL VEIL","block":"FRAME_V3","file":"02-ts15-lateral-veil-v2.png","sha256":"E68AC16205A2D72A84F013D737F921926A71E246F8D1F9EE0B49E9E3E5AD7912"},
+    {"style":"SS27-TS16","name":"ECLIPSE FOIL","block":"FRAME_V3","file":"03-ts16-eclipse-foil.png","sha256":"329BB6C930DD5B00981BD22170E08580765CEAD9F782703C5CF16148D9937CAF"},
+    {"style":"SS27-TS17","name":"ASH WINDOW","block":"FRAME_V3","file":"04-ts17-ash-window.png","sha256":"D48F24CCBCDDA20D323A95D15E3879F4B9CD6FD46D9770C799D5C2A64CA86ECA"},
+    {"style":"SS27-TS18","name":"OXIDE VOW","block":"FRAME_V3","file":"05-ts18-oxide-vow.png","sha256":"F859BE1F96C98FA5A6C32D3CC3A7260AEC75B73AA4E9CCA985A684A8806D648F"},
+    {"style":"SS27-TS19","name":"DOUBLE SHADOW","block":"FRAME_V3","file":"06-ts19-double-shadow.png","sha256":"5D3CC4126812F45DC033D74509D17C0BD1E763CFF812E04EE08BB65904230F2A"},
+    {"style":"SS27-TS20","name":"VOID TIP","block":"RHYTHM_V","file":"07-ts20-void-tip.png","sha256":"FAF0F2B1C11A00298F6CC677C4C00D0C18CC2D235605DE356B2FAABBCDAF6CE6"},
+    {"style":"SS27-TS21","name":"MERCURY SCAR","block":"RHYTHM_V","file":"08-ts21-mercury-scar-v2.png","sha256":"802B7F50B0EA285700761935312631A72E90D96BAD15C57B47A9CAA836CB28A9"},
+    {"style":"SS27-TS22","name":"NOCTURNE RELAY","block":"RHYTHM_V","file":"09-ts22-nocturne-relay.png","sha256":"FFD14976F19F9F66F81CDE6E3D1EC6CD9B44039376A5766F55CAD07C55C9255E"},
+    {"style":"SS27-TS23","name":"BLOOD NODE","block":"RHYTHM_V","file":"10-ts23-blood-node.png","sha256":"590060D4F68623050DA8126FCAA84400B608274E80D782747ABD17EC8AFE5BAF"},
+    {"style":"SS27-TS24","name":"CIPHER VEIL","block":"RHYTHM_V","file":"11-ts24-cipher-veil.png","sha256":"EAC238929C72D29A0354D9527B1C114C76D777BDF851F8D7432FC1583F184D9F"},
+    {"style":"SS27-TS25","name":"GILDED QUIET","block":"RHYTHM_V","file":"12-ts25-gilded-quiet.png","sha256":"2C73486B125F4CAA9F7EE6B58589768E6FD1F521DACED23FCA0045CD38077264"}
+  ],
+  "global_qa": {
+    "canvas": "1536x1024",
+    "front_back_per_board": true,
+    "minimum_blank_space_target": "70%",
+    "sports_cues_removed": true,
+    "signature_touchpoint_per_style": true,
+    "edge_only_gilding": true,
+    "inside_neck_brand_label_required": true,
+    "technical_flat_status": "not_started_pending_user_selection"
+  },
+  "excluded_drafts": [
+    "02-ts15-lateral-veil.png",
+    "08-ts21-mercury-scar-draft.png"
+  ],
+  "next_gate": "User reviews all 12 concepts and selects styles for consistent front-side-back reconstruction and technical flats."
+}

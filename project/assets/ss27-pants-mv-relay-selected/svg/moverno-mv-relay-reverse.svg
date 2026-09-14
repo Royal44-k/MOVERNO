@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 600 600">
+  <title id="title">MOVERNO MV RELAY pant mark reverse</title>
+  <desc id="desc">White reverse version of the selected secondary pant mark.</desc>
+  <g fill="none" stroke="#FFFFFF" stroke-width="64" stroke-linejoin="round">
+    <path d="M150 346V154Q150 120 184 120L300 236L416 120Q450 120 450 154V278" stroke-linecap="round"/>
+    <path d="M150 346H252" stroke-linecap="round"/>
+    <path d="M278 304L350 420L474 230" stroke-linecap="butt"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+{
+  "input_image": "A01-model-keyframe.png",
+  "prompt": "A photorealistic fashion film, continuous full-body shot. The woman in this exact image naturally shifts her weight and takes one small relaxed step forward, then settles into a comfortable stance. Feet visibly make contact with the dry stone ground. Her leather jacket and skirt move with subtle natural inertia. Locked camera, no zoom. Keep both shoes completely inside frame and clearly visible. Preserve the precise beige-grey black and gold chain-pattern low-top canvas shoes, cream toe caps, white laces, cream low rubber sidewalls with the same black MOVERNO wordmark. No changes to the footwear. Realistic anatomy, gentle movement, refined editorial lighting.",
+  "steps": 4,
+  "duration_seconds": 3.5,
+  "guidance_scale": 1,
+  "guidance_scale_2": 1,
+  "seed": 1901,
+  "randomize_seed": false,
+  "negative_prompt": "static still picture, camera zoom, shoe morphing, incorrect logo, changed sole thickness, extra legs, extra feet, fused limbs, sliding feet, floating feet, broken ankles, warped shoes, melting rubber, disappearing zipper, floating laces, cartoon, bad anatomy, blurry feet, text overlays, subtitles, watermark",
+  "service": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+  "payment": "anonymous free quota only"
+}

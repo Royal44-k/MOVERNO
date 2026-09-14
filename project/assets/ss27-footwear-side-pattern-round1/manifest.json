@@ -1,0 +1,39 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "date": "2026-09-07",
+  "task": "Add supplied signature pattern to lateral uppers of two specified sneaker concepts",
+  "status": "awaiting-user-review",
+  "mode": "built-in imagegen precise-object-edit",
+  "paidStytrixCalls": 0,
+  "patternReference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-side-pattern-round1/references/03-approved-signature-pattern.png",
+  "outputs": [
+    {
+      "display": 1,
+      "name": "骨灰款 · 黑金嵌纹",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-side-pattern-round1/01-bone-pattern-inlay-r1.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-5ab0c725-ae27-478b-b8a4-d26e3632541d.png",
+      "parentRound6Number": 5,
+      "editTarget": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-side-pattern-round1/references/01-bone-original.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "change": "Pattern integrated inside the original two black side appliques, with ivory center slits and seam boundaries preserved.",
+      "visualReview": "Single shoe; original silhouette, lace layout, sole family, monochrome palette and gate placement retained at visual concept level. Muted old-gold outlines and tiny burgundy nodes visible. Raster concept, not production vector artwork."
+    },
+    {
+      "display": 2,
+      "name": "黑色款 · 幕片交织",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-side-pattern-round1/02-black-pattern-interlace-r1.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-74ff3f66-0c59-46c1-9f19-05735121c572.png",
+      "parentRound6Number": 3,
+      "editTarget": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-side-pattern-round1/references/02-black-original.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "change": "Continuous signature-pattern textile behind the original ivory side appliques, visible through the intervening negative spaces.",
+      "visualReview": "Single shoe; original silhouette, lace layout, sole family, monochrome palette and gate placement retained at visual concept level. Muted old-gold outlines and tiny burgundy nodes visible. Raster concept, not production vector artwork."
+    }
+  ]
+}

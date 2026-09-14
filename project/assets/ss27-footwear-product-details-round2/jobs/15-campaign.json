@@ -1,0 +1,14 @@
+{
+  "id": "15",
+  "batch": 3,
+  "type": "campaign",
+  "target": "campaign/15-gate-high-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/15-gate-high.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Tall black canvas/leather-look high-top. ONE large vertical elongated paired-gate chamber strip on lateral ankle runs from collar towards sole; very thin aged-brass outline and tiny dark-red center junction, black central slit stays open. Ivory flat laces, dark-brass round eyelets, faint warm contrast stitching, black smooth toe trim, blank black tongue patch, flat cream cupsole with small BLACK rectangular heel insert and black bottom. Preserve tall straight collar and distinctive existing long side emblem, no zipper, no extra repeating pattern. Scene: Adult lower legs in black wide cropped trousers ending above tall collar. Tall black signature-gate high-tops, one foot on a low concrete step, other floor. Entire lateral ankle emblem clearly visible, no pants conceal it. Refined hard sidelight outlines thin warm piping without turning scene gold. Dark minimal architecture, full foreground shoe from heel to toe, camera at shoe level. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-1fc2f57b-b19f-408b-ae32-05a3b59b7756.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/15-gate-high-campaign.png",
+  "status": "selected"
+}

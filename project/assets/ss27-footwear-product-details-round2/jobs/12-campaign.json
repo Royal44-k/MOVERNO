@@ -1,0 +1,14 @@
+{
+  "id": "12",
+  "batch": 3,
+  "type": "campaign",
+  "target": "campaign/12-bone-layer-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/12-bone-layer.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Bone ivory chunky multilayer runner. Curving vertical bone leather-look side strips with subtle sculpted ripples rise from sole to collar, cream fine mesh, thick long black-speckled cream rope laces, black small paired gate near lateral heel, tiny dark-red cross stitch below eyestay. Large complex cream/yellowed-bone tri-layer sole with almond-shaped arch insert. Broad round toe, cream outsole. No black sole, no gum brown, no bright silver. Scene: Adult lower calves with soft ivory socks and black wide shorts cropped out above knees. Bone layered runners in relaxed stance on dark stone, one foot rotated to expose rear gate, other full lateral. Soft side daylight plus crisp neutral shadows; warm bone rope laces and curving layers completely readable. Dark uncluttered upper area, shoes dominant. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-f6471d94-bfc4-42e7-a8c3-75847000c494.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/12-bone-layer-campaign.png",
+  "status": "selected"
+}

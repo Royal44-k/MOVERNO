@@ -1,0 +1,208 @@
+{
+  "stage": "pilot-asset-layout-and-copy-check",
+  "generatedAt": "2026-09-08T05:16:31.483Z",
+  "count": 3,
+  "passed": true,
+  "motifSha256": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76",
+  "records": [
+    {
+      "id": "19",
+      "styleCode": "SS27-PT19",
+      "posterSha256": "C8A62FB62B2CB89DC66855624D645FBFFDC974AA8625BAA814200D10F0F03AC0",
+      "sourceSha256": "96CBFE52EB645CD6862D31402A2758E214239C1D97D82E853959C068276E4EC4",
+      "heroSha256": "4115313553C9EFB2A2C37705B8F4F5A051B46E68948975D337936E17C149CCF4",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "slices": [
+        {
+          "name": "01-hero.png",
+          "width": 1080,
+          "height": 1080,
+          "bytes": 1050030
+        },
+        {
+          "name": "02-silhouette.png",
+          "width": 1080,
+          "height": 870,
+          "bytes": 517283
+        },
+        {
+          "name": "03-relay-anatomy.png",
+          "width": 1080,
+          "height": 810,
+          "bytes": 653665
+        },
+        {
+          "name": "04-brand-touchpoints.png",
+          "width": 1080,
+          "height": 750,
+          "bytes": 60259
+        },
+        {
+          "name": "05-material-in-motion.png",
+          "width": 1080,
+          "height": 790,
+          "bytes": 641421
+        },
+        {
+          "name": "06-brand-close.png",
+          "width": 1080,
+          "height": 780,
+          "bytes": 398137
+        }
+      ],
+      "checks": {
+        "posterDimensions": true,
+        "sourceEmbeddedVerbatim": true,
+        "heroEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "beliefPresent": true,
+        "styleCodePresent": true,
+        "headlinePresent": true,
+        "exactBrandingEmbedded": true,
+        "noExternalRasterDependencies": true,
+        "sixSlices": true,
+        "sliceRoundTripExact": true,
+        "roiInsideSource": true,
+        "heroMinimumSize": true,
+        "disclaimerPresent": true
+      },
+      "pass": true
+    },
+    {
+      "id": "25A",
+      "styleCode": "SS27-PT25",
+      "posterSha256": "959C03A19D142B9776B95DAFFFCA866051A1B52D44E9547147E1EF6AEAD41564",
+      "sourceSha256": "A84D54E7B6D039C6E795B294BB9CA000C0619CAAFE1514E848A3E0071BB27AAA",
+      "heroSha256": "64937D430BC1F27DBEDF71EC266DFDC57EB78058A9C291E5F7A8D9E76C4DE195",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "slices": [
+        {
+          "name": "01-hero.png",
+          "width": 1080,
+          "height": 1080,
+          "bytes": 1456498
+        },
+        {
+          "name": "02-silhouette.png",
+          "width": 1080,
+          "height": 870,
+          "bytes": 770223
+        },
+        {
+          "name": "03-relay-anatomy.png",
+          "width": 1080,
+          "height": 810,
+          "bytes": 933867
+        },
+        {
+          "name": "04-brand-touchpoints.png",
+          "width": 1080,
+          "height": 750,
+          "bytes": 53876
+        },
+        {
+          "name": "05-material-in-motion.png",
+          "width": 1080,
+          "height": 790,
+          "bytes": 924102
+        },
+        {
+          "name": "06-brand-close.png",
+          "width": 1080,
+          "height": 780,
+          "bytes": 398055
+        }
+      ],
+      "checks": {
+        "posterDimensions": true,
+        "sourceEmbeddedVerbatim": true,
+        "heroEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "beliefPresent": true,
+        "styleCodePresent": true,
+        "headlinePresent": true,
+        "exactBrandingEmbedded": true,
+        "noExternalRasterDependencies": true,
+        "sixSlices": true,
+        "sliceRoundTripExact": true,
+        "roiInsideSource": true,
+        "heroMinimumSize": true,
+        "disclaimerPresent": true
+      },
+      "pass": true
+    },
+    {
+      "id": "28",
+      "styleCode": "SS27-PT28",
+      "posterSha256": "62F79E8FF668D64EE122567F8FD55A0FA439F673056C2DAD6F953EC338C3D36A",
+      "sourceSha256": "7B18BC0AE9E04DD956A703EB457C7867A2573F0AA8AADF1DFD96A6B26AF79D60",
+      "heroSha256": "ECFBC5D680F1B00DC53FA964EE6EF83FF25475B8CFD169F5A6D4E08DDFEA7DDB",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "slices": [
+        {
+          "name": "01-hero.png",
+          "width": 1080,
+          "height": 1080,
+          "bytes": 1184198
+        },
+        {
+          "name": "02-silhouette.png",
+          "width": 1080,
+          "height": 870,
+          "bytes": 651096
+        },
+        {
+          "name": "03-relay-anatomy.png",
+          "width": 1080,
+          "height": 810,
+          "bytes": 843436
+        },
+        {
+          "name": "04-brand-touchpoints.png",
+          "width": 1080,
+          "height": 750,
+          "bytes": 57192
+        },
+        {
+          "name": "05-material-in-motion.png",
+          "width": 1080,
+          "height": 790,
+          "bytes": 785978
+        },
+        {
+          "name": "06-brand-close.png",
+          "width": 1080,
+          "height": 780,
+          "bytes": 398513
+        }
+      ],
+      "checks": {
+        "posterDimensions": true,
+        "sourceEmbeddedVerbatim": true,
+        "heroEmbeddedVerbatim": true,
+        "missionPresent": true,
+        "beliefPresent": true,
+        "styleCodePresent": true,
+        "headlinePresent": true,
+        "exactBrandingEmbedded": true,
+        "noExternalRasterDependencies": true,
+        "sixSlices": true,
+        "sliceRoundTripExact": true,
+        "roiInsideSource": true,
+        "heroMinimumSize": true,
+        "disclaimerPresent": true
+      },
+      "pass": true
+    }
+  ],
+  "limits": "Automated checks validate assets, dimensions and copy. Visual fidelity is reviewed separately; this is not factory approval."
+}

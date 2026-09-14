@@ -1,0 +1,166 @@
+{
+  "collection": "MOVERNO SS27 Pants Product Details Pilot",
+  "generatedAt": "2026-09-08T05:16:31.483Z",
+  "status": "pilot_for_user_review",
+  "generationMode": "OpenAI built-in ImageGen",
+  "textAndBranding": "Deterministic self-contained SVG composition",
+  "motifMaster": {
+    "file": "D:/Codex-chat/night-veil-brand/assets/motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+    "sha256": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76"
+  },
+  "products": [
+    {
+      "id": "19",
+      "styleCode": "SS27-PT19",
+      "sourceSha256": "96CBFE52EB645CD6862D31402A2758E214239C1D97D82E853959C068276E4EC4",
+      "heroSha256": "4115313553C9EFB2A2C37705B8F4F5A051B46E68948975D337936E17C149CCF4",
+      "posterSha256": "C8A62FB62B2CB89DC66855624D645FBFFDC974AA8625BAA814200D10F0F03AC0",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "slices": [
+        {
+          "name": "01-hero.png",
+          "width": 1080,
+          "height": 1080,
+          "bytes": 1050030
+        },
+        {
+          "name": "02-silhouette.png",
+          "width": 1080,
+          "height": 870,
+          "bytes": 517283
+        },
+        {
+          "name": "03-relay-anatomy.png",
+          "width": 1080,
+          "height": 810,
+          "bytes": 653665
+        },
+        {
+          "name": "04-brand-touchpoints.png",
+          "width": 1080,
+          "height": 750,
+          "bytes": 60259
+        },
+        {
+          "name": "05-material-in-motion.png",
+          "width": 1080,
+          "height": 790,
+          "bytes": 641421
+        },
+        {
+          "name": "06-brand-close.png",
+          "width": 1080,
+          "height": 780,
+          "bytes": 398137
+        }
+      ],
+      "prompt": "Create one premium editorial ecommerce hero image of the exact MOVERNO PT19 pants shown in the first reference. Product only on an invisible mannequin, no person, no body parts, no top, no shoes, no text and no logos. Preserve the obsidian-black fluid matte jersey, floor-length very wide legs, slight drop crotch, elastic waistband and the same single V2 chain revealed through three unequal integrated outer-side openings. The second reference is the locked V2 motif: preserve its dark graphite interiors, narrow black central gap, subtle dried-blood connector nodes and only a very thin aged-gold edge; do not multiply, redraw or convert it into stripes. Full waistband and both hems visible. Low three-quarter camera, dark architectural charcoal studio, a narrow warm-silver edge light following the drape, soft grounded shadow, luxurious restrained designer-fashion photography, high fabric fidelity. No blue, navy, cyan, teal, purple-blue, neon, armor, chains, spikes, weapons, crosses, crowns, hearts, tribal motifs or third-party branding.",
+      "qaPass": true
+    },
+    {
+      "id": "25A",
+      "styleCode": "SS27-PT25",
+      "sourceSha256": "A84D54E7B6D039C6E795B294BB9CA000C0619CAAFE1514E848A3E0071BB27AAA",
+      "heroSha256": "64937D430BC1F27DBEDF71EC266DFDC57EB78058A9C291E5F7A8D9E76C4DE195",
+      "posterSha256": "959C03A19D142B9776B95DAFFFCA866051A1B52D44E9547147E1EF6AEAD41564",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "slices": [
+        {
+          "name": "01-hero.png",
+          "width": 1080,
+          "height": 1080,
+          "bytes": 1456498
+        },
+        {
+          "name": "02-silhouette.png",
+          "width": 1080,
+          "height": 870,
+          "bytes": 770223
+        },
+        {
+          "name": "03-relay-anatomy.png",
+          "width": 1080,
+          "height": 810,
+          "bytes": 933867
+        },
+        {
+          "name": "04-brand-touchpoints.png",
+          "width": 1080,
+          "height": 750,
+          "bytes": 53876
+        },
+        {
+          "name": "05-material-in-motion.png",
+          "width": 1080,
+          "height": 790,
+          "bytes": 924102
+        },
+        {
+          "name": "06-brand-close.png",
+          "width": 1080,
+          "height": 780,
+          "bytes": 398055
+        }
+      ],
+      "prompt": "Create one premium editorial ecommerce hero image of the exact MOVERNO PT25A pants shown in the first reference. Product only on an invisible mannequin, no person, no body parts, no top, no shoes, no text and no logos. Preserve the low-rise neutral mineral-gray dirty-wash denim, extreme wide puddle volume, long stacked hems and the exact relaxed jeans construction. The second reference is the locked V2 motif: show only one full side module plus a short 0.6 echo fading naturally into the wash; retain dark graphite interiors, narrow central gap, dried-blood connector nodes and thin aged-gold edge only. Do not form a regular stripe or repeat border. Full waistband and both stacked hems visible. Ground-level three-quarter angle, dark warm-gray mineral studio surface, controlled neutral light revealing twill and abrasion without brown or blue cast, sculptural but wearable Korean-Japanese streetwear editorial mood. Absolutely no blue, navy, indigo, cyan, teal, purple-blue, neon, armor, spikes, weapons, crosses, crowns, hearts, tribal motifs or third-party branding.",
+      "qaPass": true
+    },
+    {
+      "id": "28",
+      "styleCode": "SS27-PT28",
+      "sourceSha256": "7B18BC0AE9E04DD956A703EB457C7867A2573F0AA8AADF1DFD96A6B26AF79D60",
+      "heroSha256": "ECFBC5D680F1B00DC53FA964EE6EF83FF25475B8CFD169F5A6D4E08DDFEA7DDB",
+      "posterSha256": "62F79E8FF668D64EE122567F8FD55A0FA439F673056C2DAD6F953EC338C3D36A",
+      "dimensions": [
+        1080,
+        5080
+      ],
+      "slices": [
+        {
+          "name": "01-hero.png",
+          "width": 1080,
+          "height": 1080,
+          "bytes": 1184198
+        },
+        {
+          "name": "02-silhouette.png",
+          "width": 1080,
+          "height": 870,
+          "bytes": 651096
+        },
+        {
+          "name": "03-relay-anatomy.png",
+          "width": 1080,
+          "height": 810,
+          "bytes": 843436
+        },
+        {
+          "name": "04-brand-touchpoints.png",
+          "width": 1080,
+          "height": 750,
+          "bytes": 57192
+        },
+        {
+          "name": "05-material-in-motion.png",
+          "width": 1080,
+          "height": 790,
+          "bytes": 785978
+        },
+        {
+          "name": "06-brand-close.png",
+          "width": 1080,
+          "height": 780,
+          "bytes": 398513
+        }
+      ],
+      "prompt": "Create one premium editorial ecommerce hero image of the exact MOVERNO PT28 pants shown in the first reference. Product only on an invisible mannequin, no person, no body parts, no top, no shoes, no text and no logos. Preserve the graphite-olive micro-barrel technical cargo silhouette, restrained curved knee panels, ripstop grid, clean waistband, hem adjusters and concealed side-seam expansion opening. Show the side opening half-open so the exact single V2 motif from the second reference is revealed only inside the gusset; preserve its graphite interior, narrow black central gap, tiny dried-blood nodes and thin aged-gold edge. Do not add slab patch pockets, straps or extra chains. Full waistband and both hems visible. Front-side three-quarter camera, dark architectural graphite studio, one narrow warm light slit, low-key shadows and refined technical-luxury material realism. No blue or teal lighting, no neon, armor, spikes, weapons, crosses, crowns, hearts, tribal motifs or third-party branding.",
+      "qaPass": true
+    }
+  ]
+}

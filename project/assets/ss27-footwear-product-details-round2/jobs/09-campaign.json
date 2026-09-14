@@ -1,0 +1,14 @@
+{
+  "id": "09",
+  "batch": 2,
+  "type": "campaign",
+  "target": "campaign/09-silver-wave-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/09-silver-wave.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Silver mesh fashion chunky runner, glossy distressed silver flowing layers with black thin wave outlines, small black paired gate at center side mesh panel. Bone-white thick smooth sculptural platform midsole with molded pill and teardrop recesses, black thin outsole pods. Silver-gray laces, BLACK lining and black heel/tongue pull loops. Keep silver, not gold, maintain thick heel and broad rounded toe. Scene: Adult lower legs with black ribbed socks and a loose charcoal skirt hem cropped at knees, no torso or face. Silver platform runners in a casual offset stance beside a brushed steel wall; a clean linear cool white reflection highlights silver overlays. Strong dark negative space above, gray floor, no colored lights, no nightclub props. Low 3/4 view, both full shoes. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-91d343be-39de-4bae-bb3b-78bce33eb588.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/09-silver-wave-campaign.png",
+  "status": "selected"
+}

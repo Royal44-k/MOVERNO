@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240mm" height="360mm" viewBox="0 0 240 360">
+  <title>MOVERNO Motion Contour V2</title>
+  <desc>Editable seamless repeat. Tile 240 x 360 mm. Gold is restricted to 0.60 mm panel perimeter strokes and node bevels.</desc>
+  <g id="SUBSTRATE_OBSIDIAN" data-spot="OBSIDIAN #0D0D0F">
+    <rect x="0" y="0" width="240" height="360" fill="#0D0D0F"/>
+  </g>
+  <g id="FOIL_GOLD_EDGE" data-spot="FOIL_GOLD_EDGE #A4874F">
+    <path d="M 54 -172 L 46 -166 C 30 -156 15 -152 15 -132 L 15 -60 C 15 -40 30 -29 46 -14 L 54 -8 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 66 -172 L 74 -166 C 90 -156 105 -152 105 -132 L 105 -60 C 105 -40 90 -29 74 -14 L 66 -8 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 54 8 L 46 14 C 30 24 15 28 15 48 L 15 120 C 15 140 30 151 46 166 L 54 172 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 66 8 L 74 14 C 90 24 105 28 105 48 L 105 120 C 105 140 90 151 74 166 L 66 172 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 54 188 L 46 194 C 30 204 15 208 15 228 L 15 300 C 15 320 30 331 46 346 L 54 352 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 66 188 L 74 194 C 90 204 105 208 105 228 L 105 300 C 105 320 90 331 74 346 L 66 352 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 174 -82 L 166 -76 C 150 -66 135 -62 135 -42 L 135 30 C 135 50 150 61 166 76 L 174 82 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 186 -82 L 194 -76 C 210 -66 225 -62 225 -42 L 225 30 C 225 50 210 61 194 76 L 186 82 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 174 98 L 166 104 C 150 114 135 118 135 138 L 135 210 C 135 230 150 241 166 256 L 174 262 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 186 98 L 194 104 C 210 114 225 118 225 138 L 225 210 C 225 230 210 241 194 256 L 186 262 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 174 278 L 166 284 C 150 294 135 298 135 318 L 135 390 C 135 410 150 421 166 436 L 174 442 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+    <path d="M 186 278 L 194 284 C 210 294 225 298 225 318 L 225 390 C 225 410 210 421 194 436 L 186 442 Z" fill="none" stroke="#A4874F" stroke-width="0.6" stroke-linejoin="round" opacity="1"/>
+  </g>
+  <g id="TONAL_GRAPHITE_PANEL" data-spot="GRAPHITE #25262A">
+    <path d="M 54 -172 L 46 -166 C 30 -156 15 -152 15 -132 L 15 -60 C 15 -40 30 -29 46 -14 L 54 -8 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 66 -172 L 74 -166 C 90 -156 105 -152 105 -132 L 105 -60 C 105 -40 90 -29 74 -14 L 66 -8 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 54 8 L 46 14 C 30 24 15 28 15 48 L 15 120 C 15 140 30 151 46 166 L 54 172 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 66 8 L 74 14 C 90 24 105 28 105 48 L 105 120 C 105 140 90 151 74 166 L 66 172 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 54 188 L 46 194 C 30 204 15 208 15 228 L 15 300 C 15 320 30 331 46 346 L 54 352 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 66 188 L 74 194 C 90 204 105 208 105 228 L 105 300 C 105 320 90 331 74 346 L 66 352 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 174 -82 L 166 -76 C 150 -66 135 -62 135 -42 L 135 30 C 135 50 150 61 166 76 L 174 82 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 186 -82 L 194 -76 C 210 -66 225 -62 225 -42 L 225 30 C 225 50 210 61 194 76 L 186 82 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 174 98 L 166 104 C 150 114 135 118 135 138 L 135 210 C 135 230 150 241 166 256 L 174 262 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 186 98 L 194 104 C 210 114 225 118 225 138 L 225 210 C 225 230 210 241 194 256 L 186 262 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 174 278 L 166 284 C 150 294 135 298 135 318 L 135 390 C 135 410 150 421 166 436 L 174 442 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+    <path d="M 186 278 L 194 284 C 210 294 225 298 225 318 L 225 390 C 225 410 210 421 194 436 L 186 442 Z" fill="#25262A" stroke="none" stroke-width="0" stroke-linejoin="round" opacity="1"/>
+  </g>
+  <g id="DRIED_BLOOD_NODE" data-spot="DRIED_BLOOD #5B1F25">
+    <polygon points="53.2,-3.4 56.4,0 53.2,3.4 50,0" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="66.8,-3.4 70,0 66.8,3.4 63.6,0" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="60,-2.7 62.7,0 60,2.7 57.3,0" fill="#17181B" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="53.2,176.6 56.4,180 53.2,183.4 50,180" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="66.8,176.6 70,180 66.8,183.4 63.6,180" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="60,177.3 62.7,180 60,182.7 57.3,180" fill="#17181B" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="53.2,356.6 56.4,360 53.2,363.4 50,360" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="66.8,356.6 70,360 66.8,363.4 63.6,360" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="60,357.3 62.7,360 60,362.7 57.3,360" fill="#17181B" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="173.2,-93.4 176.4,-90 173.2,-86.6 170,-90" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="186.8,-93.4 190,-90 186.8,-86.6 183.6,-90" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="180,-92.7 182.7,-90 180,-87.3 177.3,-90" fill="#17181B" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="173.2,86.6 176.4,90 173.2,93.4 170,90" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="186.8,86.6 190,90 186.8,93.4 183.6,90" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="180,87.3 182.7,90 180,92.7 177.3,90" fill="#17181B" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="173.2,266.6 176.4,270 173.2,273.4 170,270" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="186.8,266.6 190,270 186.8,273.4 183.6,270" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="180,267.3 182.7,270 180,272.7 177.3,270" fill="#17181B" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="173.2,446.6 176.4,450 173.2,453.4 170,450" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="186.8,446.6 190,450 186.8,453.4 183.6,450" fill="#5B1F25" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+    <polygon points="180,447.3 182.7,450 180,452.7 177.3,450" fill="#17181B" stroke="#A4874F" stroke-width="0.28" stroke-linejoin="round"/>
+  </g>
+</svg>

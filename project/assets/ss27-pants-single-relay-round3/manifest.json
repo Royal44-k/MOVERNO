@@ -1,0 +1,30 @@
+{
+  "collection": "MOVERNO SS27 Pants — Single Relay Round 3",
+  "generatedAt": "2026-08-31",
+  "status": "concept_for_review",
+  "generationMode": "OpenAI built-in ImageGen",
+  "stytrixUsage": "methodology_only_no_paid_generation",
+  "motifMaster": {
+    "file": "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+    "sha256": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76"
+  },
+  "assets": [
+    {"styleCode":"PT19","colorway":"OBSIDIAN_BLACK","comparisonGroup":null,"file":"01-pt19-fluid-relay-obsidian-black.png","width":1536,"height":1024,"sha256":"96CBFE52EB645CD6862D31402A2758E214239C1D97D82E853959C068276E4EC4"},
+    {"styleCode":"PT20","colorway":"STORM_GRAY","comparisonGroup":null,"file":"02-pt20-seoul-curve-storm-gray.png","width":1536,"height":1024,"sha256":"E0A58568943991179911F4A3EF1B3E48D610E8CFB32C8746C0ED929EF37FC584"},
+    {"styleCode":"PT21","colorway":"COAL_BLACK","comparisonGroup":null,"file":"03-pt21-stack-trace-coal-black.png","width":1536,"height":1024,"sha256":"A06EAB0C65963E80E5DB02E17703BE93CBA33C4A9528566CE1637059080604C5"},
+    {"styleCode":"PT22","colorway":"LEAD_IRON_BLACK","comparisonGroup":"PT22_COLOR_AB","file":"04a-pt22-tower-signal-lead-iron-black.png","width":1666,"height":944,"sha256":"A4091BEE45EA8C8798BC5DDFA4ED859E82531A7EB56D7464660A73E80E22FCD0"},
+    {"styleCode":"PT22","colorway":"DEEP_INDIGO","comparisonGroup":"PT22_COLOR_AB","file":"04b-pt22-tower-signal-deep-indigo.png","width":1666,"height":944,"sha256":"C23570960DCBC80DE770EBE7BA58FCF272A536C2B84FAED3E20A11951E30A1A6"},
+    {"styleCode":"PT23","colorway":"POMEGRANATE_BLACK","comparisonGroup":"PT23_COLOR_AB","file":"05a-pt23-night-current-pomegranate-black.png","width":1536,"height":1024,"sha256":"2C4A1CC6D53A01518EA44CC2CD9519BD60B4045EBAADBDB46DBAAED0E0BBA269"},
+    {"styleCode":"PT23","colorway":"MIDNIGHT_BLUE","comparisonGroup":"PT23_COLOR_AB","file":"05b-pt23-night-current-midnight-blue.png","width":1536,"height":1024,"sha256":"518BB3CB896ECC7993B36814EC3AA4BAC1C4AA23E97C4C95C6E4B597817BF88F"},
+    {"styleCode":"PT24","colorway":"IRON_GRAY","comparisonGroup":null,"file":"06-pt24-parkour-rail-iron-gray.png","width":1536,"height":1024,"sha256":"EB1108D3E0F8061180EC210716EF79920E29BACDEF3DA1DD8ACAF8AF81A44F99"},
+    {"styleCode":"PT25","colorway":"NEUTRAL_MINERAL_GRAY","comparisonGroup":"PT25_COLOR_AB","file":"07a-pt25-mineral-puddle-neutral-gray.png","width":1536,"height":1024,"sha256":"A84D54E7B6D039C6E795B294BB9CA000C0619CAAFE1514E848A3E0071BB27AAA"},
+    {"styleCode":"PT25","colorway":"PALE_BLUE_GRAY","comparisonGroup":"PT25_COLOR_AB","file":"07b-pt25-mineral-puddle-pale-blue-gray.png","width":1536,"height":1024,"sha256":"2B77B500E2DA6E8B51099D95ECF6F229844289DA5FB3B460697423A69E4D64F3"},
+    {"styleCode":"PT26","colorway":"BLACK_CHERRY","comparisonGroup":null,"file":"08-pt26-quiet-tailor-black-cherry.png","width":1536,"height":1024,"sha256":"A12D9DF0E0678CE4652469C882F7ECDB7DC570B13EB8E8CC2870241E5C03215E"},
+    {"styleCode":"PT27","colorway":"OXBLOOD_BLACK","comparisonGroup":"PT27_COLOR_AB","file":"09a-pt27-curve-vortex-oxblood-black.png","width":1536,"height":1024,"sha256":"3E7FA796D68BDB83D88419F22921FB8296CD5D61A007D1C6D68F7BFA237CC179"},
+    {"styleCode":"PT27","colorway":"BLUE_BLACK","comparisonGroup":"PT27_COLOR_AB","file":"09b-pt27-curve-vortex-blue-black.png","width":1536,"height":1024,"sha256":"40B60624162713824042CC21D10F082F04FB97DD4BB2C4749AE23DF49AE49A01"},
+    {"styleCode":"PT28","colorway":"GRAPHITE_OLIVE","comparisonGroup":null,"file":"10-pt28-aperture-cargo-graphite-olive.png","width":1536,"height":1024,"sha256":"7B18BC0AE9E04DD956A703EB457C7867A2573F0AA8AADF1DFD96A6B26AF79D60"},
+    {"styleCode":"PT29","colorway":"SMOKE_BLACK","comparisonGroup":null,"file":"11-pt29-snap-column-smoke-black.png","width":1536,"height":1024,"sha256":"307294E3AEBE4644ABF47FC9BD20BD76E4E1082A692AAE55B328E8D5966675B2"},
+    {"styleCode":"PT30","colorway":"TUNGSTEN_GRAY","comparisonGroup":"PT30_COLOR_AB","file":"12a-pt30-tokyo-fold-tungsten-gray.png","width":1536,"height":1024,"sha256":"5A9FDAB9635A184FF36ACFE2542E7B6D2BCA67302713AE03E0218D128242198C"},
+    {"styleCode":"PT30","colorway":"OXIDIZED_BLUE_GRAY","comparisonGroup":"PT30_COLOR_AB","file":"12b-pt30-tokyo-fold-oxidized-blue-gray.png","width":1536,"height":1024,"sha256":"AD997B2DEC8EBCBFA51930424520617AEE67DE48AD47ABEA4C6215F2961C44DE"}
+  ]
+}

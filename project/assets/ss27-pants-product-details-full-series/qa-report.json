@@ -1,0 +1,754 @@
+{
+  "collection": "MOVERNO SS27 Pants — Product Details Full Series",
+  "verifiedAt": "2026-09-09T13:16:16.304Z",
+  "result": "PASS",
+  "summary": {
+    "checks": 147,
+    "passed": 147,
+    "warnings": 0,
+    "failures": 0,
+    "products": 15,
+    "chapters": 5,
+    "posters": 15,
+    "slices": 105
+  },
+  "failures": [],
+  "warnings": [],
+  "checks": [
+    {
+      "name": "product-count",
+      "status": "PASS",
+      "detail": "15 styles"
+    },
+    {
+      "name": "chapter-count",
+      "status": "PASS",
+      "detail": "FLUID_SHADOW, TOWER_CURRENT, MINERAL_TAILOR, APERTURE_SYSTEM, COLOR_LAB"
+    },
+    {
+      "name": "unique-style-codes",
+      "status": "PASS",
+      "detail": "all style codes are unique"
+    },
+    {
+      "name": "output-count-posters",
+      "status": "PASS",
+      "detail": "15"
+    },
+    {
+      "name": "output-count-editable",
+      "status": "PASS",
+      "detail": "15"
+    },
+    {
+      "name": "output-count-previews",
+      "status": "PASS",
+      "detail": "15"
+    },
+    {
+      "name": "output-count-mobile",
+      "status": "PASS",
+      "detail": "15"
+    },
+    {
+      "name": "output-count-slices",
+      "status": "PASS",
+      "detail": "105"
+    },
+    {
+      "name": "v2-master-hash",
+      "status": "PASS",
+      "detail": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76"
+    },
+    {
+      "name": "blue-variants-isolated",
+      "status": "PASS",
+      "detail": "PT22-B, PT25-B, PT27-B"
+    },
+    {
+      "name": "main-line-excludes-color-lab",
+      "status": "PASS",
+      "detail": "12 main-line styles"
+    },
+    {
+      "name": "PT19-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT19-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT19-poster-nonempty",
+      "status": "PASS",
+      "detail": "4824247 bytes"
+    },
+    {
+      "name": "PT19-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT19-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT19-section-set",
+      "status": "PASS",
+      "detail": "opening > silhouette > maleFit > innovation > femaleFit > identityInTouchpoint > materialAndCTA"
+    },
+    {
+      "name": "PT19-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT19-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1024x1536"
+    },
+    {
+      "name": "PT19-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1024x1536"
+    },
+    {
+      "name": "PT20-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT20-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT20-poster-nonempty",
+      "status": "PASS",
+      "detail": "5522019 bytes"
+    },
+    {
+      "name": "PT20-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT20-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT20-section-set",
+      "status": "PASS",
+      "detail": "opening > maleFit > silhouette > innovation > identityInTouchpoint > femaleFit > materialAndCTA"
+    },
+    {
+      "name": "PT20-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT20-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1024x1536"
+    },
+    {
+      "name": "PT20-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1024x1536"
+    },
+    {
+      "name": "PT21-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT21-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT21-poster-nonempty",
+      "status": "PASS",
+      "detail": "4811496 bytes"
+    },
+    {
+      "name": "PT21-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT21-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT21-section-set",
+      "status": "PASS",
+      "detail": "opening > innovation > silhouette > femaleFit > materialAndCTA > maleFit > identityInTouchpoint"
+    },
+    {
+      "name": "PT21-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT21-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1024x1536"
+    },
+    {
+      "name": "PT21-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1024x1536"
+    },
+    {
+      "name": "PT22-A-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT22-A-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT22-A-poster-nonempty",
+      "status": "PASS",
+      "detail": "5949744 bytes"
+    },
+    {
+      "name": "PT22-A-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT22-A-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT22-A-section-set",
+      "status": "PASS",
+      "detail": "opening > silhouette > innovation > identityInTouchpoint > maleFit > materialAndCTA > femaleFit"
+    },
+    {
+      "name": "PT22-A-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT22-A-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT22-A-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT23-A-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT23-A-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT23-A-poster-nonempty",
+      "status": "PASS",
+      "detail": "4915293 bytes"
+    },
+    {
+      "name": "PT23-A-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT23-A-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT23-A-section-set",
+      "status": "PASS",
+      "detail": "opening > innovation > maleFit > silhouette > femaleFit > identityInTouchpoint > materialAndCTA"
+    },
+    {
+      "name": "PT23-A-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT23-A-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT23-A-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT24-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT24-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT24-poster-nonempty",
+      "status": "PASS",
+      "detail": "5938886 bytes"
+    },
+    {
+      "name": "PT24-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT24-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT24-section-set",
+      "status": "PASS",
+      "detail": "opening > maleFit > innovation > materialAndCTA > silhouette > femaleFit > identityInTouchpoint"
+    },
+    {
+      "name": "PT24-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT24-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT24-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT25-A-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT25-A-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT25-A-poster-nonempty",
+      "status": "PASS",
+      "detail": "6150334 bytes"
+    },
+    {
+      "name": "PT25-A-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT25-A-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT25-A-section-set",
+      "status": "PASS",
+      "detail": "opening > materialAndCTA > silhouette > maleFit > innovation > identityInTouchpoint > femaleFit"
+    },
+    {
+      "name": "PT25-A-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT25-A-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT25-A-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT26-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT26-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT26-poster-nonempty",
+      "status": "PASS",
+      "detail": "5223687 bytes"
+    },
+    {
+      "name": "PT26-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT26-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT26-section-set",
+      "status": "PASS",
+      "detail": "opening > silhouette > femaleFit > materialAndCTA > innovation > maleFit > identityInTouchpoint"
+    },
+    {
+      "name": "PT26-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT26-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT26-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT27-A-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT27-A-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT27-A-poster-nonempty",
+      "status": "PASS",
+      "detail": "4901284 bytes"
+    },
+    {
+      "name": "PT27-A-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT27-A-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT27-A-section-set",
+      "status": "PASS",
+      "detail": "opening > femaleFit > silhouette > innovation > identityInTouchpoint > materialAndCTA > maleFit"
+    },
+    {
+      "name": "PT27-A-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT27-A-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT27-A-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT28-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT28-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT28-poster-nonempty",
+      "status": "PASS",
+      "detail": "5424020 bytes"
+    },
+    {
+      "name": "PT28-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT28-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT28-section-set",
+      "status": "PASS",
+      "detail": "opening > innovation > silhouette > identityInTouchpoint > materialAndCTA > maleFit > femaleFit"
+    },
+    {
+      "name": "PT28-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT28-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT28-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT29-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT29-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT29-poster-nonempty",
+      "status": "PASS",
+      "detail": "4743057 bytes"
+    },
+    {
+      "name": "PT29-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT29-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT29-section-set",
+      "status": "PASS",
+      "detail": "opening > maleFit > identityInTouchpoint > innovation > silhouette > femaleFit > materialAndCTA"
+    },
+    {
+      "name": "PT29-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT29-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT29-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT30-A-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT30-A-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT30-A-poster-nonempty",
+      "status": "PASS",
+      "detail": "5263919 bytes"
+    },
+    {
+      "name": "PT30-A-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT30-A-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT30-A-section-set",
+      "status": "PASS",
+      "detail": "opening > silhouette > materialAndCTA > innovation > femaleFit > identityInTouchpoint > maleFit"
+    },
+    {
+      "name": "PT30-A-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT30-A-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT30-A-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT22-B-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT22-B-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT22-B-poster-nonempty",
+      "status": "PASS",
+      "detail": "5483365 bytes"
+    },
+    {
+      "name": "PT22-B-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT22-B-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT22-B-section-set",
+      "status": "PASS",
+      "detail": "opening > femaleFit > innovation > silhouette > maleFit > identityInTouchpoint > materialAndCTA"
+    },
+    {
+      "name": "PT22-B-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT22-B-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT22-B-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT25-B-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT25-B-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT25-B-poster-nonempty",
+      "status": "PASS",
+      "detail": "6865800 bytes"
+    },
+    {
+      "name": "PT25-B-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT25-B-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT25-B-section-set",
+      "status": "PASS",
+      "detail": "opening > materialAndCTA > maleFit > innovation > silhouette > identityInTouchpoint > femaleFit"
+    },
+    {
+      "name": "PT25-B-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT25-B-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT25-B-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT27-B-unique-page-assets",
+      "status": "PASS",
+      "detail": "6/6 unique source images"
+    },
+    {
+      "name": "PT27-B-poster-dimensions",
+      "status": "PASS",
+      "detail": "1080x6500"
+    },
+    {
+      "name": "PT27-B-poster-nonempty",
+      "status": "PASS",
+      "detail": "4885902 bytes"
+    },
+    {
+      "name": "PT27-B-required-copy",
+      "status": "PASS",
+      "detail": "10/10"
+    },
+    {
+      "name": "PT27-B-image-count",
+      "status": "PASS",
+      "detail": "6 embedded images, one per visual section"
+    },
+    {
+      "name": "PT27-B-section-set",
+      "status": "PASS",
+      "detail": "opening > innovation > femaleFit > materialAndCTA > silhouette > maleFit > identityInTouchpoint"
+    },
+    {
+      "name": "PT27-B-section-coverage",
+      "status": "PASS",
+      "detail": "0..6500 contiguous"
+    },
+    {
+      "name": "PT27-B-male-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "PT27-B-female-fit.png-resolution",
+      "status": "PASS",
+      "detail": "1122x1402"
+    },
+    {
+      "name": "manifest-product-count",
+      "status": "PASS",
+      "detail": "15 entries"
+    }
+  ]
+}

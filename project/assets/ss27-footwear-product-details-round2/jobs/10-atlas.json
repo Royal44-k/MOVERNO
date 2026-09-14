@@ -1,0 +1,15 @@
+{
+  "id": "10",
+  "batch": 2,
+  "type": "atlas",
+  "target": "views/10-sand-current-six-views.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/10-sand-current.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+  ],
+  "prompt": "Use case: product-mockup. Create a six-view PRODUCT CONCEPT atlas, one landscape 4:3 image in an EXACT 3-column 2-row equal cell layout. Input1 authoritative selected MOVERNO shoe. Input2 exact gate emblem only. Input3 exact wordmark only. Do NOT redesign shoe. Preserve: Sand/cream long technical runner with open beige mesh, gray/taupe pointed flowing overlays, small dark gate on lateral heel, silver-gray translucent angular wave HEEL CAGE flowing downward to midsole; tiny burgundy stitching at heel tab. Sculpted cream rippled midsole and TAN outsole blocks and toe bumper. Maintain extended low toe and bulky rear cage. No black sole, no giant central new logo. Top row left-to-right: OUTER lateral profile, INNER medial profile, FRONT straight-on. Bottom row: REAR straight-on, TOP-DOWN with toe toward bottom, OUTSOLE bottom with toe toward top. Six full shoes, one per cell, entirely contained, adequate breathing space, gray neutral seamless background consistent across cells, soft catalog light. Every view same shoe geometry and sole volume. Preserve existing exterior markings and pattern. Add restrained small MOVERNO lettering to tongue uppermost patch or loop and a small gate to rear heel center only where anatomically appropriate. Gate: two independent opposing upright curved blades, straight outer vertical edges, visible OPEN vertical center slit, not X or butterfly. New outsole is conceptual continuation of original visible rim and segments in tan sand (NOT black), with small molded MOVERNO in a recessed midfoot island. Keep text legible spelled M-O-V-E-R-N-O, no extra words, no label headings, no diagram or arrows, no new side logos or extra hardware, no colored accents beyond source. Do not paint lettering over existing cage or wrap straps. High quality photorealistic concept. NOT a techpack/measurement drawing.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-f7f93ac0-3d20-4596-afb8-583ac285d2a7.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/10-sand-current-six-views.png",
+  "status": "selected"
+}

@@ -1,0 +1,13 @@
+{
+  "input_image": "A02-model-keyframe.png",
+  "prompt": "A photorealistic fashion film, one continuous shot with a locked camera. The seated woman naturally adjusts the angle of her nearer foot a few degrees to show the outer side of her high-top, gently moves her hand from her knee to the hem of her coat, and looks to the side. She remains seated. Restrained relaxed motion, believable ankle articulation and grounded feet. Both exact black canvas high-top shoes remain visible. Preserve the diagonal silver outer zipper, narrow gold chain-pattern strip immediately beneath it, white laces, upright black tongue and moderate cream rubber sole. Do not change any shoe construction. Realistic human anatomy and fabric inertia.",
+  "steps": 4,
+  "duration_seconds": 3.5,
+  "guidance_scale": 1,
+  "guidance_scale_2": 1,
+  "seed": 1902,
+  "randomize_seed": false,
+  "negative_prompt": "static still picture, camera zoom, shoe morphing, incorrect logo, changed sole thickness, extra legs, extra feet, fused limbs, sliding feet, floating feet, broken ankles, warped shoes, melting rubber, disappearing zipper, floating laces, cartoon, bad anatomy, blurry feet, text overlays, subtitles, watermark",
+  "service": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+  "payment": "anonymous free quota only"
+}

@@ -1,0 +1,30 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "season": "SS27",
+  "round": "footwear-family-expansion-round1",
+  "date": "2026-09-03",
+  "status": "rejected-all",
+  "reviewDecisionDate": "2026-09-03",
+  "reviewSummary": "All six concepts rejected. They do not meet the young trend-led MOVERNO positioning and must not be reused as design bases.",
+  "generation": {
+    "tool": "OpenAI built-in ImageGen",
+    "stytrixPaidGeneration": false,
+    "workflow": "research grounding + reference lock + one primary brand action per direction",
+    "dimensions": "1536x1024",
+    "view": "one left shoe, exterior three-quarter/side, toe right"
+  },
+  "research": "../../research/2026-09-03-footwear-family-expansion.md",
+  "brandReferences": [
+    "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+    "../logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "concepts": [
+    {"displayOrder": 1, "code": "SS27-SH07-A", "name": "VEIL FORM LOW / 幕形薄底鞋", "file": "01-veil-form-low.png", "family": "LOW_PROFILE", "decision": "rejected"},
+    {"displayOrder": 2, "code": "SS27-SH07-B", "name": "GATE MOC RUNNER / 门隙莫卡跑鞋", "file": "02-gate-moc-runner.png", "family": "MOC_RUNNER", "decision": "rejected"},
+    {"displayOrder": 3, "code": "SS27-SH07-C", "name": "QUIET DERBY / 静默德比运动鞋", "file": "03-quiet-derby.png", "family": "DERBY_SNEAKER", "decision": "rejected"},
+    {"displayOrder": 4, "code": "SS27-SH07-D", "name": "RELAY STRAP / 接隙束带鞋", "file": "04-relay-strap.png", "family": "VENTILATED_STRAP", "decision": "rejected"},
+    {"displayOrder": 5, "code": "SS27-SH07-E", "name": "SHROUD MULE / 幕罩便鞋", "file": "05-shroud-mule.png", "family": "EASY_ON_MULE", "decision": "rejected"},
+    {"displayOrder": 6, "code": "SS27-SH07-F", "name": "ARC TREK LOW / 弧轨轻越野", "file": "06-arc-trek-low.png", "family": "LIGHT_TREK", "decision": "rejected"}
+  ],
+  "nextGate": "Return to reference-led silhouette curation. Do not develop or reuse these six concepts."
+}

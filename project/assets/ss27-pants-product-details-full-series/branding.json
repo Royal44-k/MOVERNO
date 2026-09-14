@@ -1,0 +1,25 @@
+{
+  "brand": "MOVERNO",
+  "brandZh": "墨维诺",
+  "mission": "让黑夜不必黯然，让差异不必喧哗。",
+  "belief": "Different But Excellent.",
+  "productSlogan": "暗中移动，保持柔软 / MOVE DARK. STAY SOFT.",
+  "wordmarkPath": "../logo-direction-01/png/moverno-primary-wordmark-reverse@4x.png",
+  "emblemPath": "../logo-direction-01/png/moverno-standalone-emblem-reverse@4x.png",
+  "mvRelayPath": "../ss27-pants-mv-relay-selected/png/moverno-mv-relay-reverse@4x.png",
+  "v2Path": "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+  "v2Sha256": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76",
+  "palette": {
+    "obsidian": "#0D0D0F",
+    "graphite": "#25262A",
+    "boneAsh": "#D9D4C8",
+    "oxidizedNickel": "#73777A",
+    "driedBlood": "#5B1F25",
+    "agedGoldEdge": "#9A845A"
+  },
+  "onGarmentRule": {
+    "minimumGarmentContext": 0.6,
+    "maximumLogoCoverage": 0.18,
+    "isolatedLogoCardAllowed": false
+  }
+}

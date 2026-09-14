@@ -1,0 +1,56 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "collection": "SS27 short-sleeve style branches — Round 3",
+  "createdAt": "2026-08-28",
+  "status": "concept-review",
+  "format": {
+    "width": 1536,
+    "height": 1024,
+    "colorMode": "RGB",
+    "views": ["front", "back", "inside-neck-label-detail"]
+  },
+  "sharedRules": {
+    "insideNeckLabel": "Black woven label, 45–50 mm visual target, Veil Gate emblem + MOVERNO in bone ash",
+    "brandName": "MOVERNO",
+    "v2MotifRequired": false,
+    "originalGraphicsOnly": true,
+    "conceptImagesAreNotFactoryTechPacks": true
+  },
+  "branches": [
+    {
+      "id": "01",
+      "name": "SOFT RIFT / 柔隙",
+      "block": "CURVE CROP",
+      "file": "01-soft-rift-curve-crop.png",
+      "sha256": "731BE2F4B68E342F7539840C5C1089BA45CCAB782B3A6991B776214E5F11F910"
+    },
+    {
+      "id": "02",
+      "name": "INK SEQUENCE / 墨格连载",
+      "block": "FRAME",
+      "file": "02-ink-sequence-frame.png",
+      "sha256": "DB3953A9E6882F0C1E8A4DC2BCF27C8CCC17933BFF6294A4F5FD94F4627DA461"
+    },
+    {
+      "id": "03",
+      "name": "AFTER HOURS / 夜后",
+      "block": "OPEN-COLLAR KNIT",
+      "file": "03-after-hours-open-collar-knit.png",
+      "sha256": "8BBEEB005FA9D4EEA41B2AFFD6A4354A0FC9BADF4E9C2662916793B9CF2CA069"
+    },
+    {
+      "id": "04",
+      "name": "QUIET UNIT / 静默单元",
+      "block": "TRACE COMPACT",
+      "file": "04-quiet-unit-trace.png",
+      "sha256": "0D9D123A4A4D3FF8C0BE92837C44737F10C5C1DD71E38BBD22A4DCC6EBE53183"
+    },
+    {
+      "id": "05",
+      "name": "STILL CURRENT / 静流",
+      "block": "DRAPE WING",
+      "file": "05-still-current-drape-wing.png",
+      "sha256": "3282B3787115E3DFD02C37AAE35D9902E3A36071ED3AB6EAC7AB682D4A7966ED"
+    }
+  ]
+}

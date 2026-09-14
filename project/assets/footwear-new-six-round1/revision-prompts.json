@@ -1,0 +1,26 @@
+[
+  {
+    "id": "N04",
+    "version": "v2",
+    "inputs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-d6ed50a4-13d6-4712-90b8-92e107cd977f.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: precise-object-edit. Input 1 is the N04 footwear concept to revise; inputs 2 and 3 are exact MOVERNO emblem and wordmark references. Produce one single full shoe product photograph, same pose, same camera, same grey studio floor and shadow, 3:2 landscape. Correct this into a younger low-slung silver technical fashion sneaker. KEEP grey mesh, low short speed-cord fastening, silver thin bonded overlays and the overall long oval toe. REBUILD the collar much lower: cut away the tall stretchy sock collar and replace it with a very low narrow padded black athletic shoe collar sitting BELOW the ankle, a short integral gusset flap under the cord only, not a protruding sock tongue. LOWER the entire sole to a slim continuous 18mm forefoot and 23mm heel midsole, compact and tucked UNDER the heel, no big heel extension; eliminate the big capsule window and air-tube effect entirely. Sole should be smoky translucent rubber with a fine sculpted waist crease only, youth fashion technical not nursing/travel/comfort shoe. Sharpen the silver piping and divide the upper into slimmer tapered silver seamless curved film lines at the forefoot and heel, high-end metallic fabric rather than a giant side plate. Replace the oversized side logo patch with a SMALL flat 25mm silver badge on rear lateral quarter. On this badge the EXACT supplied standard two mirror-symmetric upright blades in black, outer edges straight, inner edges curved facing a narrow gap, not slashes or X or a new M. Delete the misspelled heel-pull text: use a plain black heel pull with NO lettering. Only a very small exact MOVERNO wordmark at top of the low gusset flap, M-O-V-E-R-N-O. No other changes to color scheme or background; no added text around shoe. Sporty young streetwear, close-to-foot volume, not running performance claims."
+  },
+  {
+    "id": "N06",
+    "name": "冷烟短踝靴",
+    "category": "短筒鞋靴 / 秋冬支线",
+    "materials": "烟可可磨砂面 · 灰褐短绒 · 烟黑护边",
+    "statement": "低护边托住柔软短筒，偏侧收束带替代开口抽绳。",
+    "brand": "标准徽记落在带端，细窄字标缝入后口。",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Create a NEW ORIGINAL MOVERNO compact winter street sneaker-boot, for fashion-conscious Asian young adults, not an elder comfort shoe. Inputs 1 and 2 are STANDARD MOVERNO emblem and wordmark only. Single full right shoe with toe bottom-left heel upper-right elevated lateral three-quarter view; 3:2 landscape light grey studio, high-end tangible suede/nylon/rubber materials, clear contact shadow and full uncropped silhouette. DESIGN: A deliberately SHORT wide softly squared forefoot with a low rounded nose, a compact puffy ANKLE-HIGH shaft ending just above malleolus, almost cylindrical softly supported shape, no long narrow instep. Smoky COCOA suede forefoot and outer lower quarters; dark cocoa matte padded NYLON upper tongue and ankle with TWO broad horizontal quilt channels. A slim TAUPE short-shearling rim appears only INSIDE the top opening about 12mm, no all-over fur and no folded cuff. SPORT LACING: three pairs of wide black webbing loops on padded instep, tied with one SHORT run of thick round BONE-WHITE flecked climbing-style laces and a compact tied knot resting on tongue; laces do not wind around shoe, no oversized bows. NO wide strap, NO velcro, NO orthopedic flat. A youthful BLACK continuous flat platform-like rubber sole about 32mm forefoot 36mm heel with rounded convex sidewall, large smooth clean geometric bevel along outer edge; tiny shallow tread visible only underneath, no projecting tail, no tractor lugs, no high rigid toe shell. A thin 8mm black toe rim stays below suede toe. Outer side has ONE small exactly shaped MOVERNO paired upright blade emblem in brushed dark metal; both panels symmetrical with straight outside edges and curved inside edges, not letter M, X or butterfly. Standard exact MOVERNO serif wordmark in bone stitched onto dark small tongue label above lace knot. Rich cocoa and smoke against black sole and short bone rope lacing, deliberate puffer street-sneaker proportions, substantial front volume but compact overall length, youthful winter fashion editorial. Not UGG classic/Tasman, no braid trim, no moccasin apron or central vertical vamp seam, no office or traditional cloth shoe, no elderly velcro walking boot. No performance claims. No other brand or surrounding text.",
+    "version": "v2"
+  }
+]

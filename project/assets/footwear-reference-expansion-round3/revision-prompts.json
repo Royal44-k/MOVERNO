@@ -1,0 +1,16 @@
+[
+  {
+    "id": "R08",
+    "version": 2,
+    "base": "masters/R08-v1.png",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-reference-expansion-round3/masters/R08-v1.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Edit only Input1, the MOVERNO black platform slip-on PAIR. Keep camera, pose, shoe shape, closures, toe, cream platform height and sole textures, plain black quarters, heel MOVERNO lettering and small emblem unchanged. ONLY replace the pattern on the black FRONT VAMP of both shoes with the faithful repeat geometry from Input2. Current pattern looks like faceted hexagons and should be corrected. Input2 is the authoritative brand pattern: two separate mirrored elongated solid curved panels with a NARROW continuous vertical gap between them; long straight center-facing edges, rounded convex shoulders and smooth curved transitions to pointed ends, NOT angular hexagons, honeycomb, lozenges, generic chains or grid. Repeat the paired shapes in staggered vertical columns along each shoe's forefoot-to-instep direction. Small triple-diamond join nodes only where consecutive motif ends meet. Translate only COLOR and material to low-contrast charcoal filled panels on black woven textile, very thin dull silver/graphite outlines, no gold allover and no bright white print. Medium motif scale, roughly 3 paired-panel columns across vamp. Flatten into jacquard weave and conform to the vamp curvature and natural perspective, no raised frame or leather cage. All non-vamp pixels/design elements of Input1 should remain visually unchanged. Input3 exact emblem and Input4 exact MOVERNO wordmark are preservation references, do not add new logos. Photorealistic 3:2 studio product render of the same pair, no labels, no people, no other objects.",
+    "output": "masters/R08-v2.png",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-15500263-6fe6-43cd-bf38-8d003f90397c.png"
+  }
+]

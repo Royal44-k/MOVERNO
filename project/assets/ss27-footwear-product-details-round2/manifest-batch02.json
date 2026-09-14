@@ -1,0 +1,212 @@
+{
+  "batch": "02",
+  "date": "2026-09-09",
+  "products": [
+    {
+      "id": "06",
+      "name": "灰烬骨架",
+      "source": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-6d179b09-7e88-4547-b254-4cc0b4e44b9b.png",
+      "sourceCopy": "sources/06-ash-frame.png",
+      "lockedDesign": "Black/graphite low elongated technical runner. Grey WHITE ASH marbling only on the perforated flowing overlay cage, with large oval openings revealing black mesh. Black round laces, black loop tabs tongue and heel. Multi-lobed graphite sole, rear flared horizontally but not taller platform. Preserve dark molded heel strap and tiny recessed gate, no bright new side logo."
+    },
+    {
+      "id": "07",
+      "name": "链序厚底",
+      "source": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-fce40b91-e49b-471d-a23f-75ba486ef875.png",
+      "sourceCopy": "sources/07-chain-form.png",
+      "lockedDesign": "Charcoal-black exaggerated chunky layered runner, aged washed dark finish. FOUR successive pairs of gray elongated leaf/chamber side patches form a horizontal chain, narrow horizontal gaps and tiny dark red junction stitches. Large black mesh panels, black-speckled round laces, black heel piece with recessed gate. Bulky layered dark sole with side gray diamond-grid insert and angular outsole pods. Do not flatten sole or replace chain with lettering."
+    },
+    {
+      "id": "08",
+      "name": "骨白笼影",
+      "source": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-ef9d2085-8b20-45a4-80dc-5ff0f8b2e790.png",
+      "sourceCopy": "sources/08-ivory-cage.png",
+      "lockedDesign": "Bone/ivory long low technical runner. Flowing bone colored thin double ribs form curved vertical CAGE over cream open mesh, tiny muted red links at their joins. Thin ivory cables/straps wrap forefoot and run around side. Large rearward extended oval sole pod and separated forefoot blocks, aged off-white abrasion at bottom. Entire shoe ivory except tiny dark-red links. Preserve rear pull loop; no black large side logo."
+    },
+    {
+      "id": "09",
+      "name": "银浪厚底",
+      "source": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-059403af-9dc9-46a2-a357-0ea19f1d7b84.png",
+      "sourceCopy": "sources/09-silver-wave.png",
+      "lockedDesign": "Silver mesh fashion chunky runner, glossy distressed silver flowing layers with black thin wave outlines, small black paired gate at center side mesh panel. Bone-white thick smooth sculptural platform midsole with molded pill and teardrop recesses, black thin outsole pods. Silver-gray laces, BLACK lining and black heel/tongue pull loops. Keep silver, not gold, maintain thick heel and broad rounded toe."
+    },
+    {
+      "id": "10",
+      "name": "沙色流线",
+      "source": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-4b167722-28ad-47d9-a9b4-7885a2c4f600.png",
+      "sourceCopy": "sources/10-sand-current.png",
+      "lockedDesign": "Sand/cream long technical runner with open beige mesh, gray/taupe pointed flowing overlays, small dark gate on lateral heel, silver-gray translucent angular wave HEEL CAGE flowing downward to midsole; tiny burgundy stitching at heel tab. Sculpted cream rippled midsole and TAN outsole blocks and toe bumper. Maintain extended low toe and bulky rear cage. No black sole, no giant central new logo."
+    }
+  ],
+  "jobs": [
+    {
+      "id": "06",
+      "batch": 2,
+      "type": "atlas",
+      "target": "views/06-ash-frame-six-views.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/06-ash-frame.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+      ],
+      "prompt": "Use case: product-mockup. Create a six-view PRODUCT CONCEPT atlas, one landscape 4:3 image in an EXACT 3-column 2-row equal cell layout. Input1 authoritative selected MOVERNO shoe. Input2 exact gate emblem only. Input3 exact wordmark only. Do NOT redesign shoe. Preserve: Black/graphite low elongated technical runner. Grey WHITE ASH marbling only on the perforated flowing overlay cage, with large oval openings revealing black mesh. Black round laces, black loop tabs tongue and heel. Multi-lobed graphite sole, rear flared horizontally but not taller platform. Preserve dark molded heel strap and tiny recessed gate, no bright new side logo. Top row left-to-right: OUTER lateral profile, INNER medial profile, FRONT straight-on. Bottom row: REAR straight-on, TOP-DOWN with toe toward bottom, OUTSOLE bottom with toe toward top. Six full shoes, one per cell, entirely contained, adequate breathing space, gray neutral seamless background consistent across cells, soft catalog light. Every view same shoe geometry and sole volume. Preserve existing exterior markings and pattern. Add restrained small MOVERNO lettering to tongue uppermost patch or loop and a small gate to rear heel center only where anatomically appropriate. Gate: two independent opposing upright curved blades, straight outer vertical edges, visible OPEN vertical center slit, not X or butterfly. New outsole is conceptual continuation of original visible rim and segments in graphite-black, with small molded MOVERNO in a recessed midfoot island. Keep text legible spelled M-O-V-E-R-N-O, no extra words, no label headings, no diagram or arrows, no new side logos or extra hardware, no colored accents beyond source. Do not paint lettering over existing cage or wrap straps. High quality photorealistic concept. NOT a techpack/measurement drawing.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-b7214d65-a491-4952-b513-4517873196bd.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/06-ash-frame-six-views.png",
+      "status": "selected"
+    },
+    {
+      "id": "06",
+      "batch": 2,
+      "type": "campaign",
+      "target": "campaign/06-ash-frame-campaign.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/06-ash-frame.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+      ],
+      "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Black/graphite low elongated technical runner. Grey WHITE ASH marbling only on the perforated flowing overlay cage, with large oval openings revealing black mesh. Black round laces, black loop tabs tongue and heel. Multi-lobed graphite sole, rear flared horizontally but not taller platform. Preserve dark molded heel strap and tiny recessed gate, no bright new side logo. Scene: Adult lower legs in wide charcoal technical trousers, cuffs end at shoe collar. One foot planted sideways on dark asphalt beside a clean concrete curb, second foot further back at a different angle. Tight low-camera flash editorial; cold-neutral side illumination reveals ash-gray cage over black mesh. One hard long shadow, no fog. Quiet garage-like architecture, no vehicles. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-dedc160e-194c-4c49-884e-e7dc7c436fd8.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/06-ash-frame-campaign.png",
+      "status": "selected"
+    },
+    {
+      "id": "07",
+      "type": "atlas-correction",
+      "prompt": "Edit this exact six-view footwear contact sheet with extremely high input fidelity. ONE TYPOGRAPHY CORRECTION ONLY: in the BOTTOM RIGHT OUTSOLE VIEW, replace the malformed recessed vertical brand lettering with exactly MOVERNO (seven letters M O V E R N O, no doubled O). Render small neatly centered black-on-black incised serif capitals along the outsole midfoot island. If constrained, reduce letter size so all seven letters fit. Preserve every other pixel-level design, all six shoe views, source colors, laces, pattern, framing, panel boundaries, tongue lettering, gate logos and background. Do not change any other branding or any shape. Output the same landscape composition.",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/07-chain-form-six-views.png"
+      ],
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-7af037d8-874b-452b-8b16-6455960bbe76.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/07-chain-form-six-views.png",
+      "status": "selected"
+    },
+    {
+      "id": "07",
+      "batch": 2,
+      "type": "atlas",
+      "target": "views/07-chain-form-six-views.png",
+      "refs": [
+        "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-fce40b91-e49b-471d-a23f-75ba486ef875.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+      ],
+      "prompt": "Use case: product-mockup. Create a six-view PRODUCT CONCEPT atlas, one landscape 4:3 image in an EXACT 3-column 2-row equal cell layout. Input1 authoritative selected MOVERNO shoe. Input2 exact gate emblem only. Input3 exact wordmark only. Do NOT redesign shoe. Preserve: Charcoal-black exaggerated chunky layered runner, aged washed dark finish. FOUR successive pairs of gray elongated leaf/chamber side patches form a horizontal chain, narrow horizontal gaps and tiny dark red junction stitches. Large black mesh panels, black-speckled round laces, black heel piece with recessed gate. Bulky layered dark sole with side gray diamond-grid insert and angular outsole pods. Do not flatten sole or replace chain with lettering. Top row left-to-right: OUTER lateral profile, INNER medial profile, FRONT straight-on. Bottom row: REAR straight-on, TOP-DOWN with toe toward bottom, OUTSOLE bottom with toe toward top. Six full shoes, one per cell, entirely contained, adequate breathing space, gray neutral seamless background consistent across cells, soft catalog light. Every view same shoe geometry and sole volume. Preserve existing exterior markings and pattern. Add restrained small MOVERNO lettering to tongue uppermost patch or loop and a small gate to rear heel center only where anatomically appropriate. Gate: two independent opposing upright curved blades, straight outer vertical edges, visible OPEN vertical center slit, not X or butterfly. New outsole is conceptual continuation of original visible rim and segments in charcoal-black, with small molded MOVERNO in a recessed midfoot island. Keep text legible spelled M-O-V-E-R-N-O, no extra words, no label headings, no diagram or arrows, no new side logos or extra hardware, no colored accents beyond source. Do not paint lettering over existing cage or wrap straps. High quality photorealistic concept. NOT a techpack/measurement drawing.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-25c2dbd4-da11-4ec3-9883-b64bca19a5c9.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/07-chain-form-six-views.png",
+      "status": "selected"
+    },
+    {
+      "id": "07",
+      "batch": 2,
+      "type": "campaign",
+      "target": "campaign/07-chain-form-campaign.png",
+      "refs": [
+        "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-fce40b91-e49b-471d-a23f-75ba486ef875.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+      ],
+      "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Charcoal-black exaggerated chunky layered runner, aged washed dark finish. FOUR successive pairs of gray elongated leaf/chamber side patches form a horizontal chain, narrow horizontal gaps and tiny dark red junction stitches. Large black mesh panels, black-speckled round laces, black heel piece with recessed gate. Bulky layered dark sole with side gray diamond-grid insert and angular outsole pods. Do not flatten sole or replace chain with lettering. Scene: Adult lower calves in washed black denim with a straight generous hem ABOVE shoe collars. Both shoes on a wide steel landing, foreground shoe lateral 3/4 to show chain patches; second behind. Low close camera and crisp soft-edged directional flash, graphite backdrop. Chunky silhouette dominates, no stairs copied from previous scene. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-f9ca65dc-7cae-402a-bb90-10e1ed324410.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/07-chain-form-campaign.png",
+      "status": "selected"
+    },
+    {
+      "id": "08",
+      "batch": 2,
+      "type": "atlas",
+      "target": "views/08-ivory-cage-six-views.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/08-ivory-cage.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+      ],
+      "prompt": "Use case: product-mockup. Create a six-view PRODUCT CONCEPT atlas, one landscape 4:3 image in an EXACT 3-column 2-row equal cell layout. Input1 authoritative selected MOVERNO shoe. Input2 exact gate emblem only. Input3 exact wordmark only. Do NOT redesign shoe. Preserve: Bone/ivory long low technical runner. Flowing bone colored thin double ribs form curved vertical CAGE over cream open mesh, tiny muted red links at their joins. Thin ivory cables/straps wrap forefoot and run around side. Large rearward extended oval sole pod and separated forefoot blocks, aged off-white abrasion at bottom. Entire shoe ivory except tiny dark-red links. Preserve rear pull loop; no black large side logo. Top row left-to-right: OUTER lateral profile, INNER medial profile, FRONT straight-on. Bottom row: REAR straight-on, TOP-DOWN with toe toward bottom, OUTSOLE bottom with toe toward top. Six full shoes, one per cell, entirely contained, adequate breathing space, gray neutral seamless background consistent across cells, soft catalog light. Every view same shoe geometry and sole volume. Preserve existing exterior markings and pattern. Add restrained small MOVERNO lettering to tongue uppermost patch or loop and a small gate to rear heel center only where anatomically appropriate. Gate: two independent opposing upright curved blades, straight outer vertical edges, visible OPEN vertical center slit, not X or butterfly. New outsole is conceptual continuation of original visible rim and segments in aged bone/off-white, with small molded MOVERNO in a recessed midfoot island. Keep text legible spelled M-O-V-E-R-N-O, no extra words, no label headings, no diagram or arrows, no new side logos or extra hardware, no colored accents beyond source. Do not paint lettering over existing cage or wrap straps. High quality photorealistic concept. NOT a techpack/measurement drawing.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-fe703232-cc45-46e3-ba63-e28eb5900ce1.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/08-ivory-cage-six-views.png",
+      "status": "selected"
+    },
+    {
+      "id": "08",
+      "batch": 2,
+      "type": "campaign",
+      "target": "campaign/08-ivory-cage-campaign.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/08-ivory-cage.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+      ],
+      "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Bone/ivory long low technical runner. Flowing bone colored thin double ribs form curved vertical CAGE over cream open mesh, tiny muted red links at their joins. Thin ivory cables/straps wrap forefoot and run around side. Large rearward extended oval sole pod and separated forefoot blocks, aged off-white abrasion at bottom. Entire shoe ivory except tiny dark-red links. Preserve rear pull loop; no black large side logo. Scene: Adult lower legs wearing loose graphite cropped trousers and bone socks. Bone cage runners step between a pale concrete floor and low dark metal curb, shoes unobscured. Foreground lateral side shows ribs and wrap cords, rear foot turned 3/4. Single slanted sun patch through architectural gap, rich neutral charcoal upper space. Ivory details retain tone and mesh, not overexposed. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-114e82f5-c118-4aa2-9586-dfc01100f8bd.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/08-ivory-cage-campaign.png",
+      "status": "selected"
+    },
+    {
+      "id": "09",
+      "type": "atlas-correction",
+      "prompt": "Make a precise local edit to this exact six-view contact sheet. Fix ONLY the TOP RIGHT FRONT VIEW's incorrect white lettering on the black vertical pull loop. Remove all text on that black pull loop, leave it plain black woven texture. Just below the loop, on the small silver tongue label immediately ABOVE the first shoelace, put a small, correctly spelled horizontal MOVERNO wordmark, matching the horizontal MOVERNO tongue label already visible in the bottom-center TOP view. Seven letters exactly M O V E R N O. All other pixels, shoes, colors, shapes, logos, lettering, panel boundaries and background MUST remain unchanged. Keep the same landscape composition and the same six views. No other modifications.",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/09-silver-wave-six-views.png"
+      ],
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-b54efa9f-b9ee-462e-bb88-ded364eb5281.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/09-silver-wave-six-views.png",
+      "status": "selected"
+    },
+    {
+      "id": "09",
+      "batch": 2,
+      "type": "atlas",
+      "target": "views/09-silver-wave-six-views.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/09-silver-wave.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+      ],
+      "prompt": "Use case: product-mockup. Create a six-view PRODUCT CONCEPT atlas, one landscape 4:3 image in an EXACT 3-column 2-row equal cell layout. Input1 authoritative selected MOVERNO shoe. Input2 exact gate emblem only. Input3 exact wordmark only. Do NOT redesign shoe. Preserve: Silver mesh fashion chunky runner, glossy distressed silver flowing layers with black thin wave outlines, small black paired gate at center side mesh panel. Bone-white thick smooth sculptural platform midsole with molded pill and teardrop recesses, black thin outsole pods. Silver-gray laces, BLACK lining and black heel/tongue pull loops. Keep silver, not gold, maintain thick heel and broad rounded toe. Top row left-to-right: OUTER lateral profile, INNER medial profile, FRONT straight-on. Bottom row: REAR straight-on, TOP-DOWN with toe toward bottom, OUTSOLE bottom with toe toward top. Six full shoes, one per cell, entirely contained, adequate breathing space, gray neutral seamless background consistent across cells, soft catalog light. Every view same shoe geometry and sole volume. Preserve existing exterior markings and pattern. Add restrained small MOVERNO lettering to tongue uppermost patch or loop and a small gate to rear heel center only where anatomically appropriate. Gate: two independent opposing upright curved blades, straight outer vertical edges, visible OPEN vertical center slit, not X or butterfly. New outsole is conceptual continuation of original visible rim and segments in black with a bone midfoot island, with small molded MOVERNO in a recessed midfoot island. Keep text legible spelled M-O-V-E-R-N-O, no extra words, no label headings, no diagram or arrows, no new side logos or extra hardware, no colored accents beyond source. Do not paint lettering over existing cage or wrap straps. High quality photorealistic concept. NOT a techpack/measurement drawing.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-d40a1e63-91f0-4b80-8ce9-69ec7066abcd.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/09-silver-wave-six-views.png",
+      "status": "selected"
+    },
+    {
+      "id": "09",
+      "batch": 2,
+      "type": "campaign",
+      "target": "campaign/09-silver-wave-campaign.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/09-silver-wave.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+      ],
+      "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Silver mesh fashion chunky runner, glossy distressed silver flowing layers with black thin wave outlines, small black paired gate at center side mesh panel. Bone-white thick smooth sculptural platform midsole with molded pill and teardrop recesses, black thin outsole pods. Silver-gray laces, BLACK lining and black heel/tongue pull loops. Keep silver, not gold, maintain thick heel and broad rounded toe. Scene: Adult lower legs with black ribbed socks and a loose charcoal skirt hem cropped at knees, no torso or face. Silver platform runners in a casual offset stance beside a brushed steel wall; a clean linear cool white reflection highlights silver overlays. Strong dark negative space above, gray floor, no colored lights, no nightclub props. Low 3/4 view, both full shoes. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-91d343be-39de-4bae-bb3b-78bce33eb588.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/09-silver-wave-campaign.png",
+      "status": "selected"
+    },
+    {
+      "id": "10",
+      "batch": 2,
+      "type": "atlas",
+      "target": "views/10-sand-current-six-views.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/10-sand-current.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+      ],
+      "prompt": "Use case: product-mockup. Create a six-view PRODUCT CONCEPT atlas, one landscape 4:3 image in an EXACT 3-column 2-row equal cell layout. Input1 authoritative selected MOVERNO shoe. Input2 exact gate emblem only. Input3 exact wordmark only. Do NOT redesign shoe. Preserve: Sand/cream long technical runner with open beige mesh, gray/taupe pointed flowing overlays, small dark gate on lateral heel, silver-gray translucent angular wave HEEL CAGE flowing downward to midsole; tiny burgundy stitching at heel tab. Sculpted cream rippled midsole and TAN outsole blocks and toe bumper. Maintain extended low toe and bulky rear cage. No black sole, no giant central new logo. Top row left-to-right: OUTER lateral profile, INNER medial profile, FRONT straight-on. Bottom row: REAR straight-on, TOP-DOWN with toe toward bottom, OUTSOLE bottom with toe toward top. Six full shoes, one per cell, entirely contained, adequate breathing space, gray neutral seamless background consistent across cells, soft catalog light. Every view same shoe geometry and sole volume. Preserve existing exterior markings and pattern. Add restrained small MOVERNO lettering to tongue uppermost patch or loop and a small gate to rear heel center only where anatomically appropriate. Gate: two independent opposing upright curved blades, straight outer vertical edges, visible OPEN vertical center slit, not X or butterfly. New outsole is conceptual continuation of original visible rim and segments in tan sand (NOT black), with small molded MOVERNO in a recessed midfoot island. Keep text legible spelled M-O-V-E-R-N-O, no extra words, no label headings, no diagram or arrows, no new side logos or extra hardware, no colored accents beyond source. Do not paint lettering over existing cage or wrap straps. High quality photorealistic concept. NOT a techpack/measurement drawing.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-f7f93ac0-3d20-4596-afb8-583ac285d2a7.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/10-sand-current-six-views.png",
+      "status": "selected"
+    },
+    {
+      "id": "10",
+      "batch": 2,
+      "type": "campaign",
+      "target": "campaign/10-sand-current-campaign.png",
+      "refs": [
+        "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/10-sand-current.png",
+        "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+      ],
+      "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Sand/cream long technical runner with open beige mesh, gray/taupe pointed flowing overlays, small dark gate on lateral heel, silver-gray translucent angular wave HEEL CAGE flowing downward to midsole; tiny burgundy stitching at heel tab. Sculpted cream rippled midsole and TAN outsole blocks and toe bumper. Maintain extended low toe and bulky rear cage. No black sole, no giant central new logo. Scene: Adult lower legs in cropped sand-gray wide trousers. Sand runners turn at a stone-wall corner with one foot angled to reveal sculptural translucent heel wave and the other showing full lateral side. Camera close low 3/4, a dramatic but neutral soft sidelight on rough gray stone. Large dark top area, distinctive heel visible and toe uncut. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-47704775-6f7c-4ae3-bb39-e063d25a91b8.png",
+      "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/10-sand-current-campaign.png",
+      "status": "selected"
+    }
+  ],
+  "conceptDisclosure": "ImageGen 概念延展；新增视角、底板与标识位置需样鞋核对。",
+  "workflow": "StyTrix 流程核对，未使用 StyTrix 付费生成；复用第一批官方视觉研究。"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "F05",
+    "stage": "master-v2",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/batch02/masters/F05-v1.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "EDIT image1 into a YOUNG BLACK TECHNICAL SPORT LOAFER for MOVERNO; currently it reads like a formal dress comfort shoe, that must change. Keep overall low-top slip-on category, soft square toe direction, shallow V opening, black quiet continuous rubber sole (NO heel block). REDUCE toe height and vamp dome by 25% to flatten the front, lower rear sole wall to look sporty thin not a comfort wedge. Replace the entire raised U-shaped black leather apron enclosed by its piping on TOP VAMP with a flat inset of dark graphite fine SPORT MESH (the same texture as current tongue, finer and dark), extending forward from the tongue almost to toe but retaining a 20mm black leather toe rim; retain the shallow V-shaped seam where tongue transitions into mesh. This is a visible soft technical textile upper center, bordered by a thin black heatbonded edge rather than a traditional rolled moccasin welt. The remainder outer side wall stays BLACK semi-lustrous leather with one slanted rear seam, no white sole. Mesh must be integrated into seam and continuous with compact tongue, no gaping hole, no brand stripe, no horizontal penny strap, no buckle, no laces. Make collar subtly angular and low, CLOSED heel remains. Correct small vamp emblem: reference2 exact two STRAIGHT-OUTER-EDGE opposing blades with narrow slit, NOT the U-like emblem in image1; place 10mm smoked silver brand emblem on small black leather tab at mesh/lower-tongue junction, low-key. Shrink MOVERNO lateral heel sole wordmark by 50% into a tiny tonal deboss. Rest same camera, light neutral studio, complete single shoe 3:2. Intent is a sport-shoe/loafer hybrid with a flattened toe and technical mesh plane, not an office loafer, not dad runner, not orthopedic. No chunkier sole, no basketwoven strips, no repeated allover logo. Do not add a folded tongue."
+  },
+  {
+    "id": "F06",
+    "stage": "master-v2",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/batch02/masters/F06-v1.png"
+    ],
+    "prompt": "Precisely refine the supplied MOVERNO cocoa mule. Keep its long narrowing toe, deep cocoa suede, fully open heel, quiet form and angle. TWO IMPORTANT CHANGES: (1) Make the vamp edge a REAL single rolled-back diagonal FOLD, not just a raw edge with burgundy lining visible inside. The cocoa suede edge at instep turns outward and downward ONTO the upper for 15-20mm as one clean contiguous diagonal fold, so its DEEP BURGUNDY leather underside creates an actual narrow outward-facing band along the diagonal mouth, with a tangible doubled lip and soft fold shadow. ONE fold only at opening; fully continuous single vamp, no separate tongue, no ribbon, bow, strap, large flap or additional seams. Keep the MOVERNO wordmark small and precisely printed on the visible burgundy INNER face of this folded band near the outside edge. Most cocoa outer side remains blank, beautiful suede. (2) Current tiny separate rear heel block / notch is wrong: remove the heel step and arch notch, use a CONTINUOUS slim black rubber sole with a completely uninterrupted ground profile, 5mm front graduating to 7mm rear, NO separate heel, no heel elevation, fine herringbone microtexture edge. Also slightly soften extreme needle-like tip to a narrow softly chiseled almond with 8mm flat tip; still distinctly elongated and feminine, not broad loafer. Preserve all other design identity, exact neutral photo setup and complete 3/4 shoe view. It should be a contemporary refined low-profile fashion mule, not a dress pump or house slipper. No added logos beyond small existing MOVERNO on fold."
+  },
+  {
+    "id": "F05",
+    "stage": "master-v3-logo",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/batch02/masters/F05-v2.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "MICRO EDIT only the small silver logo mounted on the BLACK LEATHER TAB of the provided MOVERNO black mesh-vamp loafer. Everything else is LOCKED, including all mesh, tiny V opening, tongue, side leather, sole shape, wordmark on heel, framing and color. The current emblem is WRONG: two parallel slash / U-like shapes. COMPLETELY ERASE those two silver slash pieces from the tab, then replace with the EXACT silhouette from reference2 transformed as a planar logo on the tab. Reference2 has TWO MIRROR-SYMMETRIC vertical blade forms: each OUTER edge is straight from top to bottom, BOTH TOP INNER ENDS sweep inward to a central slit, BOTH BOTTOM INNER ENDS sweep outward to their outer bottom points. The LEFT and RIGHT shapes must be mirror counterparts facing each other across an open central vertical gap. Think two opposing book-page blades, not two slashes, not a U, not a butterfly, not a letter. In source artwork upright aspect ratio total emblem width:height is approximately 0.51, each blade is tall and narrow. On the shoe, rotate/project the ENTIRE symmetric mark as one rigid unit into the actual vamp surface perspective, do NOT rotate only one blade or simplify to parallel stripes. Material brushed smoke silver, physically flat appliqué, small 10mm high. Keep the surrounding tab black and its current position exactly unchanged. Match ref2 precisely, no other design changes, no extra branding or text. Output exact same full shoe photorealistic 3:2 composition as image1."
+  },
+  {
+    "id": "F05",
+    "stage": "master-v4-logo",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/batch02/masters/F05-v2.png"
+    ],
+    "prompt": "Reference 1 is the exact brand emblem artwork. Reference 2 is the shoe to edit. Replace the incorrect slash-shaped silver ornament on the shoe's small black vamp tab with a faithful miniature of the emblem from reference 1. Use flat light-grey printed ink on the black tab instead of beveled metal, so the two mirrored blade outlines are not stylized or distorted. The source symbol has two upright opposing halves, a central slot, a flared V cutout at TOP and another flared cutout at BOTTOM. Both outside edges are straight; maintain this shape exactly. Rotate the printed symbol 45 degrees COUNTERCLOCKWISE relative to the currently shown slash emblem, making the logo upright and easy to read in the photograph. It is okay if brand print is oriented across the shoe rather than lengthwise. Do not keep the wrong old two-slash emblem. All shoe shape, seams, black mesh vamp, leather sides, small black tab, sole and photo angle stay unchanged. Output only the edited full shoe photo, same landscape 3:2 framing as reference 2, no separate logo diagram."
+  }
+]

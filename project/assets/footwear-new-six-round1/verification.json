@@ -1,0 +1,375 @@
+{
+  "checkedAt": "2026-09-10T09:00:15.530Z",
+  "checks": 90,
+  "passed": 90,
+  "failed": [],
+  "note": "Mechanical checks only. Aesthetic acceptance, exact production logo application and sample performance remain unverified.",
+  "details": [
+    {
+      "name": "six unique styles",
+      "pass": true
+    },
+    {
+      "name": "six distinct descriptions",
+      "pass": true
+    },
+    {
+      "name": "N04 and N06 selected revisions",
+      "pass": true
+    },
+    {
+      "name": "N01 master readable",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "N01 copy equals original",
+      "pass": true
+    },
+    {
+      "name": "N01 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "N01 original image embedded unchanged",
+      "pass": true
+    },
+    {
+      "name": "N01 identity and caveat in board",
+      "pass": true
+    },
+    {
+      "name": "N01 awaiting user review",
+      "pass": true
+    },
+    {
+      "name": "N02 master readable",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "N02 copy equals original",
+      "pass": true
+    },
+    {
+      "name": "N02 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "N02 original image embedded unchanged",
+      "pass": true
+    },
+    {
+      "name": "N02 identity and caveat in board",
+      "pass": true
+    },
+    {
+      "name": "N02 awaiting user review",
+      "pass": true
+    },
+    {
+      "name": "N03 master readable",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "N03 copy equals original",
+      "pass": true
+    },
+    {
+      "name": "N03 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "N03 original image embedded unchanged",
+      "pass": true
+    },
+    {
+      "name": "N03 identity and caveat in board",
+      "pass": true
+    },
+    {
+      "name": "N03 awaiting user review",
+      "pass": true
+    },
+    {
+      "name": "N04 master readable",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "N04 copy equals original",
+      "pass": true
+    },
+    {
+      "name": "N04 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "N04 original image embedded unchanged",
+      "pass": true
+    },
+    {
+      "name": "N04 identity and caveat in board",
+      "pass": true
+    },
+    {
+      "name": "N04 awaiting user review",
+      "pass": true
+    },
+    {
+      "name": "N05 master readable",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "N05 copy equals original",
+      "pass": true
+    },
+    {
+      "name": "N05 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "N05 original image embedded unchanged",
+      "pass": true
+    },
+    {
+      "name": "N05 identity and caveat in board",
+      "pass": true
+    },
+    {
+      "name": "N05 awaiting user review",
+      "pass": true
+    },
+    {
+      "name": "N06 master readable",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "N06 copy equals original",
+      "pass": true
+    },
+    {
+      "name": "N06 4:5 board",
+      "pass": true
+    },
+    {
+      "name": "N06 original image embedded unchanged",
+      "pass": true
+    },
+    {
+      "name": "N06 identity and caveat in board",
+      "pass": true
+    },
+    {
+      "name": "N06 awaiting user review",
+      "pass": true
+    },
+    {
+      "name": "overview dimensions",
+      "pass": true
+    },
+    {
+      "name": "gallery link overview-N01-N06.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link DESIGN-RECORD.md",
+      "pass": true
+    },
+    {
+      "name": "gallery link USER-FEEDBACK.md",
+      "pass": true
+    },
+    {
+      "name": "gallery link QA.md",
+      "pass": true
+    },
+    {
+      "name": "gallery link boards/N01-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link masters/N01-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link editable/N01-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery link boards/N02-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link masters/N02-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link editable/N02-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery link boards/N03-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link masters/N03-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link editable/N03-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery link boards/N04-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link masters/N04-v2.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link editable/N04-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery link boards/N05-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link masters/N05-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link editable/N05-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery link boards/N06-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link masters/N06-v2.png",
+      "pass": true
+    },
+    {
+      "name": "gallery link editable/N06-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery link prompts.json",
+      "pass": true
+    },
+    {
+      "name": "gallery link revision-prompts.json",
+      "pass": true
+    },
+    {
+      "name": "no remote gallery dependencies",
+      "pass": true
+    },
+    {
+      "name": "protected 01-bone-signal.png",
+      "pass": true
+    },
+    {
+      "name": "protected 02-strata.png",
+      "pass": true
+    },
+    {
+      "name": "protected 03-notch.png",
+      "pass": true
+    },
+    {
+      "name": "protected 04-quiet-panel.png",
+      "pass": true
+    },
+    {
+      "name": "protected 05-afterhours.png",
+      "pass": true
+    },
+    {
+      "name": "protected 06-ash-frame.png",
+      "pass": true
+    },
+    {
+      "name": "protected 07-chain-form.png",
+      "pass": true
+    },
+    {
+      "name": "protected 08-ivory-cage.png",
+      "pass": true
+    },
+    {
+      "name": "protected 09-silver-wave.png",
+      "pass": true
+    },
+    {
+      "name": "protected 10-sand-current.png",
+      "pass": true
+    },
+    {
+      "name": "protected 11-graphite-cage.png",
+      "pass": true
+    },
+    {
+      "name": "protected 12-bone-layer.png",
+      "pass": true
+    },
+    {
+      "name": "protected 13-cross-weave.png",
+      "pass": true
+    },
+    {
+      "name": "protected 14-veil-high.png",
+      "pass": true
+    },
+    {
+      "name": "protected 15-gate-high.png",
+      "pass": true
+    },
+    {
+      "name": "protected F01-board.png",
+      "pass": true
+    },
+    {
+      "name": "protected F03-board.png",
+      "pass": true
+    },
+    {
+      "name": "protected F01-master-v2.png",
+      "pass": true
+    },
+    {
+      "name": "protected F03-master-v1.png",
+      "pass": true
+    },
+    {
+      "name": "protected F04-R2.png",
+      "pass": true
+    },
+    {
+      "name": "protected F04-board.png",
+      "pass": true
+    },
+    {
+      "name": "protected F02-R2.png",
+      "pass": true
+    },
+    {
+      "name": "protected F02-board.png",
+      "pass": true
+    },
+    {
+      "name": "retained original F02-R3-EXACT.png",
+      "pass": true
+    },
+    {
+      "name": "retained original F06-v1-EXACT.png",
+      "pass": true
+    }
+  ]
+}

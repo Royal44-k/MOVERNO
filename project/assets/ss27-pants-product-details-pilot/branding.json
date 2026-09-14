@@ -1,0 +1,18 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "wordmarkPath": "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/png/moverno-primary-wordmark-reverse@4x.png",
+  "emblemPath": "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/png/moverno-standalone-emblem-reverse@4x.png",
+  "mvRelayPath": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-mv-relay-selected/png/moverno-mv-relay-reverse@4x.png",
+  "motifPath": "D:/Codex-chat/night-veil-brand/assets/motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+  "roles": {
+    "veilGate": "页眉、品牌收束和少量衣内标签",
+    "mvRelay": "后腰牌、纽扣、铆钉、拉链头和小型压印",
+    "motif": "裤侧单链与局部结构叙事"
+  },
+  "prohibitions": [
+    "不得使用概念图中模型臆造的伪标识",
+    "不得把 V2 变成三条纹、部落纹、火焰、十字、皇冠、盾牌或武器",
+    "不得让金色进入 V2 的暗色内部",
+    "同一视图不得堆叠 Veil Gate 与 MV RELAY 争夺第一识别"
+  ]
+}

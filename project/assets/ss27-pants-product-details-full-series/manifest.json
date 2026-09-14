@@ -1,0 +1,882 @@
+{
+  "collection": "MOVERNO SS27 Pants — Product Details Full Series",
+  "generatedAt": "2026-09-09T13:02:31.759Z",
+  "status": "concept_details_for_user_review",
+  "disclaimer": "Concept renders only; final product follows approved physical samples and production files.",
+  "motifMaster": {
+    "path": "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+    "sha256": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76"
+  },
+  "products": [
+    {
+      "styleCode": "PT19",
+      "slug": "pt19-fluid-relay-obsidian-black",
+      "poster": "posters/pt19-fluid-relay-obsidian-black-details.png",
+      "svg": "editable/pt19-fluid-relay-obsidian-black-details.svg",
+      "preview": "previews/pt19-preview.png",
+      "mobile": "mobile/pt19-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "C8F98652B63366AD578DD93EF6EC2FF4FBE375908C5EB5D75ACDE80077A8AB2B",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "silhouette",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "maleFit",
+          "top": 1900,
+          "height": 950
+        },
+        {
+          "name": "innovation",
+          "top": 2850,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 3700,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 4650,
+          "height": 750
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 5400,
+          "height": 1100
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "81B969F3A3692018B14D37F8905C5B4ED679DB9C39FE5BA57B38B9F401BAE02C",
+        "silhouette-study.png": "D4B93AB118C0851423E3A9FBC0BFA6267ADD8A948D0A72EFB9F0DC2B8BB212C8",
+        "innovation-atlas.png": "31A2F5E9E06A5A10CBDE5195279981DCE0620CB4DA5645FFF87796F8B98DA6D7",
+        "material-brand-atlas.png": "23C82C97C7E75AD63115C4E1CFAAC8EBEEEBEA28071066B9E0199195F90CEECB",
+        "male-fit.png": "7E81925FD350E2C7D611B44535CF9A0887F94FBDB6690B9B4F185AAC98DBD96D",
+        "female-fit.png": "6698F501D0C0AE3FA79A2C87667DB586D82F50A483087507C800CF982CB8D5CC"
+      }
+    },
+    {
+      "styleCode": "PT20",
+      "slug": "pt20-seoul-curve-storm-gray",
+      "poster": "posters/pt20-seoul-curve-storm-gray-details.png",
+      "svg": "editable/pt20-seoul-curve-storm-gray-details.svg",
+      "preview": "previews/pt20-preview.png",
+      "mobile": "mobile/pt20-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "956752106EA25E658BDE95054CD947BA2DE43F88132DB9FDA2A5C4A893AB01DF",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "maleFit",
+          "top": 1050,
+          "height": 950
+        },
+        {
+          "name": "silhouette",
+          "top": 2000,
+          "height": 850
+        },
+        {
+          "name": "innovation",
+          "top": 2850,
+          "height": 850
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 3700,
+          "height": 750
+        },
+        {
+          "name": "femaleFit",
+          "top": 4450,
+          "height": 950
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 5400,
+          "height": 1100
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "72C58DD9DC0DD56F221895F89717642599F889834412946FA4EEBEC90D89925C",
+        "silhouette-study.png": "7A72A3F1C4218E1FC9DD0FE90A123452BD859DD613B10D928C6CF00CF479BFEB",
+        "innovation-atlas.png": "38D7ADA0533C94EEAC8A16BFD980DE770C4D2328FCB68A84B7C25CF2DC75D8D2",
+        "material-brand-atlas.png": "5D4E0DE5D2A562D7BBB41235C0EC3FDB866579313ED83D52F63D2CC4BF5A6BEE",
+        "male-fit.png": "07B572FD49E42A5C8E0015C314EB0763B6F15D04C0A73D614E79244E983ACBDF",
+        "female-fit.png": "48C66569F8746A0EB64518263BCB3A2CF102DF3172FB29A915D7D464879AB00B"
+      }
+    },
+    {
+      "styleCode": "PT21",
+      "slug": "pt21-stack-trace-coal-black",
+      "poster": "posters/pt21-stack-trace-coal-black-details.png",
+      "svg": "editable/pt21-stack-trace-coal-black-details.svg",
+      "preview": "previews/pt21-preview.png",
+      "mobile": "mobile/pt21-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "7ECD1811E42844F423D6B0C27D10AFEA753B3BDD7576F87AD75110F08A8113F8",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "innovation",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "silhouette",
+          "top": 1900,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 2750,
+          "height": 950
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 3700,
+          "height": 1100
+        },
+        {
+          "name": "maleFit",
+          "top": 4800,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 5750,
+          "height": 750
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "330CFCBA436B5C1793098420CDB94BAAEA52794C0C606DA14EBDDD7DEFD43632",
+        "silhouette-study.png": "5875CC3B92D43FF08875A981A7DBF6AB582C77FFD9809C2757E49148ECE1D91D",
+        "innovation-atlas.png": "08E363CC84CEE9EAD29C40A09B72D35E80965176C52B51279ACA63CF69B678D0",
+        "material-brand-atlas.png": "848C5CA369F12587068D0FC55489003E099E80576CBB06E63468215CF64AB80C",
+        "male-fit.png": "8850BEAEBF5CD247FD7C9C454E41DF8E993FD98244D0BCF9996A9AFB0D095EC3",
+        "female-fit.png": "5D42E8A87455FDAEDC2C4D7C07E61019C31BB6C4940B086CB4EA43AA1D1351E4"
+      }
+    },
+    {
+      "styleCode": "PT22-A",
+      "slug": "pt22a-tower-signal-lead-iron-black",
+      "poster": "posters/pt22a-tower-signal-lead-iron-black-details.png",
+      "svg": "editable/pt22a-tower-signal-lead-iron-black-details.svg",
+      "preview": "previews/pt22-a-preview.png",
+      "mobile": "mobile/pt22-a-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "184F59D1E1029402F6231A7519389A514056C93FF4B569ABE157F66084A12605",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "silhouette",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "innovation",
+          "top": 1900,
+          "height": 850
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 2750,
+          "height": 750
+        },
+        {
+          "name": "maleFit",
+          "top": 3500,
+          "height": 950
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 4450,
+          "height": 1100
+        },
+        {
+          "name": "femaleFit",
+          "top": 5550,
+          "height": 950
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "38F452BDBCA9754C1C2EE0A3EFCC2AC203BE80EDB41127EA25A90AE8D82040E6",
+        "silhouette-study.png": "A4091BEE45EA8C8798BC5DDFA4ED859E82531A7EB56D7464660A73E80E22FCD0",
+        "innovation-atlas.png": "4E41C49136B4A64EB098CAD999E3DBA3579085AB0C3ED67FB39113ED913925D2",
+        "material-brand-atlas.png": "52B95C8E1A3A72BAD4CF3791E7C265C3523574CF8A2B03C7B2E635E559BDFE2F",
+        "male-fit.png": "60DA08832A8A57C32C06C98745A03742D7A6D829C9DD87861D81815B89F30962",
+        "female-fit.png": "6D554835842431C558CA972D5AC48A04E3113BBFF91A88EB346D7CF35233F470"
+      }
+    },
+    {
+      "styleCode": "PT23-A",
+      "slug": "pt23a-night-current-pomegranate-black",
+      "poster": "posters/pt23a-night-current-pomegranate-black-details.png",
+      "svg": "editable/pt23a-night-current-pomegranate-black-details.svg",
+      "preview": "previews/pt23-a-preview.png",
+      "mobile": "mobile/pt23-a-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "0D9DB73B09B7DDDF8713DDA573117EB1E769A9B59715FAC803A9180BE7E3A341",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "innovation",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "maleFit",
+          "top": 1900,
+          "height": 950
+        },
+        {
+          "name": "silhouette",
+          "top": 2850,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 3700,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 4650,
+          "height": 750
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 5400,
+          "height": 1100
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "7BA3156ADA8D0CE78D2A631E92E032917A79B528D2415FC450F811233093D789",
+        "silhouette-study.png": "2C4A1CC6D53A01518EA44CC2CD9519BD60B4045EBAADBDB46DBAAED0E0BBA269",
+        "innovation-atlas.png": "B53979CDAA1507ADA5D4C30976E3093118B85C215E572F091E21529B6E3C22E0",
+        "material-brand-atlas.png": "396B46C469ED31B6026BE131E22413229F97B3F511D1532EB7732E711848E161",
+        "male-fit.png": "3E78EE8A03028CF7D35ED071988CBC3B798A7C94BFCC2AEA31B1AF9A4432AD1E",
+        "female-fit.png": "6D43DCF377057423266054C49252CA2678B5163885B585BC3285D82985EC7EE6"
+      }
+    },
+    {
+      "styleCode": "PT24",
+      "slug": "pt24-parkour-rail-iron-gray",
+      "poster": "posters/pt24-parkour-rail-iron-gray-details.png",
+      "svg": "editable/pt24-parkour-rail-iron-gray-details.svg",
+      "preview": "previews/pt24-preview.png",
+      "mobile": "mobile/pt24-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "A58AD8497E2BFDC6AF9370F39458B49113F2C6D01FA44C8180EF57888CBDD41E",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "maleFit",
+          "top": 1050,
+          "height": 950
+        },
+        {
+          "name": "innovation",
+          "top": 2000,
+          "height": 850
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 2850,
+          "height": 1100
+        },
+        {
+          "name": "silhouette",
+          "top": 3950,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 4800,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 5750,
+          "height": 750
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "1105207055EC42E088371BF9B374777852EC0CA07824486671F158B1DA9F4CE5",
+        "silhouette-study.png": "EB1108D3E0F8061180EC210716EF79920E29BACDEF3DA1DD8ACAF8AF81A44F99",
+        "innovation-atlas.png": "88CAA3146FEA819422707C907A30A04DF4A841EEF4746F8660E7E4270EFDED56",
+        "material-brand-atlas.png": "D390C597E7D7660531312699A4A9194A24D9D7B2D75345B902186B0FC6562AD8",
+        "male-fit.png": "F0C3118D6EC95B89F91FD9657771867F8A2D3B25C838C96340B61C4294430B83",
+        "female-fit.png": "14793E7810418A818CE5C1F917B6983CC67873F7A216FCD858EA8C56BC2181EE"
+      }
+    },
+    {
+      "styleCode": "PT25-A",
+      "slug": "pt25a-mineral-puddle-neutral-gray",
+      "poster": "posters/pt25a-mineral-puddle-neutral-gray-details.png",
+      "svg": "editable/pt25a-mineral-puddle-neutral-gray-details.svg",
+      "preview": "previews/pt25-a-preview.png",
+      "mobile": "mobile/pt25-a-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "642CA7634B3B872BAF3FE0828EF64FA2A9A78E221B1B99F8CE2C14CC3A54ADE7",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 1050,
+          "height": 1100
+        },
+        {
+          "name": "silhouette",
+          "top": 2150,
+          "height": 850
+        },
+        {
+          "name": "maleFit",
+          "top": 3000,
+          "height": 950
+        },
+        {
+          "name": "innovation",
+          "top": 3950,
+          "height": 850
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 4800,
+          "height": 750
+        },
+        {
+          "name": "femaleFit",
+          "top": 5550,
+          "height": 950
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "2ED2FF484BF8FEBB1E8DDD8115A84B14FBE865ECD935FD5B7D06DDB8C22B9895",
+        "silhouette-study.png": "A84D54E7B6D039C6E795B294BB9CA000C0619CAAFE1514E848A3E0071BB27AAA",
+        "innovation-atlas.png": "04F3ECF445B83E217ACD6827D4F1694B936837624C96BE7AA427F63EB6BEE0EB",
+        "material-brand-atlas.png": "3FF227A081676A8567460B9AEC036C4D0DB1C9F72965D5D1136F2057DFF56AB6",
+        "male-fit.png": "EFC853634227296981D7EA9D1FF97DC3D9F8C755D46B7A10E0A62117AC62259B",
+        "female-fit.png": "F18BCB8B609F126CF782A4F1C628D7D1088F81207B3695F6E1239D5C85D20217"
+      }
+    },
+    {
+      "styleCode": "PT26",
+      "slug": "pt26-quiet-tailor-black-cherry",
+      "poster": "posters/pt26-quiet-tailor-black-cherry-details.png",
+      "svg": "editable/pt26-quiet-tailor-black-cherry-details.svg",
+      "preview": "previews/pt26-preview.png",
+      "mobile": "mobile/pt26-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "3BEFBA59B1F81B9A0544DAA023DAC87CB11DB7D4C005F429D9675CDEA05A16CF",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "silhouette",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 1900,
+          "height": 950
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 2850,
+          "height": 1100
+        },
+        {
+          "name": "innovation",
+          "top": 3950,
+          "height": 850
+        },
+        {
+          "name": "maleFit",
+          "top": 4800,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 5750,
+          "height": 750
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "21E3475950F20806A1202C52CF72FAE5B06BDFEECF30FD8C84276919DBCCBB75",
+        "silhouette-study.png": "A12D9DF0E0678CE4652469C882F7ECDB7DC570B13EB8E8CC2870241E5C03215E",
+        "innovation-atlas.png": "F32952B948F38522AFED6874C9C03F3FFEF7DCDC64861C634AA172CF3F7EC9D2",
+        "material-brand-atlas.png": "422D2D372C709B16270DABE93DB450FD9794258C1B5EB2B12874F6309184DF57",
+        "male-fit.png": "F03FB26DAE16497460B35CC3B300FE7DEE4D32B1DA291D309FB03670AAE23FB7",
+        "female-fit.png": "6C2D9253E6AC917A46458932DA62A46D2B8F11D46CCC0C5A0CC7DCFE0A461D66"
+      }
+    },
+    {
+      "styleCode": "PT27-A",
+      "slug": "pt27a-curve-vortex-oxblood-black",
+      "poster": "posters/pt27a-curve-vortex-oxblood-black-details.png",
+      "svg": "editable/pt27a-curve-vortex-oxblood-black-details.svg",
+      "preview": "previews/pt27-a-preview.png",
+      "mobile": "mobile/pt27-a-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "5F0E2FC05FD6A0216A5DA40807BF1DF90EB4DCB10542C236A3F9D493DC504DA2",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "femaleFit",
+          "top": 1050,
+          "height": 950
+        },
+        {
+          "name": "silhouette",
+          "top": 2000,
+          "height": 850
+        },
+        {
+          "name": "innovation",
+          "top": 2850,
+          "height": 850
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 3700,
+          "height": 750
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 4450,
+          "height": 1100
+        },
+        {
+          "name": "maleFit",
+          "top": 5550,
+          "height": 950
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "5BACD07B07DA13B3C07DF38C3348ECA81F345E1F35784159E8DA07A527C38E4F",
+        "silhouette-study.png": "3E7FA796D68BDB83D88419F22921FB8296CD5D61A007D1C6D68F7BFA237CC179",
+        "innovation-atlas.png": "669021402A055601D4BBBBDD05E2B8CF7FCA0D592050F1BCAC69FD5944A244D1",
+        "material-brand-atlas.png": "5BF1F677774F9DF41B4C15871F3A875D090A02B0B9F849B15364CC5B485B1B3C",
+        "male-fit.png": "F3241C0A7D157722A5D0B760DFAE48D0CC878C2D2EB4ECEF9AD6D6D62E9F182F",
+        "female-fit.png": "D65FCED81B241328611EFCA6A195DE7F71967258649696DCCFA95AB70D68D531"
+      }
+    },
+    {
+      "styleCode": "PT28",
+      "slug": "pt28-aperture-cargo-graphite-olive",
+      "poster": "posters/pt28-aperture-cargo-graphite-olive-details.png",
+      "svg": "editable/pt28-aperture-cargo-graphite-olive-details.svg",
+      "preview": "previews/pt28-preview.png",
+      "mobile": "mobile/pt28-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "DD9AD805BDBAF6B588CBEFC77B8B08F8FB43E37E0F1967AE635DF93D08D4E636",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "innovation",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "silhouette",
+          "top": 1900,
+          "height": 850
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 2750,
+          "height": 750
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 3500,
+          "height": 1100
+        },
+        {
+          "name": "maleFit",
+          "top": 4600,
+          "height": 950
+        },
+        {
+          "name": "femaleFit",
+          "top": 5550,
+          "height": 950
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "3F3FD96946A2B1C4C6A8F4C96B231CD418AC48B0EFE431454DB175ED9C5BE459",
+        "silhouette-study.png": "7B18BC0AE9E04DD956A703EB457C7867A2573F0AA8AADF1DFD96A6B26AF79D60",
+        "innovation-atlas.png": "5C22C85CA1CEA9CC73AF69EAAA963667884997ED50BB668363882664AC29B2C5",
+        "material-brand-atlas.png": "272B0CFB644DB397CD22C4609AE5B3C1B1302A98B92A70DAF957651EABA44224",
+        "male-fit.png": "A288249344E0F7E78316A7A00B57F326C722919DC45B94C1951B8F3A69A397A8",
+        "female-fit.png": "08ED5A6A3BC72719939DD842B1A217B41D4789FBDC5C5CAAE65D26971C06030F"
+      }
+    },
+    {
+      "styleCode": "PT29",
+      "slug": "pt29-snap-column-smoke-black",
+      "poster": "posters/pt29-snap-column-smoke-black-details.png",
+      "svg": "editable/pt29-snap-column-smoke-black-details.svg",
+      "preview": "previews/pt29-preview.png",
+      "mobile": "mobile/pt29-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "EC2336580CD910277518D700387016598BEC222C9AB7999A2E719855EAD5B456",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "maleFit",
+          "top": 1050,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 2000,
+          "height": 750
+        },
+        {
+          "name": "innovation",
+          "top": 2750,
+          "height": 850
+        },
+        {
+          "name": "silhouette",
+          "top": 3600,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 4450,
+          "height": 950
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 5400,
+          "height": 1100
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "6A03251D6B0307AF5D67FA0030AE9370674FD728B261AF80CA6F2D480B3D0DD5",
+        "silhouette-study.png": "307294E3AEBE4644ABF47FC9BD20BD76E4E1082A692AAE55B328E8D5966675B2",
+        "innovation-atlas.png": "2F71A31AE374B9F04880C816CEF0CDEF67CBD731FB736CDF8BC4434CC4F3105B",
+        "material-brand-atlas.png": "D24AB1E93B75FF95CB8E97D4811BFED48B925E98C365230A4064B33883C4085E",
+        "male-fit.png": "C9B63DA4260FED85E399587EAAFFD34091F856F903269ECE5E99E4ECA23F0628",
+        "female-fit.png": "42D6AC34B375619AB694F713F015301327BD488CD3C4D6BAAE7603E8188845CF"
+      }
+    },
+    {
+      "styleCode": "PT30-A",
+      "slug": "pt30a-tokyo-fold-tungsten-gray",
+      "poster": "posters/pt30a-tokyo-fold-tungsten-gray-details.png",
+      "svg": "editable/pt30a-tokyo-fold-tungsten-gray-details.svg",
+      "preview": "previews/pt30-a-preview.png",
+      "mobile": "mobile/pt30-a-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "0FAFC2F8E6521019F71803BAF3ED03D6B82FD499A94241BAF2A15AB57D98B970",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "silhouette",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 1900,
+          "height": 1100
+        },
+        {
+          "name": "innovation",
+          "top": 3000,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 3850,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 4800,
+          "height": 750
+        },
+        {
+          "name": "maleFit",
+          "top": 5550,
+          "height": 950
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "64608C559CABCD8DFB1F5700603E76D3D402F89BED30FB17B88B0ED810D24344",
+        "silhouette-study.png": "5A9FDAB9635A184FF36ACFE2542E7B6D2BCA67302713AE03E0218D128242198C",
+        "innovation-atlas.png": "CE3817DF4411454374A2A752E16DCF9C5745BECFCF318CA4713271FA9980F0EC",
+        "material-brand-atlas.png": "806809B4E62D79F95E4A52DAC033D55315A7698DED5D50FD582A5D75376DBE29",
+        "male-fit.png": "A9F9AD38A3A8450585BB7A235F536959BF07446CAC310915D8B26C1F990390DB",
+        "female-fit.png": "A358123EC7C05B6DA852FAFD492709265BCB0499A0BE18AB5F6BCECE76AD3E40"
+      }
+    },
+    {
+      "styleCode": "PT22-B",
+      "slug": "pt22b-tower-signal-deep-indigo",
+      "poster": "posters/pt22b-tower-signal-deep-indigo-details.png",
+      "svg": "editable/pt22b-tower-signal-deep-indigo-details.svg",
+      "preview": "previews/pt22-b-preview.png",
+      "mobile": "mobile/pt22-b-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "D63B4B91AE7F32CB0E1E6517D1798D8535778F1508EBC119ED9EF96640391277",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "femaleFit",
+          "top": 1050,
+          "height": 950
+        },
+        {
+          "name": "innovation",
+          "top": 2000,
+          "height": 850
+        },
+        {
+          "name": "silhouette",
+          "top": 2850,
+          "height": 850
+        },
+        {
+          "name": "maleFit",
+          "top": 3700,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 4650,
+          "height": 750
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 5400,
+          "height": 1100
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "887FD38C26065162A739302C90BAD03BB16ACF5CA5114C3D4FB526D32F8BBF11",
+        "silhouette-study.png": "C23570960DCBC80DE770EBE7BA58FCF272A536C2B84FAED3E20A11951E30A1A6",
+        "innovation-atlas.png": "CD43C9A209FFC2277FEB8A6ADB8CF8E4913B6889F7B5E98DC13E312AC328F3D4",
+        "material-brand-atlas.png": "BAB36EB03BF31F437E74950813757BC864115851FA7A881B9A2D7C6940B3D2CF",
+        "male-fit.png": "F01D4B139BAB8F59DAA1408A3A13176DEF01EBC8B487B079A5A01F4A8C9169C0",
+        "female-fit.png": "B45283AE3F1692C549A9F5DE54EDAAB7D00CEF3ED411C00964FAC853E212895D"
+      }
+    },
+    {
+      "styleCode": "PT25-B",
+      "slug": "pt25b-mineral-puddle-pale-blue-gray",
+      "poster": "posters/pt25b-mineral-puddle-pale-blue-gray-details.png",
+      "svg": "editable/pt25b-mineral-puddle-pale-blue-gray-details.svg",
+      "preview": "previews/pt25-b-preview.png",
+      "mobile": "mobile/pt25-b-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "512175B855316B0081B2384F0E4F6D0A6E5B3A3B0896068F34E3D8DE847A349D",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 1050,
+          "height": 1100
+        },
+        {
+          "name": "maleFit",
+          "top": 2150,
+          "height": 950
+        },
+        {
+          "name": "innovation",
+          "top": 3100,
+          "height": 850
+        },
+        {
+          "name": "silhouette",
+          "top": 3950,
+          "height": 850
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 4800,
+          "height": 750
+        },
+        {
+          "name": "femaleFit",
+          "top": 5550,
+          "height": 950
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "3F7893C85F399AD8C244DA38DC88E118D73A0EC32447C2D8CF0883A7021E3377",
+        "silhouette-study.png": "2B77B500E2DA6E8B51099D95ECF6F229844289DA5FB3B460697423A69E4D64F3",
+        "innovation-atlas.png": "3E038D8FC1A329E72DC2D74A48F2AC7C53D1A1B97AE2AE527A6DDBC6F8E2357A",
+        "material-brand-atlas.png": "15F5E24D4480FD45E45132576CFFDC759A568F64704FC762D6F4A36E6BEB855D",
+        "male-fit.png": "EB253AC614730840F854D8323AECCC8793794BEDF0677D5EB187654D70A34175",
+        "female-fit.png": "59D07770F9FCAE4EB12F31E0B90F23590B818D5DA53E895A4A0B81E0D1E80CAB"
+      }
+    },
+    {
+      "styleCode": "PT27-B",
+      "slug": "pt27b-curve-vortex-blue-black",
+      "poster": "posters/pt27b-curve-vortex-blue-black-details.png",
+      "svg": "editable/pt27b-curve-vortex-blue-black-details.svg",
+      "preview": "previews/pt27-b-preview.png",
+      "mobile": "mobile/pt27-b-375w.png",
+      "dimensions": [
+        1080,
+        6500
+      ],
+      "posterSha256": "12D64C0E068AB458BF4CA527DAE1360ED30117C4AD475E183940328211ADCD24",
+      "sectionMap": [
+        {
+          "name": "opening",
+          "top": 0,
+          "height": 1050
+        },
+        {
+          "name": "innovation",
+          "top": 1050,
+          "height": 850
+        },
+        {
+          "name": "femaleFit",
+          "top": 1900,
+          "height": 950
+        },
+        {
+          "name": "materialAndCTA",
+          "top": 2850,
+          "height": 1100
+        },
+        {
+          "name": "silhouette",
+          "top": 3950,
+          "height": 850
+        },
+        {
+          "name": "maleFit",
+          "top": 4800,
+          "height": 950
+        },
+        {
+          "name": "identityInTouchpoint",
+          "top": 5750,
+          "height": 750
+        }
+      ],
+      "assetSha256": {
+        "hero.png": "E847C4F8F303256DD5E115B4F99E6E953561251BE91AD3B9F9F6FF1D97CC975B",
+        "silhouette-study.png": "40B60624162713824042CC21D10F082F04FB97DD4BB2C4749AE23DF49AE49A01",
+        "innovation-atlas.png": "6DE9022F135126CEF07F05476A27AF96DA563DB8F452FA4358CB2F7235D4547F",
+        "material-brand-atlas.png": "C65C9F88DAF6DECBBF9054AB76AEAF88E262D74EA6F2BAB4528D264780E05076",
+        "male-fit.png": "2E4CBAC94E46FAE454F1042FD195991AEF066B8D748E22C9629BF33C32846D99",
+        "female-fit.png": "1E1B7324A0D8551EEC58BEEA4018946C6A6B91667AA04A778319FA00E7FC9158"
+      }
+    }
+  ]
+}

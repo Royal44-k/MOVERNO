@@ -1,0 +1,14 @@
+{
+  "id": "11",
+  "batch": 3,
+  "type": "campaign",
+  "target": "campaign/11-graphite-cage-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/11-graphite-cage.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Graphite dark-gray elongated technical runner. Three open scalloped windows in a smoky translucent gray side frame, gray mesh underneath, gray cords thread through circular frame anchors. Heel-mounted smoky gray oval-shield badge with black two-part gate and a gray cord crosses towards side. Long rear oval sole pod with horizontal striations; separated graphite forefoot blocks; tiny burgundy seam near rear collar. No silver white panels, no full black flat skate sole. Scene: Adult lower legs in matte charcoal tapered technical trousers, cuffs above shoes. Graphite runners staggered on two broad concrete slabs separated by a narrow seam, foreground shoe clearly displays side frame and rear badge. Low lateral camera, thin grazing side light separates smoky gray frame from mesh. Dark graphite architectural background, no colored lighting. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-a6b57aa7-994a-47ce-b7e3-3877fde70359.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/11-graphite-cage-campaign.png",
+  "status": "selected"
+}

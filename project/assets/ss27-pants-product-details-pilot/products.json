@@ -1,0 +1,81 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "date": "2026-09-08",
+  "mission": "让黑夜不必黯然，让差异不必喧哗。",
+  "belief": "Different But Excellent.",
+  "productLine": "暗中移动，保持柔软 / MOVE DARK. STAY SOFT.",
+  "products": [
+    {
+      "id": "19",
+      "styleCode": "SS27-PT19",
+      "slug": "fluid-relay",
+      "name": "流幕宽腿裤",
+      "englishName": "FLUID RELAY",
+      "colorway": "OBSIDIAN BLACK",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-single-relay-round3/01-pt19-fluid-relay-obsidian-black.png",
+      "hero": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-product-details-pilot/heroes/19-fluid-relay-hero.png",
+      "headline": ["柔软不是退让，", "是另一种防护。"],
+      "kicker": "SOFTNESS, HELD IN FORM.",
+      "intro": ["落地宽腿把身体包进流动轮廓，", "侧身单链在行走之间显露，不用喧哗也留下识别。"],
+      "features": ["落地流体宽腿", "三段幕隙侧窗", "单链呼吸节奏"],
+      "details": [
+        {"title": "出现，也留有余地", "body": "同一条 V2 轨迹穿过三段不等长开口，在结构之间留下呼吸。", "roi": [1232, 22, 290, 356]},
+        {"title": "光只沿边缘行走", "body": "石墨内层保持暗黑，旧金边线与暗血红节点只在靠近时被看见。", "roi": [1234, 694, 292, 302]}
+      ],
+      "brandTouchpoints": ["抽绳端头 MV RELAY", "后腰同色 Veil Gate", "内侧 MOVERNO 织唛"],
+      "colorNames": ["黑曜", "石墨", "旧金"],
+      "colors": ["#0D0D0F", "#25262A", "#8A7652"],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-product-details-pilot/posters/19-fluid-relay-detail.png"
+    },
+    {
+      "id": "25A",
+      "styleCode": "SS27-PT25",
+      "slug": "mineral-puddle-neutral-gray",
+      "name": "矿迹堆叠牛仔裤",
+      "englishName": "MINERAL PUDDLE",
+      "colorway": "NEUTRAL MINERAL GRAY",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-single-relay-round3/07a-pt25-mineral-puddle-neutral-gray.png",
+      "hero": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-product-details-pilot/heroes/25a-mineral-puddle-hero.png",
+      "headline": ["磨损留下时间，", "轮廓保留态度。"],
+      "kicker": "WORN IN. NEVER QUIET.",
+      "intro": ["矿物灰洗水与极宽堆脚，把使用痕迹变成层次。", "侧链从完整模块逐渐退入洗色，拒绝机械复制。"],
+      "features": ["极宽堆脚比例", "矿物灰洗水", "单模块渐隐侧链"],
+      "details": [
+        {"title": "图案从洗水中出现", "body": "一个完整模块与短残影沿外侧自然消散，节奏不规则但仍可辨认。", "roi": [1182, 0, 350, 374]},
+        {"title": "表面记录时间", "body": "颗粒洗色、斜纹组织与轻微磨蚀形成由远及近的灰阶。", "roi": [1182, 390, 350, 602]}
+      ],
+      "brandTouchpoints": ["氧化镍 MV RELAY 腰扣", "后腰黑灰压印牌", "内侧骨灰织唛"],
+      "colorNames": ["矿物灰", "煤黑", "氧化镍"],
+      "colors": ["#77716A", "#1B1B1C", "#73777A"],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-product-details-pilot/posters/25a-mineral-puddle-neutral-gray-detail.png"
+    },
+    {
+      "id": "28",
+      "styleCode": "SS27-PT28",
+      "slug": "aperture-cargo",
+      "name": "幕隙隐藏工装裤",
+      "englishName": "APERTURE CARGO",
+      "colorway": "GRAPHITE OLIVE",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-single-relay-round3/10-pt28-aperture-cargo-graphite-olive.png",
+      "hero": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-product-details-pilot/heroes/28-aperture-cargo-hero.png",
+      "headline": ["把功能藏进结构，", "把不同留给靠近。"],
+      "kicker": "FUNCTION UNDER THE SURFACE.",
+      "intro": ["微桶形轮廓保持外表克制，", "侧缝打开后，V2 单链和扩展结构才从暗面显露。"],
+      "features": ["微桶形技术轮廓", "隐藏侧缝扩展片", "开合式 V2 单链"],
+      "details": [
+        {"title": "开合之间，改变表情", "body": "闭合时只留下窄缝；打开后，暗色链节沿扩展片显露。", "roi": [1210, 8, 314, 397]},
+        {"title": "结构自己成为装饰", "body": "细密 ripstop 网格、曲线裁片和氧化镍拉头形成克制的技术层次。", "roi": [1210, 410, 314, 598]}
+      ],
+      "brandTouchpoints": ["MV RELAY 拉链头", "后腰小型 Veil Gate", "暗血红节点套结"],
+      "colorNames": ["石墨橄榄", "黑曜", "氧化镍"],
+      "colors": ["#34352F", "#0D0D0F", "#73777A"],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-pants-product-details-pilot/posters/28-aperture-cargo-detail.png"
+    }
+  ]
+}

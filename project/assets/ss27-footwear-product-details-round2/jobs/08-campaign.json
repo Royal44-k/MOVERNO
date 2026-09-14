@@ -1,0 +1,14 @@
+{
+  "id": "08",
+  "batch": 2,
+  "type": "campaign",
+  "target": "campaign/08-ivory-cage-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/08-ivory-cage.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Bone/ivory long low technical runner. Flowing bone colored thin double ribs form curved vertical CAGE over cream open mesh, tiny muted red links at their joins. Thin ivory cables/straps wrap forefoot and run around side. Large rearward extended oval sole pod and separated forefoot blocks, aged off-white abrasion at bottom. Entire shoe ivory except tiny dark-red links. Preserve rear pull loop; no black large side logo. Scene: Adult lower legs wearing loose graphite cropped trousers and bone socks. Bone cage runners step between a pale concrete floor and low dark metal curb, shoes unobscured. Foreground lateral side shows ribs and wrap cords, rear foot turned 3/4. Single slanted sun patch through architectural gap, rich neutral charcoal upper space. Ivory details retain tone and mesh, not overexposed. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-114e82f5-c118-4aa2-9586-dfc01100f8bd.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/08-ivory-cage-campaign.png",
+  "status": "selected"
+}

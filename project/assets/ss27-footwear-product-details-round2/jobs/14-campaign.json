@@ -1,0 +1,14 @@
+{
+  "id": "14",
+  "batch": 3,
+  "type": "campaign",
+  "target": "campaign/14-veil-high-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/14-veil-high.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Medium-high slim classic high-top. Smoky gray translucent/ripstop gridded-looking upper over LARGE low-contrast bone-gray elongated gate chambers repeating vertically with tiny faded red joins. Black smooth eyestay, black toe rim, black heel triangular reinforcement, ivory flat laces through round silver eyelets, thin black rear loop. Flat aged ivory cupsole with front diamond texture and black thin bottom. Preserve specific quiet translucent-looking monogram pattern; no black/gold ornate overlay, no zipper. Scene: Adult lower calves in charcoal straight trousers cropped ABOVE high-top collar, smoky translucent-patterned high-tops fully visible. Subtle backlight from a tall frosted glass panel reveals grid and quiet elongated motif while product itself remains opaque enough to keep source look. One foot lateral foreground, second rear 3/4, muted gray floor, black surroundings, no neon and no colored glass. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-31ac28f6-9699-4492-b8aa-41d7b00a7ad3.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/14-veil-high-campaign.png",
+  "status": "selected"
+}

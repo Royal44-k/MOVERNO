@@ -1,0 +1,1118 @@
+{
+  "date": "2026-09-09",
+  "scope": "all 15 / batches 01–03",
+  "count": 277,
+  "passed": 277,
+  "failed": [],
+  "checks": [
+    {
+      "name": "01 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "02 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "03 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "04 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "05 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "06 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "07 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "08 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "09 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "10 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "11 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "12 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "13 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "14 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "15 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "01 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "01 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "01 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "01 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "01 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "01 no external image links",
+      "ok": true
+    },
+    {
+      "name": "01 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "01 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "01 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "02 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "02 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "02 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "02 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "02 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "02 no external image links",
+      "ok": true
+    },
+    {
+      "name": "02 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "02 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "02 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "03 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "03 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "03 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "03 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "03 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "03 no external image links",
+      "ok": true
+    },
+    {
+      "name": "03 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "03 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "03 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "04 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "04 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "04 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "04 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "04 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "04 no external image links",
+      "ok": true
+    },
+    {
+      "name": "04 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "04 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "04 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "05 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "05 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "05 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "05 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "05 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "05 no external image links",
+      "ok": true
+    },
+    {
+      "name": "05 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "05 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "05 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "06 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "06 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "06 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "06 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "06 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "06 no external image links",
+      "ok": true
+    },
+    {
+      "name": "06 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "06 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "06 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "07 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "07 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "07 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "07 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "07 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "07 no external image links",
+      "ok": true
+    },
+    {
+      "name": "07 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "07 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "07 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "08 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "08 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "08 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "08 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "08 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "08 no external image links",
+      "ok": true
+    },
+    {
+      "name": "08 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "08 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "08 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "09 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "09 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "09 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "09 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "09 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "09 no external image links",
+      "ok": true
+    },
+    {
+      "name": "09 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "09 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "09 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "10 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "10 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "10 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "10 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "10 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "10 no external image links",
+      "ok": true
+    },
+    {
+      "name": "10 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "10 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "10 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "11 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "11 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "11 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "11 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "11 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "11 no external image links",
+      "ok": true
+    },
+    {
+      "name": "11 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "11 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "11 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "12 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "12 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "12 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "12 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "12 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "12 no external image links",
+      "ok": true
+    },
+    {
+      "name": "12 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "12 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "12 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "13 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "13 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "13 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "13 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "13 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "13 no external image links",
+      "ok": true
+    },
+    {
+      "name": "13 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "13 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "13 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "14 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "14 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "14 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "14 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "14 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "14 no external image links",
+      "ok": true
+    },
+    {
+      "name": "14 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "14 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "14 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "15 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "15 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "15 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "15 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "15 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "15 no external image links",
+      "ok": true
+    },
+    {
+      "name": "15 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "15 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "15 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "local link social/01-bone-signal-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/01-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/01-bone-signal-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/01-bone-signal-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/01-bone-signal-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/01-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/02-strata-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/02-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/02-strata-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/02-strata-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/02-strata-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/02-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/03-notch-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/03-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/03-notch-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/03-notch-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/03-notch-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/03-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/04-quiet-panel-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/04-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/04-quiet-panel-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/04-quiet-panel-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/04-quiet-panel-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/04-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/05-afterhours-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/05-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/05-afterhours-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/05-afterhours-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/05-afterhours-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/05-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/06-ash-frame-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/06-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/06-ash-frame-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/06-ash-frame-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/06-ash-frame-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/06-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/07-chain-form-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/07-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/07-chain-form-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/07-chain-form-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/07-chain-form-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/07-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/08-ivory-cage-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/08-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/08-ivory-cage-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/08-ivory-cage-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/08-ivory-cage-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/08-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/09-silver-wave-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/09-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/09-silver-wave-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/09-silver-wave-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/09-silver-wave-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/09-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/10-sand-current-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/10-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/10-sand-current-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/10-sand-current-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/10-sand-current-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/10-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/11-graphite-cage-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/11-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/11-graphite-cage-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/11-graphite-cage-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/11-graphite-cage-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/11-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/12-bone-layer-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/12-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/12-bone-layer-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/12-bone-layer-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/12-bone-layer-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/12-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/13-cross-weave-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/13-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/13-cross-weave-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/13-cross-weave-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/13-cross-weave-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/13-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/14-veil-high-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/14-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/14-veil-high-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/14-veil-high-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/14-veil-high-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/14-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/15-gate-high-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/15-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/15-gate-high-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/15-gate-high-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/15-gate-high-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/15-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link research/visual-research.md",
+      "ok": true
+    },
+    {
+      "name": "local link products.json",
+      "ok": true
+    },
+    {
+      "name": "local link verification-complete.json",
+      "ok": true
+    },
+    {
+      "name": "HTML lists all 15 concepts",
+      "ok": true
+    },
+    {
+      "name": "metadata says 15 completed",
+      "ok": true
+    },
+    {
+      "name": "06 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "06 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "06 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "07 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "07 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "07 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "08 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "08 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "08 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "09 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "09 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "09 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "10 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "10 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "10 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "11 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "11 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "11 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "12 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "12 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "12 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "13 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "13 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "13 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "14 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "14 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "14 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "15 six explicit cell boxes",
+      "ok": true
+    },
+    {
+      "name": "15 cells inside image",
+      "ok": true
+    },
+    {
+      "name": "15 two brand closeups",
+      "ok": true
+    },
+    {
+      "name": "batch 02 has 5 cards",
+      "ok": true
+    },
+    {
+      "name": "batch 03 has 5 cards",
+      "ok": true
+    }
+  ],
+  "visualReview": "Source silhouettes and palette, six-view order, cover composition and detail crops inspected separately. Added views are conceptual, not CAD/tech-pack or factory proof."
+}

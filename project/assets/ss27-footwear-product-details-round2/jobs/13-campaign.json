@@ -1,0 +1,14 @@
+{
+  "id": "13",
+  "batch": 3,
+  "type": "campaign",
+  "target": "campaign/13-cross-weave-campaign.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/13-cross-weave.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Dark black/graphite low elongated web-wrap runner. Open black mesh entirely crossed by MANY long gray and black flat woven tapes, diagonally and across forefoot and beneath bottom edges. One firm black diagonal side strip with a thin muted brass edge. Dark translucent segmented low sole, prominent extended rear pod. Tiny gate on square gray tab at heel loop. Preserve entire deliberate wrapping system, no simplifying into standard laces or free spaghetti cords. Scene: Adult lower legs in cropped washed-black loose denim, no fabric covers the wrapping. Dark web-wrap runners with ALL gray and black tapes as original. Front foot placed diagonally near a low brushed metal ledge, second planted on ground, no crossing legs. Directional gray flash highlights woven tape texture on black mesh. Graphite concrete floor, no reflective puddles, no loose background ropes. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-4610715e-f87d-42db-be0a-20ef73f1cf0f.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/13-cross-weave-campaign.png",
+  "status": "selected"
+}

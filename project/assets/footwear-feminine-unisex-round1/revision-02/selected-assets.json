@@ -1,0 +1,14 @@
+{
+  "F02": {
+    "master": "masters/F02-R2.png",
+    "atlas": "atlases/F02-R2.png",
+    "sideEnd": 502,
+    "detailStart": 514
+  },
+  "F04": {
+    "master": "masters/F04-R2.png",
+    "atlas": "atlases/F04-R2.png",
+    "sideEnd": 502,
+    "detailStart": 514
+  }
+}

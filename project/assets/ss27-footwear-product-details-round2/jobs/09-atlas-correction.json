@@ -1,0 +1,11 @@
+{
+  "id": "09",
+  "type": "atlas-correction",
+  "prompt": "Make a precise local edit to this exact six-view contact sheet. Fix ONLY the TOP RIGHT FRONT VIEW's incorrect white lettering on the black vertical pull loop. Remove all text on that black pull loop, leave it plain black woven texture. Just below the loop, on the small silver tongue label immediately ABOVE the first shoelace, put a small, correctly spelled horizontal MOVERNO wordmark, matching the horizontal MOVERNO tongue label already visible in the bottom-center TOP view. Seven letters exactly M O V E R N O. All other pixels, shoes, colors, shapes, logos, lettering, panel boundaries and background MUST remain unchanged. Keep the same landscape composition and the same six views. No other modifications.",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/09-silver-wave-six-views.png"
+  ],
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-b54efa9f-b9ee-462e-bb88-ded364eb5281.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/09-silver-wave-six-views.png",
+  "status": "selected"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "07",
+  "batch": 2,
+  "type": "campaign",
+  "target": "campaign/07-chain-form-campaign.png",
+  "refs": [
+    "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-fce40b91-e49b-471d-a23f-75ba486ef875.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "prompt": "Use case: ads-marketing. One photorealistic fashion shoe campaign CONCEPT still, PORTRAIT 4:5. Input1 the ONLY authorized shoe model, input2 emblem reference only. Dress an adult model's feet in an identical pair, preserving this design exactly: Charcoal-black exaggerated chunky layered runner, aged washed dark finish. FOUR successive pairs of gray elongated leaf/chamber side patches form a horizontal chain, narrow horizontal gaps and tiny dark red junction stitches. Large black mesh panels, black-speckled round laces, black heel piece with recessed gate. Bulky layered dark sole with side gray diamond-grid insert and angular outsole pods. Do not flatten sole or replace chain with lettering. Scene: Adult lower calves in washed black denim with a straight generous hem ABOVE shoe collars. Both shoes on a wide steel landing, foreground shoe lateral 3/4 to show chain patches; second behind. Low close camera and crisp soft-edged directional flash, graphite backdrop. Chunky silhouette dominates, no stairs copied from previous scene. Frame below knees ONLY, exactly two naturally connected legs and two shoes, no face, no torso, no bags. All shoes complete and uncropped, foreground shoe occupies about 65-75% frame width. Shoes in middle/lower 65% of image; upper 20% dark quiet negative space for later accurate typography, bottom 10% floor. Realistically worn shoes, original laces, original side graphics in their original location, no new markings on clothes. Young dark sophisticated street editorial, premium tactile surfaces, rich gray-black detail, believable anatomy and camera. Do not thicken soles or lengthen high-top collar, do not simplify structural cage/tapes/pattern. No text overlays/watermarks, no fake claims, no neon/gold scenery, no smoke, no puddles, no exaggerated fantastical styling.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-f9ca65dc-7cae-402a-bb90-10e1ed324410.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/07-chain-form-campaign.png",
+  "status": "selected"
+}

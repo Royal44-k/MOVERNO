@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080, height=1920">
+  <title>MOVERNO — Brand Signature</title>
+  <script src="assets/gsap.min.js"></script>
+  <style>
+    * {box-sizing:border-box;margin:0}
+    html,body {width:1080px;height:1920px;overflow:hidden;background:#101110}
+    #root {width:1080px;height:1920px;color:#ece6d9;font-family:Arial,sans-serif;position:relative}
+    .scene-content {width:100%;height:100%;padding:210px 110px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:66px;box-sizing:border-box}
+    .mark {width:160px;height:265px;background:#ece6d9;mask:url('assets/emblem.png') center/contain no-repeat;-webkit-mask:url('assets/emblem.png') center/contain no-repeat}
+    .wordmark {width:820px;height:194px;background:#ece6d9;mask:url('assets/wordmark.png') center/contain no-repeat;-webkit-mask:url('assets/wordmark.png') center/contain no-repeat}
+    .rule {width:86px;height:2px;background:#9c8154}
+    .edition {font-size:24px;line-height:1.4;letter-spacing:7px;text-align:center;color:#c1b9ad}
+  </style>
+</head>
+<body>
+  <div data-hf-id="hf-sjk6" id="root" data-composition-id="moverno-signature" data-start="0" data-duration="4" data-width="1080" data-height="1920">
+    <div data-hf-id="hf-8o89" id="signature" class="clip scene-content" data-start="0" data-duration="4" data-track-index="1">
+      <div data-hf-id="hf-vsrq" id="emblem" class="mark" aria-label="MOVERNO paired-panel emblem"></div>
+      <div data-hf-id="hf-v0x3" id="wordmark" class="wordmark" aria-label="MOVERNO"></div>
+      <div data-hf-id="hf-u4he" id="rule" class="rule"></div>
+      <div data-hf-id="hf-pt7j" id="edition" class="edition">FOOTWEAR / MOVING STUDIES</div>
+    </div>
+  </div>
+  <script>
+    window.__timelines = window.__timelines || {};
+    const tl = gsap.timeline({paused:true});
+    tl.from('#emblem',{y:24,opacity:0,duration:.8,ease:'expo.out'},.12);
+    tl.from('#wordmark',{scale:.975,opacity:0,duration:.9,ease:'power3.out'},.3);
+    tl.from('#rule',{scaleX:0,opacity:0,duration:.65,ease:'sine.inOut'},.55);
+    tl.from('#edition',{y:10,opacity:0,duration:.7,ease:'power2.out'},.7);
+    window.__timelines['moverno-signature'] = tl;
+  </script>
+</body>
+</html>

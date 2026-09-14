@@ -1,0 +1,673 @@
+{
+  "checkedAt": "2026-09-11T03:53:26.492Z",
+  "checks": 166,
+  "passed": 166,
+  "failed": [],
+  "note": "Mechanical delivery checks only; not aesthetic approval, exact production-brand calibration, multi-view consistency or material performance.",
+  "details": [
+    {
+      "name": "eight D styles",
+      "pass": true
+    },
+    {
+      "name": "eight different descriptions",
+      "pass": true
+    },
+    {
+      "name": "all eleven references covered",
+      "pass": true
+    },
+    {
+      "name": "different high-top references",
+      "pass": true
+    },
+    {
+      "name": "different sneaker references",
+      "pass": true
+    },
+    {
+      "name": "no previous generated shoe used as initial input",
+      "pass": true
+    },
+    {
+      "name": "valid tool reference count",
+      "pass": true
+    },
+    {
+      "name": "D01 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D01 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D01 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D01 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D01 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D01 direct source 1 embedded",
+      "pass": true
+    },
+    {
+      "name": "D01 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D01 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D01 input exists user-01.png",
+      "pass": true
+    },
+    {
+      "name": "D01 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D01 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D01 input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "D02 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D02 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D02 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D02 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D02 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D02 direct source 4 embedded",
+      "pass": true
+    },
+    {
+      "name": "D02 direct source 2 embedded",
+      "pass": true
+    },
+    {
+      "name": "D02 direct source 5 embedded",
+      "pass": true
+    },
+    {
+      "name": "D02 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D02 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D02 input exists user-04.png",
+      "pass": true
+    },
+    {
+      "name": "D02 input exists user-02.png",
+      "pass": true
+    },
+    {
+      "name": "D02 input exists user-05.png",
+      "pass": true
+    },
+    {
+      "name": "D02 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D02 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D03 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D03 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D03 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D03 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D03 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D03 direct source 3 embedded",
+      "pass": true
+    },
+    {
+      "name": "D03 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D03 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D03 input exists user-03.png",
+      "pass": true
+    },
+    {
+      "name": "D03 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D03 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D03 input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "D04 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D04 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D04 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D04 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D04 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D04 direct source 6 embedded",
+      "pass": true
+    },
+    {
+      "name": "D04 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D04 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D04 input exists user-06.png",
+      "pass": true
+    },
+    {
+      "name": "D04 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D04 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D04 input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "D05 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D05 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D05 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D05 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D05 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D05 direct source 7 embedded",
+      "pass": true
+    },
+    {
+      "name": "D05 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D05 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D05 input exists user-07.png",
+      "pass": true
+    },
+    {
+      "name": "D05 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D05 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D05 input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "D06 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D06 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D06 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D06 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D06 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D06 direct source 8 embedded",
+      "pass": true
+    },
+    {
+      "name": "D06 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D06 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D06 input exists user-08.png",
+      "pass": true
+    },
+    {
+      "name": "D06 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D06 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D06 input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "D07 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D07 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D07 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D07 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D07 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D07 direct source 9 embedded",
+      "pass": true
+    },
+    {
+      "name": "D07 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D07 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D07 input exists user-09.png",
+      "pass": true
+    },
+    {
+      "name": "D07 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D07 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D07 input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "D08 1536x1024 master",
+      "pass": true
+    },
+    {
+      "name": "D08 unchanged ImageGen output copy",
+      "pass": true
+    },
+    {
+      "name": "D08 1600x2000 board",
+      "pass": true
+    },
+    {
+      "name": "D08 master bytes embedded",
+      "pass": true
+    },
+    {
+      "name": "D08 name/caveat/reference label",
+      "pass": true
+    },
+    {
+      "name": "D08 direct source 11 embedded",
+      "pass": true
+    },
+    {
+      "name": "D08 direct source 10 embedded",
+      "pass": true
+    },
+    {
+      "name": "D08 pending user review",
+      "pass": true
+    },
+    {
+      "name": "D08 brand source roles specified",
+      "pass": true
+    },
+    {
+      "name": "D08 input exists user-11.png",
+      "pass": true
+    },
+    {
+      "name": "D08 input exists user-10.png",
+      "pass": true
+    },
+    {
+      "name": "D08 input exists moverno-standalone-emblem-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D08 input exists moverno-primary-wordmark-proof.png",
+      "pass": true
+    },
+    {
+      "name": "D08 input exists moverno-motion-contour-v2-gilded-preview.png",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 1 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 2 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 3 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 4 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 5 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 6 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 7 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 8 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 9 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 10 exact copy",
+      "pass": true
+    },
+    {
+      "name": "original upload archive 11 exact copy",
+      "pass": true
+    },
+    {
+      "name": "overview-D01-D08.png dimensions",
+      "pass": true
+    },
+    {
+      "name": "overview-D01-D08-preview.jpg dimensions",
+      "pass": true
+    },
+    {
+      "name": "gallery has no remote asset dependency",
+      "pass": true
+    },
+    {
+      "name": "gallery overview-D01-D08.png",
+      "pass": true
+    },
+    {
+      "name": "gallery REFERENCE-MAP.md",
+      "pass": true
+    },
+    {
+      "name": "gallery research/SUPPLEMENT.md",
+      "pass": true
+    },
+    {
+      "name": "gallery QA.md",
+      "pass": true
+    },
+    {
+      "name": "gallery prompts.json",
+      "pass": true
+    },
+    {
+      "name": "gallery overview-D01-D08-preview.jpg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D01-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D01-v2.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D01-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D02-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D02-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D02-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D03-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D03-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D03-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D04-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D04-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D04-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D05-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D05-v2.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D05-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D06-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D06-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D06-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D07-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D07-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D07-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery boards/D08-board.png",
+      "pass": true
+    },
+    {
+      "name": "gallery masters/D08-v1.png",
+      "pass": true
+    },
+    {
+      "name": "gallery editable/D08-board.svg",
+      "pass": true
+    },
+    {
+      "name": "gallery selected-assets.json",
+      "pass": true
+    },
+    {
+      "name": "gallery revision-prompts.json",
+      "pass": true
+    },
+    {
+      "name": "prior R01 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R02 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R03 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R04 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R05 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R06 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R07 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R08 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R09 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R10 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R11 preserved",
+      "pass": true
+    },
+    {
+      "name": "prior R12 preserved",
+      "pass": true
+    }
+  ]
+}

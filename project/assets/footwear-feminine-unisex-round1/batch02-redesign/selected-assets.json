@@ -1,0 +1,50 @@
+{
+  "F05-R": {
+    "master": "masters/F05-R-v2.png",
+    "atlas": "atlases/F05-R-v1.png",
+    "sideEnd": 494,
+    "detailStart": 502,
+    "name": "开口拼面运动鞋",
+    "materials": "亮黑皮面 / 骨白网眼 / 局部暗金链纹",
+    "statement": "黑白拼面围合大开口，让品牌链纹在后片成为焦点。",
+    "detailTitle": "斜桥接合与局部提花",
+    "detailText": "缩小双片扣件，降低鞋口；暗金链纹仅落在侧后片，不做满铺。",
+    "styling": "搭配推演：短裙与薄袜，保留脚背开口。",
+    "detailLines": [
+      "缩小双片扣件并降低鞋口。",
+      "暗金链纹只落在侧后片。"
+    ]
+  },
+  "F07-R": {
+    "master": "masters/F07-R-v1.png",
+    "atlas": "atlases/F07-R-v1.png",
+    "sideEnd": 529,
+    "detailStart": 538,
+    "name": "弧跟都市凉鞋",
+    "materials": "墨黑细纹皮面 / 烟银扣件 / 石墨底边",
+    "statement": "开放前掌配一道内收底腰，以弧形低跟完成轻巧转折。",
+    "detailTitle": "双片扣件与窄踝带",
+    "detailText": "标准徽记转为双片五金；窄踝带与后支片相接，开合方式待打样。",
+    "styling": "搭配推演：运动短裙与灰色高袜，弱化正装感。",
+    "detailLines": [
+      "标准徽记转为双片五金。",
+      "窄踝带接入后支片，开合待打样。"
+    ]
+  },
+  "F08-R": {
+    "master": "masters/F08-R-v1.png",
+    "atlas": "atlases/F08-R-v2.png",
+    "sideEnd": 505,
+    "detailStart": 516,
+    "name": "镂窗收尖系带鞋",
+    "materials": "烟银微皱皮面 / 黑色网眼 / 骨白宽带",
+    "statement": "收尖前掌与宽带相互反衬，侧腰开窗切开银黑鞋面。",
+    "detailTitle": "镂窗包边与后跟徽记",
+    "detailText": "四对鞋眼集中于脚背；黑色窄包边连接银色鞋面与后跟标识。",
+    "styling": "搭配推演：灰色短裙或九分阔腿裤，露出侧腰窗口。",
+    "detailLines": [
+      "四对鞋眼集中于脚背。",
+      "窄包边连接银色鞋面与后跟徽记。"
+    ]
+  }
+}

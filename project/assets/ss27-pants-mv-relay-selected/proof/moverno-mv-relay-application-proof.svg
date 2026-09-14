@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 1600 1000">
+  <title id="title">MOVERNO MV RELAY selected mark application proof</title>
+  <desc id="desc">Deterministic application proof for digital, woven, debossed and oxidized nickel uses.</desc>
+  <defs>
+    <g id="relay-mark" fill="none" stroke="currentColor" stroke-width="64" stroke-linejoin="round">
+      <path d="M150 346V154Q150 120 184 120L300 236L416 120Q450 120 450 154V278" stroke-linecap="round"/>
+      <path d="M150 346H252" stroke-linecap="round"/>
+      <path d="M278 304L350 420L474 230" stroke-linecap="butt"/>
+    </g>
+    <linearGradient id="nickel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9A9D9F"/>
+      <stop offset="0.48" stop-color="#55595C"/>
+      <stop offset="1" stop-color="#25282B"/>
+    </linearGradient>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#F3F1EC"/>
+  <text x="90" y="92" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#0D0D0F">MOVERNO - MV RELAY / SELECTED PANT MARK</text>
+  <text x="90" y="132" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#73777A">SECONDARY ASSET - MASTER VEIL GATE REMAINS PRIMARY</text>
+  <line x1="90" y1="170" x2="1510" y2="170" stroke="#D9D4C8" stroke-width="2"/>
+
+  <g transform="translate(62 190) scale(.82)" color="#0D0D0F"><use href="#relay-mark"/></g>
+  <text x="90" y="745" font-family="Arial, sans-serif" font-size="18" letter-spacing="2" fill="#73777A">PRIMARY BLACK / TRANSPARENT</text>
+  <text x="90" y="784" font-family="Arial, sans-serif" font-size="16" fill="#25262A">Rounded M rail - staggered relay junction - angular V exit</text>
+
+  <rect x="610" y="210" width="400" height="250" rx="18" fill="#111215" filter="url(#soft-shadow)"/>
+  <g transform="translate(596 191) scale(.40)" color="#D9D4C8"><use href="#relay-mark"/></g>
+  <text x="782" y="392" font-family="Georgia, serif" font-size="32" letter-spacing="3" fill="#D9D4C8">MOVERNO</text>
+  <text x="610" y="495" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#73777A">WOVEN LABEL / BACK-WAIST LOCKUP</text>
+
+  <circle cx="1185" cy="330" r="122" fill="url(#nickel)" filter="url(#soft-shadow)"/>
+  <circle cx="1185" cy="330" r="105" fill="none" stroke="#161719" stroke-width="4"/>
+  <g transform="translate(1065 209) scale(.40)" color="#111214"><use href="#relay-mark"/></g>
+  <text x="1072" y="495" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#73777A">BUTTON / RIVET</text>
+
+  <rect x="610" y="570" width="360" height="220" rx="14" fill="#191A1D"/>
+  <rect x="627" y="587" width="326" height="186" rx="10" fill="none" stroke="#34363A" stroke-width="3" stroke-dasharray="8 8"/>
+  <g transform="translate(643 575) scale(.34)" color="#101114" opacity=".9"><use href="#relay-mark"/></g>
+  <text x="610" y="826" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#73777A">8 MM BLIND DEBOSS</text>
+
+  <path d="M1080 605H1390Q1420 605 1420 635V715Q1420 745 1390 745H1080Z" fill="url(#nickel)" filter="url(#soft-shadow)"/>
+  <circle cx="1392" cy="675" r="28" fill="#0D0D0F"/>
+  <g transform="translate(1026 579) scale(.29)" color="#0D0D0F"><use href="#relay-mark"/></g>
+  <text x="1075" y="826" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#73777A">ZIPPER PULL</text>
+
+  <g transform="translate(90 870)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="14" fill="#73777A">DIGITAL MINIMUM</text>
+    <g transform="translate(178 -33) scale(.0533)" color="#0D0D0F"><use href="#relay-mark"/></g>
+    <text x="225" y="0" font-family="Arial, sans-serif" font-size="14" fill="#25262A">16 PX</text>
+    <g transform="translate(300 -42) scale(.08)" color="#0D0D0F"><use href="#relay-mark"/></g>
+    <text x="365" y="0" font-family="Arial, sans-serif" font-size="14" fill="#25262A">24 PX</text>
+    <g transform="translate(446 -50) scale(.1067)" color="#0D0D0F"><use href="#relay-mark"/></g>
+    <text x="530" y="0" font-family="Arial, sans-serif" font-size="14" fill="#25262A">32 PX</text>
+  </g>
+
+  <rect x="90" y="920" width="1420" height="2" fill="#D9D4C8"/>
+  <text x="90" y="960" font-family="Arial, sans-serif" font-size="15" fill="#5B1F25">INTERNAL DIRECTION MASTER - NOT A TRADEMARK CLEARANCE OR HARDWARE TOOLING FILE</text>
+</svg>

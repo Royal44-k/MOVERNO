@@ -1,0 +1,12 @@
+{
+  "excluded_files": [],
+  "excluded_directories": [
+    ".cache",
+    ".git",
+    ".hyperframes",
+    ".venv-vector",
+    "__pycache__",
+    "node_modules"
+  ],
+  "note": "Runtime dependencies, raw session/tool logs, credentials and unrelated computer diagnostics excluded."
+}

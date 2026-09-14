@@ -1,0 +1,37 @@
+[
+  {
+    "id": "F02",
+    "version": "R2",
+    "name": "翻舌弧线运动鞋",
+    "direction": "中性",
+    "color": "墨黑 / 雾银",
+    "materials": "黑色细网面 · 雾银覆片 · 连续薄橡胶底",
+    "statement": "翻折鞋舌压住系带上段，银色弧片勾出前倾的运动感。",
+    "detailTitle": "翻舌连接 / 弧片收边",
+    "detailBody": "标准徽记置于外侧后腰；鞋舌字标随翻折面完整露出。",
+    "prompt": "Use case: product-mockup.\nCreate a NEW original MOVERNO F02-R2 youthful unisex fashion sneaker, replacing a rejected overly plain square-toe minimal racer. Do not generate a dress shoe, glove shoe, office shoe or a modified version of a square-toe plain nylon shoe.\nINPUTS: Image1 is a proportion/closure reference ONLY: observe the low sports silhouette and folded tongue. Do NOT borrow its side stripes, T-shaped toe, exact panel layout, burgundy hue, gum sole or brand logos. Image2 is the immutable MOVERNO paired-blade emblem, image3 its wordmark.\nSUBJECT: a sleek BLACK AND MIST-SILVER low-cut indoor-sport street sneaker, youthful East Asian fashion editorial credibility, elegant enough for women and truly unisex. Rounded compact aerodynamic toe, subtly full forefoot rather than a square or pointed tip. A low sculpted closed collar, a compact padded heel and a continuous 15-18 mm charcoal rubber outsole with a subtly rolled toe edge and clean lateral waist. NO large midsole platform, pods, tail, separated teeth or bulky dad-runner construction.\nUPPER: ink-black tightly woven technical mesh toe and side quarters, with finely grained black leather toe-edge rand (NOT a T-toe), original tapered mist-silver smooth leather overlays following ONE curved oblique seam from front eyestay toward the lower midfoot, plus a compact silver heel insert. Silver is restrained, about 20 percent upper, not three parallel strips, lightning, wings or an external cage. The black mesh remains clearly visible and visually lighter than solid leather. Crisp black/silver material contrast.\nCLOSURE: five pairs of recessed black eyelets, moderately wide black flat laces, a short-to-medium black leather FOLD-OVER TONGUE drapes over only the upper two lace rows. Rounded clipped tongue corners, the folded edge and rooted attachment are physically visible; it is a real tongue folded forward, not a separate decorative strap. Exact pale-silver serif 'MOVERNO' on outward facing folded tongue. No oversized bow, long ribbons or ankle straps.\nBRAND: Apply the EXACT Image2 paired upright emblem in matte silver on a modest black outer-rear-quarter area, around 18 mm tall, not floating. Preserve straight parallel VERTICAL OUTER EDGES, outer pointed top corners, gently CURVED inward shoulders and an OPEN NARROW CENTRAL SLIT. Do not convert into an oval leaf pair, butterfly, X, M or triangle pair. No outline box, no other external logos.\nCOMPOSITION: ONE complete shoe, 3/4 front OUTER side view, toe lower-left heel upper-right, slightly elevated camera shows the folded tongue and side. Horizontal 3:2 photograph, product fills 80 percent width, pale neutral gray seamless background, believable soft contact shadow, sharp premium material details, beautifully controlled softbox light. No poster layout, scenery, feet, added typography or marketing claims.",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/revision-02/references/adidas-samba-lt.jpg",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ]
+  },
+  {
+    "id": "F04",
+    "version": "R2",
+    "name": "镂侧无后带运动凉鞋",
+    "direction": "女性向",
+    "color": "骨白 / 可可",
+    "materials": "骨白细皮面 · 开放侧腰 · 可可细底",
+    "statement": "去掉后绊带，侧腰开口与短系带共同形成开放式鞋面。",
+    "detailTitle": "无后带结构 / 侧腰开口",
+    "detailBody": "后跟完全开放；移至系带末端的小徽记与足床字标保留品牌识别。",
+    "prompt": "Use case: precise-object-edit.\nImage1 is the existing MOVERNO F04 shoe to edit. Image2 is the exact existing MOVERNO paired-blade emblem, Image3 exact wordmark, Image4 ONLY demonstrates an open-back, cutout sneaker-mule relationship, not a product to copy.\nPRIMARY EDIT: Completely REMOVE the rear retaining slingback strap and BOTH of its attachments from Image1. The heel stays entirely OPEN, with absolutely no heel strap, elastic band, buckle, pull loop, rear collar or high heel cup. Refinish the ends of the leather quarters into softly rounded clean bindings at the midfoot, not torn cut-off stubs.\nLOCAL REFINEMENT TOWARD SANDAL: turn the lower lateral midfoot on each side into ONE real elongated gently rounded open window beneath the rear section of the lace panel. The opening reveals the bone footbed and background: no mesh filling. Keep a simple substantial curved leather bridge from lace panel down to the sole at the front of the window so the laced vamp remains physically attached; not a cage or multiple ribs. The two side windows and open heel create a closed-toe SPORT SANDAL / SNEAKER MULE with airy side negative space. Do NOT close the side window with leather. NO garden-clog shell, foam clog vents, peep toe or flip-flop thong.\nPRESERVE: original compact round-ovoid closed toe cap, four pairs of bone-white eyelets, neat short bone flat laces and short tongue, fine bone-white leather color and texture, narrow continuous cocoa outsole, original low outsole height, visible bone rear footbed. Keep original front panel seam and familiar F04 forefoot proportions; keep the same studio setting, lighting, viewpoint and composition. Slightly refine the exposed heel footbed with a thin finished rolled edge, not a raised wall.\nBRANDING: original rear-strap logo is removed with that strap. Relocate ONLY ONE tiny cocoa standard Image2 emblem onto a small flat leather lace-end tab at the lowest eyelet pair, integrated below the laces. It is flat printed/debossed, not shiny jewelry. Reproduce EXACT pair of mirrored upright blades with straight vertical outer edges and narrow vertical open gap; no leaves, X, butterfly or invented M. Preserve correct 'MOVERNO' wordmark on the visible heel footbed using Image3. No repeat all-over pattern or added brand clutter.\nOne complete shoe only, toe toward lower-left heel upper-right. Horizontal 3:2 premium photorealistic product photograph. No people, no props, no typography outside shoe. This must unmistakably be the same F04 edited into a heel-strap-free cutout sport sandal, not a new heeled dress mule.",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/masters/F04-master-v2.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/revision-02/references/puma-speedcat-mule.jpg"
+    ]
+  }
+]

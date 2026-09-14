@@ -1,0 +1,13 @@
+{
+  "input_image": "A03-model-keyframe.png",
+  "prompt": "A photorealistic luxury footwear film, continuous full-body shot, camera fixed low. The standing woman takes one small slow step forward with the rear foot and then naturally transfers her weight, her long black coat gently swaying and settling. Preserve both exact black canvas giant-platform high-tops, very thick continuous cream rubber soles, rounded cream toe caps, white laces, upright tongue with the twin vertical panel emblem. No zipper. Feet stay on the stone ground with clear sole contact, no foot sliding, no sole deformation. Keep both whole shoes inside the frame. Natural restrained human movement, realistic gravity, editorial daylight.",
+  "steps": 4,
+  "duration_seconds": 3.5,
+  "guidance_scale": 1,
+  "guidance_scale_2": 1,
+  "seed": 1903,
+  "randomize_seed": false,
+  "negative_prompt": "static still picture, camera zoom, shoe morphing, incorrect logo, changed sole thickness, extra legs, extra feet, fused limbs, sliding feet, floating feet, broken ankles, warped shoes, melting rubber, disappearing zipper, floating laces, cartoon, bad anatomy, blurry feet, text overlays, subtitles, watermark",
+  "service": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+  "payment": "anonymous free quota only"
+}

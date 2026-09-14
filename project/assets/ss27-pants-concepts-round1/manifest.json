@@ -1,0 +1,80 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "collection": "SS27 pants silhouette gate",
+  "status": "awaiting_user_review",
+  "createdAt": "2026-08-30",
+  "generation": {
+    "renderer": "OpenAI built-in ImageGen",
+    "stytrix": "methodology only; no paid generation and no credits consumed",
+    "views": ["front", "true side", "back"],
+    "stageConstraints": "no MV mark, Relay Rail, V2 motif, decorative hardware, models or campaign styling"
+  },
+  "concepts": [
+    {
+      "styleCode": "SS27-PT01",
+      "name": "ARC RELAY",
+      "file": "01-pt01-arc-relay-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "190gsm matte nylon-cotton stretch twill",
+      "motifPlacement": "none at silhouette gate",
+      "markPlacement": "none at silhouette gate",
+      "hardwareIntensity": "restrained",
+      "targetPrice": "CNY 799",
+      "sha256": "99F4654ABCEA6DEE5608E852DB0B13394A4C682BE9BBB1332DADE73B66057A56"
+    },
+    {
+      "styleCode": "SS27-PT02",
+      "name": "FORGE STACK DENIM",
+      "file": "02-pt02-forge-stack-denim-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "12.5oz oil-black denim",
+      "motifPlacement": "none at silhouette gate",
+      "markPlacement": "none at silhouette gate",
+      "hardwareIntensity": "strong after silhouette approval",
+      "targetPrice": "CNY 999",
+      "sha256": "BCCB9C0E1EC182FE2E1EA338F83F3D2DD9A64D652BF8CB4F9F87E139539B0C8E"
+    },
+    {
+      "styleCode": "SS27-PT03",
+      "name": "BREAKLINE TRACK",
+      "file": "03-pt03-breakline-track-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "matte blue-black woven/knit bonded fabric",
+      "motifPlacement": "none at silhouette gate",
+      "markPlacement": "none at silhouette gate",
+      "hardwareIntensity": "medium after silhouette approval",
+      "targetPrice": "CNY 699-799",
+      "sha256": "239DDEBCA0C9BAC16A99AB1C6EA17104A5B292571D57CAC24B33128E9638EE81"
+    },
+    {
+      "styleCode": "SS27-PT04",
+      "name": "VEIL CARGO",
+      "file": "04-pt04-veil-cargo-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "graphite-black nylon-cotton ripstop",
+      "motifPlacement": "none at silhouette gate",
+      "markPlacement": "none at silhouette gate",
+      "hardwareIntensity": "medium after silhouette approval",
+      "targetPrice": "CNY 899-999",
+      "sha256": "B65D43A4CB31A279FDE61492E0488827BA9C0405DB9D7AF035A802B6E0C5B4B8"
+    },
+    {
+      "styleCode": "SS27-PT05",
+      "name": "NOCTURNE TAILOR",
+      "file": "05-pt05-nocturne-tailor-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "plum-black dry wool-poly blend",
+      "motifPlacement": "none at silhouette gate",
+      "markPlacement": "none at silhouette gate",
+      "hardwareIntensity": "restrained",
+      "targetPrice": "CNY 899",
+      "sha256": "7C72C7829067F0210F58CA196E12ABCBB293041C47533D4594674E3833642676"
+    }
+  ],
+  "nextGate": "Approve or revise all five silhouettes before structure and placement development."
+}

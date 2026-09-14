@@ -1,0 +1,21 @@
+{
+  "mode": "OpenAI built-in ImageGen",
+  "textPolicy": "No generated text or logos; exact branding is applied later in SVG.",
+  "prompts": [
+    {
+      "id": "19",
+      "useCase": "product-mockup",
+      "prompt": "Create one premium editorial ecommerce hero image of the exact MOVERNO PT19 pants shown in the first reference. Product only on an invisible mannequin, no person, no body parts, no top, no shoes, no text and no logos. Preserve the obsidian-black fluid matte jersey, floor-length very wide legs, slight drop crotch, elastic waistband and the same single V2 chain revealed through three unequal integrated outer-side openings. The second reference is the locked V2 motif: preserve its dark graphite interiors, narrow black central gap, subtle dried-blood connector nodes and only a very thin aged-gold edge; do not multiply, redraw or convert it into stripes. Full waistband and both hems visible. Low three-quarter camera, dark architectural charcoal studio, a narrow warm-silver edge light following the drape, soft grounded shadow, luxurious restrained designer-fashion photography, high fabric fidelity. No blue, navy, cyan, teal, purple-blue, neon, armor, chains, spikes, weapons, crosses, crowns, hearts, tribal motifs or third-party branding."
+    },
+    {
+      "id": "25A",
+      "useCase": "product-mockup",
+      "prompt": "Create one premium editorial ecommerce hero image of the exact MOVERNO PT25A pants shown in the first reference. Product only on an invisible mannequin, no person, no body parts, no top, no shoes, no text and no logos. Preserve the low-rise neutral mineral-gray dirty-wash denim, extreme wide puddle volume, long stacked hems and the exact relaxed jeans construction. The second reference is the locked V2 motif: show only one full side module plus a short 0.6 echo fading naturally into the wash; retain dark graphite interiors, narrow central gap, dried-blood connector nodes and thin aged-gold edge only. Do not form a regular stripe or repeat border. Full waistband and both stacked hems visible. Ground-level three-quarter angle, dark warm-gray mineral studio surface, controlled neutral light revealing twill and abrasion without brown or blue cast, sculptural but wearable Korean-Japanese streetwear editorial mood. Absolutely no blue, navy, indigo, cyan, teal, purple-blue, neon, armor, spikes, weapons, crosses, crowns, hearts, tribal motifs or third-party branding."
+    },
+    {
+      "id": "28",
+      "useCase": "product-mockup",
+      "prompt": "Create one premium editorial ecommerce hero image of the exact MOVERNO PT28 pants shown in the first reference. Product only on an invisible mannequin, no person, no body parts, no top, no shoes, no text and no logos. Preserve the graphite-olive micro-barrel technical cargo silhouette, restrained curved knee panels, ripstop grid, clean waistband, hem adjusters and concealed side-seam expansion opening. Show the side opening half-open so the exact single V2 motif from the second reference is revealed only inside the gusset; preserve its graphite interior, narrow black central gap, tiny dried-blood nodes and thin aged-gold edge. Do not add slab patch pockets, straps or extra chains. Full waistband and both hems visible. Front-side three-quarter camera, dark architectural graphite studio, one narrow warm light slit, low-key shadows and refined technical-luxury material realism. No blue or teal lighting, no neon, armor, spikes, weapons, crosses, crowns, hearts, tribal motifs or third-party branding."
+    }
+  ]
+}

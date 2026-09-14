@@ -1,0 +1,1045 @@
+[
+  {
+    "timestamp": "2026-08-28T07:34:07.392Z",
+    "source_thread_file": "rollout-2026-08-27T19-13-30-01a042ec-cdf0-7e91-8fb2-33fb57ca2809.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-50ac33a7-6fed-4006-af9d-568992fccb1b.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "547dfacf84711a88b1feb194d7e294274d969abaa161edd63c6d41eaf769fe7c",
+        "archive_path": "recovered/user-attachments/547dfacf84711a88b1feb194d7e294274d969abaa161edd63c6d41eaf769fe7c.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-08-29T08:57:52.003Z",
+    "source_thread_file": "rollout-2026-08-27T19-13-30-01a042ec-cdf0-7e91-8fb2-33fb57ca2809.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-861acf97-d32d-4363-aaa0-f30989c08561.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "1fb2a9d35e2518f01dd31dbbccb280ed6f926e59a212c2a37a9c911a562b4fa5",
+        "archive_path": "project/assets/ss27-footwear-side-pattern-round1/references/03-approved-signature-pattern.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-08-30T03:09:52.919Z",
+    "source_thread_file": "rollout-2026-08-30T08-35-35-01a05017-d869-7d31-be4b-066bba8e01d7.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-b420abc8-807b-4e66-bc93-24d63e6d0162.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-b0414741-4a74-4ddb-8e1f-9ce065cf8183.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-2fa4aa43-c32c-42a0-a6fa-7801bdf15d55.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-c064abf9-0059-4171-ab8c-ea379fde7939.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-c2835556-d4fe-43f7-9fef-dc3847adec07.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-5dccd205-d665-4d6b-85f6-27fc3c3390e4.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "dbaaf7428265a1615ea40ba16d835d582d8cee48699b2c6001a60e12a34e5964",
+        "archive_path": "recovered/user-attachments/dbaaf7428265a1615ea40ba16d835d582d8cee48699b2c6001a60e12a34e5964.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "f5179bfcee48229802a04fa85af8bf16124babbd2b5408b810058cb40db6b3c6",
+        "archive_path": "recovered/user-attachments/f5179bfcee48229802a04fa85af8bf16124babbd2b5408b810058cb40db6b3c6.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "bd482a9df2b915839cece2ab8c8622e481798561d2c058b72dbe8fb901208bd0",
+        "archive_path": "recovered/user-attachments/bd482a9df2b915839cece2ab8c8622e481798561d2c058b72dbe8fb901208bd0.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "a535456a18633d93c4cd0cfdcdd73df33e0b53d7ef1920aeecd1d7edd3b302f8",
+        "archive_path": "recovered/user-attachments/a535456a18633d93c4cd0cfdcdd73df33e0b53d7ef1920aeecd1d7edd3b302f8.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "d76287faddb431ae9748882f3b898c439be04af0e6d67137877aee94b0df955a",
+        "archive_path": "recovered/user-attachments/d76287faddb431ae9748882f3b898c439be04af0e6d67137877aee94b0df955a.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "220b8e8b5eee51ec14411d0e6b3687638b4ba6df9243fd95bea12c7951291b71",
+        "archive_path": "recovered/user-attachments/220b8e8b5eee51ec14411d0e6b3687638b4ba6df9243fd95bea12c7951291b71.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-08-30T04:32:36.269Z",
+    "source_thread_file": "rollout-2026-08-30T08-35-35-01a05017-d869-7d31-be4b-066bba8e01d7.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-26f43587-223c-4c1c-8933-9b317786bd5e.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-d1ff5a47-c943-4e59-b684-0ab29140a81e.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-5871f292-39db-4995-88ce-b297ac1cb290.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "cd01e72a8445cd445d0f894d8992af7ccf85daf00bbefe30d9815b0573a8a1da",
+        "archive_path": "recovered/user-attachments/cd01e72a8445cd445d0f894d8992af7ccf85daf00bbefe30d9815b0573a8a1da.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "1fb2a9d35e2518f01dd31dbbccb280ed6f926e59a212c2a37a9c911a562b4fa5",
+        "archive_path": "project/assets/ss27-footwear-side-pattern-round1/references/03-approved-signature-pattern.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "b2c23089b60c5c33592d710bcced2eab39b7136cb0dfa2f8e09b0dbb8874aeb0",
+        "archive_path": "recovered/user-attachments/b2c23089b60c5c33592d710bcced2eab39b7136cb0dfa2f8e09b0dbb8874aeb0.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-08-31T07:24:53.945Z",
+    "source_thread_file": "rollout-2026-08-30T08-35-35-01a05017-d869-7d31-be4b-066bba8e01d7.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-5d25b2bd-3775-42b8-a083-1a162b7140d9.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-09b14d92-3d18-4b12-b993-d2f148259f41.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-95c27e52-c4f0-4ed3-a016-5617cf6e6469.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "3e8b7e13ed2b38cb2591e6bf78ed9752ec987491fdc261b0190ddfe42e44b64b",
+        "archive_path": "recovered/user-attachments/3e8b7e13ed2b38cb2591e6bf78ed9752ec987491fdc261b0190ddfe42e44b64b.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "0d376454f1654e5ae1fba84473bae604adb727ed9a03ab7dbfff5da56c939f0b",
+        "archive_path": "recovered/user-attachments/0d376454f1654e5ae1fba84473bae604adb727ed9a03ab7dbfff5da56c939f0b.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "a4f2aec8433e6b480bdbfca550c04838b334f190811cdacaad613ef119be9694",
+        "archive_path": "recovered/user-attachments/a4f2aec8433e6b480bdbfca550c04838b334f190811cdacaad613ef119be9694.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-08T03:21:19.445Z",
+    "source_thread_file": "rollout-2026-08-31T16-45-45-01a05017-d869-7d31-be4b-066bba8e01d7_01a056fe-f90f-75d1-a4ab-4917750b6907.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "exec-96f36fa3-624b-4ca9-b3c3-1c23e1e2e2ab.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/01-pt19-fluid-relay-obsidian-black.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-e94877e7-fd2c-4227-a441-c11392661581.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/02-pt20-seoul-curve-storm-gray.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-386b4ab8-624c-4d93-8914-e43c715dca04.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/03-pt21-stack-trace-coal-black.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-d8de4ab4-ea71-4009-ba5c-e2abb85c5862.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/04a-pt22-tower-signal-lead-iron-black.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-e2172394-325b-41e2-848c-aeae293df706.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/05a-pt23-night-current-pomegranate-black.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-33b683eb-b428-4e40-982c-25e21dccec57.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/06-pt24-parkour-rail-iron-gray.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-7cc9895a-5694-4802-91ba-b865c9be881d.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/07a-pt25-mineral-puddle-neutral-gray.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-8c1cd0d9-a58d-4ea0-b3e8-5230f3b57e85.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/08-pt26-quiet-tailor-black-cherry.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-8fbc221c-9adc-43ac-b664-e3302908ea68.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/09a-pt27-curve-vortex-oxblood-black.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-ac0b315f-827f-47fe-b6d9-b721f33e2dd5.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/10-pt28-aperture-cargo-graphite-olive.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-f9678ca6-8d11-475a-bf32-46505984e294.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/11-pt29-snap-column-smoke-black.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-6adf27a7-8eff-4001-a1f7-98dc16286b97.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/12a-pt30-tokyo-fold-tungsten-gray.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-60fd88e3-9651-459e-b240-f6509c7ae1fd.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/04b-pt22-tower-signal-deep-indigo.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-380c9f37-1377-456e-8b74-447ee60a2ddd.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/07b-pt25-mineral-puddle-pale-blue-gray.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-9ca25315-73f4-4ce1-9cc2-efa5defbf74d.png",
+        "archive_path": "project/assets/ss27-pants-single-relay-round3/09b-pt27-curve-vortex-blue-black.png",
+        "status": "name_record_match"
+      }
+    ],
+    "embedded_images_in_message_order": [],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-08T11:47:21.371Z",
+    "source_thread_file": "rollout-2026-08-31T16-45-45-01a05017-d869-7d31-be4b-066bba8e01d7_01a056fe-f90f-75d1-a4ab-4917750b6907.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-1287b37a-6d42-43cc-83b8-e9a73b5f4d98.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-b1d54356-6bb6-4d47-8fcf-d1adfcd20f64.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "60114c949cd7b27c330472eeebf0a508f577f7c680f8f197009559513a5e316d",
+        "archive_path": "project/assets/ss27-pants-product-details-full-series/styling-references/moverno-high-top-reference-page.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "f9d3aa20ab5d472c40b7375ec90bc709013b4c8696ac58b83c8e99afa9b306ec",
+        "archive_path": "project/assets/ss27-pants-product-details-full-series/styling-references/moverno-oversize-tee-reference.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-01T11:31:55.555Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-3dbe4978-deb6-48a7-9c9e-7b643f298b2d.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "1fb2a9d35e2518f01dd31dbbccb280ed6f926e59a212c2a37a9c911a562b4fa5",
+        "archive_path": "project/assets/ss27-footwear-side-pattern-round1/references/03-approved-signature-pattern.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-01T13:48:18.638Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-26f6641d-cb96-476a-a3cf-712e0c8e3aa7.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-019b7b85-903e-43df-a3ce-e49498d7d67f.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-abd7513a-0216-4b0e-a123-4dbd98b20746.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-426f7c26-bffd-4d96-bc89-e123c6859dd7.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-31866617-ecc3-4276-bca3-f56e8439132e.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-ab4febc6-2d80-4999-8950-040a2ca4aa3c.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-4b84c90d-c608-416e-8a19-8cf5db063bd4.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-9df4ab8c-6871-4b0e-82df-8eace8cbf380.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-1c9923ba-c384-4c2e-a465-6c2be4c23c12.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-0afb3cf6-e5f6-4703-ae55-2caae9c8d0b4.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-12beaf0d-8fe1-4a1b-879c-84ed2e818677.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "b8478987f535c735d0ca3f164ce1e5eb251e42d517966feab4dc186deaf71e3a",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/01-sand-tech-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "af7937d393d6e96a60bd45ed5e8ce6dcd9d611c0790ec061165f31c7ebd01000",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/02-monogram-high-top.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "a7346df1ef4f37b0fdc6215d71912d07ac70a304ffc19b90330ae4567bca97f5",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/03-classic-canvas-high.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "19d937727dccf0a32587f923e71e774dcba3abd9b92411cb4e982ee8f3d900c9",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/04-black-white-skate-low.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "0241f4bba18baf9ad117e11ecf9cad7f035ddcfa6943fa41c341a055c988453b",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/05-cross-cage-tech-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "d8e79eb1fea7ebf24873ee5c31ee75ba707ca1decfa2f1c6c568b2cbf50b2517",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/06-black-bone-high.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "4e1974296c69c4b0c122235a99d3b07b951643fd082fae3f943f5aa8e709793e",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/07-black-bone-low.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "72b5d34cea0015fdf38d3d9ad9ef1dad94c58e36a268cf17ba8e39249b6e86de",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/08-monochrome-court-platform.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "b73639334981ae0b0f897d66ce9d75a9d72008c54ae1e9bd238a9c426fe8df49",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/09-white-black-court-low.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "547dfacf84711a88b1feb194d7e294274d969abaa161edd63c6d41eaf769fe7c",
+        "archive_path": "recovered/user-attachments/547dfacf84711a88b1feb194d7e294274d969abaa161edd63c6d41eaf769fe7c.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "4e1974296c69c4b0c122235a99d3b07b951643fd082fae3f943f5aa8e709793e",
+        "archive_path": "project/assets/ss27-footwear-identity-board/references/07-black-bone-low.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-01T13:48:57.807Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-d3db8ac4-2b25-4ed0-8412-59900ec6eeb4.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "547dfacf84711a88b1feb194d7e294274d969abaa161edd63c6d41eaf769fe7c",
+        "archive_path": "recovered/user-attachments/547dfacf84711a88b1feb194d7e294274d969abaa161edd63c6d41eaf769fe7c.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-03T05:44:15.740Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "exec-12dde7b7-0b4f-4762-a144-231938b59c64.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/01-sand-relay-runner.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-c8b5645f-d6bc-41ea-a41a-5aee3885803a.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/02-veil-cross-runner.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-37688599-6d5d-4c59-9e59-60d0cdf58cd3.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/03-monolith-platform-low.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-8d6aa781-9286-4058-8c16-2d3b921b4c1f.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/04-register-zip-hi.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-416407c7-f036-4765-89d1-1d54160f7215.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/05-relay-contour-hi.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-09fc6131-b949-4c04-a963-439d674c057f.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/06-veil-panel-skate-low.png",
+        "status": "name_record_match"
+      }
+    ],
+    "embedded_images_in_message_order": [],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-03T06:54:57.548Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-d1a05671-5a61-4aa3-a2d1-99dba3e1bcc6.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-ec988dd9-83c3-4725-9ca3-2026338eda23.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-2596f831-47a7-4f80-bf43-1b4d4153de81.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-d826b1c5-3d09-4d85-a10c-e6ab4de66d20.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-9321bcfe-82ee-44b1-acdb-a0435bfcf872.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-acae524c-92ed-4576-8155-27c24232c371.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-fd6b3881-9468-441d-980d-5d9836908970.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-72bdad00-992e-4fb2-82ff-9a7391d27c39.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-be6531eb-f487-471c-9d78-e1d30f62a2d1.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-e68f69ad-427c-46d1-ad63-0c4554e15fff.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-2c5b26e2-df07-4153-94cf-d1953037bda3.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "e661557f321fe0e06cd76f8b81ac28364412ca5c05f3fc53f005d03ba0be2d74",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/01-graffiti-technical-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "d90cf76c1808aa63c1f5273043494eb8f1334d04fe51ce7713934f17d659899c",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/02-black-graffiti-chunky-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "25c937c26e4b92fa583928dd155036e4b6e5319c39a2358fbca60dfde97d3ca8",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/03-bone-chunky-runner-pair.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "fcddc5ecbaad62f484a316bd9715f76a25a29acbc0d9e17ffb17a52af2fadc95",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/04-black-logo-tape-chunky-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "8306eb2606b5dd6326836baa504799e1180f617a8a482fb8dcd7c63e8b5649b2",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/05-bone-cage-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "5b732bea060331f4b445cdb92d25d0af9729524f974aa0dd9cb0143cb8bd04f4",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/06-bone-chunky-monogram-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "2dc1c45d351aad0064b68803fb998aa41fca74334e3a5d0e7123f3e572756da3",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/11-gray-cage-runner-duplicate.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "aabaf6c9b7789c019c4113c5a580d4074c58462f4638b146646f0e8f690d24ac",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/08-silver-chunky-runner-on-foot.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "57cabeaa94a106a89e4434a79b55360ea8d1317ba28250f64bab2f61acc63401",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/09-sand-wave-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "7b48958d265b71977fa7c9af0d125d17384b016feeb8569636e31398a5424900",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/10-black-white-wave-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "2dc1c45d351aad0064b68803fb998aa41fca74334e3a5d0e7123f3e572756da3",
+        "archive_path": "project/assets/ss27-footwear-reference-round4/11-gray-cage-runner-duplicate.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-03T11:19:13.113Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "exec-dcacb6e0-c88f-4c09-811d-afd83609ea75.png",
+        "archive_path": "project/assets/ss27-footwear-concepts-round4-reference-faithful/06-gate-mono.png",
+        "status": "name_record_match"
+      }
+    ],
+    "embedded_images_in_message_order": [],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-03T13:06:35.821Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-3b4d5179-dac6-44c5-88a9-002f25aefdc5.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-1e0709cb-565f-432e-a80d-eb42d29633b0.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-b5ece58e-81b4-44ed-8629-d307a2bd42e6.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-87136f40-712a-4a4b-8da2-6edfe76cc01f.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-9085a7d1-1bd0-411a-aade-a5a92111fdfc.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-63995d40-cfd1-4e9b-b8e4-d196def1d9e2.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-def88ae5-e2ba-4294-814a-a50fa9ac832e.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-bd3b9898-f4df-4bbd-a794-fceec532fc50.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-7e7465b8-0a56-43b6-b46c-40b1b37bd89d.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-cd021e65-2585-4643-951a-d8b2ee853cda.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "96949bbc95ecb7b7cfabff6f95f142413e28dd1730a6c630517615ed2776310c",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/01-black-canvas-hi.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "47d050b67f38ba55e167ec4cceb54086ac649f3f7ac85eb130e1f4950bec791e",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/02-minimal-canvas-hi.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "c6022fd612459873c4a52680cd0b990164646190b4b60e68c735bdf33b7502e9",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/03-oversized-graphic-low.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "0b7f241edcc08f2b74a332873785bb185ba56609431d525f47138db4675b685c",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/04-liquid-silver-runner.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "771be07c605c213b420dcce3b9df181ce7f80ba058a393d35f10398a11cc4119",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/05-black-bone-graphic-low.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "e660c5fc7658452164a85b3447d22fe0313909215608d0d2e59518efa94b70cf",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/06-frayed-jacquard-skate.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "3013dd32de23e97a453d385503332df0ce9a986cf4e58a3bf8dde660d9eccc41",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/07-black-leather-low.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "bb67e1bf22c610c7e1d902627b125c1abac3ea7561fc74c8e06dee0b7620c8cc",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/08-white-leather-court.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "fb9d9893dd02aff2ce05df5235469a70670f5c523e9d6a2f865ea2eeadfb25be",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/09-ribbed-gum-canvas.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "248365e894e0a4320d2cfdb9a6f1e2950f4f16f4f997306826d962c385c44f2f",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/references/10-white-court.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-07T07:55:08.263Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-bbdc29d8-684b-4c19-a803-58e5bc8eab07.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "1fb2a9d35e2518f01dd31dbbccb280ed6f926e59a212c2a37a9c911a562b4fa5",
+        "archive_path": "project/assets/ss27-footwear-side-pattern-round1/references/03-approved-signature-pattern.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-07T11:51:26.229Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "exec-0bdaca3c-c54e-4e04-890c-b95bd5545a6b.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/01-veil-archive-hi.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-31447c1e-e5bc-4fce-8c2d-61875dd5a1e5.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/02-offset-jacquard-hi.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-55309449-d6cd-4380-a695-dc0b49b0ab85.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/04-liquid-gate-runner.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-84711688-9686-4b91-a6be-d307b38ca394.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/06-frayed-veil-skate.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-4982b3e9-e1fc-421d-a110-dfcad008d690.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/07-silver-gate-low.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-1520d21d-e32e-4f79-85eb-b0fe1e045c36.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/08-shadow-register-court.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-90a90878-ac30-4825-aec9-db3c8cb706f8.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/09-smoke-rib-canvas.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-9852a19d-21c4-4f10-9670-39375bf3962b.png",
+        "archive_path": "project/assets/ss27-footwear-reference-series-round6/10-mono-relief-court.png",
+        "status": "name_record_match"
+      }
+    ],
+    "embedded_images_in_message_order": [],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-09T02:10:19.730Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "exec-8792e8e7-be3e-490c-a176-c738e6a47a24.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/01-bone-signal.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-b5c3d29c-23b4-448d-b771-8563560f513c.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/02-strata.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-52f94dec-d46e-4258-9b0f-58e65a3c0b3c.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/03-notch.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-26f2b18b-982a-43e2-836d-88da7b257d42.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/04-quiet-panel.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-5e5ff0cc-5d87-43e4-965d-97b28628c218.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/05-afterhours.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-6d179b09-7e88-4547-b254-4cc0b4e44b9b.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/06-ash-frame.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-fce40b91-e49b-471d-a23f-75ba486ef875.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/07-chain-form.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-ef9d2085-8b20-45a4-80dc-5ff0f8b2e790.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/08-ivory-cage.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-059403af-9dc9-46a2-a357-0ea19f1d7b84.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/09-silver-wave.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-4b167722-28ad-47d9-a9b4-7885a2c4f600.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/10-sand-current.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-64e07902-bcac-4276-afd8-be3c9e5fcb8d.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/11-graphite-cage.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-7a11614f-87d8-4542-8a0e-644d40a3b974.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/12-bone-layer.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-c8b5645f-d6bc-41ea-a41a-5aee3885803a.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/02-veil-cross-runner.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-14ab215a-40fe-4b3e-94c9-f30b144a9712.png",
+        "archive_path": "project/assets/ss27-footwear-product-details-round2/sources/14-veil-high.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-416407c7-f036-4765-89d1-1d54160f7215.png",
+        "archive_path": "project/assets/ss27-footwear-shortlist-round3/05-relay-contour-hi.png",
+        "status": "name_record_match"
+      }
+    ],
+    "embedded_images_in_message_order": [],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-10T06:01:10.348Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "exec-4e7c2f62-7d48-40c7-8f33-dfb4d96c4ff7.png",
+        "archive_path": "project/assets/footwear-feminine-unisex-round1/revision-03/masters/F02-R3.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-a479dea4-e926-49f7-a029-a2ee3ddcfccd.png",
+        "archive_path": "project/assets/footwear-feminine-unisex-round1/batch02-redesign/retained/F06-v1-EXACT.png",
+        "status": "name_record_match"
+      }
+    ],
+    "embedded_images_in_message_order": [],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-10T09:30:46.049Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "codex-clipboard-24a426ce-f028-4907-bf65-52a8067f1619.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-35c68ea8-8a2e-4208-b8e1-3c86e4f1e398.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-d51c27f0-e656-444c-97de-890d1c91a0ff.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-8eb3621c-37d4-444a-aa2b-3532c9cbf13f.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-4cd35555-712e-43c4-b30b-918260f3c846.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-a1148f59-5314-4870-a6e8-1ebed104015c.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-0c8c88c0-eb36-4be7-bb22-6b8c16222da4.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-6c98f419-bd84-4f48-b805-d41116b6dffc.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-d0d81350-c407-4932-b549-0ee568b95a24.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-a9a3c648-50d1-4d0b-9c41-9cb59444c5da.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      },
+      {
+        "name": "codex-clipboard-39926e11-c950-46a1-9812-d49d932d252c.png",
+        "archive_path": null,
+        "status": "original_path_unavailable_or_unmapped"
+      }
+    ],
+    "embedded_images_in_message_order": [
+      {
+        "sha256": "183bd216688f33809d8bd270b30fed3d1b9a9c519dfd173ed4559c7c93b2e569",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-01.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "1e54010716533a4fbfa6a4ade681f656337edcdde3cbd87cc93b082b60dcc2b3",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-02.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "04c27fc286aa27114755e65b98c85d68bef26903394955815172bee5c08153c5",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-03.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "75928d31b250da3aed115ea42d3d762398b823b8784db6903ed35fc4ac772604",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-04.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "2c4217c7b4355b2eb7ac5da2637708e824bc99346ba749c0efb8e74b3abea207",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-05.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "7d1156845892f8aafa3c1356684f088e1b358a0bdc52e3562e115d4614a1b454",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-06.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "4482b8a7676e94928737d28d6549871149d2cff273828bea1363ee690bd8cb7b",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-07.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "01e9d1bc9725f60410332e43ff197757d5eb3595fc9e0c6e90f18e5e9a9b960c",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-08.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "1e0864bbcf11946ef9e4c85f5b0a5fabc12d15cbea0f5279abb26f73862c7b04",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-09.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "6d341a436a26f8e4651f14964f582494bbbe1f6fdd33bc15e46a930d485f075c",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-10.png",
+        "status": "exact_hash_match"
+      },
+      {
+        "sha256": "3dfa8026ef3302033efbecab7605c05031c4476238a8c89f61c0e6bf6c2cb633",
+        "archive_path": "project/assets/footwear-reference-reset-round2/references/user-11.png",
+        "status": "exact_hash_match"
+      }
+    ],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  },
+  {
+    "timestamp": "2026-09-11T06:01:28.104Z",
+    "source_thread_file": "rollout-2026-09-01T16-59-14-01a05c31-abd0-79f1-98f3-31e8f97ddab9.jsonl",
+    "source_attachment_names": [
+      {
+        "name": "exec-91a29c2f-36fa-4c2a-8d33-ff0062e0159e.png",
+        "archive_path": "project/assets/footwear-reference-reset-round2/masters/R06-v1.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-135d1cfa-c942-46ab-a1ab-3249df51fd61.png",
+        "archive_path": "project/assets/footwear-direct-eight-round4/masters/D04-v1.png",
+        "status": "name_record_match"
+      },
+      {
+        "name": "exec-6cb2baa9-0018-452d-a459-196563f1e27c.png",
+        "archive_path": "project/assets/footwear-direct-eight-round4/masters/D05-v1.png",
+        "status": "name_record_match"
+      }
+    ],
+    "embedded_images_in_message_order": [],
+    "note": "Embedded-image SHA-256 mappings are exact; a filename-only relationship is not claimed when it cannot be established."
+  }
+]

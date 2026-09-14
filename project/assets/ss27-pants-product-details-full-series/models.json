@@ -1,0 +1,28 @@
+{
+  "male": {
+    "id": "MOVERNO-M01",
+    "description": "成年东亚男性，24–28 岁，视觉身高比例 178–184cm，直身结构，短黑发，中性表情",
+    "master": "model-masters/male-east-asian-master.png",
+    "status": "approved_master_active",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "6F22AFB0EA2BEE747192BD7FBAC5791F87CF51CA9E8D65017D6E3DB43B693186"
+  },
+  "female": {
+    "id": "MOVERNO-F01",
+    "description": "成年东亚女性，22–28 岁，视觉身高比例 166–172cm，曲线结构，黑发，中性表情",
+    "master": "model-masters/female-east-asian-master.png",
+    "status": "approved_master_active",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "C5D96A7440E997BED64997A5A13C6E7DF72E61F8201875A7D98BE6EDC0DC5AF8"
+  },
+  "stylingRules": {
+    "tops": "锁定用户参考的黑色 Oversize 短袖：小型胸前 Gate＋MOVERNO，侧身与背部为断裂残影 V2；不得换成卫衣、衬衫、背心或修身上衣",
+    "shoes": "锁定用户参考的 MOVERNO 黑色高帮帆布鞋：骨灰鞋带与包边、外侧 Gate、后跟品牌触点；不得换成低帮鞋、靴子或厚底跑鞋",
+    "topReference": "styling-references/moverno-oversize-tee-reference.png",
+    "shoeReference": "styling-references/moverno-high-top-reference.png",
+    "framing": "头顶至鞋底完整入画，裤装不得被手、包或上衣遮挡",
+    "identity": "跨 15 款保持同一成年人物身份和身体比例；男女统一穿着锁定上衣与鞋款，只改变裤装、动作、镜头和背景"
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "01",
+    "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/posters/01-bone-signal-detail.png",
+    "editable": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/editable/01-bone-signal-detail.svg",
+    "width": 1080,
+    "height": 6320,
+    "social": [
+      1080,
+      1350
+    ],
+    "atlasNative": [
+      1448,
+      1086
+    ],
+    "campaignNative": [
+      1122,
+      1402
+    ],
+    "originalUnchanged": true,
+    "sourceSHA256": "9532abaeb04e75e077e4ac6807fe171c6737b76ab5fc9e486beb4be0cb2ce054",
+    "hasMission": true,
+    "hasConceptDisclaimer": true,
+    "noExternalImages": true
+  },
+  {
+    "id": "02",
+    "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/posters/02-strata-detail.png",
+    "editable": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/editable/02-strata-detail.svg",
+    "width": 1080,
+    "height": 6320,
+    "social": [
+      1080,
+      1350
+    ],
+    "atlasNative": [
+      1448,
+      1086
+    ],
+    "campaignNative": [
+      1122,
+      1402
+    ],
+    "originalUnchanged": true,
+    "sourceSHA256": "8ade7fd4c799bee59812a44a63301644e64885ba19ee04db5fed3fbd273bb045",
+    "hasMission": true,
+    "hasConceptDisclaimer": true,
+    "noExternalImages": true
+  },
+  {
+    "id": "03",
+    "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/posters/03-notch-detail.png",
+    "editable": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/editable/03-notch-detail.svg",
+    "width": 1080,
+    "height": 6320,
+    "social": [
+      1080,
+      1350
+    ],
+    "atlasNative": [
+      1448,
+      1086
+    ],
+    "campaignNative": [
+      1122,
+      1402
+    ],
+    "originalUnchanged": true,
+    "sourceSHA256": "e68f0c6ec9564d39a5c5220ebe0d25b9e75e05e52282777a23e89d998dabf0c6",
+    "hasMission": true,
+    "hasConceptDisclaimer": true,
+    "noExternalImages": true
+  },
+  {
+    "id": "04",
+    "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/posters/04-quiet-panel-detail.png",
+    "editable": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/editable/04-quiet-panel-detail.svg",
+    "width": 1080,
+    "height": 6320,
+    "social": [
+      1080,
+      1350
+    ],
+    "atlasNative": [
+      1448,
+      1086
+    ],
+    "campaignNative": [
+      1122,
+      1402
+    ],
+    "originalUnchanged": true,
+    "sourceSHA256": "8911965f7a58648f3842a61242e064c5cffbf808ad1158bf4f60102e327ca4ed",
+    "hasMission": true,
+    "hasConceptDisclaimer": true,
+    "noExternalImages": true
+  },
+  {
+    "id": "05",
+    "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/posters/05-afterhours-detail.png",
+    "editable": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/editable/05-afterhours-detail.svg",
+    "width": 1080,
+    "height": 6320,
+    "social": [
+      1080,
+      1350
+    ],
+    "atlasNative": [
+      1448,
+      1086
+    ],
+    "campaignNative": [
+      1122,
+      1402
+    ],
+    "originalUnchanged": true,
+    "sourceSHA256": "a8918a62ef847213184784104fcecacb60e0d36f80a901b401c47d228cd2c959",
+    "hasMission": true,
+    "hasConceptDisclaimer": true,
+    "noExternalImages": true
+  }
+]

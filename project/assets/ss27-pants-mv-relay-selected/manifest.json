@@ -1,0 +1,52 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "asset": "MV RELAY selected secondary pant mark",
+  "selectedFrom": "Round 1-B",
+  "status": "selected_for_internal_pants_development",
+  "selectedAt": "2026-08-30",
+  "masterEmblemPolicy": "Veil Gate remains the primary brand emblem",
+  "vectorConstruction": {
+    "viewBox": "0 0 600 600",
+    "strokeWidth": 64,
+    "structure": "rounded M rail, single staggered relay junction, angular V exit",
+    "minimumDigital": "16px absolute / 24px recommended",
+    "minimumPhysical": "8mm concept minimum; production compensation pending"
+  },
+  "files": [
+    {
+      "file": "svg/moverno-mv-relay.svg",
+      "role": "editable black vector",
+      "sha256": "46CA08869B140600F6C809DE9788B544832088590464F3922D93DAC339B700A1"
+    },
+    {
+      "file": "svg/moverno-mv-relay-reverse.svg",
+      "role": "editable white reverse vector",
+      "sha256": "FBAFDB3107C616C41D9EB34D380ACD88BD31D35C2C9FB3EABA7CEAF1AB6DF4E0"
+    },
+    {
+      "file": "png/moverno-mv-relay@4x.png",
+      "role": "2400x2400 transparent black PNG",
+      "sha256": "EF0DA0407EEA68BAC9BAB0E2393D81FF18CE860885FE3FC8FAF7762667D6A7C2"
+    },
+    {
+      "file": "png/moverno-mv-relay-reverse@4x.png",
+      "role": "2400x2400 transparent white PNG",
+      "sha256": "57A20B6085A0C98326B95DAC2D0E362693DE08911E3EF35E993CD5DB49788196"
+    },
+    {
+      "file": "proof/moverno-mv-relay-application-proof.png",
+      "role": "1600x1000 application and minimum-size proof",
+      "sha256": "70BBF89E538F43E1A26AA38D71ABAD79D58DB10537DCE2D264C46D3891FC3C97"
+    },
+    {
+      "file": "../../output/pdf/MOVERNO_MV_RELAY_Selected_Mark.pdf",
+      "role": "three-page selected-mark PDF",
+      "sha256": "873820D50F3264DF18EE1EE99D5FE4ED7C24DFD0BAE571E3791DBFDAAA88559E"
+    }
+  ],
+  "publicSearchAssessment": {
+    "level": "medium-high pending professional clearance",
+    "finding": "No exact match located in the public keyword and image-result sample, but MV monograms and apparel uses are highly crowded.",
+    "notApproval": true
+  }
+}

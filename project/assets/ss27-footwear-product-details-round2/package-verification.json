@@ -1,0 +1,34 @@
+[
+  {
+    "batch": "02",
+    "path": "D:/Codex-chat/night-veil-brand/assets/MOVERNO-SS27-details-round2-batch02-20260909.zip",
+    "bytes": 143773994,
+    "entries": 56,
+    "counts": {
+      "posters": 5,
+      "social": 5,
+      "campaign": 5,
+      "views": 5,
+      "editable": 10,
+      "sources": 5,
+      "previews": 10
+    },
+    "readbackVerified": true
+  },
+  {
+    "batch": "03",
+    "path": "D:/Codex-chat/night-veil-brand/assets/MOVERNO-SS27-details-round2-batch03-20260909.zip",
+    "bytes": 143875260,
+    "entries": 56,
+    "counts": {
+      "posters": 5,
+      "social": 5,
+      "campaign": 5,
+      "views": 5,
+      "editable": 10,
+      "sources": 5,
+      "previews": 10
+    },
+    "readbackVerified": true
+  }
+]

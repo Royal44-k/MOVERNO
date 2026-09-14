@@ -1,0 +1,42 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "asset": "SS27 secondary MV pant mark — Round 1",
+  "createdAt": "2026-08-30",
+  "status": "selected-b-mv-relay",
+  "generation": {
+    "method": "OpenAI built-in ImageGen",
+    "stytrix": "methodology only; no paid generation and no credits consumed"
+  },
+  "board": {
+    "file": "01-mv-pant-mark-round1.png",
+    "width": 1536,
+    "height": 1024,
+    "colorMode": "RGB",
+    "sha256": "4CC5CD5B2DE884AD7A03E928667BDF7DD078C0AEA2169C6997FE92F87AD1079E"
+  },
+  "candidates": [
+    {
+      "id": "A",
+      "name": "MV APERTURE / 幕隙连字",
+      "role": "recommended visual direction",
+      "strength": "strongest small-size silhouette and clearest architectural relation",
+      "risk": "most conventional MV construction; requires the strictest geometry-level clearance"
+    },
+    {
+      "id": "B",
+      "name": "MV RELAY / 接力折线",
+      "role": "selected secondary pant mark",
+      "strength": "highest visual differentiation and strongest zipper-pull application",
+      "risk": "relay joint must be simplified during vector refinement to stay open at 8 mm"
+    },
+    {
+      "id": "C",
+      "name": "MV NOTCH / 切口叠印",
+      "role": "industrial alternative",
+      "strength": "strongest stamping and oxidized-metal character",
+      "risk": "dense small-size version may read as a block M before it reads as MV"
+    }
+  ],
+  "selectedAt": "2026-08-30",
+  "nextGate": "Review five pure-black trouser silhouettes before adding Relay Rail, V2 motif or complex hardware."
+}

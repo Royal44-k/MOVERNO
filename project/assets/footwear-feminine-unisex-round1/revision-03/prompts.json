@@ -1,0 +1,19 @@
+[
+  {
+    "id": "F02",
+    "version": "R3",
+    "name": "黑金链纹运动鞋",
+    "direction": "中性",
+    "color": "墨黑 / 雾银 / 古金",
+    "materials": "常规短舌 · 局部黑金链纹 · 连续橡胶底",
+    "statement": "黑金链纹沿鞋侧错位铺陈，与留白网面形成疏密对照。",
+    "detailTitle": "黑金链纹 / 分区收边",
+    "detailBody": "纹样进入侧腰，不铺满鞋头；短鞋舌收回系带之后。",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/revision-02/masters/F02-R2.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Use case: precise-object-edit. Image1 is the existing MOVERNO F02-R2 master to edit, Image2 is the AUTHENTIC black-gold linked brand textile repeat to apply, Image3 is the standard independent MOVERNO paired-blade emblem.\nCHANGE 1: REMOVE the long FOLD-OVER TONGUE completely. Replace it with a normal compact black sneaker tongue that rises only about 10mm above the upper lace crossing, lies BEHIND all laces, and does not fold over or cover them. A very small exact 'MOVERNO' wordmark may appear on its upper centre. No flap, lace shield, velcro strap or large tongue label. Keep the original five eyelet pairs and black laces neatly tied.\nCHANGE 2: integrate the actual BLACK AND MUTED ANTIQUE-GOLD chain pattern from Image2 organically into the OUTER SIDE upper. This is a woven / printed fabric pattern, NOT jewelry or hanging physical chain. Use the reference's recognizable pairs of opposing curved chambers, narrow central slits and tiny connecting joints; NO generic oval chain, LV monogram, Xs, butterflies or newly invented motif. Small scale, about three staggered slim columns and two linked cells vertically within the lateral quarter, softly following the quarter curve and naturally clipped at the silver overlay seams. Fine muted antique-gold outlines on inky black woven textile, primarily black, no burgundy/red joints and no gaudy yellow metallic fill. The pattern-rich region runs across the middle and lower outside quarter; a calm black mesh strip remains at top near collar and around rear logo, and the toe mesh remains plain. Use subtle variation of matte black fill and satin gold edge so repeat is readable but not flat wallpaper. Pattern is continuous across its own small textile insert, with plausible fine stitched edge where it meets plain mesh, never floating above material. Retain the existing compact SILVER independent standard emblem at outer rear quarter, keep a little plain black space around it.\nPRESERVE the existing rounded toe, black toe rand, silver curved eyestay-to-midfoot overlay, silver heel cap, collar, continuous black outsole thickness and geometry, original shoe length/width, three-quarter viewing angle, pale gray studio background and lighting. Do not recolor silver overlays gold. The update should feel mature youthful street fashion and dark premium, not childish, not formal, not costume gold armor. One complete shoe only. No unrelated redesign, no props, no typography outside shoe. Horizontal 3:2 photograph."
+  }
+]

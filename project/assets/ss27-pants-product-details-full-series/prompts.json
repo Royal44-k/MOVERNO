@@ -1,0 +1,23 @@
+{
+  "generationMode": "OpenAI built-in ImageGen",
+  "stytrixUsage": "methodology_only_no_paid_generation",
+  "modelMasters": {
+    "male": {
+      "prompt": "成年东亚男性时装模特身份母版；26 岁，直身精瘦体型，短黑发，中性表情；暖灰无缝影棚，头顶至双鞋完整入画；石墨灰无标识长袖、黑色直筒基准裤、黑色低帮鞋；自然人体、无文字、无水印、无第三方标识。",
+      "generatedAt": "2026-09-08",
+      "file": "model-masters/male-east-asian-master.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "6F22AFB0EA2BEE747192BD7FBAC5791F87CF51CA9E8D65017D6E3DB43B693186"
+    },
+    "female": {
+      "prompt": "成年东亚女性时装模特身份母版；25 岁，均衡曲线体型，齐肩黑发，中性表情；浅暖灰无缝影棚，头顶至双鞋完整入画；骨灰无标识长袖、黑色直筒基准裤、黑色低帮鞋；自然人体、无文字、无水印、无第三方标识。",
+      "generatedAt": "2026-09-08",
+      "file": "model-masters/female-east-asian-master.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "C5D96A7440E997BED64997A5A13C6E7DF72E61F8201875A7D98BE6EDC0DC5AF8"
+    }
+  },
+  "products": {}
+}

@@ -1,0 +1,1312 @@
+[
+  {
+    "code": "D01",
+    "name": "黑金织口低口鞋",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D01-v2.png",
+    "category": "闭趾低口 / 平缓黑底",
+    "statement": "黑金织边沿低鞋口绕行，前掌保留整片磨砂面。"
+  },
+  {
+    "code": "D02",
+    "name": "奶绒后空厚底鞋",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D02-v1.png",
+    "category": "绒口穆勒 / 后跟开放",
+    "statement": "宽绒领从脚背落向两侧，后空开口清楚可见。"
+  },
+  {
+    "code": "D03",
+    "name": "窄带极短筒绒靴",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D03-v1.png",
+    "category": "极短筒 / 连续绒面",
+    "statement": "极短筒保留软绒边，竖向窄带连接筒口与后跟。"
+  },
+  {
+    "code": "D04",
+    "name": "斜链黑白拉链高帮",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D04-v1.png",
+    "category": "拉链高帮 / 常规厚底",
+    "statement": "一条斜拉链切入侧片，窄幅链纹与它平行排列。"
+  },
+  {
+    "code": "D05",
+    "name": "巨厚底直舌高帮",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D05-v2.png",
+    "category": "巨厚底 / 直立系带",
+    "statement": "鞋带竖向收拢高帮，大体积胶头接入整块厚底。"
+  },
+  {
+    "code": "D06",
+    "name": "云白粗绳运动鞋",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D06-v1.png",
+    "category": "饱满低帮 / 粗圆绳",
+    "statement": "粗圆绳落在蓬松鞋舌上，短宽鞋头接住饱满前掌。"
+  },
+  {
+    "code": "D07",
+    "name": "液银网面跑鞋",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D07-v1.png",
+    "category": "银色低帮 / 流线前掌",
+    "statement": "薄银片沿网面流动，黑色底缘压住修长前掌。"
+  },
+  {
+    "code": "D08",
+    "name": "黑金链纹帆布鞋",
+    "group": "footwear-direct-eight-round4",
+    "source": "project/assets/footwear-direct-eight-round4/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/D08-v1.png",
+    "category": "低帮帆布 / 胶包头厚底",
+    "statement": "规整链纹进入低帮织面，字标沿外侧底墙展开。"
+  },
+  {
+    "code": "F05",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F05-v4-logo.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F06",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F06-v2.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F07",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F07-v1.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F08",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F08-v1.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F05-R",
+    "name": "开口拼面运动鞋",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/batch02-redesign/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F05-R-v2.png",
+    "category": "",
+    "statement": "黑白拼面围合大开口，让品牌链纹在后片成为焦点。"
+  },
+  {
+    "code": "F07-R",
+    "name": "弧跟都市凉鞋",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/batch02-redesign/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F07-R-v1.png",
+    "category": "",
+    "statement": "开放前掌配一道内收底腰，以弧形低跟完成轻巧转折。"
+  },
+  {
+    "code": "F08-R",
+    "name": "镂窗收尖系带鞋",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/batch02-redesign/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F08-R-v1.png",
+    "category": "",
+    "statement": "收尖前掌与宽带相互反衬，侧腰开窗切开银黑鞋面。"
+  },
+  {
+    "code": "F05",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/delivery-F02R3-batch02/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F05-v4-logo.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F06",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/delivery-F02R3-batch02/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F06-v2.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F07",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/delivery-F02R3-batch02/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F07-v1.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F08",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/delivery-F02R3-batch02/batch02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F08-v1.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F02",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/delivery-F02R3-batch02/revision-03/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F02-R3.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F02",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/revision-02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F02-R2.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F04",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/revision-02/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F04-R2.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F02",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/revision-03/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F02-R3.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F01",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F01-master-v2.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F02",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F02-master-v1.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F03",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F03-master-v1.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "F04",
+    "name": "",
+    "group": "footwear-feminine-unisex-round1",
+    "source": "project/assets/footwear-feminine-unisex-round1/selected-assets.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "masters/F04-master-v2.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "N01",
+    "name": "弧阶复古跑鞋",
+    "group": "footwear-new-six-round1",
+    "source": "project/assets/footwear-new-six-round1/selected-assets.json",
+    "source_status": "新概念待审核",
+    "master": "masters/N01-v1.png",
+    "category": "修长低帮 / 复古运动",
+    "statement": "双层鞋眼片沿脚背错位，鞋腰的弧线把前后连接起来。"
+  },
+  {
+    "code": "N02",
+    "name": "短吻蓬舌板鞋",
+    "group": "footwear-new-six-round1",
+    "source": "project/assets/footwear-new-six-round1/selected-assets.json",
+    "source_status": "新概念待审核",
+    "master": "masters/N02-v1.png",
+    "category": "宽头低帮 / 滑板量感",
+    "statement": "把量感放进短鞋头和蓬松鞋舌，侧身留出不等长的纹样分区。"
+  },
+  {
+    "code": "N03",
+    "name": "斜脊软筒鞋",
+    "group": "footwear-new-six-round1",
+    "source": "project/assets/footwear-new-six-round1/selected-assets.json",
+    "source_status": "新概念待审核",
+    "master": "masters/N03-v1.png",
+    "category": "软体中帮 / 暗黑都市",
+    "statement": "一道偏侧拉链切开软筒，浅垫分区集中在脚踝上方。"
+  },
+  {
+    "code": "N04",
+    "name": "雾银熔线机能鞋",
+    "group": "footwear-new-six-round1",
+    "source": "project/assets/footwear-new-six-round1/selected-assets.json",
+    "source_status": "新概念待审核",
+    "master": "masters/N04-v2.png",
+    "category": "低口机能 / 流线运动",
+    "statement": "贴合线顺着脚背流动，快速系固集中在鞋口前端。"
+  },
+  {
+    "code": "N05",
+    "name": "黑银脊线赛车鞋",
+    "group": "footwear-new-six-round1",
+    "source": "project/assets/footwear-new-six-round1/selected-assets.json",
+    "source_status": "新概念待审核",
+    "master": "masters/N05-v1.png",
+    "category": "低帮赛车 / 紧致运动",
+    "statement": "紧致前掌和后卷底边建立赛车姿态，银色细脊贯穿侧腰。"
+  },
+  {
+    "code": "N06",
+    "name": "冷烟充棉短踝靴",
+    "group": "footwear-new-six-round1",
+    "source": "project/assets/footwear-new-six-round1/selected-assets.json",
+    "source_status": "新概念待审核",
+    "master": "masters/N06-v2.png",
+    "category": "短筒鞋靴 / 秋冬支线",
+    "statement": "短宽前掌接充棉短筒，骨白粗圆绳集中在脚背。"
+  },
+  {
+    "code": "R07",
+    "name": "宽扣厚底玛丽珍",
+    "group": "footwear-reference-expansion-round3",
+    "source": "project/assets/footwear-reference-expansion-round3/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R07-v1.png",
+    "category": "宽带开口 / 厚底",
+    "statement": "宽带横过脚背，圆钝鞋头与厚底形成紧凑体积。"
+  },
+  {
+    "code": "R08",
+    "name": "链纹厚底一脚蹬",
+    "group": "footwear-reference-expansion-round3",
+    "source": "project/assets/footwear-reference-expansion-round3/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R08-v2.png",
+    "category": "无系带 / 连续鞋面",
+    "statement": "连续鞋面不设鞋眼，深浅织纹在脚背交汇。"
+  },
+  {
+    "code": "R09",
+    "name": "错阶宽带运动凉鞋",
+    "group": "footwear-reference-expansion-round3",
+    "source": "project/assets/footwear-reference-expansion-round3/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R09-v1.png",
+    "category": "露趾 / 三点带结构",
+    "statement": "露趾与侧面留空，让宽带成为鞋身结构。"
+  },
+  {
+    "code": "R10",
+    "name": "厚底绒面切尔西靴",
+    "group": "footwear-reference-expansion-round3",
+    "source": "project/assets/footwear-reference-expansion-round3/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R10-v1.png",
+    "category": "弹力侧片 / 短筒",
+    "statement": "深色弹力侧片收住短筒，下方保留整块厚底。"
+  },
+  {
+    "code": "R11",
+    "name": "宽扁带绒面运动鞋",
+    "group": "footwear-reference-expansion-round3",
+    "source": "project/assets/footwear-reference-expansion-round3/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R11-v1.png",
+    "category": "厚舌中低帮 / 宽带系合",
+    "statement": "宽扁鞋带压住厚舌，网眼从绒面边缘露出。"
+  },
+  {
+    "code": "R12",
+    "name": "软筒包头运动靴",
+    "group": "footwear-reference-expansion-round3",
+    "source": "project/assets/footwear-reference-expansion-round3/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R12-v1.png",
+    "category": "小腿中筒 / 无系带",
+    "statement": "软筒在脚踝自然起褶，胶包头保留运动感。"
+  },
+  {
+    "code": "R01",
+    "name": "链纹低口绒鞋",
+    "group": "footwear-reference-reset-round2",
+    "source": "project/assets/footwear-reference-reset-round2/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R01-v1.png",
+    "category": "图 1 / 低口闭趾",
+    "statement": "完整圆头与低口比例不变，品牌纹样沿鞋口绕行。"
+  },
+  {
+    "code": "R02",
+    "name": "奶绒厚底穆勒",
+    "group": "footwear-reference-reset-round2",
+    "source": "project/assets/footwear-reference-reset-round2/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R02-v1.png",
+    "category": "图 2 / 4 / 5 · 绒口后空",
+    "statement": "让绒口成为主体，栗棕鞋面保持完整和柔软。"
+  },
+  {
+    "code": "R03",
+    "name": "低筒绒里短靴",
+    "group": "footwear-reference-reset-round2",
+    "source": "project/assets/footwear-reference-reset-round2/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R03-v1.png",
+    "category": "图 3 / 极短筒",
+    "statement": "保留短筒和柔软圆头，把识别集中在后跟窄带。"
+  },
+  {
+    "code": "R04",
+    "name": "链纹厚底高帮",
+    "group": "footwear-reference-reset-round2",
+    "source": "project/assets/footwear-reference-reset-round2/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R04-v1.png",
+    "category": "图 6 / 7 · 高帮包头",
+    "statement": "黑白高帮的量感保留，链纹藏进拉链旁的侧片。"
+  },
+  {
+    "code": "R05",
+    "name": "雾银粗绳运动鞋",
+    "group": "footwear-reference-reset-round2",
+    "source": "project/assets/footwear-reference-reset-round2/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R05-v2.png",
+    "category": "图 8 / 9 · 饱满低帮",
+    "statement": "粗绳与蓬松鞋舌居中，雾银拼片勾勒鞋身。"
+  },
+  {
+    "code": "R06",
+    "name": "链纹帆布厚底鞋",
+    "group": "footwear-reference-reset-round2",
+    "source": "project/assets/footwear-reference-reset-round2/selected-assets.json",
+    "source_status": "概念待审核",
+    "master": "masters/R06-v1.png",
+    "category": "图 10 / 11 · 低帮帆布",
+    "statement": "低帮包头比例保留，以品牌链纹替代格纹。"
+  },
+  {
+    "code": "SS27-SH01-A1",
+    "name": "SAND RELAY / 沙幕复古跑",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "01-sand-relay.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-A2",
+    "name": "BLACK WAVE / 黑曜波层跑",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "02-black-wave.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-A3",
+    "name": "VEIL CROSS / 幕隙绑带跑",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "03-veil-cross.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-A4",
+    "name": "SHROUD RUNNER / 低覆护罩跑",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "04-shroud-runner.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-B1",
+    "name": "RELAY SKATE / 接隙板鞋",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "05-relay-skate.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-B2",
+    "name": "VEIL LOW / 幕隙低帮",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "06-veil-low.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-B3",
+    "name": "MONO STACK / 单色厚底",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "07-mono-stack.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-B4",
+    "name": "SQUARE COURT / 方头球鞋",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "08-square-court.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-C1",
+    "name": "VEIL CANVAS HI / 幕隙帆布高帮",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "09-veil-canvas-hi.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-C2",
+    "name": "PADDED VEIL HI / 软甲皮质高帮",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "10-padded-veil-hi.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-C3",
+    "name": "GHOST CONTOUR HI / 幽幕半透明高帮",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "11-ghost-contour-hi.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH01-C4",
+    "name": "REGISTER ZIP HI / 暗档拉链高帮",
+    "group": "ss27-footwear-concepts-round3",
+    "source": "project/assets/ss27-footwear-concepts-round3/manifest.json",
+    "source_status": "SIX_FINALISTS_SELECTED",
+    "master": "12-register-zip-hi.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH07-A",
+    "name": "VEIL FORM LOW / 幕形薄底鞋",
+    "group": "ss27-footwear-family-expansion-round1",
+    "source": "project/assets/ss27-footwear-family-expansion-round1/manifest.json",
+    "source_status": "rejected-all",
+    "master": "01-veil-form-low.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH07-B",
+    "name": "GATE MOC RUNNER / 门隙莫卡跑鞋",
+    "group": "ss27-footwear-family-expansion-round1",
+    "source": "project/assets/ss27-footwear-family-expansion-round1/manifest.json",
+    "source_status": "rejected-all",
+    "master": "02-gate-moc-runner.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH07-C",
+    "name": "QUIET DERBY / 静默德比运动鞋",
+    "group": "ss27-footwear-family-expansion-round1",
+    "source": "project/assets/ss27-footwear-family-expansion-round1/manifest.json",
+    "source_status": "rejected-all",
+    "master": "03-quiet-derby.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH07-D",
+    "name": "RELAY STRAP / 接隙束带鞋",
+    "group": "ss27-footwear-family-expansion-round1",
+    "source": "project/assets/ss27-footwear-family-expansion-round1/manifest.json",
+    "source_status": "rejected-all",
+    "master": "04-relay-strap.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH07-E",
+    "name": "SHROUD MULE / 幕罩便鞋",
+    "group": "ss27-footwear-family-expansion-round1",
+    "source": "project/assets/ss27-footwear-family-expansion-round1/manifest.json",
+    "source_status": "rejected-all",
+    "master": "05-shroud-mule.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-SH07-F",
+    "name": "ARC TREK LOW / 弧轨轻越野",
+    "group": "ss27-footwear-family-expansion-round1",
+    "source": "project/assets/ss27-footwear-family-expansion-round1/manifest.json",
+    "source_status": "rejected-all",
+    "master": "06-arc-trek-low.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT01",
+    "name": "ARC RELAY",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "01-pt01-arc-relay-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT02",
+    "name": "FORGE STACK DENIM",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "02-pt02-forge-stack-denim-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT03",
+    "name": "BREAKLINE TRACK",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "03-pt03-breakline-track-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT04",
+    "name": "VEIL CARGO",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "04-pt04-veil-cargo-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT05",
+    "name": "NOCTURNE TAILOR",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "05-pt05-nocturne-tailor-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT06",
+    "name": "PARABOLA SHEAR",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "06-pt06-parabola-shear-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT07",
+    "name": "RIFT COLUMN",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "07-pt07-rift-column-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT08",
+    "name": "SNAP AXIS",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "08-pt08-snap-axis-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT09",
+    "name": "RIVET SHROUD",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "09-pt09-rivet-shroud-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT10",
+    "name": "SMOKE PUDDLE",
+    "group": "ss27-pants-branded-concepts-round1",
+    "source": "project/assets/ss27-pants-branded-concepts-round1/manifest.json",
+    "source_status": "partially_superseded",
+    "master": "10-pt10-smoke-puddle-branded.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT01",
+    "name": "ARC RELAY",
+    "group": "ss27-pants-concepts-round1",
+    "source": "project/assets/ss27-pants-concepts-round1/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "01-pt01-arc-relay-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT02",
+    "name": "FORGE STACK DENIM",
+    "group": "ss27-pants-concepts-round1",
+    "source": "project/assets/ss27-pants-concepts-round1/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "02-pt02-forge-stack-denim-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT03",
+    "name": "BREAKLINE TRACK",
+    "group": "ss27-pants-concepts-round1",
+    "source": "project/assets/ss27-pants-concepts-round1/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "03-pt03-breakline-track-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT04",
+    "name": "VEIL CARGO",
+    "group": "ss27-pants-concepts-round1",
+    "source": "project/assets/ss27-pants-concepts-round1/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "04-pt04-veil-cargo-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT05",
+    "name": "NOCTURNE TAILOR",
+    "group": "ss27-pants-concepts-round1",
+    "source": "project/assets/ss27-pants-concepts-round1/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "05-pt05-nocturne-tailor-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT06",
+    "name": "PARABOLA SHEAR",
+    "group": "ss27-pants-concepts-round2",
+    "source": "project/assets/ss27-pants-concepts-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "01-pt06-parabola-shear-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT07",
+    "name": "RIFT COLUMN",
+    "group": "ss27-pants-concepts-round2",
+    "source": "project/assets/ss27-pants-concepts-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "02-pt07-rift-column-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT08",
+    "name": "SNAP AXIS",
+    "group": "ss27-pants-concepts-round2",
+    "source": "project/assets/ss27-pants-concepts-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "03-pt08-snap-axis-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT09",
+    "name": "RIVET SHROUD",
+    "group": "ss27-pants-concepts-round2",
+    "source": "project/assets/ss27-pants-concepts-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "04-pt09-rivet-shroud-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT10",
+    "name": "SMOKE PUDDLE",
+    "group": "ss27-pants-concepts-round2",
+    "source": "project/assets/ss27-pants-concepts-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "05-pt10-smoke-puddle-silhouette.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT19",
+    "name": "pt19-fluid-relay-obsidian-black",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt19-fluid-relay-obsidian-black-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT20",
+    "name": "pt20-seoul-curve-storm-gray",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt20-seoul-curve-storm-gray-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT21",
+    "name": "pt21-stack-trace-coal-black",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt21-stack-trace-coal-black-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT22-A",
+    "name": "pt22a-tower-signal-lead-iron-black",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt22a-tower-signal-lead-iron-black-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT23-A",
+    "name": "pt23a-night-current-pomegranate-black",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt23a-night-current-pomegranate-black-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT24",
+    "name": "pt24-parkour-rail-iron-gray",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt24-parkour-rail-iron-gray-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT25-A",
+    "name": "pt25a-mineral-puddle-neutral-gray",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt25a-mineral-puddle-neutral-gray-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT26",
+    "name": "pt26-quiet-tailor-black-cherry",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt26-quiet-tailor-black-cherry-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT27-A",
+    "name": "pt27a-curve-vortex-oxblood-black",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt27a-curve-vortex-oxblood-black-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT28",
+    "name": "pt28-aperture-cargo-graphite-olive",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt28-aperture-cargo-graphite-olive-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT29",
+    "name": "pt29-snap-column-smoke-black",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt29-snap-column-smoke-black-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT30-A",
+    "name": "pt30a-tokyo-fold-tungsten-gray",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt30a-tokyo-fold-tungsten-gray-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT22-B",
+    "name": "pt22b-tower-signal-deep-indigo",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt22b-tower-signal-deep-indigo-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT25-B",
+    "name": "pt25b-mineral-puddle-pale-blue-gray",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt25b-mineral-puddle-pale-blue-gray-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "PT27-B",
+    "name": "pt27b-curve-vortex-blue-black",
+    "group": "ss27-pants-product-details-full-series",
+    "source": "project/assets/ss27-pants-product-details-full-series/manifest.json",
+    "source_status": "concept_details_for_user_review",
+    "master": "posters/pt27b-curve-vortex-blue-black-details.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT19",
+    "name": "",
+    "group": "ss27-pants-product-details-pilot",
+    "source": "project/assets/ss27-pants-product-details-pilot/manifest.json",
+    "source_status": "pilot_for_user_review",
+    "master": "",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT25",
+    "name": "",
+    "group": "ss27-pants-product-details-pilot",
+    "source": "project/assets/ss27-pants-product-details-pilot/manifest.json",
+    "source_status": "pilot_for_user_review",
+    "master": "",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT28",
+    "name": "",
+    "group": "ss27-pants-product-details-pilot",
+    "source": "project/assets/ss27-pants-product-details-pilot/manifest.json",
+    "source_status": "pilot_for_user_review",
+    "master": "",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT09",
+    "name": "",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT03",
+    "name": "",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT11",
+    "name": "RELAY COLUMN",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "01-pt11-relay-column.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT12",
+    "name": "ARC VEIL",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "02-pt12-arc-veil.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT13",
+    "name": "GHOST TRACK",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "03-pt13-ghost-track.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT14",
+    "name": "RIFT FLARE",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "04-pt14-rift-flare.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT15",
+    "name": "NOCTURNE TAILOR II",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "05-pt15-nocturne-tailor-ii.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT16",
+    "name": "SHADOW CARGO",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "06-pt16-shadow-cargo.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT17",
+    "name": "PUDDLE ASCENT",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "07-pt17-puddle-ascent.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-PT18",
+    "name": "CURVE SIGNAL",
+    "group": "ss27-pants-side-motif-round2",
+    "source": "project/assets/ss27-pants-side-motif-round2/manifest.json",
+    "source_status": "awaiting_user_review",
+    "master": "08-pt18-curve-signal.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS14",
+    "name": "SPINE RELIC",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "01-ts14-spine-relic.png",
+    "category": "FRAME_V3",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS15",
+    "name": "LATERAL VEIL",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "02-ts15-lateral-veil-v2.png",
+    "category": "FRAME_V3",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS16",
+    "name": "ECLIPSE FOIL",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "03-ts16-eclipse-foil.png",
+    "category": "FRAME_V3",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS17",
+    "name": "ASH WINDOW",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "04-ts17-ash-window.png",
+    "category": "FRAME_V3",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS18",
+    "name": "OXIDE VOW",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "05-ts18-oxide-vow.png",
+    "category": "FRAME_V3",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS19",
+    "name": "DOUBLE SHADOW",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "06-ts19-double-shadow.png",
+    "category": "FRAME_V3",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS20",
+    "name": "VOID TIP",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "07-ts20-void-tip.png",
+    "category": "RHYTHM_V",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS21",
+    "name": "MERCURY SCAR",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "08-ts21-mercury-scar-v2.png",
+    "category": "RHYTHM_V",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS22",
+    "name": "NOCTURNE RELAY",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "09-ts22-nocturne-relay.png",
+    "category": "RHYTHM_V",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS23",
+    "name": "BLOOD NODE",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "10-ts23-blood-node.png",
+    "category": "RHYTHM_V",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS24",
+    "name": "CIPHER VEIL",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "11-ts24-cipher-veil.png",
+    "category": "RHYTHM_V",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS25",
+    "name": "GILDED QUIET",
+    "group": "ss27-tee-reset-round7",
+    "source": "project/assets/ss27-tee-reset-round7/manifest.json",
+    "source_status": "ready_for_user_review",
+    "master": "12-ts25-gilded-quiet.png",
+    "category": "RHYTHM_V",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS01",
+    "name": "FRONT MONOLITH",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts01-front-monolith.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS02",
+    "name": "BACK GATE",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts02-back-gate.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS03",
+    "name": "CHEST SIGNAL",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts03-chest-signal.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS04",
+    "name": "HEM ASCENT",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts04-hem-ascent.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS05",
+    "name": "SHOULDER CIRCUIT",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts05-shoulder-circuit.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS06",
+    "name": "FULL VEIL",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts06-full-veil.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS07",
+    "name": "SIDE RELAY",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts07-side-relay.png",
+    "category": "",
+    "statement": ""
+  },
+  {
+    "code": "SS27-TS08",
+    "name": "COMPOSITE RELAY",
+    "group": "ss27-tee-v2-placement-round1",
+    "source": "project/assets/ss27-tee-v2-placement-round1/manifest.json",
+    "source_status": "未单列；须核对该轮用户选择",
+    "master": "ss27-ts08-composite-relay.png",
+    "category": "",
+    "statement": ""
+  }
+]

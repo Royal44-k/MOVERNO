@@ -1,0 +1,86 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "collection": "SS27 pants silhouette expansion round 2",
+  "status": "awaiting_user_review",
+  "createdAt": "2026-08-30",
+  "generation": {
+    "renderer": "OpenAI built-in ImageGen",
+    "stytrix": "methodology only; no paid generation and no credits consumed",
+    "fashionTechPackSkill": "fashion-sketch-cn used for field structure and three-view QA",
+    "views": ["front", "true side", "back"],
+    "stageConstraints": "no wordmark, MV RELAY, V2 motif, decorative stripes, models or campaign styling"
+  },
+  "referencePolicy": {
+    "role": "user images are high-level silhouette and construction references only",
+    "doNotCopy": [
+      "crescent or blade patch topology",
+      "third-party logos or monograms",
+      "adidas three-stripe or trefoil assets",
+      "Thug Club tribal assets",
+      "existing pocket, rivet or distress maps verbatim"
+    ]
+  },
+  "concepts": [
+    {
+      "styleCode": "SS27-PT06",
+      "name": "PARABOLA SHEAR",
+      "file": "01-pt06-parabola-shear-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "matte oil-black cotton twill",
+      "construction": "asymmetric forward-rotating parabolic inset seams",
+      "hardwareIntensity": "restrained",
+      "targetPrice": "CNY 799-899",
+      "sha256": "64FAD12F02DB9AFF5E79E6DF5C506D7CFE9EEDF7CEEB45BE5E07ED21C3C9E72F"
+    },
+    {
+      "styleCode": "SS27-PT07",
+      "name": "RIFT COLUMN",
+      "file": "02-pt07-rift-column-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "12oz coal-black denim with black technical mesh",
+      "construction": "fitted top block, relaxed straight-to-micro-bootcut leg and controlled mesh-backed rupture windows",
+      "hardwareIntensity": "medium",
+      "targetPrice": "CNY 899-999",
+      "sha256": "BC5D96D14877A70319077BBCA591298EE94A500EF8704D9D03258A5525EE955F"
+    },
+    {
+      "styleCode": "SS27-PT08",
+      "name": "SNAP AXIS",
+      "file": "03-pt08-snap-axis-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "compact plum-black wool-cotton",
+      "construction": "off-center front button closure and one hidden segmented side snap placket",
+      "hardwareIntensity": "medium-restrained",
+      "targetPrice": "CNY 899",
+      "sha256": "A7BFA7303E19955CD8EC1CB16B906C2D4731017CAD1E2CF215E46816D2D3BFF6"
+    },
+    {
+      "styleCode": "SS27-PT09",
+      "name": "RIVET SHROUD",
+      "file": "04-pt09-rivet-shroud-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "charcoal denim with smoked graphite coated-canvas overlays",
+      "construction": "two asymmetric detachable protective thigh overlays with four functional rivets each",
+      "hardwareIntensity": "strong",
+      "targetPrice": "CNY 999",
+      "sha256": "2D131BFB6B4B477E94F6F8190EB68BDC43E50990F810923391A948F707FBB4B3"
+    },
+    {
+      "styleCode": "SS27-PT10",
+      "name": "SMOKE PUDDLE",
+      "file": "05-pt10-smoke-puddle-silhouette.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "CONCEPT",
+      "fabric": "13oz smoke-charcoal denim with blue-black cast",
+      "construction": "extreme baggy deep-rise leg, controlled puddling, twisted outer seam and articulated knee dart",
+      "hardwareIntensity": "restrained",
+      "targetPrice": "CNY 899",
+      "sha256": "8C02192510D5AE0950F09BE5D0EEB0205ED7DF9A99A6F4B2273B137AE58DB154"
+    }
+  ],
+  "nextGate": "Review PT06-PT10 silhouettes together with the branded concept matrix before STRAIGHT / CURVE development."
+}

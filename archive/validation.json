@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "verified_assets": 1660,
+  "verified_bundles": 64,
+  "sha256_manifest": "728b559c689e1f93dbce7983666284f4c8f75486fcb6f71afb53cccef7bd85e1",
+  "credential_pattern_hits": 0,
+  "method": "Read and decompress every ZIP member; compare length and SHA-256 to file manifest."
+}

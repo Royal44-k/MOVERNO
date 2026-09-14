@@ -1,0 +1,62 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "collection": "SS27",
+  "round": "footwear-deepened-round1",
+  "date": "2026-09-03",
+  "generationMode": "built-in-imagegen",
+  "stytrixPaidGeneration": false,
+  "width": 1536,
+  "height": 1024,
+  "status": "reviewed",
+  "reviewDecisionDate": "2026-09-03",
+  "decisionSummary": "Only display order 1 adopts the deepened version; display orders 2-6 retain their original mother concepts.",
+  "sharedReferences": {
+    "pattern": "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+    "emblem": "../logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+    "motherDirectory": "../ss27-footwear-shortlist-round3"
+  },
+  "outputs": [
+    {
+      "displayOrder": 1,
+      "file": "01-sand-relay-r1.png",
+      "mother": "../ss27-footwear-shortlist-round3/01-sand-relay-runner.png",
+      "decision": "accepted",
+      "activeAsset": "01-sand-relay-r1.png"
+    },
+    {
+      "displayOrder": 2,
+      "file": "02-veil-cross-r1.png",
+      "mother": "../ss27-footwear-shortlist-round3/02-veil-cross-runner.png",
+      "decision": "rejected-retain-mother",
+      "activeAsset": "../ss27-footwear-shortlist-round3/02-veil-cross-runner.png"
+    },
+    {
+      "displayOrder": 3,
+      "file": "03-monolith-low-r1.png",
+      "mother": "../ss27-footwear-shortlist-round3/03-monolith-platform-low.png",
+      "decision": "rejected-retain-mother",
+      "activeAsset": "../ss27-footwear-shortlist-round3/03-monolith-platform-low.png"
+    },
+    {
+      "displayOrder": 4,
+      "file": "04-register-zip-hi-r1.png",
+      "mother": "../ss27-footwear-shortlist-round3/04-register-zip-hi.png",
+      "decision": "rejected-retain-mother",
+      "activeAsset": "../ss27-footwear-shortlist-round3/04-register-zip-hi.png"
+    },
+    {
+      "displayOrder": 5,
+      "file": "05-relay-contour-hi-r1.png",
+      "mother": "../ss27-footwear-shortlist-round3/05-relay-contour-hi.png",
+      "decision": "rejected-retain-mother",
+      "activeAsset": "../ss27-footwear-shortlist-round3/05-relay-contour-hi.png"
+    },
+    {
+      "displayOrder": 6,
+      "file": "06-veil-panel-skate-r1.png",
+      "mother": "../ss27-footwear-shortlist-round3/06-veil-panel-skate-low.png",
+      "decision": "rejected-retain-mother",
+      "activeAsset": "../ss27-footwear-shortlist-round3/06-veil-panel-skate-low.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "F02",
+    "version": "R3",
+    "prompt": "Derive a precise two-row product study image from the supplied F02-R3 MOVERNO sneaker MASTER. Maintain absolutely the same shoe identity and proportions, mesh weave, silver leather flowing eyestay, black toe rand, black continuous cupsole, small SILVER standard twin-blade emblem on heel quarter, black-and-antique-gold linked brand pattern inside the lateral quarter, and compact normal tongue BEHIND the laces with small MOVERNO lettering. No folded tongue. TWO ROWS exactly on pale neutral grey, total image landscape 3:2, split at exact middle height, blank straight horizontal separation. TOP HALF: one complete shoe strict outside lateral profile, toe pointing left, sole horizontal, all shoe visible, no second shoe, carefully matching every seam and chain-pattern panel. BOTTOM HALF: one photographic closeup of the patterned lateral quarter and its silver eyestay edge, actual mesh and woven gold lines clearly resolved, don't invent metal chains. It is one same shoe seen twice. No captions, no arrows, no boxes, no watermarks. Keep the same exact shapes and stagger of the motif as the master; no yellow recoloring of silver overlays. Give both rows independent simple neutral backgrounds, no overlap across halfway boundary.",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/revision-03/masters/F02-R3.png"
+    ]
+  },
+  {
+    "id": "F02",
+    "stage": "atlas-v2",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/revision-03/masters/F02-R3.png"
+    ],
+    "prompt": "Derive an exact two-row MOVERNO product study from the provided master of ONE shoe. Keep absolutely identical silhouette, seam geometry, color, logo placements and real materials across views. Photorealistic studio, light neutral grey background. Landscape 3:2 total image divided into equal TOP and BOTTOM horizontal halves by a small blank straight boundary at exactly 50% height. TOP half: ONE complete shoe, STRICT OUTSIDE LATERAL ORTHOGRAPHIC PROFILE with TOE LEFT, sole perfectly horizontal. CAMERA eye level WITH SOLE SIDE, no view down into collar, no look from front, NO 3/4 perspective, no visible full toe front face, outside plane parallel to image plane, entire toe and heel have generous margin. Show the full outside profile without changing the actual shoe. BOTTOM half: ONE extreme close-up of the key construction specified below, same physical shoe, sharp texture and no extraneous objects. No captions, numbers, boxes, extra shoes or text outside product. F02-R3 EXACT black and silver sneaker, matching its main photo. Compact normal black tongue BEHIND laces. TOP must be true strict side, not previous front-side view. Keep its black toe rand, mesh forefoot, silver flowing eyestay, black/gold chain textile clipped to lateral quarter, rear small silver standard emblem, silver heel cap, continuous black cupsole. Full lateral silhouette with no view into collar and lace cross-section only, not a wide top surface. BOTTOM: blackgold linked textile side quarter macro with silver eyestay edge and rear emblem; precise same paired curved cell and connecting diamond joints as supplied master, staggered with same rhythm, not metal chains. Small gold lines woven into black surface. No new folds or straps."
+  }
+]

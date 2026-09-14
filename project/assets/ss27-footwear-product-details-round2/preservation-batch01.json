@@ -1,0 +1,186 @@
+{
+  "checked": 45,
+  "unchanged": 45,
+  "files": [
+    {
+      "file": "posters/01-bone-signal-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "posters/02-strata-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "posters/03-notch-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "posters/04-quiet-panel-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "posters/05-afterhours-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "social/01-bone-signal-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "social/02-strata-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "social/03-notch-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "social/04-quiet-panel-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "social/05-afterhours-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "campaign/01-bone-signal-campaign.png",
+      "unchanged": true
+    },
+    {
+      "file": "campaign/02-strata-campaign.png",
+      "unchanged": true
+    },
+    {
+      "file": "campaign/03-notch-campaign.png",
+      "unchanged": true
+    },
+    {
+      "file": "campaign/04-quiet-panel-campaign.png",
+      "unchanged": true
+    },
+    {
+      "file": "campaign/05-afterhours-campaign.png",
+      "unchanged": true
+    },
+    {
+      "file": "views/01-bone-signal-six-views.png",
+      "unchanged": true
+    },
+    {
+      "file": "views/02-strata-six-views.png",
+      "unchanged": true
+    },
+    {
+      "file": "views/03-notch-six-views.png",
+      "unchanged": true
+    },
+    {
+      "file": "views/04-quiet-panel-six-views.png",
+      "unchanged": true
+    },
+    {
+      "file": "views/05-afterhours-six-views.png",
+      "unchanged": true
+    },
+    {
+      "file": "editable/01-bone-signal-detail.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/01-bone-signal-social.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/02-strata-detail.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/02-strata-social.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/03-notch-detail.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/03-notch-social.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/04-quiet-panel-detail.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/04-quiet-panel-social.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/05-afterhours-detail.svg",
+      "unchanged": true
+    },
+    {
+      "file": "editable/05-afterhours-social.svg",
+      "unchanged": true
+    },
+    {
+      "file": "previews/01-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/01-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/02-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/02-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/03-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/03-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/04-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/04-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/05-cover.png",
+      "unchanged": true
+    },
+    {
+      "file": "previews/05-detail.png",
+      "unchanged": true
+    },
+    {
+      "file": "sources/01-bone-signal.png",
+      "unchanged": true
+    },
+    {
+      "file": "sources/02-strata.png",
+      "unchanged": true
+    },
+    {
+      "file": "sources/03-notch.png",
+      "unchanged": true
+    },
+    {
+      "file": "sources/04-quiet-panel.png",
+      "unchanged": true
+    },
+    {
+      "file": "sources/05-afterhours.png",
+      "unchanged": true
+    }
+  ]
+}

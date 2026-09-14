@@ -1,0 +1,43 @@
+{
+  "project": "MOVERNO / 墨维诺 SS27 footwear concept redesign",
+  "round": 3,
+  "createdOn": "2026-09-03",
+  "status": "SIX_FINALISTS_SELECTED",
+  "shortlistManifest": "../ss27-footwear-shortlist-round3/shortlist.json",
+  "model": "OpenAI built-in ImageGen",
+  "selectionOrder": "Display order in the Codex thread, 1-12",
+  "globalContract": {
+    "view": "one left shoe, exterior three-quarter, toe pointing right",
+    "canvas": "1536x1024",
+    "palette": ["black", "graphite", "bone", "sand", "aged brass <= 1%", "dried blood bartack <= 1%"],
+    "brandAssets": [
+      "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+      "../logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prohibitions": [
+      "no generated wordmark or text",
+      "no bright or multicolor palette",
+      "no copied third-party logo, signature mark, exact panel map, or outsole trade dress",
+      "no unrelated boot, sock, ballet, sandal, or costume silhouette"
+    ]
+  },
+  "referenceNote": "The user's reference 11 is pixel-identical to reference 7; it is represented by the same archived source image and treated as a duplicate, not as a separate design signal.",
+  "concepts": [
+    {"order": 1, "code": "SS27-SH01-A1", "name": "SAND RELAY / 沙幕复古跑", "family": "technical-runner", "file": "01-sand-relay.png", "shoeReferences": ["references/01-sand-tech-runner.png"], "singleVariable": "sand tonal flowing overlay"},
+    {"order": 2, "code": "SS27-SH01-A2", "name": "BLACK WAVE / 黑曜波层跑", "family": "technical-runner", "file": "02-black-wave.png", "shoeReferences": ["references/01-sand-tech-runner.png"], "singleVariable": "all-black sculpted wave layering"},
+    {"order": 3, "code": "SS27-SH01-A3", "name": "VEIL CROSS / 幕隙绑带跑", "family": "technical-runner", "file": "03-veil-cross.png", "shoeReferences": ["references/05-cross-cage-tech-runner.png"], "singleVariable": "pattern-derived flexible cage"},
+    {"order": 4, "code": "SS27-SH01-A4", "name": "SHROUD RUNNER / 低覆护罩跑", "family": "technical-runner", "file": "04-shroud-runner.png", "shoeReferences": ["references/01-sand-tech-runner.png", "references/05-cross-cage-tech-runner.png"], "singleVariable": "restrained removable lateral shroud"},
+    {"order": 5, "code": "SS27-SH01-B1", "name": "RELAY SKATE / 接隙板鞋", "family": "skate-court-low", "file": "05-relay-skate.png", "shoeReferences": ["references/04-black-white-skate-low.png", "references/07-black-bone-low.png"], "singleVariable": "pattern-shaped double abrasion layer"},
+    {"order": 6, "code": "SS27-SH01-B2", "name": "VEIL LOW / 幕隙低帮", "family": "skate-court-low", "file": "06-veil-low.png", "shoeReferences": ["references/07-black-bone-low.png"], "singleVariable": "black leather gate quarter"},
+    {"order": 7, "code": "SS27-SH01-B3", "name": "MONO STACK / 单色厚底", "family": "skate-court-low", "file": "07-mono-stack.png", "shoeReferences": ["references/08-monochrome-court-platform.png", "references/09-white-black-court-low.png"], "singleVariable": "bone monochrome molded pattern platform"},
+    {"order": 8, "code": "SS27-SH01-B4", "name": "SQUARE COURT / 方头球鞋", "family": "skate-court-low", "file": "08-square-court.png", "shoeReferences": ["references/09-white-black-court-low.png", "references/07-black-bone-low.png (also covers duplicate reference 11)"], "singleVariable": "soft square anatomical toe"},
+    {"order": 9, "code": "SS27-SH01-C1", "name": "VEIL CANVAS HI / 幕隙帆布高帮", "family": "high-top", "file": "09-veil-canvas-hi.png", "shoeReferences": ["references/03-classic-canvas-high.png"], "singleVariable": "vertical pattern-panel ankle reinforcement"},
+    {"order": 10, "code": "SS27-SH01-C2", "name": "PADDED VEIL HI / 软甲皮质高帮", "family": "high-top", "file": "10-padded-veil-hi.png", "shoeReferences": ["references/06-black-bone-high.png"], "singleVariable": "soft padded gate quarter"},
+    {"order": 11, "code": "SS27-SH01-C3", "name": "GHOST CONTOUR HI / 幽幕半透明高帮", "family": "high-top", "file": "11-ghost-contour-hi.png", "shoeReferences": ["references/02-monogram-high-top.png"], "singleVariable": "low-contrast internal translucent signature pattern"},
+    {"order": 12, "code": "SS27-SH01-C4", "name": "REGISTER ZIP HI / 暗档拉链高帮", "family": "high-top", "file": "12-register-zip-hi.png", "shoeReferences": ["references/06-black-bone-high.png", "references/03-classic-canvas-high.png"], "singleVariable": "functional zipper inside gate slit"}
+  ],
+  "supersedes": [
+    "../ss27-footwear-concepts-round1",
+    "all rejected round-2 concept images"
+  ]
+}

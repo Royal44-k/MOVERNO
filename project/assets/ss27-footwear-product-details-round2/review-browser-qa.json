@@ -1,0 +1,22 @@
+[
+  {
+    "width": 1440,
+    "cards": 15,
+    "images": 30,
+    "broken": [],
+    "overflow": false,
+    "expanded": true,
+    "errors": [],
+    "passed": true
+  },
+  {
+    "width": 390,
+    "cards": 15,
+    "images": 30,
+    "broken": [],
+    "overflow": false,
+    "expanded": true,
+    "errors": [],
+    "passed": true
+  }
+]

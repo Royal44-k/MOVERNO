@@ -1,0 +1,390 @@
+{
+  "date": "2026-09-09",
+  "scope": "batch01 / 01–05 only",
+  "count": 95,
+  "passed": 95,
+  "failed": [],
+  "checks": [
+    {
+      "name": "01 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "02 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "03 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "04 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "05 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "06 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "07 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "08 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "09 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "10 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "11 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "12 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "13 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "14 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "15 source archive unchanged",
+      "ok": true
+    },
+    {
+      "name": "01 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "01 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "01 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "01 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "01 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "01 no external image links",
+      "ok": true
+    },
+    {
+      "name": "01 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "01 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "01 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "02 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "02 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "02 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "02 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "02 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "02 no external image links",
+      "ok": true
+    },
+    {
+      "name": "02 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "02 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "02 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "03 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "03 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "03 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "03 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "03 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "03 no external image links",
+      "ok": true
+    },
+    {
+      "name": "03 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "03 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "03 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "04 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "04 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "04 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "04 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "04 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "04 no external image links",
+      "ok": true
+    },
+    {
+      "name": "04 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "04 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "04 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "05 poster 1080x6320",
+      "ok": true
+    },
+    {
+      "name": "05 cover 1080x1350",
+      "ok": true
+    },
+    {
+      "name": "05 native 4:3 atlas",
+      "ok": true
+    },
+    {
+      "name": "05 5 embedded image assets",
+      "ok": true
+    },
+    {
+      "name": "05 exact source embedded",
+      "ok": true
+    },
+    {
+      "name": "05 no external image links",
+      "ok": true
+    },
+    {
+      "name": "05 Chinese mission and concept disclaimer",
+      "ok": true
+    },
+    {
+      "name": "05 all six view labels",
+      "ok": true
+    },
+    {
+      "name": "05 no unverified performance claim",
+      "ok": true
+    },
+    {
+      "name": "local link social/01-bone-signal-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/01-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/01-bone-signal-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/01-bone-signal-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/01-bone-signal-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/01-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/02-strata-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/02-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/02-strata-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/02-strata-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/02-strata-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/02-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/03-notch-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/03-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/03-notch-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/03-notch-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/03-notch-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/03-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/04-quiet-panel-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/04-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/04-quiet-panel-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/04-quiet-panel-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/04-quiet-panel-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/04-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link social/05-afterhours-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link previews/05-cover.png",
+      "ok": true
+    },
+    {
+      "name": "local link posters/05-afterhours-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link views/05-afterhours-six-views.png",
+      "ok": true
+    },
+    {
+      "name": "local link editable/05-afterhours-detail.svg",
+      "ok": true
+    },
+    {
+      "name": "local link previews/05-detail.png",
+      "ok": true
+    },
+    {
+      "name": "local link research/visual-research.md",
+      "ok": true
+    },
+    {
+      "name": "local link manifest-batch01.json",
+      "ok": true
+    },
+    {
+      "name": "local link products.json",
+      "ok": true
+    },
+    {
+      "name": "local link render-batch01.json",
+      "ok": true
+    },
+    {
+      "name": "HTML says only first batch complete",
+      "ok": true
+    }
+  ],
+  "visualReview": "Source silhouettes and palette, six-view order, cover composition and detail crops inspected separately. Added views are conceptual, not CAD/tech-pack or factory proof."
+}

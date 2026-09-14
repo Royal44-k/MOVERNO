@@ -1,0 +1,11 @@
+{
+  "id": "07",
+  "type": "atlas-correction",
+  "prompt": "Edit this exact six-view footwear contact sheet with extremely high input fidelity. ONE TYPOGRAPHY CORRECTION ONLY: in the BOTTOM RIGHT OUTSOLE VIEW, replace the malformed recessed vertical brand lettering with exactly MOVERNO (seven letters M O V E R N O, no doubled O). Render small neatly centered black-on-black incised serif capitals along the outsole midfoot island. If constrained, reduce letter size so all seven letters fit. Preserve every other pixel-level design, all six shoe views, source colors, laces, pattern, framing, panel boundaries, tongue lettering, gate logos and background. Do not change any other branding or any shape. Output the same landscape composition.",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/07-chain-form-six-views.png"
+  ],
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-7af037d8-874b-452b-8b16-6455960bbe76.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/07-chain-form-six-views.png",
+  "status": "selected"
+}

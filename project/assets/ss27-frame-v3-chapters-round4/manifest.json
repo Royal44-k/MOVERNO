@@ -1,0 +1,73 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "collection": "SS27 FRAME V3 graphic chapters — Round 4",
+  "createdAt": "2026-08-29",
+  "status": "concept-review",
+  "generation": {
+    "method": "OpenAI ImageGen",
+    "stytrix": "methodology only; no paid generation and no credits consumed",
+    "oneIndependentGenerationPerDesign": true
+  },
+  "format": {
+    "width": 1536,
+    "height": 1024,
+    "colorMode": "RGB",
+    "views": ["front", "back", "inside-neck-label-detail"]
+  },
+  "sharedRules": {
+    "block": "FRAME V3 influencer Oversize",
+    "visualSizeM": {
+      "frontLengthCm": 72,
+      "backLengthCm": 74,
+      "chestWidthCm": 61,
+      "shoulderCm": 59,
+      "sleeveCm": 27
+    },
+    "insideNeckLabel": "Black woven label, 45–50 mm visual target, Veil Gate emblem + MOVERNO in bone ash",
+    "mangaSubject": "MOVERNO Veil Gate / V2 motif only; no people, characters or existing IP",
+    "goldRule": "When present, gold is edge-only and dark interiors remain unfilled",
+    "conceptImagesAreNotFactoryTechPacks": true
+  },
+  "designs": [
+    {
+      "id": "01",
+      "name": "VEIL CHAPTER / 幕隙章回",
+      "file": "01-veil-chapter.png",
+      "bodyColor": "washed obsidian-charcoal",
+      "graphicLanguage": "mature manga panels, perspective relay tunnel, fractured halftone",
+      "sha256": "FBB56A090A50330A75F8FDC2C9A349DD8F9038ACDCEBE3C4977A21A54B5F2E7C"
+    },
+    {
+      "id": "02",
+      "name": "GILDED IMPACT / 鎏金冲格",
+      "file": "02-gilded-impact.png",
+      "bodyColor": "plum-noir / blackened aubergine",
+      "graphicLanguage": "broken impact frames with edge-only antique gilding",
+      "sha256": "C6E0A490C202F6CC439E556F7FB08D0BC2EFBA5158B07808A1F6F3E8720084CF"
+    },
+    {
+      "id": "03",
+      "name": "CHROMA ECHO / 色差残像",
+      "file": "03-chroma-echo.png",
+      "bodyColor": "desaturated petrol / storm teal",
+      "graphicLanguage": "cyan-plum-bone misregistration, fracture and cross-sleeve afterimage",
+      "sha256": "BBC235E34CB80CE307F486008580B75F0278A67A45363FC38563D62E30F037CC"
+    },
+    {
+      "id": "04",
+      "name": "SIGNAL LEAGUE / 信号联盟",
+      "file": "04-signal-league.png",
+      "bodyColor": "tinted bone with oxidized oxblood sleeves",
+      "graphicLanguage": "original signal lanes, relay gates and mature retro-sport halftone",
+      "sha256": "8B38084FD8356F3A29E05F2E77AB056741011E3A6D0592D80E645E325EEA1591"
+    },
+    {
+      "id": "05",
+      "name": "SILENT NEGATIVE / 静默负片",
+      "file": "05-silent-negative.png",
+      "bodyColor": "fog blue-gray / oxidized nickel blue",
+      "graphicLanguage": "large negative field, tonal relief and sparse dissolving relay",
+      "sha256": "64A6F7C90EBD8E3AA92EC2CD86C38E7786B949D1CC72F01EF2AFF58FC96B70E7"
+    }
+  ]
+}

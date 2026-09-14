@@ -1,0 +1,37 @@
+{
+  "project": "MOVERNO SS27 Footwear",
+  "round": "concepts-round1",
+  "date": "2026-09-02",
+  "status": "awaiting-user-selection",
+  "generation_mode": "built-in imagegen",
+  "canvas": "1536x1024",
+  "view": "left shoe, external lateral three-quarter, toe right",
+  "identity_source": "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+  "formal_logo_policy": "No generated lettering. Exact MOVERNO vector assets are added only after selection.",
+  "display_order": [
+    {
+      "option": 1,
+      "style_id": "SS27-SH01-A",
+      "name": "SHROUD RUNNER / 幕甲行者",
+      "file": "01-shroud-runner.png"
+    },
+    {
+      "option": 2,
+      "style_id": "SS27-SH01-B",
+      "name": "RELAY SKATE / 接隙板鞋",
+      "file": "02-relay-skate.png"
+    },
+    {
+      "option": 3,
+      "style_id": "SS27-SH01-C",
+      "name": "VEIL-HI / 幕隙高帮",
+      "file": "03-veil-hi.png"
+    }
+  ],
+  "shared_constraints": [
+    "Obsidian, graphite, bone ash; aged-gold edge and dried-blood node only",
+    "One enlarged structural Motion Contour crop, never an all-over print",
+    "Wide East Asian forefoot and factory-plausible construction",
+    "No copied brand marks, signature side stripes, iconic soles or monograms"
+  ]
+}

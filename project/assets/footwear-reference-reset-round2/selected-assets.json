@@ -1,0 +1,121 @@
+[
+  {
+    "id": "R01",
+    "name": "链纹低口绒鞋",
+    "category": "图 1 / 低口闭趾",
+    "materials": "墨黑磨砂面 · 黑色绒里 · 骨白纹样织边",
+    "refs": [
+      1
+    ],
+    "statement": "完整圆头与低口比例不变，品牌纹样沿鞋口绕行。",
+    "brand": "鞋口改为双片纹样织边，侧身用低对比字标。",
+    "keep": [
+      "低口、包住后跟的浅围边与饱满闭趾。",
+      "平缓黑底、完整磨砂鞋面，不加系带。"
+    ],
+    "master": "masters/R01-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-567efafb-ae64-4760-a26e-fd1d7219c8da.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "R02",
+    "name": "奶绒厚底穆勒",
+    "category": "图 2 / 4 / 5 · 绒口后空",
+    "materials": "栗棕磨砂面 · 奶油绒口 · 同色厚底",
+    "refs": [
+      2,
+      4,
+      5
+    ],
+    "statement": "让绒口成为主体，栗棕鞋面保持完整和柔软。",
+    "brand": "侧腰一枚小型深棕徽记，鞋垫落标准字标。",
+    "keep": [
+      "后跟开放，宽绒口沿脚背向两侧包落。",
+      "圆钝鞋头与平缓厚底保持参考体积。"
+    ],
+    "master": "masters/R02-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-066a3b89-b0a1-4429-ae2a-751bcc5a100e.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "R03",
+    "name": "低筒绒里短靴",
+    "category": "图 3 / 极短筒",
+    "materials": "烟可可麂皮感面 · 同色绒里 · 深棕底",
+    "refs": [
+      3
+    ],
+    "statement": "保留短筒和柔软圆头，把识别集中在后跟窄带。",
+    "brand": "后提带加入低对比链纹，后跟底压 MOVERNO。",
+    "keep": [
+      "极短筒、浅绒口与不收尖的圆头。",
+      "柔软整体鞋面，平整低底，不加运动护壳。"
+    ],
+    "master": "masters/R03-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-5d966f3a-ac55-45c3-ade3-963c88f7a22a.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "R04",
+    "name": "链纹厚底高帮",
+    "category": "图 6 / 7 · 高帮包头",
+    "materials": "哑黑织物 · 骨白胶底 · 黑金局部纹样",
+    "refs": [
+      6,
+      7
+    ],
+    "statement": "黑白高帮的量感保留，链纹藏进拉链旁的侧片。",
+    "brand": "外侧局部链纹嵌片，鞋舌字标与后跟小徽记。",
+    "keep": [
+      "高帮、长系带、饱满包头与明显厚底。",
+      "侧拉链细节与黑／骨白强对比。"
+    ],
+    "master": "masters/R04-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-d7db4aaa-301c-46dd-9482-fe7339c135de.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "R05",
+    "name": "雾银粗绳运动鞋",
+    "category": "图 8 / 9 · 饱满低帮",
+    "materials": "骨白鞋面 · 雾银拼片 · 粗织圆绳",
+    "refs": [
+      8,
+      9
+    ],
+    "statement": "粗绳与蓬松鞋舌居中，雾银拼片勾勒鞋身。",
+    "brand": "外侧清楚的双片徽记，短鞋舌采用 MOVERNO。",
+    "keep": [
+      "短宽前掌、低鞋口与充足鞋舌量感。",
+      "厚实奶白底边，局部银色与可见织物。"
+    ],
+    "master": "masters/R05-v2.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-42dc6fbf-1533-4e98-8e7b-2a6b96a20b5f.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "R06",
+    "name": "链纹帆布厚底鞋",
+    "category": "图 10 / 11 · 低帮帆布",
+    "materials": "石墨链纹织面 · 骨白包头 · 黑色字标",
+    "refs": [
+      10,
+      11
+    ],
+    "statement": "低帮包头比例保留，以品牌链纹替代格纹。",
+    "brand": "自有纹样进入织面，外侧底墙使用一次 MOVERNO。",
+    "keep": [
+      "低帮、圆胶包头、宽白鞋带。",
+      "规整厚底与简洁帆布结构。"
+    ],
+    "master": "masters/R06-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-91a29c2f-36fa-4c2a-8d33-ff0062e0159e.png",
+    "generationTool": "ImageGen"
+  }
+]

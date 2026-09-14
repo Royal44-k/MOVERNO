@@ -1,0 +1,11 @@
+{
+  "id": "11",
+  "type": "atlas-correction",
+  "prompt": "Precise local correction ONLY to this existing six-view shoe contact sheet. In the TOP RIGHT FRONT view and the BOTTOM CENTER TOP view, remove the added gate-logo rectangular plaque from the FRONT TOE. Replace only that small plaque with the shoe's original plain curved graphite rubber toe bumper and mesh edge, matching the unbranded toe bumper visible in the first and second side views. The heel gate badge must remain untouched. All other pixels, tongue MOVERNO spelling, rear lettering, all logos elsewhere, soles, open side frames, colors, shoes, mesh, panel boundaries, background and framing MUST remain unchanged. Same 6 views. Never move a heel badge to a toe.",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/11-graphite-cage-six-views.png"
+  ],
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-271c756b-5bbd-4339-b25a-c155370fcab4.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/11-graphite-cage-six-views.png",
+  "status": "selected"
+}

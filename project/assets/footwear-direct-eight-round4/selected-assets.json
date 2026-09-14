@@ -1,0 +1,228 @@
+[
+  {
+    "id": "D01",
+    "name": "黑金织口低口鞋",
+    "refs": [
+      1
+    ],
+    "category": "闭趾低口 / 平缓黑底",
+    "materials": "墨黑磨砂面 · 炭黑短绒 · 旧金织线",
+    "statement": "黑金织边沿低鞋口绕行，前掌保留整片磨砂面。",
+    "brand": "鞋口双片链纹织边；外侧同色双片徽记与旧金字标。",
+    "keep": [
+      "圆钝完整鞋头、低后口与浅包跟。",
+      "平缓黑底，不加平台或系带。"
+    ],
+    "spec": "Source shoe1 is a low-collar enclosed-heel suede slipper/clog, NOT an open-back mule. Preserve its full rounded domed toe, low enclosed heel lip, slightly raised vamp and flat quiet BLACK outsole with modest short teeth. Black matte suede upper and charcoal short-pile lining. Replace the source zigzag woven collar braid with a narrow densely woven BLACK and ANTIQUE BRASS border following the opening, faithfully repeating the brand curved double-panel linked motif at small scale. Gold must be textile thread, NOT shiny metal chain. Keep vamp totally plain. One small tonal black exact emblem deboss on outer quarter and tiny antique-brass serif MOVERNO wordmark just below it; MOVERNO insole. No moccasin apron, no squared toe, no rigid garden-clog shell, no leather loafer saddle, no excessive platform. Pair shot with foreground outer side visible and enough raised camera angle to show the low heel wall; maintain user's reference proportions.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-01.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input2 exact standard MOVERNO twin-panel EMBLEM; Input3 exact serif WORDMARK; Input4 exact linked-panel PATTERN. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nSource shoe1 is a low-collar enclosed-heel suede slipper/clog, NOT an open-back mule. Preserve its full rounded domed toe, low enclosed heel lip, slightly raised vamp and flat quiet BLACK outsole with modest short teeth. Black matte suede upper and charcoal short-pile lining. Replace the source zigzag woven collar braid with a narrow densely woven BLACK and ANTIQUE BRASS border following the opening, faithfully repeating the brand curved double-panel linked motif at small scale. Gold must be textile thread, NOT shiny metal chain. Keep vamp totally plain. One small tonal black exact emblem deboss on outer quarter and tiny antique-brass serif MOVERNO wordmark just below it; MOVERNO insole. No moccasin apron, no squared toe, no rigid garden-clog shell, no leather loafer saddle, no excessive platform. Pair shot with foreground outer side visible and enough raised camera angle to show the low heel wall; maintain user's reference proportions.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D01-v2.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-840f2a08-1217-49ec-a2b7-c5ca2928787e.png",
+    "generationTool": "ImageGen",
+    "previousMaster": "masters/D01-v1.png",
+    "previousOriginal": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-05abb971-fdbd-42d9-aab9-09a2cb49bce2.png"
+  },
+  {
+    "id": "D02",
+    "name": "奶绒后空厚底鞋",
+    "refs": [
+      4,
+      2,
+      5
+    ],
+    "category": "绒口穆勒 / 后跟开放",
+    "materials": "浓可可绒面 · 奶油绒领 · 可可平台底",
+    "statement": "宽绒领从脚背落向两侧，后空开口清楚可见。",
+    "brand": "侧腰奶油色小徽记；深色缝边；鞋垫 MOVERNO 字标。",
+    "keep": [
+      "图4控制圆钝体积，图2核对开放后跟。",
+      "图5补充绒领覆盖范围；不是多配色充数。"
+    ],
+    "spec": "First3 shoe inputs show one furry-collar open-back PLATFORM MULE family. User image4 is main3/4 silhouette, image2 direct lateral opening check, image5 collar coverage reference only. Preserve generous blunt rounded toe, gently domed continuous suede vamp, low open heel, VERY WIDE PLUSH SHEARLING COLLAR wrapping diagonally down both sides of instep, continuous gently rounded thick sole about same thickness as source4. Deep COCOA brown suede body, abundant CREAM sheepskin-look plush cuff, tonal cocoa platform with simple original shallow tread. Keep back genuinely OPEN without heel strap or ankle wall. One tiny CREAM exact double-panel embroidered emblem at outer side, no separate rectangular patch, and MOVERNO wordmark pressed on visible heel footbed. Slim dark cocoa binding around sole-upper seam, no allover pattern because plush collar is the focal point. Do not turn into thin house slippers, loafers or low boots; no buckles, laces or metal jewelry. Pair positioned so foreground outside panel and other shoe's empty heel opening can be inspected.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-04.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-02.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-05.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 through Input3 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input4 exact standard MOVERNO twin-panel EMBLEM; Input5 exact serif WORDMARK; No pattern input is required for this unpatterned fur-collar design. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nFirst3 shoe inputs show one furry-collar open-back PLATFORM MULE family. User image4 is main3/4 silhouette, image2 direct lateral opening check, image5 collar coverage reference only. Preserve generous blunt rounded toe, gently domed continuous suede vamp, low open heel, VERY WIDE PLUSH SHEARLING COLLAR wrapping diagonally down both sides of instep, continuous gently rounded thick sole about same thickness as source4. Deep COCOA brown suede body, abundant CREAM sheepskin-look plush cuff, tonal cocoa platform with simple original shallow tread. Keep back genuinely OPEN without heel strap or ankle wall. One tiny CREAM exact double-panel embroidered emblem at outer side, no separate rectangular patch, and MOVERNO wordmark pressed on visible heel footbed. Slim dark cocoa binding around sole-upper seam, no allover pattern because plush collar is the focal point. Do not turn into thin house slippers, loafers or low boots; no buckles, laces or metal jewelry. Pair positioned so foreground outside panel and other shoe's empty heel opening can be inspected.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D02-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-2b975385-d48a-4801-a782-148b2a343b26.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "D03",
+    "name": "窄带极短筒绒靴",
+    "refs": [
+      3
+    ],
+    "category": "极短筒 / 连续绒面",
+    "materials": "烟可可磨砂面 · 同色短绒 · 深棕低底",
+    "statement": "极短筒保留软绒边，竖向窄带连接筒口与后跟。",
+    "brand": "后提带局部链纹；后跟底小字标；外后侧同色徽记。",
+    "keep": [
+      "原图极短筒、柔软圆头与薄底。",
+      "不加弹力侧片、充棉或大翻领。"
+    ],
+    "spec": "Preserve source3 ULTRA-MINI ankle boot shape: very short loose shaft only slightly above ankle, soft fully rounded suede toe, continuous vamp, low flat brown sole with shallow bite tread. Smoky cocoa suede, same-color brown SHORT plush visible just inside raw-soft cuff, not a folded fur collar. A narrow dark-cocoa webbing tape runs down the REAR seam from small pull loop toward heel; render brand panel-chain repeat in low contrast warm brown along this ribbon ONLY. One tiny exact dark twin-panel emblem at outer rear quarter. Deboss small exact MOVERNO at rear sole block. Keep minimal simple seam that joins shaft to rear panel, not a Chelsea gore. Show full matching pair, foreground front-outer3/4 and other boot angled rear3/4 to see the narrow heel ribbon. No laces, buckles, quilting, rigid arch panels, thick platform, knee-high shaft or front zipper. Original proportions from user's photo, no generic hiking redesign.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-03.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input2 exact standard MOVERNO twin-panel EMBLEM; Input3 exact serif WORDMARK; Input4 exact linked-panel PATTERN. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nPreserve source3 ULTRA-MINI ankle boot shape: very short loose shaft only slightly above ankle, soft fully rounded suede toe, continuous vamp, low flat brown sole with shallow bite tread. Smoky cocoa suede, same-color brown SHORT plush visible just inside raw-soft cuff, not a folded fur collar. A narrow dark-cocoa webbing tape runs down the REAR seam from small pull loop toward heel; render brand panel-chain repeat in low contrast warm brown along this ribbon ONLY. One tiny exact dark twin-panel emblem at outer rear quarter. Deboss small exact MOVERNO at rear sole block. Keep minimal simple seam that joins shaft to rear panel, not a Chelsea gore. Show full matching pair, foreground front-outer3/4 and other boot angled rear3/4 to see the narrow heel ribbon. No laces, buckles, quilting, rigid arch panels, thick platform, knee-high shaft or front zipper. Original proportions from user's photo, no generic hiking redesign.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D03-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-739300be-b3b4-4003-8c02-1621696f3566.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "D04",
+    "name": "斜链黑白拉链高帮",
+    "refs": [
+      6
+    ],
+    "category": "拉链高帮 / 常规厚底",
+    "materials": "哑黑织物 · 骨白胶头 · 烟银拉链",
+    "statement": "一条斜拉链切入侧片，窄幅链纹与它平行排列。",
+    "brand": "拉链旁黑金窄嵌条；鞋舌字标；外后底墙小徽记。",
+    "keep": [
+      "高帮系带、前端大胶包头与图6底厚。",
+      "留银色斜拉链重点，不变成巨厚底款。"
+    ],
+    "spec": "User source6 is the SOLE shoe shape basis. Preserve high-top black dense canvas upper, rounded wide bone rubber toe cap, cream moderate-thick continuous outsole, 7-8 pairs of silver eyelets with long BONE round laces and clean ankle height. Upright NORMAL tongue, NOT folded. Keep ONE visually dominant diagonal smoke-silver zipper in outer ankle quarter, physically sewn to a proper fabric opening with complete teeth and a small attached slider; remove the source's extra small horizontal zip to give clear hierarchy. Integrate a narrow BLACK/ANTIQUE GOLD brand linked-panel jacquard inset running parallel immediately below the diagonal zip, not a cage and not a gold chain charm. Small exact MOVERNO serif wordmark at tongue top. Tiny matching twin-panel emblem at outer rear cream sole. Original fine short linear bottom tread, no shark teeth tooling. Body stays black; no allover graphics, no velcro flap. Full matching pair, front-outer3/4 showing diagonal zipper. Outsole is MUCH LOWER than mega-platform source7 and maintains source6 profile.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-06.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input2 exact standard MOVERNO twin-panel EMBLEM; Input3 exact serif WORDMARK; Input4 exact linked-panel PATTERN. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nUser source6 is the SOLE shoe shape basis. Preserve high-top black dense canvas upper, rounded wide bone rubber toe cap, cream moderate-thick continuous outsole, 7-8 pairs of silver eyelets with long BONE round laces and clean ankle height. Upright NORMAL tongue, NOT folded. Keep ONE visually dominant diagonal smoke-silver zipper in outer ankle quarter, physically sewn to a proper fabric opening with complete teeth and a small attached slider; remove the source's extra small horizontal zip to give clear hierarchy. Integrate a narrow BLACK/ANTIQUE GOLD brand linked-panel jacquard inset running parallel immediately below the diagonal zip, not a cage and not a gold chain charm. Small exact MOVERNO serif wordmark at tongue top. Tiny matching twin-panel emblem at outer rear cream sole. Original fine short linear bottom tread, no shark teeth tooling. Body stays black; no allover graphics, no velcro flap. Full matching pair, front-outer3/4 showing diagonal zipper. Outsole is MUCH LOWER than mega-platform source7 and maintains source6 profile.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D04-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-135d1cfa-c942-46ab-a1ab-3249df51fd61.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "D05",
+    "name": "巨厚底直舌高帮",
+    "refs": [
+      7
+    ],
+    "category": "巨厚底 / 直立系带",
+    "materials": "黑色细织物 · 奶油巨厚底 · 雾银小徽记",
+    "statement": "鞋带竖向收拢高帮，大体积胶头接入整块厚底。",
+    "brand": "鞋舌双片徽记；后跟窄字标；侧墙浅压弧形双片线。",
+    "keep": [
+      "图7的巨厚底、圆包头和挺立长鞋舌。",
+      "不使用D04斜拉链或外侧链纹嵌条。"
+    ],
+    "spec": "Use source7, NOT source6, as direct footwear structure. Preserve dramatic VERY THICK CREAM continuous platform, large rounded cream toe bumper, high black canvas shaft, upright elongated normal tongue, neat cream laces crossing up 8 pairs silver eyelets. This is the user's voluminous platform fashion high-top, not a thin Converse or minimal boot. No zipper, no outside hardware. Slightly curve the boundary where rounded toe bumper meets main sole, forming a smooth large-scale cream-on-cream junction, not mechanical segments. On OUTER heel third of cream sole wall add a quiet shallow blind-emboss of ONE enlarged twin-panel emblem outline (same upright geometry), not a giant letter and not wraparound repeated logos. A small smoke-silver exact double-panel emblem sewn/embedded at upright tongue top, and modest MOVERNO serif wordmark on a BLACK vertical rear heel tape. Platform white/cream remains visually clean. Black woven upper with very subtle texture, no chain allover, no plaid. Pair front3/4; complete shoes uncropped, platform large enough to unmistakably match source7.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-07.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input2 exact standard MOVERNO twin-panel EMBLEM; Input3 exact serif WORDMARK; Input4 exact linked-panel PATTERN. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nUse source7, NOT source6, as direct footwear structure. Preserve dramatic VERY THICK CREAM continuous platform, large rounded cream toe bumper, high black canvas shaft, upright elongated normal tongue, neat cream laces crossing up 8 pairs silver eyelets. This is the user's voluminous platform fashion high-top, not a thin Converse or minimal boot. No zipper, no outside hardware. Slightly curve the boundary where rounded toe bumper meets main sole, forming a smooth large-scale cream-on-cream junction, not mechanical segments. On OUTER heel third of cream sole wall add a quiet shallow blind-emboss of ONE enlarged twin-panel emblem outline (same upright geometry), not a giant letter and not wraparound repeated logos. A small smoke-silver exact double-panel emblem sewn/embedded at upright tongue top, and modest MOVERNO serif wordmark on a BLACK vertical rear heel tape. Platform white/cream remains visually clean. Black woven upper with very subtle texture, no chain allover, no plaid. Pair front3/4; complete shoes uncropped, platform large enough to unmistakably match source7.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D05-v2.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-941d476a-98ed-440a-8657-4f4043bfdae7.png",
+    "generationTool": "ImageGen",
+    "previousMaster": "masters/D05-v1.png",
+    "previousOriginal": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-6cb2baa9-0018-452d-a459-196563f1e27c.png"
+  },
+  {
+    "id": "D06",
+    "name": "云白粗绳运动鞋",
+    "refs": [
+      8
+    ],
+    "category": "饱满低帮 / 粗圆绳",
+    "materials": "云白网布 · 雾灰拼片 · 奶油曲面底",
+    "statement": "粗圆绳落在蓬松鞋舌上，短宽鞋头接住饱满前掌。",
+    "brand": "外侧嵌标准双片徽记；鞋舌 MOVERNO；绳端小型字标。",
+    "keep": [
+      "图8短宽前掌、蓬松舌口与粗圆鞋绳。",
+      "维持圆润厚底，不混入银跑鞋窄长线条。"
+    ],
+    "spec": "Use ONLY source8 for shoe form: a LOW-top short-broad chunky puffy skate/sport sneaker, chubby wide rounded toe, mesh vamp, generous padded tongue/collar, conspicuously THICK ROUND soft woven rope laces, rounded cream thick outsole with softly integrated tonal side pockets. White/cloud upper with fog-grey smooth overlays and cream sole, not metallic silver running shoe. Keep user's heavy rope scale and generous tongue volume. Replace branded oval OCAI badge entirely: outer quarter becomes a clean gently curved fog-grey suede panel carrying ONE exact dark graphite two-panel emblem, no oval outline and no other lettering there. Small exact MOVERNO wordmark on short upright tongue and subtle serif wordmark on small rope-end caps; rope ends short and naturally resting, no ring-chain or ankle wrap. The rope passes physically through reinforced proper eyelets. Soft original rounded panel boundaries, not a stiff cage. Preserve a subtle rounded arch recess and thick front sole, but change pocket contours away from exact source oval geometry. No long projecting heel, no flat gum skate outsole, no narrow pointed runner toe.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-08.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input2 exact standard MOVERNO twin-panel EMBLEM; Input3 exact serif WORDMARK; Input4 exact linked-panel PATTERN. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nUse ONLY source8 for shoe form: a LOW-top short-broad chunky puffy skate/sport sneaker, chubby wide rounded toe, mesh vamp, generous padded tongue/collar, conspicuously THICK ROUND soft woven rope laces, rounded cream thick outsole with softly integrated tonal side pockets. White/cloud upper with fog-grey smooth overlays and cream sole, not metallic silver running shoe. Keep user's heavy rope scale and generous tongue volume. Replace branded oval OCAI badge entirely: outer quarter becomes a clean gently curved fog-grey suede panel carrying ONE exact dark graphite two-panel emblem, no oval outline and no other lettering there. Small exact MOVERNO wordmark on short upright tongue and subtle serif wordmark on small rope-end caps; rope ends short and naturally resting, no ring-chain or ankle wrap. The rope passes physically through reinforced proper eyelets. Soft original rounded panel boundaries, not a stiff cage. Preserve a subtle rounded arch recess and thick front sole, but change pocket contours away from exact source oval geometry. No long projecting heel, no flat gum skate outsole, no narrow pointed runner toe.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D06-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-ac7d802f-b95f-4f29-8148-f065e8152f1a.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "D07",
+    "name": "液银网面跑鞋",
+    "refs": [
+      9
+    ],
+    "category": "银色低帮 / 流线前掌",
+    "materials": "雾银薄覆片 · 灰白网面 · 黑色底缘",
+    "statement": "薄银片沿网面流动，黑色底缘压住修长前掌。",
+    "brand": "侧腰银底黑色徽记；鞋舌短字标；后跟同色链纹带。",
+    "keep": [
+      "图9银色金属拼面与黑色鞋口、底缘。",
+      "鞋带保持常规粗细，不套用图8粗绳。"
+    ],
+    "spec": "Source9 is a silver technical RUNNING-style fashion sneaker, not source8 puffy skate shoe. Preserve its lower streamlined running silhouette, moderately elongated rounded toe, many THIN reflective silver film overlays over white/light-grey mesh, BLACK inner collar and BLACK wavy outsole rim beneath white foam middle sole. Standard medium-thin LIGHT GREY laces and modest tongue, absolutely NO giant rope, no oversized folded tongue. Reorganize flowing narrow metallic overlay paths into original smooth sweeping lines (no N, three stripes, bolt, swoosh or original OCAI outline). Outer quarter has a small integrated silver patch shaped as exact two separate upright brand panels outlined BLACK, visibly a black twin-panel emblem not an M or butterfly; no large oval brand capsule. MOVERNO serif wordmark on narrow black tongue tab. Rear heel tab carries a tiny low-contrast silver/charcoal chain-panel jacquard strip, not allover upper. Silver texture lightly crinkled thin foil with realistic highlights, no bulky armor plates. White shallow wave sole contour, black lower edge, no long heel extension or disconnected pods. Full matching pair outer3/4, sleek enough to contrast clearly with D06 while staying faithful to photo9.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-09.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input2 exact standard MOVERNO twin-panel EMBLEM; Input3 exact serif WORDMARK; Input4 exact linked-panel PATTERN. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nSource9 is a silver technical RUNNING-style fashion sneaker, not source8 puffy skate shoe. Preserve its lower streamlined running silhouette, moderately elongated rounded toe, many THIN reflective silver film overlays over white/light-grey mesh, BLACK inner collar and BLACK wavy outsole rim beneath white foam middle sole. Standard medium-thin LIGHT GREY laces and modest tongue, absolutely NO giant rope, no oversized folded tongue. Reorganize flowing narrow metallic overlay paths into original smooth sweeping lines (no N, three stripes, bolt, swoosh or original OCAI outline). Outer quarter has a small integrated silver patch shaped as exact two separate upright brand panels outlined BLACK, visibly a black twin-panel emblem not an M or butterfly; no large oval brand capsule. MOVERNO serif wordmark on narrow black tongue tab. Rear heel tab carries a tiny low-contrast silver/charcoal chain-panel jacquard strip, not allover upper. Silver texture lightly crinkled thin foil with realistic highlights, no bulky armor plates. White shallow wave sole contour, black lower edge, no long heel extension or disconnected pods. Full matching pair outer3/4, sleek enough to contrast clearly with D06 while staying faithful to photo9.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D07-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-5662ee29-21f8-4f0a-b23d-901e30180b16.png",
+    "generationTool": "ImageGen"
+  },
+  {
+    "id": "D08",
+    "name": "黑金链纹帆布鞋",
+    "refs": [
+      11,
+      10
+    ],
+    "category": "低帮帆布 / 胶包头厚底",
+    "materials": "墨黑链纹织面 · 旧金细线 · 骨白胶底",
+    "statement": "规整链纹进入低帮织面，字标沿外侧底墙展开。",
+    "brand": "自有双片链纹替代格纹；底墙一次 MOVERNO；鞋舌小徽记。",
+    "keep": [
+      "图11控制厚底比例，图10提供外侧底墙字标位置。",
+      "保留白鞋带和胶头，不变为一脚蹬或板式皮鞋。"
+    ],
+    "spec": "Firstshoe input is user11 for PLATFORM canvas lowtop proportion, secondshoe input is user10 for outward-facing sole wordmark layout. Preserve low-top canvas construction, rounded BONE rubber toe cap, five/six pairs metal eyelets, wide BONE flat laces, simple thick BONE continuous foxing/platform. Replace ALL Burberry check/plaid with MOVERNO proprietary repeating DOUBLE-PANEL chain jacquard: BLACK canvas ground, fine ANTIQUE GOLD outlined curved elongated paired panels with narrow straight central gaps and tiny muted wine/brass triple-diamond nodes, staggered vertical columns at medium scale. Pattern follows actual fabric pieces and perspective, no checkerboard, no tartan, no hexagonal grid, no generic monogram letters. Keep toe cap and eyelet piping unpatterned bone. One exact BLACK serif MOVERNO wordmark along OUTER sidewall, sized to fit heel-to-midfoot without being cut off; seven letters M-O-V-E-R-N-O, no repetition. Small exact twin-panel emblem on black tongue label. Clean contact sole/no destructive distressing, no metal charms. Full pair front-outer3/4; original classic youthful platform canvas shape remains the main structure.",
+    "inputs": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-11.png",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-direct-eight-round4/references/user-10.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ],
+    "prompt": "Use case: product-mockup. Make ONE photorealistic MOVERNO footwear design image, a complete matching PAIR on light warm-grey seamless studio background, soft real contact shadows, landscape3:2. Youthful Asian street-fashion consumer, premium believable materials. Input1 through Input2 = USER UPLOADED DIRECT SHOE SHAPE BASIS, not vague mood references. Preserve specified source toe volume, collar/shaft height, closure and sole proportions. Next inputs: Input3 exact standard MOVERNO twin-panel EMBLEM; Input4 exact serif WORDMARK; Input5 exact linked-panel PATTERN. All source brand marks must be removed. Use only correctly spelled MOVERNO, M-O-V-E-R-N-O. Preserve exact upright mirrored twin-panel geometry: straight outer edges, curved inward ends and a narrow vertical middle gap. NOT butterfly, X, invented M or parallel slashes. Pattern must have curved paired panels and tiny diamond joints, not hexagons. No outside image text, labels, sales slogan, background motif, models, legs or props. Keep entire pair uncropped. Photorealistic material texture and physically connected seams, soles, eyelets and closures. This is a concept, no functional claims.\nSTYLE-SPECIFIC REQUIREMENTS:\nFirstshoe input is user11 for PLATFORM canvas lowtop proportion, secondshoe input is user10 for outward-facing sole wordmark layout. Preserve low-top canvas construction, rounded BONE rubber toe cap, five/six pairs metal eyelets, wide BONE flat laces, simple thick BONE continuous foxing/platform. Replace ALL Burberry check/plaid with MOVERNO proprietary repeating DOUBLE-PANEL chain jacquard: BLACK canvas ground, fine ANTIQUE GOLD outlined curved elongated paired panels with narrow straight central gaps and tiny muted wine/brass triple-diamond nodes, staggered vertical columns at medium scale. Pattern follows actual fabric pieces and perspective, no checkerboard, no tartan, no hexagonal grid, no generic monogram letters. Keep toe cap and eyelet piping unpatterned bone. One exact BLACK serif MOVERNO wordmark along OUTER sidewall, sized to fit heel-to-midfoot without being cut off; seven letters M-O-V-E-R-N-O, no repetition. Small exact twin-panel emblem on black tongue label. Clean contact sole/no destructive distressing, no metal charms. Full pair front-outer3/4; original classic youthful platform canvas shape remains the main structure.\nDO NOT replace this category with any new Mary Jane, sandal, Chelsea, loafer or sock boot. This request is direct source-led design, not open-ended category expansion.",
+    "master": "masters/D08-v1.png",
+    "status": "概念待审核",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-b36bcffb-0392-4be4-9209-de9891df6d30.png",
+    "generationTool": "ImageGen"
+  }
+]
+

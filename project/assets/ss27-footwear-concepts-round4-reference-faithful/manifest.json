@@ -1,0 +1,57 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "season": "SS27",
+  "round": 4,
+  "createdOn": "2026-09-03",
+  "status": "AWAITING_USER_SELECTION",
+  "generation": {
+    "tool": "OpenAI built-in ImageGen",
+    "workflow": "StyTrix reference-fidelity and single-variable process only; no paid StyTrix generation; one independent Image generation per concept",
+    "dimensions": "1536x1024",
+    "renderRule": "one left shoe, exterior side or three-quarter view, toe right, white/light-gray studio"
+  },
+  "protectedPreviousWork": "../ss27-footwear-shortlist-round3",
+  "brandInputs": [
+    "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+    "../logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+  ],
+  "hardConstraints": [
+    "preserve each reference's category-level silhouette, visual, proportion, value structure and monochrome mood",
+    "remove all third-party names, letters, numbers, monograms and signature side marks",
+    "change exact panel maps and outsole tooling enough to remain an original MOVERNO proposal",
+    "useMOVERNO Motion Contour becomes panel, cage, support tape, reflective rail or shroud; never arbitrary decoration",
+    "no bright multicolor palette",
+    "image-model output is concept evidence, not a factory technical drawing"
+  ],
+  "referenceDuplicate": "References 07 and 11 are byte-identical. Both requested outputs were produced: 07 exposes a linear cage; 11 uses a semi-transparent removable shroud.",
+  "researchAnchors": [
+    {
+      "title": "Vogue Japan — 2026 spring/summer sneaker trend keywords",
+      "url": "https://www.vogue.co.jp/article/2026-sneakers-trend-9",
+      "use": "Confirms a 2026 split between restrained classics and expressive/maximal sneakers; MOVERNO intentionally keeps the user's maximal runner language in a monochrome system."
+    },
+    {
+      "title": "Vogue Japan — 2026-27 low-profile sneaker shift",
+      "url": "https://www.vogue.co.jp/article/2026-aw-bag-shoes-vol6-low-plofile-sneaker",
+      "use": "Used as a counter-signal: the chunky family must be a deliberate brand signature rather than a generic market default."
+    },
+    {
+      "title": "TikTok Shop LIVE — sneakers and streetwear community commerce",
+      "url": "https://newsroom.tiktok.com/tiktokshoplivefashionandcollectables?lang=en-GB",
+      "use": "Supports later content that explains construction, materials and authenticity instead of showing only static glamour imagery."
+    }
+  ],
+  "concepts": [
+    {"displayOrder": 1, "name": "STROKE VEIL", "file": "01-stroke-veil.png", "reference": "../ss27-footwear-reference-round4/01-graffiti-technical-runner.png", "brandTranslation": "non-lettered brushed Motion Contour abrasion frame"},
+    {"displayOrder": 2, "name": "BLACK RELAY", "file": "02-black-relay.png", "reference": "../ss27-footwear-reference-round4/02-black-graffiti-chunky-runner.png", "brandTranslation": "bone-gray pattern cells replace lettering as a structural quarter overlay"},
+    {"displayOrder": 3, "name": "BONE STRATA", "file": "03-bone-strata.png", "reference": "../ss27-footwear-reference-round4/03-bone-chunky-runner-pair.png", "brandTranslation": "tonal embossed Motion Contour channels"},
+    {"displayOrder": 4, "name": "REGISTER TAPE", "file": "04-register-tape.png", "reference": "../ss27-footwear-reference-round4/04-black-logo-tape-chunky-runner.png", "brandTranslation": "functional reflective support tapes with micro gate deboss"},
+    {"displayOrder": 5, "name": "VEIL CAGE BONE", "file": "05-veil-cage-bone.png", "reference": "../ss27-footwear-reference-round4/05-bone-cage-runner.png", "brandTranslation": "veil-shaped external cage rails and real lace anchors"},
+    {"displayOrder": 6, "name": "GATE MONO", "file": "06-gate-mono.png", "reference": "../ss27-footwear-reference-round4/06-bone-chunky-monogram-runner.png", "brandTranslation": "large clean gate-emblem applique with tonal contour stitching"},
+    {"displayOrder": 7, "name": "GRAPHITE LOOP", "file": "07-graphite-loop.png", "reference": "../ss27-footwear-reference-round4/07-gray-cage-runner.png", "brandTranslation": "opposing TPU ribs become a functional external cord cage"},
+    {"displayOrder": 8, "name": "SILVER ARC", "file": "08-silver-arc.png", "reference": "../ss27-footwear-reference-round4/08-silver-chunky-runner-on-foot.png", "brandTranslation": "silver/black gate arcs over a cloud-like bone sole"},
+    {"displayOrder": 9, "name": "SAND WAVE", "file": "09-sand-wave.png", "reference": "../ss27-footwear-reference-round4/09-sand-wave-runner.png", "brandTranslation": "sand suede opposing quarter arcs and restrained gate mark"},
+    {"displayOrder": 10, "name": "NIGHT WAVE", "file": "10-night-wave.png", "reference": "../ss27-footwear-reference-round4/10-black-white-wave-runner.png", "brandTranslation": "black mirrored load-path rails over bone mesh"},
+    {"displayOrder": 11, "name": "GRAPHITE SHROUD", "file": "11-graphite-shroud.png", "reference": "../ss27-footwear-reference-round4/11-gray-cage-runner-duplicate.png", "brandTranslation": "single flexible smoke-TPU veil-cell shroud with four cord anchors"}
+  ]
+}

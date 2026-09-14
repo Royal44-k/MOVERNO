@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-09-10T04:25:50.728Z",
+  "checks": [
+    {
+      "name": "F02 master exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F02 derived sheet exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F02 board 4:5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "F04 master exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F04 derived sheet exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F04 board 4:5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 01-bone-signal.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 02-strata.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 03-notch.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 04-quiet-panel.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 05-afterhours.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 06-ash-frame.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 07-chain-form.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 08-ivory-cage.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 09-silver-wave.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 10-sand-current.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 11-graphite-cage.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 12-bone-layer.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 13-cross-weave.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 14-veil-high.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged 15-gate-high.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged F01-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged F03-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged F01-master-v2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged F03-master-v1.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "two distinct statements",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "two revision boards",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "overview 2048x1240",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact masters/F02-R2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact atlases/F02-R2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact boards/F02-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact editable/F02-board.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact masters/F04-R2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact atlases/F04-R2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact boards/F04-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact editable/F04-board.svg",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "pass": true
+}

@@ -1,0 +1,26 @@
+{
+  "F01": {
+    "master": "masters/F01-master-v2.png",
+    "atlas": "atlases/F01-detail-v1.png",
+    "sideEnd": 518,
+    "detailStart": 528
+  },
+  "F02": {
+    "master": "masters/F02-master-v1.png",
+    "atlas": "atlases/F02-detail-v1.png",
+    "sideEnd": 508,
+    "detailStart": 516
+  },
+  "F03": {
+    "master": "masters/F03-master-v1.png",
+    "atlas": "atlases/F03-detail-v1.png",
+    "sideEnd": 496,
+    "detailStart": 504
+  },
+  "F04": {
+    "master": "masters/F04-master-v2.png",
+    "atlas": "atlases/F04-detail-v2.png",
+    "sideEnd": 497,
+    "detailStart": 505
+  }
+}

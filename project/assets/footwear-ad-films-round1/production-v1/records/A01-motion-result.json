@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/tmp/gradio/c270e1a9bb92b1f549a2d779bb3c4daa4f9086db5f7d770d21d6c2f76a94c805/tmpxmkkal3b.mp4",
+    "url": "https://zerogpu-aoti-wan2-2-fp8da-aoti-faster.hf.space/gradio_api/file=/tmp/gradio/c270e1a9bb92b1f549a2d779bb3c4daa4f9086db5f7d770d21d6c2f76a94c805/tmpxmkkal3b.mp4",
+    "size": null,
+    "orig_name": "tmpxmkkal3b.mp4",
+    "mime_type": null,
+    "is_stream": false,
+    "meta": {
+      "_type": "gradio.FileData"
+    }
+  },
+  1901
+]

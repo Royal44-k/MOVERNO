@@ -1,0 +1,129 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "collection": "SS27",
+  "round": 6,
+  "date": "2026-09-07",
+  "status": "awaiting-user-review",
+  "generation": {
+    "mode": "built-in imagegen",
+    "calls": 10,
+    "requestedDimensions": [
+      1536,
+      1024
+    ],
+    "stytrixPaidCalls": 0
+  },
+  "sourceRecovery": "Unmodified embedded image bytes recovered from the exact current task user message dated 2026-09-03T13:06:35.821Z.",
+  "displayOrder": "Sequential generated-image display in current chat",
+  "emblemSource": "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+  "patternSource": "D:/Codex-chat/night-veil-brand/assets/motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+  "outputs": [
+    {
+      "number": 1,
+      "name": "幕隙经典高帮",
+      "slug": "veil-archive-hi",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/01-veil-archive-hi.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-0bdaca3c-c54e-4e04-890c-b95bd5545a6b.png",
+      "status": "awaiting-user-review",
+      "qa": "Single shoe and correct high-top family; gate emblem visible; tonal rear pattern; no generated text.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/01-black-canvas-hi.png"
+    },
+    {
+      "number": 2,
+      "name": "偏幕提花高帮",
+      "slug": "offset-jacquard-hi",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/02-offset-jacquard-hi.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-31447c1e-e5bc-4fce-8c2d-61875dd5a1e5.png",
+      "status": "awaiting-user-review",
+      "qa": "Recognizable tonal chamber repeat, small gate, high-top proportions retained; decorative sole arch notch shown.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/02-minimal-canvas-hi.png"
+    },
+    {
+      "number": 3,
+      "name": "黑白巨幅幕片",
+      "slug": "macro-veil-black",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/03-macro-veil-black.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-1544e2fb-df4c-470a-b09c-5d91212e8677.png",
+      "status": "awaiting-user-review",
+      "qa": "Wide laces, low skate silhouette, bold two-chamber ivory applique, small black gate. Pattern is a concept adaptation.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/03-oversized-graphic-low.png"
+    },
+    {
+      "number": 4,
+      "name": "流银门轨",
+      "slug": "liquid-gate-runner",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/04-liquid-gate-runner.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-55309449-d6cd-4380-a695-dc0b49b0ab85.png",
+      "status": "awaiting-user-review",
+      "qa": "Silver mesh runner proportions and standalone gate retained; three captive metallic nodes; contour translated to support lines rather than literal repeat.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/04-liquid-silver-runner.png"
+    },
+    {
+      "number": 5,
+      "name": "骨灰反相幕片",
+      "slug": "reverse-veil-bone",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/05-reverse-veil-bone.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-dbfa39e0-754f-4dab-968d-965d141bd2f8.png",
+      "status": "awaiting-user-review",
+      "qa": "Bone/black inversion and low skate body clear. Side repeat simplified to slit chambers; exact contour endpoints require vector alignment if selected.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/05-black-bone-graphic-low.png"
+    },
+    {
+      "number": 6,
+      "name": "毛边暗纹",
+      "slug": "frayed-veil-skate",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/06-frayed-veil-skate.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-84711688-9686-4b91-a6be-d307b38ca394.png",
+      "status": "awaiting-user-review",
+      "qa": "Frayed repeat and leather gate are visually clear; weave geometry approximated by raster generator; full weave map awaits selection.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/06-frayed-jacquard-skate.png"
+    },
+    {
+      "number": 7,
+      "name": "黑皮银徽",
+      "slug": "silver-gate-low",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/07-silver-gate-low.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-4982b3e9-e1fc-421d-a110-dfcad008d690.png",
+      "status": "awaiting-user-review",
+      "qa": "Black leather low family, silver gate and subtle heel deboss, no rainbow. Emblem edge alignment remains conceptual.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/07-black-leather-low.png"
+    },
+    {
+      "number": 8,
+      "name": "白皮暗格",
+      "slug": "shadow-register-court",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/08-shadow-register-court.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-1520d21d-e32e-4f79-85eb-b0fe1e045c36.png",
+      "status": "awaiting-user-review",
+      "qa": "White court and dark patterned inset retained; tiny dark-red nodes. Lace keeper mark is approximate and needs exact vector replacement if selected.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/08-white-leather-court.png"
+    },
+    {
+      "number": 9,
+      "name": "烟胶脊纹",
+      "slug": "smoke-rib-canvas",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/09-smoke-rib-canvas.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-90a90878-ac30-4825-aec9-db3c8cb706f8.png",
+      "status": "awaiting-user-review",
+      "qa": "Black canvas/gum proportions retained, sole chamber ribs distinct. Relief is bolder than brief; if selected review finer spacing and manufacturable foxing/tooling against no-new-outsole-mold constraint.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/09-ribbed-gum-canvas.png"
+    },
+    {
+      "number": 10,
+      "name": "纯白浮雕",
+      "slug": "mono-relief-court",
+      "path": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/10-mono-relief-court.png",
+      "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-9852a19d-21c4-4f10-9670-39375bf3962b.png",
+      "status": "awaiting-user-review",
+      "qa": "White court body and tone-on-tone gate retained. Rear pattern became softer relief; detailed geometry should be re-aligned after selection.",
+      "reference": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/references/10-white-court.png"
+    }
+  ],
+  "notCompleted": [
+    "User selection",
+    "Exact production vector artwork",
+    "Multi-view consistency",
+    "Outsole/last sourcing",
+    "Physical samples and tests"
+  ]
+}

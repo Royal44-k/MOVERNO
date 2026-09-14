@@ -1,0 +1,15 @@
+{
+  "id": "12",
+  "batch": 3,
+  "type": "atlas",
+  "target": "views/12-bone-layer-six-views.png",
+  "refs": [
+    "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/sources/12-bone-layer.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+    "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+  ],
+  "prompt": "Use case: product-mockup. Create a six-view PRODUCT CONCEPT atlas, one landscape 4:3 image in an EXACT 3-column 2-row equal cell layout. Input1 authoritative selected MOVERNO shoe. Input2 exact gate emblem only. Input3 exact wordmark only. Do NOT redesign shoe. Preserve: Bone ivory chunky multilayer runner. Curving vertical bone leather-look side strips with subtle sculpted ripples rise from sole to collar, cream fine mesh, thick long black-speckled cream rope laces, black small paired gate near lateral heel, tiny dark-red cross stitch below eyestay. Large complex cream/yellowed-bone tri-layer sole with almond-shaped arch insert. Broad round toe, cream outsole. No black sole, no gum brown, no bright silver. Top row left-to-right: OUTER lateral profile, INNER medial profile, FRONT straight-on. Bottom row: REAR straight-on, TOP-DOWN with toe toward bottom, OUTSOLE bottom with toe toward top. Six full shoes, one per cell, entirely contained, adequate breathing space, gray neutral seamless background consistent across cells, soft catalog light. Every view same shoe geometry and sole volume. Preserve existing exterior markings and pattern. Add restrained small MOVERNO lettering to tongue uppermost patch or loop and a small gate to rear heel center only where anatomically appropriate. Gate: two independent opposing upright curved blades, straight outer vertical edges, visible OPEN vertical center slit, not X or butterfly. New outsole is conceptual continuation of original visible rim and segments in bone-ivory (NOT black or gum-brown), with small molded MOVERNO in a recessed midfoot island. Keep text legible spelled M-O-V-E-R-N-O, no extra words, no label headings, no diagram or arrows, no new side logos or extra hardware, no colored accents beyond source. Do not paint lettering over existing cage or wrap straps. High quality photorealistic concept. NOT a techpack/measurement drawing.",
+  "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-fc345133-37a7-40d9-b062-81872697453c.png",
+  "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/12-bone-layer-six-views.png",
+  "status": "selected"
+}

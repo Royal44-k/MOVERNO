@@ -1,0 +1,72 @@
+{
+  "patternMaster": "assets\\motion-contour-round1\\05-relay-veil-edge-gilded-v2.png",
+  "patternSha256": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76",
+  "scalePolicy": "One complete 1024x1024 V2 tile equals each detected front/back garment width; no mirror, rotation, recolor or regeneration.",
+  "items": [
+    {
+      "code": "SS27-TS01",
+      "name": "FRONT MONOLITH",
+      "base": "FRAME",
+      "placement": "front_monolith",
+      "file": "ss27-ts01-front-monolith.png",
+      "sha256": "49B000735ACEAC75AC501BCD929071F7D3EE7A6AD840FC23577179CD50E8F4B0"
+    },
+    {
+      "code": "SS27-TS02",
+      "name": "BACK GATE",
+      "base": "FRAME",
+      "placement": "back_gate",
+      "file": "ss27-ts02-back-gate.png",
+      "sha256": "0429BA61DC45C9995C1C66B1C97EBA64C697B35C02CEB05B93FB3133CD6A383F"
+    },
+    {
+      "code": "SS27-TS03",
+      "name": "CHEST SIGNAL",
+      "base": "TRACE",
+      "placement": "chest_signal",
+      "file": "ss27-ts03-chest-signal.png",
+      "sha256": "8410714C836307E803CEC7C2E0BC2DC0A9B3E3EF6AA5E09E3A0E6BAEE6C21F9F"
+    },
+    {
+      "code": "SS27-TS04",
+      "name": "HEM ASCENT",
+      "base": "TRACE",
+      "placement": "hem_ascent",
+      "file": "ss27-ts04-hem-ascent.png",
+      "sha256": "5A7BE614443134A7125E97F8F8B869ACDC7A1C54D28172E50A97FC0AF9AA0594"
+    },
+    {
+      "code": "SS27-TS05",
+      "name": "SHOULDER CIRCUIT",
+      "base": "RHYTHM_V",
+      "placement": "shoulder_circuit",
+      "file": "ss27-ts05-shoulder-circuit.png",
+      "sha256": "0D8AED4FBADCD6007A972A62E63FD12C9A4B67CDEB1E6BB67585C6B1B544C64F"
+    },
+    {
+      "code": "SS27-TS06",
+      "name": "FULL VEIL",
+      "base": "RHYTHM_V",
+      "placement": "full_veil",
+      "file": "ss27-ts06-full-veil.png",
+      "sha256": "195155201C7B712355493AE24036C138B13B5B858C6703034699AECD6753BDEB"
+    },
+    {
+      "code": "SS27-TS07",
+      "name": "SIDE RELAY",
+      "base": "NOIR_POLO",
+      "placement": "side_relay",
+      "file": "ss27-ts07-side-relay.png",
+      "sha256": "976F1CC46FB71A183EEAE7A1FCAAF8C5799E3B870B9DF3CCB51DDCCEBDA952CA"
+    },
+    {
+      "code": "SS27-TS08",
+      "name": "COMPOSITE RELAY",
+      "base": "NOIR_POLO",
+      "placement": "composite_relay",
+      "file": "ss27-ts08-composite-relay.png",
+      "sha256": "4C0335AE0AECD6405154A5635B66EDD02E9757E391CA9C4D083D252DDAFDAD5B"
+    }
+  ],
+  "lineup": "00-moverno-ss27-v2-placement-lineup-round1.png"
+}

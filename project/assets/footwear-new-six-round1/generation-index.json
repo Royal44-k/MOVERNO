@@ -1,0 +1,38 @@
+[
+  {
+    "id": "N01",
+    "selected": "masters/N01-v1.png",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-7d169196-232e-42d9-8f23-14be4ca35b2f.png",
+    "status": "待用户审核"
+  },
+  {
+    "id": "N02",
+    "selected": "masters/N02-v1.png",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-29090fef-e88e-401b-94db-55015e9f1a12.png",
+    "status": "待用户审核"
+  },
+  {
+    "id": "N03",
+    "selected": "masters/N03-v1.png",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-16801944-d49f-403f-af7e-c56a011fc014.png",
+    "status": "待用户审核"
+  },
+  {
+    "id": "N04",
+    "selected": "masters/N04-v2.png",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-a11698ae-4af0-4a2a-874a-124dd01fb7cc.png",
+    "status": "待用户审核"
+  },
+  {
+    "id": "N05",
+    "selected": "masters/N05-v1.png",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-dc074f34-73fa-45e3-b9be-c076c2a700d5.png",
+    "status": "待用户审核"
+  },
+  {
+    "id": "N06",
+    "selected": "masters/N06-v2.png",
+    "original": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-06f8d8d3-9f92-4b0b-bb67-6d922b18db42.png",
+    "status": "待用户审核"
+  }
+]

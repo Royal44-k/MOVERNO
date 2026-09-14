@@ -1,0 +1,152 @@
+[
+  {
+    "id": "01",
+    "type": "atlas",
+    "target": "views/01-bone-signal-six-views.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-8792e8e7-be3e-490c-a176-c738e6a47a24.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Asset: SIX VIEW PRODUCT CONCEPT ATLAS for MOVERNO shoe 01. Input1 is authoritative shoe design; input2 is exact standalone emblem; input3 exact wordmark. Generate one landscape 4:3 board with SIX equally sized clean rectangular cells in a PRECISE 3 column by 2 row grid. NO text labels/headings/borders, neutral light warm-grey seamless background in all cells. Order: top-left full OUTER side profile toe pointing right; top-center full INNER side profile; top-right FRONT straight-on; bottom-left REAR straight-on; bottom-center TOP-DOWN toe toward bottom; bottom-right complete BOTTOM outsole toe toward top. Each shoe fully contained with adequate whitespace, consistent scale, soft catalog lighting, sharp product-concept realism. THIS IS NOT A NEW SHOE DESIGN. Lock from input1: Ivory chunky low-top with warm gum brown outsole edge and lugs, faceted cream midsole, smooth ivory toe and aged grain ivory quarter, charcoal large UPRIGHT opposing gate emblem on side, black-speckled ivory round laces, one tiny brown lace-side wrap. Rounded generous toe, keep original silhouette. Preserve all stitching, proportions, sole height, toe shape, color and materials across the six angles. Add only restrained brand extensions in previously unseen areas: a small exact MOVERNO wordmark on tongue tag (tonal taupe letters, NOT giant text), a small two-part gate on heel center, and MOVERNO molded into a recessed midfoot island of outsole. Gate must remain two SEPARATE upright curved blades with straight outside vertical edges and narrow OPEN center; never an X, butterfly or generic M. Outsole is a conceptual continuation using ONLY original visible lug geometry/color; warm brown gum bottom. No performance claims, tech diagrams, arrows, labels, additional emblems/pattern on side, new hardware, brand substitution. If a detail is naturally hidden from a view, do not force it visible. Maximum rendering fidelity.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-a749ffa9-5dfe-4a9a-b22e-8126b596f85e.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/01-bone-signal-six-views.png",
+    "status": "selected"
+  },
+  {
+    "id": "01",
+    "type": "campaign",
+    "target": "campaign/01-bone-signal-campaign.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-8792e8e7-be3e-490c-a176-c738e6a47a24.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: portrait 4:5 MOVERNO youth fashion shoe campaign photograph-style CONCEPT, no typography. Input1 authoritative shoe to put on adult model's feet; input2 exact emblem ONLY reference. Preserve shoe design precisely: Ivory chunky low-top with warm gum brown outsole edge and lugs, faceted cream midsole, smooth ivory toe and aged grain ivory quarter, charcoal large UPRIGHT opposing gate emblem on side, black-speckled ivory round laces, one tiny brown lace-side wrap. Rounded generous toe, keep original silhouette. Scene: Adult model's lower calves and feet only, loose tailored graphite trousers with cuffs ending just above shoe collars. Ivory chunky shoes stepping across two broad dark graphite concrete stairs at different heights, front foot shows lateral side emblem completely, rear foot naturally recedes. Restrained hard window shaft creates diagonal shadow, cream shoes luminous but not bleached. Almost black architectural background, no visible building logos. Low camera, a striking diagonal composition. Frame from below knees, no face, no torso, no additional people. Full pair of exactly two shoes, natural legs inside shoes, no floating objects. Foreground shoe takes 65-75% of frame width, toes and heels UNCROPPED. Place shoes principally in middle/lower 65% with clear dark negative space in upper 20% for later layout, some floor at bottom. Footwear visual proportion must match original, no extra huge platforms, no high-top conversion on low-top. Original gate positions and size remain intact. Premium tactile surfaces, real creases, clear silhouette, rich black detail and restrained contrast; brand aesthetic is young, quiet dark sophistication, not horror, not outdoor adventure. Avoid neon, colorful lighting, fog, gold scenery, ornamental monogram, extra accessories, water splashes, dramatic smoke, typography or watermark. Do not redesign shoe or put logos on clothing.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-f3a64b8b-d649-42dc-ba8a-7d8ad9aece71.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/01-bone-signal-campaign.png",
+    "status": "selected"
+  },
+  {
+    "id": "02",
+    "type": "atlas",
+    "target": "views/02-strata-six-views.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-b5c3d29c-23b4-448d-b771-8563560f513c.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Asset: SIX VIEW PRODUCT CONCEPT ATLAS for MOVERNO shoe 02. Input1 is authoritative shoe design; input2 is exact standalone emblem; input3 exact wordmark. Generate one landscape 4:3 board with SIX equally sized clean rectangular cells in a PRECISE 3 column by 2 row grid. NO text labels/headings/borders, neutral light warm-grey seamless background in all cells. Order: top-left full OUTER side profile toe pointing right; top-center full INNER side profile; top-right FRONT straight-on; bottom-left REAR straight-on; bottom-center TOP-DOWN toe toward bottom; bottom-right complete BOTTOM outsole toe toward top. Each shoe fully contained with adequate whitespace, consistent scale, soft catalog lighting, sharp product-concept realism. THIS IS NOT A NEW SHOE DESIGN. Lock from input1: Sand taupe and cream sculptural runner, honeycomb mesh, suede-look central large paired curved sand panels enclosing narrow leaf shaped mesh slit, graphite molded heel clip with gate, black outsole lugs, translucent smoky toe-side windows, angular bone midfoot bridge. Preserve no silver/no brown outsole. Preserve all stitching, proportions, sole height, toe shape, color and materials across the six angles. Add only restrained brand extensions in previously unseen areas: a small exact MOVERNO wordmark on tongue tag (tonal taupe letters, NOT giant text), a small two-part gate on heel center, and MOVERNO molded into a recessed midfoot island of outsole. Gate must remain two SEPARATE upright curved blades with straight outside vertical edges and narrow OPEN center; never an X, butterfly or generic M. Outsole is a conceptual continuation using ONLY original visible lug geometry/color; black bottom with sand midfoot island. No performance claims, tech diagrams, arrows, labels, additional emblems/pattern on side, new hardware, brand substitution. If a detail is naturally hidden from a view, do not force it visible. Maximum rendering fidelity.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-c8c36818-6b89-4674-b1a5-fec70ede31e9.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/02-strata-six-views.png",
+    "status": "selected"
+  },
+  {
+    "id": "02",
+    "type": "campaign",
+    "target": "campaign/02-strata-campaign.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-b5c3d29c-23b4-448d-b771-8563560f513c.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: portrait 4:5 MOVERNO youth fashion shoe campaign photograph-style CONCEPT, no typography. Input1 authoritative shoe to put on adult model's feet; input2 exact emblem ONLY reference. Preserve shoe design precisely: Sand taupe and cream sculptural runner, honeycomb mesh, suede-look central large paired curved sand panels enclosing narrow leaf shaped mesh slit, graphite molded heel clip with gate, black outsole lugs, translucent smoky toe-side windows, angular bone midfoot bridge. Preserve no silver/no brown outsole. Scene: Adult lower legs only in relaxed black technical trousers. Sand sculptural runners stand on a sloped raw concrete landing with one clean vertical wall joint. One foreground shoe lateral 3/4 prominent, other behind reveals rear heel clip. Warm gray architecture, black negative space in upper 20 percent, soft side light reveals sand mesh and graphite clip. Clean fashion campaign, no outdoors hiking scene. Frame from below knees, no face, no torso, no additional people. Full pair of exactly two shoes, natural legs inside shoes, no floating objects. Foreground shoe takes 65-75% of frame width, toes and heels UNCROPPED. Place shoes principally in middle/lower 65% with clear dark negative space in upper 20% for later layout, some floor at bottom. Footwear visual proportion must match original, no extra huge platforms, no high-top conversion on low-top. Original gate positions and size remain intact. Premium tactile surfaces, real creases, clear silhouette, rich black detail and restrained contrast; brand aesthetic is young, quiet dark sophistication, not horror, not outdoor adventure. Avoid neon, colorful lighting, fog, gold scenery, ornamental monogram, extra accessories, water splashes, dramatic smoke, typography or watermark. Do not redesign shoe or put logos on clothing.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-4b2377c1-24cc-47bb-8b99-bc4f51fae010.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/02-strata-campaign.png",
+    "status": "selected"
+  },
+  {
+    "id": "03",
+    "type": "atlas",
+    "target": "views/03-notch-six-views.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-52f94dec-d46e-4258-9b0f-58e65a3c0b3c.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Asset: SIX VIEW PRODUCT CONCEPT ATLAS for MOVERNO shoe 03. Input1 is authoritative shoe design; input2 is exact standalone emblem; input3 exact wordmark. Generate one landscape 4:3 board with SIX equally sized clean rectangular cells in a PRECISE 3 column by 2 row grid. NO text labels/headings/borders, neutral light warm-grey seamless background in all cells. Order: top-left full OUTER side profile toe pointing right; top-center full INNER side profile; top-right FRONT straight-on; bottom-left REAR straight-on; bottom-center TOP-DOWN toe toward bottom; bottom-right complete BOTTOM outsole toe toward top. Each shoe fully contained with adequate whitespace, consistent scale, soft catalog lighting, sharp product-concept realism. THIS IS NOT A NEW SHOE DESIGN. Lock from input1: Black low-top, grained textile quarters, smooth black toe guard and heel, 6 pairs metal round eyelets and flat ivory laces, angular cream midsole, separated rectangular cream outsole lugs, gate inset BLACK in lateral midsole at rear-midfoot, single tiny dark-red midsole notch at forefoot. Unbranded black upper must stay quiet. Preserve all stitching, proportions, sole height, toe shape, color and materials across the six angles. Add only restrained brand extensions in previously unseen areas: a small exact MOVERNO wordmark on tongue tag (tonal ivory letters, NOT giant text), a small two-part gate on heel center, and MOVERNO molded into a recessed midfoot island of outsole. Gate must remain two SEPARATE upright curved blades with straight outside vertical edges and narrow OPEN center; never an X, butterfly or generic M. Outsole is a conceptual continuation using ONLY original visible lug geometry/color; cream lugged bottom, no brown. No performance claims, tech diagrams, arrows, labels, additional emblems/pattern on side, new hardware, brand substitution. If a detail is naturally hidden from a view, do not force it visible. Maximum rendering fidelity.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-bc404b85-7945-4194-80f4-95408e478072.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/03-notch-six-views.png",
+    "status": "selected"
+  },
+  {
+    "id": "03",
+    "type": "campaign",
+    "target": "campaign/03-notch-campaign.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-52f94dec-d46e-4258-9b0f-58e65a3c0b3c.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: portrait 4:5 MOVERNO youth fashion shoe campaign photograph-style CONCEPT, no typography. Input1 authoritative shoe to put on adult model's feet; input2 exact emblem ONLY reference. Preserve shoe design precisely: Black low-top, grained textile quarters, smooth black toe guard and heel, 6 pairs metal round eyelets and flat ivory laces, angular cream midsole, separated rectangular cream outsole lugs, gate inset BLACK in lateral midsole at rear-midfoot, single tiny dark-red midsole notch at forefoot. Unbranded black upper must stay quiet. Scene: Adult cropped lower legs in loose washed-black denim ending above shoe collar, wearing identical black lugged low-tops. Seated casually on a plain dark brushed-steel bench edge outside the frame. One shoe planted and one rotated slightly, both anatomically plausible. Low close camera sharply shows pale lugged sole edge and quiet black upper. Single soft overhead flash, hard elegant shadow on dark-gray cement, open black upper space. Frame from below knees, no face, no torso, no additional people. Full pair of exactly two shoes, natural legs inside shoes, no floating objects. Foreground shoe takes 65-75% of frame width, toes and heels UNCROPPED. Place shoes principally in middle/lower 65% with clear dark negative space in upper 20% for later layout, some floor at bottom. Footwear visual proportion must match original, no extra huge platforms, no high-top conversion on low-top. Original gate positions and size remain intact. Premium tactile surfaces, real creases, clear silhouette, rich black detail and restrained contrast; brand aesthetic is young, quiet dark sophistication, not horror, not outdoor adventure. Avoid neon, colorful lighting, fog, gold scenery, ornamental monogram, extra accessories, water splashes, dramatic smoke, typography or watermark. Do not redesign shoe or put logos on clothing.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-5ba61698-0060-4da3-b278-abe6d677405a.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/03-notch-campaign.png",
+    "status": "selected"
+  },
+  {
+    "id": "05",
+    "type": "atlas",
+    "target": "views/05-afterhours-six-views.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-5e5ff0cc-5d87-43e4-965d-97b28628c218.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Asset: SIX VIEW PRODUCT CONCEPT ATLAS for MOVERNO shoe 05. Input1 is authoritative shoe design; input2 is exact standalone emblem; input3 exact wordmark. Generate one landscape 4:3 board with SIX equally sized clean rectangular cells in a PRECISE 3 column by 2 row grid. NO text labels/headings/borders, neutral light warm-grey seamless background in all cells. Order: top-left full OUTER side profile toe pointing right; top-center full INNER side profile; top-right FRONT straight-on; bottom-left REAR straight-on; bottom-center TOP-DOWN toe toward bottom; bottom-right complete BOTTOM outsole toe toward top. Each shoe fully contained with adequate whitespace, consistent scale, soft catalog lighting, sharp product-concept realism. THIS IS NOT A NEW SHOE DESIGN. Lock from input1: Black high-top, rectangular padded horizontal ankle ribs, fully visible black vertical lateral ZIPPER behind eyestay, tiny warm brass piping framing eyestay and rear panel, charcoal gate low on heel-side, black grained textile side, black toe rim, ivory flat laces with dark metal eyelets, flat ivory cupsole with black thin outsole. Preserve high-top height and zipper placement. Preserve all stitching, proportions, sole height, toe shape, color and materials across the six angles. Add only restrained brand extensions in previously unseen areas: a small exact MOVERNO wordmark on tongue tag (tonal ivory letters, NOT giant text), a small two-part gate on heel center, and MOVERNO molded into a recessed midfoot island of outsole. Gate must remain two SEPARATE upright curved blades with straight outside vertical edges and narrow OPEN center; never an X, butterfly or generic M. Outsole is a conceptual continuation using ONLY original visible lug geometry/color; black flat bottom with discreet tonal lettering. No performance claims, tech diagrams, arrows, labels, additional emblems/pattern on side, new hardware, brand substitution. If a detail is naturally hidden from a view, do not force it visible. Maximum rendering fidelity.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-fb42f396-b96c-4d21-bbc5-fb615b7d5919.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/05-afterhours-six-views.png",
+    "status": "superseded"
+  },
+  {
+    "id": "05",
+    "type": "campaign",
+    "target": "campaign/05-afterhours-campaign.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-5e5ff0cc-5d87-43e4-965d-97b28628c218.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: portrait 4:5 MOVERNO youth fashion shoe campaign photograph-style CONCEPT, no typography. Input1 authoritative shoe to put on adult model's feet; input2 exact emblem ONLY reference. Preserve shoe design precisely: Black high-top, rectangular padded horizontal ankle ribs, fully visible black vertical lateral ZIPPER behind eyestay, tiny warm brass piping framing eyestay and rear panel, charcoal gate low on heel-side, black grained textile side, black toe rim, ivory flat laces with dark metal eyelets, flat ivory cupsole with black thin outsole. Preserve high-top height and zipper placement. Scene: Adult lower legs only wearing straight cropped charcoal trousers that end ABOVE padded high-top collar so full black ZIPPER and height are visible. One foot on a dark brushed-metal step, the other on lower stone floor. Both black high-tops identical and realistically worn, one side fully faces camera, other rear 3/4. Narrow neutral window lighting traces ivory laces and black ribbed ankle. No shiny gold props. Editorial black architecture. Frame from below knees, no face, no torso, no additional people. Full pair of exactly two shoes, natural legs inside shoes, no floating objects. Foreground shoe takes 65-75% of frame width, toes and heels UNCROPPED. Place shoes principally in middle/lower 65% with clear dark negative space in upper 20% for later layout, some floor at bottom. Footwear visual proportion must match original, no extra huge platforms, no high-top conversion on low-top. Original gate positions and size remain intact. Premium tactile surfaces, real creases, clear silhouette, rich black detail and restrained contrast; brand aesthetic is young, quiet dark sophistication, not horror, not outdoor adventure. Avoid neon, colorful lighting, fog, gold scenery, ornamental monogram, extra accessories, water splashes, dramatic smoke, typography or watermark. Do not redesign shoe or put logos on clothing.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-227dc273-e409-429e-92d3-c96cb0ba4246.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/05-afterhours-campaign.png",
+    "status": "selected"
+  },
+  {
+    "id": "05",
+    "type": "atlas-refinement",
+    "target": "views/05-afterhours-six-views.png",
+    "refs": [
+      "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/05-afterhours-six-views.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Use case: precise-object-edit. Input1 is a completed SIX PANEL black high-top MOVERNO shoe atlas. Input2 is authoritative gate emblem. Make ONE strictly local correction in input1: the small gray gate centered in the LOWER LEFT REAR-VIEW shoe panel must exactly match the two separated upright curved blades in input2, with a visible narrow black vertical GAP equal to around 12% total emblem width running open full height. Flat gray deboss/inlay integrated into same black heel surface, same small overall size, not two joined diamonds, not butterfly, not X. The rear emblem must have straight outer vertical edges and inward curved tops and bottoms as in the reference. Also use that exact separated gate for the tiny insole glyph in LOWER MIDDLE top view only. Preserve every other pixel/composition/angle, side zipper location, grain, padded ankle ribs, sole shape, all MOVERNO wordmark spelling, and all other cells unchanged. No redesign, no added text, no new borders, no color change. Output same landscape 4:3 six-panel board.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-c07a9420-a7be-4c56-88a8-6d0dbb78648e.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/05-afterhours-six-views.png",
+    "status": "selected",
+    "inputStageOriginal": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-fb42f396-b96c-4d21-bbc5-fb615b7d5919.png"
+  },
+  {
+    "id": "04",
+    "type": "campaign-retry",
+    "target": "campaign/04-quiet-panel-campaign.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-26f2b18b-982a-43e2-836d-88da7b257d42.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: portrait 4:5 MOVERNO youth fashion shoe campaign photograph-style CONCEPT, no typography. Input1 authoritative shoe to put on adult model's feet; input2 exact emblem ONLY reference. Preserve shoe design precisely: Black low-top court/skate sneaker, black textured textile with black leather-like TWO curved side panels meeting at narrow center dark-red bar-tack, tiny warm ochre seam on heel-side boundary, tiny black gate heel-side, smooth ivory flat cupsole with thin black outsole. Cream flat laces, no metal eyelets. Do NOT introduce large bright side logo. Scene: Adult cropped legs in black wide tailored trousers, a casual pivot on pale concrete inset into a charcoal floor. Same black panel low-top on both feet, foreground lateral view of curved panels and cream cupsole prominent. One diagonal shadow and a simple wall edge. Graphic black and cream, youthful understated street editorial, no bags or extraneous props. Frame from below knees, no face, no torso, no additional people. Full pair of exactly two shoes, natural legs inside shoes, no floating objects. Foreground shoe takes 65-75% of frame width, toes and heels UNCROPPED. Place shoes principally in middle/lower 65% with clear dark negative space in upper 20% for later layout, some floor at bottom. Footwear visual proportion must match original, no extra huge platforms, no high-top conversion on low-top. Original gate positions and size remain intact. Premium tactile surfaces, real creases, clear silhouette, rich black detail and restrained contrast; brand aesthetic is young, quiet dark sophistication, not horror, not outdoor adventure. Avoid neon, colorful lighting, fog, gold scenery, ornamental monogram, extra accessories, water splashes, dramatic smoke, typography or watermark. Do not redesign shoe or put logos on clothing.\nImportant: render ONE finished still photo only. Prioritize simple clear side-on footwear presentation on the foreground foot.",
+    "generatedSource": "C:\\Users\\lenovo\\.codex\\generated_images\\01a05c31-abd0-79f1-98f3-31e8f97ddab9\\exec-5a86b333-4690-45ec-93b3-d5c42cf9721b.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/campaign/04-quiet-panel-campaign.png",
+    "status": "selected",
+    "note": "Initial campaign call did not return; its exec cell was terminated after this independent render completed."
+  },
+  {
+    "id": "04",
+    "type": "atlas",
+    "target": "views/04-quiet-panel-six-views.png",
+    "refs": [
+      "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-26f2b18b-982a-43e2-836d-88da7b257d42.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Asset: SIX VIEW PRODUCT CONCEPT ATLAS for MOVERNO shoe 04. Input1 is authoritative shoe design; input2 is exact standalone emblem; input3 exact wordmark. Generate one landscape 4:3 board with SIX equally sized clean rectangular cells in a PRECISE 3 column by 2 row grid. NO text labels/headings/borders, neutral light warm-grey seamless background in all cells. Order: top-left full OUTER side profile toe pointing right; top-center full INNER side profile; top-right FRONT straight-on; bottom-left REAR straight-on; bottom-center TOP-DOWN toe toward bottom; bottom-right complete BOTTOM outsole toe toward top. Each shoe fully contained with adequate whitespace, consistent scale, soft catalog lighting, sharp product-concept realism. THIS IS NOT A NEW SHOE DESIGN. Lock from input1: Black low-top court/skate sneaker, black textured textile with black leather-like TWO curved side panels meeting at narrow center dark-red bar-tack, tiny warm ochre seam on heel-side boundary, tiny black gate heel-side, smooth ivory flat cupsole with thin black outsole. Cream flat laces, no metal eyelets. Do NOT introduce large bright side logo. Preserve all stitching, proportions, sole height, toe shape, color and materials across the six angles. Add only restrained brand extensions in previously unseen areas: a small exact MOVERNO wordmark on tongue tag (tonal ivory letters, NOT giant text), a small two-part gate on heel center, and MOVERNO molded into a recessed midfoot island of outsole. Gate must remain two SEPARATE upright curved blades with straight outside vertical edges and narrow OPEN center; never an X, butterfly or generic M. Outsole is a conceptual continuation using ONLY original visible lug geometry/color; black flat bottom with discreet tonal lettering. No performance claims, tech diagrams, arrows, labels, additional emblems/pattern on side, new hardware, brand substitution. If a detail is naturally hidden from a view, do not force it visible. Maximum rendering fidelity.",
+    "generatedSource": "C:/Users/lenovo/.codex/generated_images/01a05c31-abd0-79f1-98f3-31e8f97ddab9/exec-5c0ff0e3-35ce-4d88-b44c-c1af3a05c112.png",
+    "destination": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round2/views/04-quiet-panel-six-views.png",
+    "status": "selected"
+  }
+]

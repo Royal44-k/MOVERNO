@@ -1,0 +1,514 @@
+[
+  {
+    "name": "footwear-ad-films-round1-part01.zip",
+    "group": "footwear-ad-films-round1",
+    "files": 140,
+    "bytes": 153346139,
+    "sha256": "8e543855ec408d6f9e7e3448fa3bed7c5b9a0236a63449dcada49977130c2148",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-ad-films-round1-part01.zip"
+  },
+  {
+    "name": "footwear-ad-films-round1-part02.zip",
+    "group": "footwear-ad-films-round1",
+    "files": 14,
+    "bytes": 182400463,
+    "sha256": "ab9cab779435ddc5dcb2cc6cae87788328ec3f61e4852af967e60c4356a7a350",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-ad-films-round1-part02.zip"
+  },
+  {
+    "name": "footwear-direct-eight-round4.zip",
+    "group": "footwear-direct-eight-round4",
+    "files": 54,
+    "bytes": 85368055,
+    "sha256": "c93a2353726a89dd0ba9e1946158becd3f5052cfaa110aaa58b1869dfae4faf3",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-direct-eight-round4.zip"
+  },
+  {
+    "name": "footwear-feminine-unisex-round1-part01.zip",
+    "group": "footwear-feminine-unisex-round1",
+    "files": 21,
+    "bytes": 186280607,
+    "sha256": "e35c68dab3c045a2fcd4bcfa740b768a45107c76ef1c36c80aacf6c7c1a0a689",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-feminine-unisex-round1-part01.zip"
+  },
+  {
+    "name": "footwear-feminine-unisex-round1-part02.zip",
+    "group": "footwear-feminine-unisex-round1",
+    "files": 91,
+    "bytes": 160917025,
+    "sha256": "8a1d7332865aed151d6b22d2d1119197186f8a9c0c67bfc5f98a2c2da424a3da",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-feminine-unisex-round1-part02.zip"
+  },
+  {
+    "name": "footwear-feminine-unisex-round1-part03.zip",
+    "group": "footwear-feminine-unisex-round1",
+    "files": 66,
+    "bytes": 138269460,
+    "sha256": "025a9eb0a1390b43ed2623f883edef14f56f8e3e10f980506697fdd1386c6175",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-feminine-unisex-round1-part03.zip"
+  },
+  {
+    "name": "footwear-feminine-unisex-round1-part04.zip",
+    "group": "footwear-feminine-unisex-round1",
+    "files": 40,
+    "bytes": 79688730,
+    "sha256": "2c06c074aad2cee2340c090350ef62a523112b12a67c7ce6c2f710d452a8a391",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-feminine-unisex-round1-part04.zip"
+  },
+  {
+    "name": "footwear-new-six-round1.zip",
+    "group": "footwear-new-six-round1",
+    "files": 38,
+    "bytes": 62247734,
+    "sha256": "f9cd536f88a49e99b3cec8676b677d8301d2d96e9188b2fb1278dcb5df5fb8ca",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-new-six-round1.zip"
+  },
+  {
+    "name": "footwear-reference-expansion-round3.zip",
+    "group": "footwear-reference-expansion-round3",
+    "files": 46,
+    "bytes": 108947990,
+    "sha256": "4c7315168d93744cbee516ccf81616dd8743b1d8536b4ea6b8f91acfb0cb14aa",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-reference-expansion-round3.zip"
+  },
+  {
+    "name": "footwear-reference-reset-round2.zip",
+    "group": "footwear-reference-reset-round2",
+    "files": 51,
+    "bytes": 65936717,
+    "sha256": "4587cdcf9c6860ce16fa6e1e83310eb5c2d1cd03b35c4562c4c1fe32d4b41357",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/footwear-reference-reset-round2.zip"
+  },
+  {
+    "name": "historical-delivery-zips-part01.zip",
+    "group": "historical-delivery-zips",
+    "files": 1,
+    "bytes": 85120303,
+    "sha256": "0992b23be66909f9302372b8dbc8d9d9d913393d4359f2a9bc7f0c0149f8891a",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/historical-delivery-zips-part01.zip"
+  },
+  {
+    "name": "historical-delivery-zips-part02.zip",
+    "group": "historical-delivery-zips",
+    "files": 2,
+    "bytes": 170048400,
+    "sha256": "9530594052ff47e42ef83c386828aeb14f13519bd4efdc39ecb01b6be62bf06a",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/historical-delivery-zips-part02.zip"
+  },
+  {
+    "name": "historical-delivery-zips-part03.zip",
+    "group": "historical-delivery-zips",
+    "files": 1,
+    "bytes": 63066443,
+    "sha256": "fa3bce9dcc8f4d330c53e43bb876bd83b0e81775cc00e478b41637241096c131",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/historical-delivery-zips-part03.zip"
+  },
+  {
+    "name": "historical-delivery-zips-part04.zip",
+    "group": "historical-delivery-zips",
+    "files": 1,
+    "bytes": 161817740,
+    "sha256": "d3272703709f60389177060386f70e7175456cf72bcdacfc1b57a0ccdee2bd79",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/historical-delivery-zips-part04.zip"
+  },
+  {
+    "name": "historical-delivery-zips-part05.zip",
+    "group": "historical-delivery-zips",
+    "files": 1,
+    "bytes": 143804549,
+    "sha256": "6d38439b1d7c9afdf7b9738a6c696b166be35447fa6e159cf536124437646303",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/historical-delivery-zips-part05.zip"
+  },
+  {
+    "name": "historical-delivery-zips-part06.zip",
+    "group": "historical-delivery-zips",
+    "files": 1,
+    "bytes": 143907230,
+    "sha256": "c0cf244a23e421d7b3bf06f93207957e76ce33403f57872cfb6e3541023e14ed",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/historical-delivery-zips-part06.zip"
+  },
+  {
+    "name": "historical-delivery-zips-part07.zip",
+    "group": "historical-delivery-zips",
+    "files": 2,
+    "bytes": 168145866,
+    "sha256": "9338db41b9d7802630a0ba618c4fdc4fbcabed3eee28ec9c0c8774ee2ea8712b",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/historical-delivery-zips-part07.zip"
+  },
+  {
+    "name": "logo-concepts.zip",
+    "group": "logo-concepts",
+    "files": 3,
+    "bytes": 2307146,
+    "sha256": "a9badf4ba179f294b0a4e2e07e7a84d0fdcf00ec5d4c923e5ef1616cda64bcec",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/logo-concepts.zip"
+  },
+  {
+    "name": "logo-direction-01.zip",
+    "group": "logo-direction-01",
+    "files": 52,
+    "bytes": 915953,
+    "sha256": "19d2a06ab7920d91e8e73b52759b15340fd62329142ef39ba61c447a99ff5fbf",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/logo-direction-01.zip"
+  },
+  {
+    "name": "motion-contour-round1.zip",
+    "group": "motion-contour-round1",
+    "files": 5,
+    "bytes": 6886039,
+    "sha256": "7b189512741edfb2eb03166be44e4036e6fc14d32bd47c14b15ad4effab67aa0",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/motion-contour-round1.zip"
+  },
+  {
+    "name": "motion-contour-v2-vector.zip",
+    "group": "motion-contour-v2-vector",
+    "files": 14,
+    "bytes": 608790,
+    "sha256": "c5261cac2acdbf06c55dde43e668104c5de6ffd71c68c96648124e6e06f532c7",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/motion-contour-v2-vector.zip"
+  },
+  {
+    "name": "project-documents-and-tools.zip",
+    "group": "project-documents-and-tools",
+    "files": 117,
+    "bytes": 13262928,
+    "sha256": "bdf3e52b47cb60e935e7834c269a10737b65b88e481005517ed3965abebd53b7",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/project-documents-and-tools.zip"
+  },
+  {
+    "name": "recovered-generated-images.zip",
+    "group": "recovered-generated-images",
+    "files": 39,
+    "bytes": 73433448,
+    "sha256": "93fc0f2d8656316cdd8514a83af0b975bb9f10d41194ad1bcbc1241b01694c22",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/recovered-generated-images.zip"
+  },
+  {
+    "name": "recovered-user-attachments.zip",
+    "group": "recovered-user-attachments",
+    "files": 12,
+    "bytes": 12848150,
+    "sha256": "e030697655d3270849097d91323dbe256f6d4e0a4949ce01488d26b0daad0120",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/recovered-user-attachments.zip"
+  },
+  {
+    "name": "references.zip",
+    "group": "references",
+    "files": 5,
+    "bytes": 496718,
+    "sha256": "482f379c23603ef20fe9347f54375d4c47bcfd185a0a942b52e85c7a3177ef67",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/references.zip"
+  },
+  {
+    "name": "ss27-footwear-concepts-round1.zip",
+    "group": "ss27-footwear-concepts-round1",
+    "files": 5,
+    "bytes": 6283602,
+    "sha256": "0e666ccdb50e19f3b3c34bb7c14da254d315097df555ab37b63cf710a2c0fe16",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-concepts-round1.zip"
+  },
+  {
+    "name": "ss27-footwear-concepts-round3.zip",
+    "group": "ss27-footwear-concepts-round3",
+    "files": 14,
+    "bytes": 24129508,
+    "sha256": "daffa9cd4a41302ccfefdb0580302aff558aec9086a881f43e3ee95aefd06dec",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-concepts-round3.zip"
+  },
+  {
+    "name": "ss27-footwear-concepts-round4-reference-faithful.zip",
+    "group": "ss27-footwear-concepts-round4-reference-faithful",
+    "files": 13,
+    "bytes": 18260676,
+    "sha256": "4bb6785e75018131a19c8f70197a9085a74af2a0cb0adc5704f71035e758267a",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-concepts-round4-reference-faithful.zip"
+  },
+  {
+    "name": "ss27-footwear-deepened-round1.zip",
+    "group": "ss27-footwear-deepened-round1",
+    "files": 8,
+    "bytes": 12689854,
+    "sha256": "cf3ca9949b7f65323982fee19139737fe416ccff44958fd535ab0719a964f4df",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-deepened-round1.zip"
+  },
+  {
+    "name": "ss27-footwear-family-expansion-round1.zip",
+    "group": "ss27-footwear-family-expansion-round1",
+    "files": 8,
+    "bytes": 12134730,
+    "sha256": "d5d0f09c3f6a3155f854ad983e6f5308bf8a8f8faff2616f1f57e722d35e7b35",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-family-expansion-round1.zip"
+  },
+  {
+    "name": "ss27-footwear-identity-board.zip",
+    "group": "ss27-footwear-identity-board",
+    "files": 11,
+    "bytes": 2617044,
+    "sha256": "94c48ebed75b24e409e6bd8e3ace769f730701c7eef4cc700d661e677d2a1223",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-identity-board.zip"
+  },
+  {
+    "name": "ss27-footwear-logo-application-round1.zip",
+    "group": "ss27-footwear-logo-application-round1",
+    "files": 2,
+    "bytes": 1593055,
+    "sha256": "1dbd811b67cb401f877a398c968e5d441546a1fead7fff79d2559ca6abbfd334",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-logo-application-round1.zip"
+  },
+  {
+    "name": "ss27-footwear-product-details-round1.zip",
+    "group": "ss27-footwear-product-details-round1",
+    "files": 55,
+    "bytes": 117292688,
+    "sha256": "863433db201a7fe0246b8e9961a14739b5efc59ba36240c2aab2bb275a6d7c96",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-product-details-round1.zip"
+  },
+  {
+    "name": "ss27-footwear-product-details-round2-part01.zip",
+    "group": "ss27-footwear-product-details-round2",
+    "files": 70,
+    "bytes": 149841228,
+    "sha256": "b3bb263ee81b5bfa6722b8e1143df0d84dcb0e35a5316b99587da195dfc755b0",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-product-details-round2-part01.zip"
+  },
+  {
+    "name": "ss27-footwear-product-details-round2-part02.zip",
+    "group": "ss27-footwear-product-details-round2",
+    "files": 48,
+    "bytes": 156404073,
+    "sha256": "d1b40725ee45b3fc4285102585456b1e1102e321bf6d8f6b984cb3a17b4fbc99",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-product-details-round2-part02.zip"
+  },
+  {
+    "name": "ss27-footwear-product-details-round2-part03.zip",
+    "group": "ss27-footwear-product-details-round2",
+    "files": 80,
+    "bytes": 134813823,
+    "sha256": "aec92b601ea1cf9169e45c4b0ac741c6a7de95ac2cb591b45a22a7b69e7d1b92",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-product-details-round2-part03.zip"
+  },
+  {
+    "name": "ss27-footwear-reference-round4.zip",
+    "group": "ss27-footwear-reference-round4",
+    "files": 11,
+    "bytes": 1212639,
+    "sha256": "ede438e2fca8e7c136d7a89198cb648bd371c57af803840a987e445334557a4e",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-reference-round4.zip"
+  },
+  {
+    "name": "ss27-footwear-reference-series-round6.zip",
+    "group": "ss27-footwear-reference-series-round6",
+    "files": 23,
+    "bytes": 19887263,
+    "sha256": "ac52579231dad8bc2edd17d74db33060dd14af7a573cc3c550b2611256940c5a",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-reference-series-round6.zip"
+  },
+  {
+    "name": "ss27-footwear-shortlist-round3.zip",
+    "group": "ss27-footwear-shortlist-round3",
+    "files": 7,
+    "bytes": 12700837,
+    "sha256": "ed66172f88f14554d5aec4714493f8c6a14114e0e402207383c4184af7da5247",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-shortlist-round3.zip"
+  },
+  {
+    "name": "ss27-footwear-side-pattern-round1.zip",
+    "group": "ss27-footwear-side-pattern-round1",
+    "files": 8,
+    "bytes": 9220724,
+    "sha256": "f2e2633b718e3e1c3c2d266faa964e084e2e53f88b83e7825a42a6876d4c0841",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-footwear-side-pattern-round1.zip"
+  },
+  {
+    "name": "ss27-frame-v3-chapters-round4.zip",
+    "group": "ss27-frame-v3-chapters-round4",
+    "files": 6,
+    "bytes": 10693523,
+    "sha256": "2cd4a07bdb4a6d332803026252d788b84fa0160217bbf1ed74d2d4ece66caa96",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-frame-v3-chapters-round4.zip"
+  },
+  {
+    "name": "ss27-other-blocks-round5.zip",
+    "group": "ss27-other-blocks-round5",
+    "files": 26,
+    "bytes": 50675262,
+    "sha256": "8fb5ce5b7d7524b12ef7ffa8aac19c057034f4b99c89dd13e591013fc81f661f",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-other-blocks-round5.zip"
+  },
+  {
+    "name": "ss27-pants-branded-concepts-round1.zip",
+    "group": "ss27-pants-branded-concepts-round1",
+    "files": 11,
+    "bytes": 17966968,
+    "sha256": "ebb4cc221349ba043020ff97c5b034b27355792285158e63eb1f2c125cd08f47",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-branded-concepts-round1.zip"
+  },
+  {
+    "name": "ss27-pants-concepts-round1.zip",
+    "group": "ss27-pants-concepts-round1",
+    "files": 6,
+    "bytes": 8284393,
+    "sha256": "39abe71eabf1a6a9764f20a05dfc3425a052aa194c5454be478001eec41cea3d",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-concepts-round1.zip"
+  },
+  {
+    "name": "ss27-pants-concepts-round2.zip",
+    "group": "ss27-pants-concepts-round2",
+    "files": 6,
+    "bytes": 9482082,
+    "sha256": "826439e933e5b43d5ba621c5fa4cd4b178f246b038bea8365c68c6c5f2019dd5",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-concepts-round2.zip"
+  },
+  {
+    "name": "ss27-pants-mv-mark-round1.zip",
+    "group": "ss27-pants-mv-mark-round1",
+    "files": 2,
+    "bytes": 1213555,
+    "sha256": "8509e89d6e679566a8864f32378949698533fa5ae0c2505f7f75b8d285f70ec4",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-mv-mark-round1.zip"
+  },
+  {
+    "name": "ss27-pants-mv-mark-round2.zip",
+    "group": "ss27-pants-mv-mark-round2",
+    "files": 2,
+    "bytes": 2466221,
+    "sha256": "c1b6d61323890ec833607a305d7682bae3faa6075d796a5385d2050b42be2e81",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-mv-mark-round2.zip"
+  },
+  {
+    "name": "ss27-pants-mv-relay-selected.zip",
+    "group": "ss27-pants-mv-relay-selected",
+    "files": 15,
+    "bytes": 183032,
+    "sha256": "6e8b9b49e9f1b852012ffe527577c2788f333b1a5ad818f70eb83c038c05a95a",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-mv-relay-selected.zip"
+  },
+  {
+    "name": "ss27-pants-product-details-full-series-part01.zip",
+    "group": "ss27-pants-product-details-full-series",
+    "files": 1,
+    "bytes": 190859729,
+    "sha256": "555804f191f44fb7047866b75c45f61fc8afcf8224bf1d0ad4cfcc65afe65c75",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-product-details-full-series-part01.zip"
+  },
+  {
+    "name": "ss27-pants-product-details-full-series-part02.zip",
+    "group": "ss27-pants-product-details-full-series",
+    "files": 20,
+    "bytes": 143302569,
+    "sha256": "21b998327acd49d1c1ee3d9034c978ec50300a973b07c296563d77ee2607bf63",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-product-details-full-series-part02.zip"
+  },
+  {
+    "name": "ss27-pants-product-details-full-series-part03.zip",
+    "group": "ss27-pants-product-details-full-series",
+    "files": 56,
+    "bytes": 164649091,
+    "sha256": "b388f0f66f852ac72a38b49624b4d886741d86aee027d762bbfacceb6986fe4e",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-product-details-full-series-part03.zip"
+  },
+  {
+    "name": "ss27-pants-product-details-full-series-part04.zip",
+    "group": "ss27-pants-product-details-full-series",
+    "files": 81,
+    "bytes": 183340487,
+    "sha256": "46571fce5598b0fda4144d1384a41f9396eebeb69144f211e5cfbf73ecfa24dc",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-product-details-full-series-part04.zip"
+  },
+  {
+    "name": "ss27-pants-product-details-full-series-part05.zip",
+    "group": "ss27-pants-product-details-full-series",
+    "files": 126,
+    "bytes": 110174103,
+    "sha256": "38eb51737996a9250a1df4636f9fa389d4a2864236d475726ea018df2f8f94ec",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-product-details-full-series-part05.zip"
+  },
+  {
+    "name": "ss27-pants-product-details-pilot.zip",
+    "group": "ss27-pants-product-details-pilot",
+    "files": 43,
+    "bytes": 52580082,
+    "sha256": "46f55740e36ccf1e8a54ccc665c1621f4c0d21d11fc13028464c213992aded9e",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-product-details-pilot.zip"
+  },
+  {
+    "name": "ss27-pants-side-motif-round2.zip",
+    "group": "ss27-pants-side-motif-round2",
+    "files": 10,
+    "bytes": 17076445,
+    "sha256": "09b943e0034a91353aabe97372a827551d3735125fba45c9db67275443438e17",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-side-motif-round2.zip"
+  },
+  {
+    "name": "ss27-pants-single-relay-round3.zip",
+    "group": "ss27-pants-single-relay-round3",
+    "files": 19,
+    "bytes": 39029942,
+    "sha256": "f8300c600732ffed845a4a646e805ad1537fe460fd3527a8ecc46f84ed92b576",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-pants-single-relay-round3.zip"
+  },
+  {
+    "name": "ss27-shirt-base-blocks.zip",
+    "group": "ss27-shirt-base-blocks",
+    "files": 1,
+    "bytes": 1591102,
+    "sha256": "10aa9f4f1e76d1a141840c4f0687734ca8ea3276648bb9040f4e5aa46b77913d",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-shirt-base-blocks.zip"
+  },
+  {
+    "name": "ss27-tee-base-blocks.zip",
+    "group": "ss27-tee-base-blocks",
+    "files": 6,
+    "bytes": 8595777,
+    "sha256": "feafc1c1f0c58d00c62cc5fd6d5dfa0b5dc39b4e6dd0d286e0ceb641bc219633",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-tee-base-blocks.zip"
+  },
+  {
+    "name": "ss27-tee-color-system-round2.zip",
+    "group": "ss27-tee-color-system-round2",
+    "files": 6,
+    "bytes": 10837604,
+    "sha256": "6ef451146cde0d51c753f35099ebf09c5cdcd2e712e8b7fba8443c01bc00b2ca",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-tee-color-system-round2.zip"
+  },
+  {
+    "name": "ss27-tee-reset-round6.zip",
+    "group": "ss27-tee-reset-round6",
+    "files": 2,
+    "bytes": 1706651,
+    "sha256": "3a1d723370294fa797a46e8d8aa05b67ecf753df6de45ebdaa2b4b53bd2e287b",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-tee-reset-round6.zip"
+  },
+  {
+    "name": "ss27-tee-reset-round7.zip",
+    "group": "ss27-tee-reset-round7",
+    "files": 15,
+    "bytes": 24894582,
+    "sha256": "4c1553b01de2ad5e838a9253cca3c3bb473fb2662cd982b517a912f164e06ab6",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-tee-reset-round7.zip"
+  },
+  {
+    "name": "ss27-tee-style-branches-round3.zip",
+    "group": "ss27-tee-style-branches-round3",
+    "files": 6,
+    "bytes": 10369483,
+    "sha256": "e76d3117d27ed4c001142db4d6a0d21eccfd22d584ea73aae4cbe556a8cd125b",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-tee-style-branches-round3.zip"
+  },
+  {
+    "name": "ss27-tee-v2-placement-round1.zip",
+    "group": "ss27-tee-v2-placement-round1",
+    "files": 10,
+    "bytes": 6354978,
+    "sha256": "98223c3883840d12f82c891cfae111d6114ee7b7005709d50ec6c310e822fe20",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/ss27-tee-v2-placement-round1.zip"
+  },
+  {
+    "name": "visual-directions.zip",
+    "group": "visual-directions",
+    "files": 4,
+    "bytes": 6090040,
+    "sha256": "165782af866a75835631bc162de9308a2d56e3a8f399a8edae842fa0706fb199",
+    "url": "https://github.com/Royal44-k/MOVERNO/releases/download/brand-archive-2026-09-14/visual-directions.zip"
+  }
+]

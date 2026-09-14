@@ -1,0 +1,89 @@
+[
+  {
+    "id": "F01",
+    "name": "斜口玛丽珍",
+    "english": "OBLIQUE MARY JANE",
+    "batch": 1,
+    "direction": "女性向",
+    "color": "哑黑 / 烟银",
+    "materials": "哑光皮面 · 烟银五金 · 黑色薄橡胶底",
+    "statement": "偏心鞋口与一条斜带，重新分配脚背留白。",
+    "detailTitle": "斜带端点 / 局部盲压",
+    "detailBody": "标准双片徽记收在带端；侧腰仅保留一小段同色纹样。",
+    "refs": [
+      "puma-speedcat-ballet.jpg"
+    ],
+    "prompt": "Use case: product-mockup. Create ONE photorealistic premium MOVERNO footwear concept master product photograph, not a poster, not a collage. This is a new original youth-fashion shoe, not an edit or rebranding of the reference product. Background seamless very light neutral grey (#f4f3f0), soft grounded contact shadow, sophisticated large softbox with a fine directional highlight revealing texture, accurate proportions, restrained contemporary Japanese/Korean fashion e-commerce art direction. Single shoe, fully visible, three-quarter front/outside view, toe pointing toward lower-left and heel toward upper-right, camera mildly above shoe so instep opening and lateral surface are clear. Horizontal 3:2 composition, product occupying about 80% of width, no props, feet, people, scenery or decorative typography. Quiet dark luxury, unmistakably youthful. Branding inputs are immutable originals: opposing two upright curved blades separated by a narrow open vertical slit; do not make a butterfly, X, literal M, three stripes, swoosh or third-party logo. 'MOVERNO' spelled exactly M O V E R N O, only on specified shoe location. No unsupported performance text, no slogans, no product labels outside shoe. Avoid chunky dad runners, medical shoes, comfort-walking styling, office pumps, heavy platforms, cage structures, large rear sole extensions and large blank side plaques. Input 1 is ONLY a low-profile sport-ballet proportion reference; do NOT reuse its side stripe, two elastic bars, toe logo or exact panels. Input 2 is the exact MOVERNO emblem; input 3 is exact wordmark; input 4 is the repeat pattern geometry ONLY, not its gold/red colors. SUBJECT F01: slender but wearable ALMOND toe, thin low slightly wedge-free continuous black rubber outsole with a distinct tiny rounded lip, matte fine-grain black leather upper. An asymmetric slanted instep opening with a subtly higher inner quarter and lower outside waist, ONE narrow diagonal leather instep strap connecting into the outer quarter, NOT two straps or an X. Strap is elegant yet athletic, about 12 mm visually, an understated hidden stud fastening and one tiny smoke-silver exact double-blade emblem at its outer attachment. Closed soft low heel, snug smooth collar without inflated padding, no laces, no heel pull loop, no toe cap panel. On a small patch at outer waist, blind-emboss just TWO small full repeat units using input4 geometry, black-on-black extremely restrained, not the whole side. The shoe must read as a refined sport Mary Jane for a young creative wardrobe, not a formal pump or granny shoe. Small MOVERNO wordmark on insole only. Show the side waist and the slant of the strap clearly.",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/references/puma-speedcat-ballet.jpg",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png"
+    ]
+  },
+  {
+    "id": "F02",
+    "name": "软方头赛车鞋",
+    "english": "SOFT-SQUARE RACER",
+    "batch": 1,
+    "direction": "中性",
+    "color": "石墨 / 深灰",
+    "materials": "细纹尼龙 · 同色麂皮 · 炭灰薄底",
+    "statement": "截角鞋头配完整前掌，线条低而向前。",
+    "detailTitle": "完整前掌 / 细麂皮包边",
+    "detailBody": "侧后方小型刺绣徽记与鞋舌字标，避开大面积图形。",
+    "refs": [
+      "miseki-seoul-26hs.jpg"
+    ],
+    "prompt": "Use case: product-mockup. Create ONE photorealistic premium MOVERNO footwear concept master product photograph, not a poster, not a collage. This is a new original youth-fashion shoe, not an edit or rebranding of the reference product. Background seamless very light neutral grey (#f4f3f0), soft grounded contact shadow, sophisticated large softbox with a fine directional highlight revealing texture, accurate proportions, restrained contemporary Japanese/Korean fashion e-commerce art direction. Single shoe, fully visible, three-quarter front/outside view, toe pointing toward lower-left and heel toward upper-right, camera mildly above shoe so instep opening and lateral surface are clear. Horizontal 3:2 composition, product occupying about 80% of width, no props, feet, people, scenery or decorative typography. Quiet dark luxury, unmistakably youthful. Branding inputs are immutable originals: opposing two upright curved blades separated by a narrow open vertical slit; do not make a butterfly, X, literal M, three stripes, swoosh or third-party logo. 'MOVERNO' spelled exactly M O V E R N O, only on specified shoe location. No unsupported performance text, no slogans, no product labels outside shoe. Avoid chunky dad runners, medical shoes, comfort-walking styling, office pumps, heavy platforms, cage structures, large rear sole extensions and large blank side plaques. Input 1 is a garment/outfit photo with blue shoes at the bottom: examine ONLY the slim squared toe silhouette and tonal nylon/suede interplay of those shoes. Do NOT depict the person, outfit, blue hue, side strips, exact lace loop construction or their logos. Input 2 exact MOVERNO emblem, input 3 exact wordmark. SUBJECT F02: unisex slim SOFT SQUARE racer sneaker with visibly chamfered front corners, a low toe box, low closed oval collar with almost no padding, whole uncluttered graphite fine-weave NYLON forefoot rather than a T-shaped toe overlay. One narrow dark-gray micro-suede perimeter rim wraps near the sole, with clean long side sweep. Continuous ultra-low charcoal outsole, gently upturned at toe only, flush narrow heel with NO pod extension. Five pairs of small recessed matching lace holes with neat thin graphite flat laces, a SHORT slim suede tongue carrying a tiny pale-gray exact 'MOVERNO' wordmark. Small tonal-gray standard double-blade EMBROIDERED emblem on outside rear quarter, about 14mm tall in proportion. This is crisp street fashion, neither skate cupsole nor bulky runner. A restrained smooth heel reinforcement, no large side rails, no straps, no elastic ballet bars. Materials should have distinctly visible fine nylon weave versus velvety micro-suede. Exact footprint: long, low and squared at the tip, not round or pointed. Product only.",
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/references/miseki-seoul-26hs.jpg",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ]
+  },
+  {
+    "id": "F03",
+    "name": "透纱运动芭蕾鞋",
+    "english": "SHEER BALLET TRAINER",
+    "batch": 1,
+    "direction": "女性向",
+    "color": "雾灰 / 墨黑",
+    "materials": "雾灰细网纱 · 黑色包边 · 微薄橡胶底",
+    "statement": "半透鞋侧与实面鞋头之间，留下一段轻盈的过渡。",
+    "detailTitle": "细网纱 / 局部品牌提花",
+    "detailBody": "纹样只进入侧腰纱面，鞋头与后跟保持实面。",
+    "refs": [
+      "arket-mesh-ballet.jpg"
+    ],
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/references/arket-mesh-ballet.jpg",
+      "D:/Codex-chat/night-veil-brand/assets/motion-contour-v2-vector/proof/moverno-motion-contour-v2-gilded-preview.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Create ONE photorealistic premium MOVERNO footwear concept master product photograph, not a poster, not a collage. This is a new original youth-fashion shoe, not an edit or rebranding of the reference product. Background seamless very light neutral grey (#f4f3f0), soft grounded contact shadow, sophisticated large softbox with a fine directional highlight revealing texture, accurate proportions, restrained contemporary Japanese/Korean fashion e-commerce art direction. Single shoe, fully visible, three-quarter front/outside view, toe pointing toward lower-left and heel toward upper-right, camera mildly above shoe so instep opening and lateral surface are clear. Horizontal 3:2 composition, product occupying about 80% of width, no props, feet, people, scenery or decorative typography. Quiet dark luxury, unmistakably youthful. Branding inputs are immutable originals: opposing two upright curved blades separated by a narrow open vertical slit; do not make a butterfly, X, literal M, three stripes, swoosh or third-party logo. 'MOVERNO' spelled exactly M O V E R N O, only on specified shoe location. No unsupported performance text, no slogans, no product labels outside shoe. Avoid chunky dad runners, medical shoes, comfort-walking styling, office pumps, heavy platforms, cage structures, large rear sole extensions and large blank side plaques. Input1 is only reference for the shallow U opening and transparency of a mesh ballet flat; DO NOT copy its chunky hexagonal fishnet, totally transparent toe, flat dress heel or pull tabs. Input2 is exact MOVERNO repeat pattern geometry only, NO gold or red. Input3 exact wordmark. SUBJECT F03: a contemporary feminine sport-ballet SLIP-ON, NO laces, NO instep strap, NO buckles. Small oblong oval toe, a deep shallow symmetrical U-shaped throat and tiny elastic edge hidden inside fine black piping. Short black matte leather toe cap covers the front 25 percent, a compact opaque black heel counter covers rear 15 percent. Remaining side quarters translucent MIST-GREY fine technical mesh with a fine woven texture, and a small horizontal region of THREE complete brand pattern cells subtly jacquarded in black-grey threads along outer waist; keep each motif connected by its slender original junction. Pattern is woven into mesh, not a cage or leather applique. Ink black lining at heel, very thin black continuous sneaker rubber sole with a delicate raised toe rim and fine microtexture at front edge, NO separate dress-shoe heel, NO big platform. Slightly squared oval footprint but not the strongly truncated racer shoe. Youthful delicate and sporty, not bridal or officewear. Tiny 'MOVERNO' on dark insole. Make the mesh translucent against background, not filled opaque leather. All visual emphasis on translucent/opaque material boundary and beautiful shallow collar curve."
+  },
+  {
+    "id": "F04",
+    "name": "后绊带运动鞋",
+    "english": "SLINGBACK LACE TRAINER",
+    "batch": 1,
+    "direction": "女性向",
+    "color": "骨白 / 可可",
+    "materials": "骨白细皮面 · 可可细底 · 同色后绊带",
+    "statement": "短前系带接上开放后跟，让运动鞋多一处留白。",
+    "detailTitle": "后绊带连接 / 标准徽记",
+    "detailBody": "后带连接鞋身两侧，完整徽记落在后带正中。",
+    "refs": [
+      "puma-speedcat-ballet.jpg",
+      "nike-air-rift-open-heel.png"
+    ],
+    "inputPaths": [
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/references/puma-speedcat-ballet.jpg",
+      "D:/Codex-chat/night-veil-brand/assets/footwear-feminine-unisex-round1/references/nike-air-rift-open-heel.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-standalone-emblem-proof.png",
+      "D:/Codex-chat/night-veil-brand/assets/logo-direction-01/proof/moverno-primary-wordmark-proof.png"
+    ],
+    "prompt": "Use case: product-mockup. Create ONE photorealistic premium MOVERNO footwear concept master product photograph, not a poster, not a collage. This is a new original youth-fashion shoe, not an edit or rebranding of the reference product. Background seamless very light neutral grey (#f4f3f0), soft grounded contact shadow, sophisticated large softbox with a fine directional highlight revealing texture, accurate proportions, restrained contemporary Japanese/Korean fashion e-commerce art direction. Single shoe, fully visible, three-quarter front/outside view, toe pointing toward lower-left and heel toward upper-right, camera mildly above shoe so instep opening and lateral surface are clear. Horizontal 3:2 composition, product occupying about 80% of width, no props, feet, people, scenery or decorative typography. Quiet dark luxury, unmistakably youthful. Branding inputs are immutable originals: opposing two upright curved blades separated by a narrow open vertical slit; do not make a butterfly, X, literal M, three stripes, swoosh or third-party logo. 'MOVERNO' spelled exactly M O V E R N O, only on specified shoe location. No unsupported performance text, no slogans, no product labels outside shoe. Avoid chunky dad runners, medical shoes, comfort-walking styling, office pumps, heavy platforms, cage structures, large rear sole extensions and large blank side plaques. Input1 ONLY low grounded sports-ballet proportion, no side stripes/cat/elastic bars. Input2 is ONLY a small structural reference for an open heel connected with a rear retaining strap: do NOT copy split toe, leopard print, wide velcro, swoosh or its sole. Input3 exact MOVERNO emblem; input4 wordmark. SUBJECT F04: an original feminine low-profile SLINGBACK LACE-UP SNEAKER, BONE WHITE fine matte leather with thin muted cocoa-brown outsole. Closed smooth compact ROUND-OVOID toe, visually rounder and shorter than an almond pump; NO split toes. Four pairs of discreet small white eyelets and neat short bone-white flat laces sit only on front instep with a small padded-short tongue. Rear heel UPPER IS COMPLETELY OPEN, no closed heel counter, and a slim bone-white curved strap connects both side quarters behind the heel. A SMALL HIDDEN ELASTIC section on the inner attachment, not big buckle. Strap about 16mm wide visually and sits below ankle. A tiny exact paired-blade emblem in tonal dark cocoa is applied at CENTER BACK of this strap; still visible obliquely from hero angle. Footbed continues naturally beneath open heel, with no raised clog wall or separate dress-shoe heel. Side quarters have a subtle original long crease-like seam ending before open heel, NOT parallel brand stripes. Outsole remains narrow, thin, continuous, almost flat with slight forefoot flex curve, no oversize flared toe, no tail. Small exact 'MOVERNO' on the visible bone insole. Bone-white and cocoa only, no metallic trim. Young fashion sneaker credibility is essential: not a formal slingback pump and not a medical sandal. Keep rear retaining strap and its TWO attachment points anatomically plausible. Show product entirely."
+  }
+]

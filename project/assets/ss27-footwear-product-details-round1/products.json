@@ -1,0 +1,608 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "date": "2026-09-07",
+  "mission": "让黑夜不必黯然，让差异不必喧哗。",
+  "belief": "Different But Excellent.",
+  "products": [
+    {
+      "id": "01",
+      "slug": "veil-archive-hi",
+      "name": "幕隙经典高帮",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/01-veil-archive-hi.png",
+      "headline": [
+        "黑夜里",
+        "自有轮廓。"
+      ],
+      "kicker": "QUIETLY RECOGNISABLE.",
+      "intro": [
+        "门徽落在踝侧，暗纹藏进后帮。",
+        "用清晰的黑白比例，留下安静却鲜明的辨识。"
+      ],
+      "features": [
+        "踝侧门徽",
+        "后帮暗纹",
+        "骨灰包边"
+      ],
+      "details": [
+        {
+          "title": "门徽留隙",
+          "body": "两片相向的弧面，中间留一道光。",
+          "roi": [
+            280,
+            355,
+            265,
+            320
+          ]
+        },
+        {
+          "title": "近看，才看见",
+          "body": "暗纹沿后帮向上延伸，与帆布肌理相融。",
+          "roi": [
+            143,
+            265,
+            275,
+            350
+          ]
+        }
+      ],
+      "styling": [
+        "宽松直筒牛仔＋短袖",
+        "露出完整鞋帮，让踝侧门徽成为造型落点。"
+      ],
+      "colorNames": [
+        "黑曜",
+        "骨灰",
+        "石墨"
+      ],
+      "colors": [
+        "#101112",
+        "#d9d4c8",
+        "#343437"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/01-veil-archive-hi-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/01-veil-archive-hi-detail.png"
+    },
+    {
+      "id": "02",
+      "slug": "offset-jacquard-hi",
+      "name": "偏幕提花高帮",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/02-offset-jacquard-hi.png",
+      "headline": [
+        "把暗纹",
+        "穿成轮廓。"
+      ],
+      "kicker": "PATTERN IN THE SHADOW.",
+      "intro": [
+        "纹样顺着鞋面拼接展开，",
+        "让大面积黑色拥有值得靠近的层次。"
+      ],
+      "features": [
+        "斜向拼接",
+        "连续暗纹",
+        "底墙留缝"
+      ],
+      "details": [
+        {
+          "title": "纹样有走向",
+          "body": "纵向长单元沿斜向鞋面自然裁切。",
+          "roi": [
+            438,
+            390,
+            440,
+            335
+          ]
+        },
+        {
+          "title": "上下呼应",
+          "body": "底墙窄隙回应鞋身图案中的负空间。",
+          "roi": [
+            555,
+            627,
+            360,
+            285
+          ]
+        }
+      ],
+      "styling": [
+        "阔腿工装裤＋短夹克",
+        "挽起一段裤脚，露出纹样与鞋底的衔接。"
+      ],
+      "colorNames": [
+        "石墨黑",
+        "骨灰",
+        "烟灰"
+      ],
+      "colors": [
+        "#242528",
+        "#d9d4c8",
+        "#666767"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/02-offset-jacquard-hi-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/02-offset-jacquard-hi-detail.png"
+    },
+    {
+      "id": "03",
+      "slug": "macro-veil-black-pattern",
+      "name": "黑白巨幅幕片 · 交织版",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-side-pattern-round1/02-black-pattern-interlace-r1.png",
+      "headline": [
+        "图案有序，",
+        "个性出界。"
+      ],
+      "kicker": "BOLD FORM. QUIET DETAIL.",
+      "intro": [
+        "骨灰色幕片覆盖连续黑金暗纹，",
+        "宽鞋带与低鞋身共同形成鲜明的街头比例。"
+      ],
+      "features": [
+        "幕片叠层",
+        "连续嵌纹",
+        "宽幅鞋带"
+      ],
+      "details": [
+        {
+          "title": "图案在里面生长",
+          "body": "纹样从浅色拼片的空隙显露，保留前后层次。",
+          "roi": [
+            276,
+            370,
+            440,
+            335
+          ]
+        },
+        {
+          "title": "细线，连接差异",
+          "body": "旧金描边与暗红节点串起黑色底层。",
+          "roi": [
+            735,
+            400,
+            350,
+            320
+          ]
+        }
+      ],
+      "styling": [
+        "水洗宽腿牛仔＋短款上衣",
+        "让裤脚自然落在低帮鞋身上，突出宽鞋带。"
+      ],
+      "colorNames": [
+        "黑曜",
+        "骨灰",
+        "旧金"
+      ],
+      "colors": [
+        "#111112",
+        "#d9d4c8",
+        "#857550"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/03-macro-veil-black-pattern-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/03-macro-veil-black-pattern-detail.png"
+    },
+    {
+      "id": "04",
+      "slug": "liquid-gate-runner",
+      "name": "流银门轨",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/04-liquid-gate-runner.png",
+      "headline": [
+        "让光",
+        "沿着结构走。"
+      ],
+      "kicker": "LIGHT FOLLOWS FORM.",
+      "intro": [
+        "银色叠层沿鞋面流动，",
+        "门徽与微型金属节点，在不同角度显出光泽。"
+      ],
+      "features": [
+        "流动银层",
+        "留隙门徽",
+        "金属节点"
+      ],
+      "details": [
+        {
+          "title": "一眼识别的银色",
+          "body": "门徽嵌于网布与支撑线之间，保持独立轮廓。",
+          "roi": [
+            670,
+            398,
+            305,
+            320
+          ]
+        },
+        {
+          "title": "点到为止的光",
+          "body": "三处小型金属节点，为鞋眼区域增加节奏。",
+          "roi": [
+            802,
+            277,
+            340,
+            270
+          ]
+        }
+      ],
+      "styling": [
+        "灰色阔腿裤＋黑色上衣",
+        "用大面积深色服装承接银色鞋面的光泽。"
+      ],
+      "colorNames": [
+        "氧化银",
+        "骨白",
+        "浅灰"
+      ],
+      "colors": [
+        "#a7aaab",
+        "#e7e4db",
+        "#757b7e"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/04-liquid-gate-runner-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/04-liquid-gate-runner-detail.png"
+    },
+    {
+      "id": "05",
+      "slug": "reverse-veil-bone-pattern",
+      "name": "骨灰反相幕片 · 嵌纹版",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-side-pattern-round1/01-bone-pattern-inlay-r1.png",
+      "headline": [
+        "留白之间，",
+        "暗纹有声。"
+      ],
+      "kicker": "SPACE MAKES THE STATEMENT.",
+      "intro": [
+        "黑金纹样收进两块侧身拼片，",
+        "骨灰留缝清晰，黑白关系带出克制的张力。"
+      ],
+      "features": [
+        "黑金嵌片",
+        "骨灰留缝",
+        "门徽鞋舌"
+      ],
+      "details": [
+        {
+          "title": "纹样落在结构里",
+          "body": "连续单元被拼片边界裁切，形成完整的嵌纹关系。",
+          "roi": [
+            337,
+            432,
+            300,
+            310
+          ]
+        },
+        {
+          "title": "身份，不必重复",
+          "body": "鞋舌门徽与侧身纹样各司其职。",
+          "roi": [
+            458,
+            222,
+            380,
+            280
+          ]
+        }
+      ],
+      "styling": [
+        "黑色直筒裤＋骨灰色上衣",
+        "呼应鞋身留白，让暗纹成为近看的细节。"
+      ],
+      "colorNames": [
+        "骨灰",
+        "黑曜",
+        "旧金"
+      ],
+      "colors": [
+        "#d9d4c8",
+        "#111112",
+        "#857550"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/05-reverse-veil-bone-pattern-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/05-reverse-veil-bone-pattern-detail.png"
+    },
+    {
+      "id": "06",
+      "slug": "frayed-veil-skate",
+      "name": "毛边暗纹",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/06-frayed-veil-skate.png",
+      "headline": [
+        "把秩序",
+        "织进不规则。"
+      ],
+      "kicker": "ORDER, WITH A ROUGH EDGE.",
+      "intro": [
+        "连续纹样穿过短毛边与织物起伏，",
+        "浅色门徽落在肌理之上，让细节拥有触感。"
+      ],
+      "features": [
+        "毛边肌理",
+        "黑白织纹",
+        "浅色门徽"
+      ],
+      "details": [
+        {
+          "title": "有纹理的辨识",
+          "body": "浅色门徽与黑白织纹形成清楚的前后关系。",
+          "roi": [
+            554,
+            377,
+            285,
+            325
+          ]
+        },
+        {
+          "title": "不规则，也有秩序",
+          "body": "长单元的连续排列，藏在织物表面的起伏里。",
+          "roi": [
+            268,
+            338,
+            330,
+            340
+          ]
+        }
+      ],
+      "styling": [
+        "做旧牛仔＋素色短袖",
+        "让服装保持简洁，把织物肌理留给鞋履。"
+      ],
+      "colorNames": [
+        "炭黑",
+        "象牙",
+        "烟灰"
+      ],
+      "colors": [
+        "#171817",
+        "#e6dfce",
+        "#777773"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/06-frayed-veil-skate-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/06-frayed-veil-skate-detail.png"
+    },
+    {
+      "id": "07",
+      "slug": "silver-gate-low",
+      "name": "黑皮银徽",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/07-silver-gate-low.png",
+      "headline": [
+        "一抹银，",
+        "刚好被看见。"
+      ],
+      "kicker": "LESS NOISE. MORE PRESENCE.",
+      "intro": [
+        "平整黑色鞋面衬出银色门徽，",
+        "后跟暗压纹，让简洁的低帮多一层发现。"
+      ],
+      "features": [
+        "银色门徽",
+        "后跟暗纹",
+        "修长低帮"
+      ],
+      "details": [
+        {
+          "title": "光落在标识上",
+          "body": "银色表面与黑色皮纹，形成明暗对照。",
+          "roi": [
+            562,
+            368,
+            250,
+            325
+          ]
+        },
+        {
+          "title": "转身后的细节",
+          "body": "后跟局部暗纹，在侧后方延续品牌语言。",
+          "roi": [
+            110,
+            441,
+            370,
+            300
+          ]
+        }
+      ],
+      "styling": [
+        "黑色宽松长裤＋白色短袖",
+        "在简洁黑白造型中，用银色门徽收住视线。"
+      ],
+      "colorNames": [
+        "黑曜",
+        "氧化银",
+        "骨灰"
+      ],
+      "colors": [
+        "#111213",
+        "#92989a",
+        "#d9d4c8"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/07-silver-gate-low-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/07-silver-gate-low-detail.png"
+    },
+    {
+      "id": "08",
+      "slug": "shadow-register-court",
+      "name": "白皮暗格",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/08-shadow-register-court.png",
+      "headline": [
+        "干净，",
+        "也有暗面。"
+      ],
+      "kicker": "A QUIET CONTRAST.",
+      "intro": [
+        "一条深色纹样嵌带划开白色鞋面，",
+        "微小节点与鞋带扣，把对比延伸到局部。"
+      ],
+      "features": [
+        "深色嵌带",
+        "局部节点",
+        "纹样后跟"
+      ],
+      "details": [
+        {
+          "title": "窄幅，足够鲜明",
+          "body": "纵向纹样被收进侧身嵌带，留下充足白色空间。",
+          "roi": [
+            563,
+            439,
+            355,
+            300
+          ]
+        },
+        {
+          "title": "细节彼此回应",
+          "body": "鞋带扣与后跟标识，延续同一套视觉语言。",
+          "roi": [
+            988,
+            402,
+            280,
+            240
+          ]
+        }
+      ],
+      "styling": [
+        "奶油白长裤＋深色针织",
+        "用侧身深色嵌带连接整套造型的深浅关系。"
+      ],
+      "colorNames": [
+        "暖白",
+        "石墨",
+        "暗红"
+      ],
+      "colors": [
+        "#eeeae3",
+        "#24262a",
+        "#5b1f25"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/08-shadow-register-court-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/08-shadow-register-court-detail.png"
+    },
+    {
+      "id": "09",
+      "slug": "smoke-rib-canvas",
+      "name": "烟胶脊纹",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/09-smoke-rib-canvas.png",
+      "headline": [
+        "让侧影，",
+        "也有记忆点。"
+      ],
+      "kicker": "A SIGNATURE FROM THE GROUND.",
+      "intro": [
+        "熟悉的低帮帆布比例，",
+        "配合纹样化胶底侧墙，让品牌识别向下延伸。"
+      ],
+      "features": [
+        "纹样底墙",
+        "小型门徽",
+        "烟胶对比"
+      ],
+      "details": [
+        {
+          "title": "纹样延伸到鞋底",
+          "body": "重复的凹凸单元，构成连续的侧墙节奏。",
+          "roi": [
+            380,
+            570,
+            530,
+            340
+          ]
+        },
+        {
+          "title": "大小之间的平衡",
+          "body": "小门徽与局部暗纹，呼应下方大面积胶底。",
+          "roi": [
+            248,
+            427,
+            285,
+            310
+          ]
+        }
+      ],
+      "styling": [
+        "深色直筒牛仔＋短夹克",
+        "保留裤脚与鞋底间的分界，露出胶底纹理。"
+      ],
+      "colorNames": [
+        "帆布黑",
+        "烟胶",
+        "骨灰"
+      ],
+      "colors": [
+        "#191a1a",
+        "#966a3d",
+        "#d9d4c8"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/09-smoke-rib-canvas-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/09-smoke-rib-canvas-detail.png"
+    },
+    {
+      "id": "10",
+      "slug": "mono-relief-court",
+      "name": "纯白浮雕",
+      "source": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-reference-series-round6/10-mono-relief-court.png",
+      "headline": [
+        "同一种白，",
+        "不同层次。"
+      ],
+      "kicker": "WHITE, WITH DEPTH.",
+      "intro": [
+        "门徽与后跟纹样融入白色鞋面，",
+        "让光影替颜色说话，近看才读出设计。"
+      ],
+      "features": [
+        "同色门徽",
+        "后跟浮雕",
+        "层次皮片"
+      ],
+      "details": [
+        {
+          "title": "同色，仍可识别",
+          "body": "门徽通过边缘阴影显出轮廓与中央留隙。",
+          "roi": [
+            587,
+            425,
+            265,
+            300
+          ]
+        },
+        {
+          "title": "把纹样交给光影",
+          "body": "后跟的浅浮雕起伏，与平整鞋面形成层次。",
+          "roi": [
+            142,
+            389,
+            385,
+            320
+          ]
+        }
+      ],
+      "styling": [
+        "灰色宽腿裤＋白色上衣",
+        "用材质与轮廓的差别，完成同色系穿搭。"
+      ],
+      "colorNames": [
+        "暖白",
+        "粉笔白",
+        "浅灰"
+      ],
+      "colors": [
+        "#eeeae3",
+        "#f8f6f0",
+        "#c7c8c4"
+      ],
+      "fitBlock": "UNIVERSAL",
+      "stage": "concept-visualisation",
+      "atlas": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/views/10-mono-relief-court-six-views.png",
+      "poster": "D:/Codex-chat/night-veil-brand/assets/ss27-footwear-product-details-round1/posters/10-mono-relief-court-detail.png"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "timestamp": "2026-09-10T05:49:33.814Z",
+  "checks": [
+    {
+      "name": "F05 master exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F05 derived sheet exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F05 board 4:5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "F06 master exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F06 derived sheet exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F06 board 4:5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "F07 master exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F07 derived sheet exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F07 board 4:5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "F08 master exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F08 derived sheet exists",
+      "pass": true,
+      "detail": "1536×1024"
+    },
+    {
+      "name": "F08 board 4:5",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\01-bone-signal.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\02-strata.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\03-notch.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\04-quiet-panel.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\05-afterhours.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\06-ash-frame.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\07-chain-form.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\08-ivory-cage.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\09-silver-wave.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\10-sand-current.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\11-graphite-cage.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\12-bone-layer.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\13-cross-weave.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\14-veil-high.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\ss27-footwear-product-details-round2\\sources\\15-gate-high.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\boards\\F01-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\boards\\F03-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\masters\\F01-master-v2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\masters\\F03-master-v1.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\revision-02\\masters\\F04-R2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\revision-02\\boards\\F04-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\revision-02\\masters\\F02-R2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "unchanged D:\\Codex-chat\\night-veil-brand\\assets\\footwear-feminine-unisex-round1\\revision-02\\boards\\F02-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "distinct style statements",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "expected board count",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "overview 3200x1240",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact masters/F05-v4-logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact atlases/F05-v2-logo.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact boards/F05-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact editable/F05-board.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact masters/F06-v2.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact atlases/F06-v1.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact boards/F06-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact editable/F06-board.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact masters/F07-v1.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact atlases/F07-v1.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact boards/F07-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact editable/F07-board.svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact masters/F08-v1.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact atlases/F08-v1.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact boards/F08-board.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "artifact editable/F08-board.svg",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "pass": true
+}

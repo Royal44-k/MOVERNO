@@ -1,0 +1,156 @@
+{
+  "brand": "MOVERNO / 墨维诺",
+  "collection": "SS27 pants side-motif matrix round 2",
+  "status": "awaiting_user_review",
+  "createdAt": "2026-08-30",
+  "renderer": "OpenAI built-in ImageGen",
+  "stytrix": "methodology only; no paid generation and no credits consumed",
+  "motifMaster": {
+    "file": "../motion-contour-round1/05-relay-veil-edge-gilded-v2.png",
+    "sha256": "6974B12D59755D954DA3B748736218DB78C7B3542D954BEA3EC1E1F040689D76",
+    "rules": [
+      "preserve exact hourglass-chain topology",
+      "graphite-black interior remains dark",
+      "antique gold remains edge-only",
+      "dried-blood red remains limited to original connector nodes",
+      "only crop, mask, interrupt, whole-unit micro-rotation, scale and ghosting are allowed",
+      "never reinterpret as branches, hearts, floral lace, tribal graphics, armor or generic circuitry"
+    ]
+  },
+  "archiveDecisions": [
+    {
+      "styleCode": "SS27-PT09",
+      "decision": "archived",
+      "reason": "large rectangular detachable overlays rejected by user"
+    },
+    {
+      "styleCode": "SS27-PT03",
+      "decision": "superseded",
+      "reason": "previous track-pant treatment misread brand positioning and motif",
+      "replacement": "SS27-PT13 GHOST TRACK"
+    }
+  ],
+  "concepts": [
+    {
+      "styleCode": "SS27-PT11",
+      "name": "RELAY COLUMN",
+      "file": "01-pt11-relay-column.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "REGULAR_LONG_CONCEPT",
+      "silhouette": "mid-rise wide-straight five-pocket denim",
+      "fabric": "13oz matte oil-black denim",
+      "colorSystem": ["oil black", "graphite", "edge gold", "dried blood"],
+      "motifPlacement": "48mm exact V2 outer-side column with three seam-mask interruptions",
+      "markPlacement": "tonal MV RELAY rear-waist tab",
+      "targetPrice": "CNY 799-899",
+      "qa": "pass concept review; pattern is side-bound and non-patch",
+      "sha256": "ACF329D9AA24BE8D767B3E3A4A8FC1B727422C4AF969944B560179B9ECBFB251"
+    },
+    {
+      "styleCode": "SS27-PT12",
+      "name": "ARC VEIL",
+      "file": "02-pt12-arc-veil.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "REGULAR_CONCEPT",
+      "silhouette": "high-rise sculptural barrel leg with articulated knee volume",
+      "fabric": "graphite-black nylon-cotton twill",
+      "colorSystem": ["graphite black", "obsidian", "edge gold", "dried blood"],
+      "motifPlacement": "vertical unwarped V2 revealed through curved outer-seam window masks",
+      "markPlacement": "micro tonal MV RELAY rear-waist tab",
+      "targetPrice": "CNY 899",
+      "qa": "pass concept review; curved garment windows do not deform motif topology",
+      "sha256": "42DE72E8CFFCD0A81D225928704A5AAA776F28CEB7E9C8F5023F5AF6BDF8E902"
+    },
+    {
+      "styleCode": "SS27-PT13",
+      "name": "GHOST TRACK",
+      "file": "03-pt13-ghost-track.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "REGULAR_LONG_CONCEPT",
+      "silhouette": "relaxed wide-straight track trouser with controlled hem break",
+      "fabric": "midnight blue-black matte technical woven",
+      "colorSystem": ["midnight blue-black", "graphite ghost", "edge gold", "dried blood"],
+      "motifPlacement": "38mm exact V2 rail plus 14mm offset low-opacity afterimage",
+      "markPlacement": "tonal MV RELAY rear rubber tab",
+      "targetPrice": "CNY 699-799",
+      "qa": "pass concept review; unequal dual rail does not form three-stripe language",
+      "sha256": "CEF47BC793158D42A08194605144A5C68F0AC573E4D9FEF2D3CD2A30FF0EAE94"
+    },
+    {
+      "styleCode": "SS27-PT14",
+      "name": "RIFT FLARE",
+      "file": "04-pt14-rift-flare.png",
+      "fitBlock": "STRAIGHT",
+      "lengthBlock": "LONG_CONCEPT",
+      "silhouette": "mid-rise fitted-top micro-flare denim with stacked hem",
+      "fabric": "12.5oz coal-black stretch denim",
+      "colorSystem": ["coal black", "washed graphite", "edge gold", "dried blood"],
+      "motifPlacement": "small upper V2 and enlarged lower V2 separated by plain-denim knee gaps",
+      "markPlacement": "embossed MV RELAY black waistband button",
+      "targetPrice": "CNY 899-999",
+      "qa": "corrected version selected; initial rectangular knee overlay excluded",
+      "sha256": "83CF263942D6C713303D5A7F8FA569D7F616D8F8407C7B5D0D88F2A445DDE794"
+    },
+    {
+      "styleCode": "SS27-PT15",
+      "name": "NOCTURNE TAILOR II",
+      "file": "05-pt15-nocturne-tailor-ii.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "REGULAR_LONG_CONCEPT",
+      "silhouette": "high-rise double-pleat wide-straight tailored trouser",
+      "fabric": "plum-black dry wool-viscose",
+      "colorSystem": ["plum black", "graphite satin", "tonal edge gold"],
+      "motifPlacement": "28mm graphite satin side inset with low-contrast V2 micro-jacquard",
+      "markPlacement": "oxidized-nickel MV RELAY rear-waist plaque",
+      "targetPrice": "CNY 899-999",
+      "qa": "pass concept review; mature and low-contrast",
+      "sha256": "23222476347DE565D7B0B440944FD95448A1A1713A9DF68668E44B2754F7791B"
+    },
+    {
+      "styleCode": "SS27-PT16",
+      "name": "SHADOW CARGO",
+      "file": "06-pt16-shadow-cargo.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "REGULAR_CONCEPT",
+      "silhouette": "mid-rise micro-balloon technical cargo with tapered adjustable hem",
+      "fabric": "dark olive-black nylon-cotton ripstop",
+      "colorSystem": ["dark olive-black", "graphite", "edge gold", "dried blood"],
+      "motifPlacement": "V2 hidden inside side-seam expandable storage gussets and calf vent",
+      "markPlacement": "micro MV RELAY zipper puller",
+      "targetPrice": "CNY 899-999",
+      "qa": "pass concept review; storage is seam-integrated with no rectangular patch pockets",
+      "sha256": "8372E9EC47E07456AC20CE68F0F3FF634708EBF794093642A5D8274765B87606"
+    },
+    {
+      "styleCode": "SS27-PT17",
+      "name": "PUDDLE ASCENT",
+      "file": "07-pt17-puddle-ascent.png",
+      "fitBlock": "UNIVERSAL",
+      "lengthBlock": "LONG_CONCEPT",
+      "silhouette": "low-rise extreme-baggy denim with twisted outer seam and puddled hem",
+      "fabric": "13oz smoke-charcoal denim with blue-black cast",
+      "colorSystem": ["smoke charcoal", "blue-black", "eroded edge gold"],
+      "motifPlacement": "55mm exact V2 rises from hem and erodes to zero by mid-calf",
+      "markPlacement": "matte-black MV RELAY rear-waist patch",
+      "targetPrice": "CNY 899",
+      "qa": "pass concept review; lower-leg social hero treatment remains side-bound",
+      "sha256": "81AEBAC8445B076DEDEF9D9C2931C96A90E3975965D2F27AA7D1D469EB536B11"
+    },
+    {
+      "styleCode": "SS27-PT18",
+      "name": "CURVE SIGNAL",
+      "file": "08-pt18-curve-signal.png",
+      "fitBlock": "CURVE",
+      "lengthBlock": "REGULAR_LONG_CONCEPT",
+      "silhouette": "high-contoured-waist tailored micro-flare with eased thigh",
+      "fabric": "dense dried-blood-black stretch twill",
+      "colorSystem": ["dried-blood black", "graphite", "edge gold"],
+      "motifPlacement": "three direct-on-fabric V2 scale zones with plain-base interruptions",
+      "markPlacement": "tonal MV RELAY back-waist emboss",
+      "targetPrice": "CNY 899",
+      "qa": "corrected version selected; initial yoga-legging and boxed-panel interpretation excluded",
+      "sha256": "A5AC80F60167C289E22B35C1A018A8B072F77D3B97AFC927A507E8A09726FBAF"
+    }
+  ],
+  "nextGate": "User marks each PT11-PT18 as keep, revise or archive before STRAIGHT/CURVE technical development."
+}
