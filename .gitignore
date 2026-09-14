@@ -1,0 +1,8 @@
+__pycache__/
+node_modules/
+.venv*/
+.env
+.env.*
+*.local.json
+.download-cache/
+restored-assets/
