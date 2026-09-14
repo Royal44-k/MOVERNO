@@ -1,0 +1,691 @@
+{
+  "shots": [
+    {
+      "id": "look-01-black-man",
+      "styleId": "look-01",
+      "name": "断续幕隙（附件 1）",
+      "source": "references/designs/look-01-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a cool gray brutalist arcade at blue hour, tall narrow light slit in concrete, clean dry stone ground",
+      "referenced_image_paths": [
+        "references/designs/look-01-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-01-black-man.png",
+      "status": "generated",
+      "generationArtifactName": "exec-51b9d4f8-b602-4cb4-830b-cf3d770d3909.png"
+    },
+    {
+      "id": "look-01-asian-man",
+      "styleId": "look-01",
+      "name": "断续幕隙（附件 1）",
+      "source": "references/designs/look-01-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a cool gray brutalist arcade at blue hour, tall narrow light slit in concrete, clean dry stone ground",
+      "referenced_image_paths": [
+        "references/designs/look-01-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-01-asian-man.png",
+      "status": "generated",
+      "generationArtifactName": "exec-7647619f-962e-4e36-9eef-ad19bcd3429a.png"
+    },
+    {
+      "id": "look-01-asian-woman",
+      "styleId": "look-01",
+      "name": "断续幕隙（附件 1）",
+      "source": "references/designs/look-01-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a cool gray brutalist arcade at blue hour, tall narrow light slit in concrete, clean dry stone ground",
+      "referenced_image_paths": [
+        "references/designs/look-01-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "archive/superseded/look-01-asian-woman.png",
+      "status": "generated",
+      "generationArtifactName": "exec-8509ce06-1bc1-4c8e-ba0a-d513080a0d95.png"
+    },
+    {
+      "id": "look-02-black-man",
+      "styleId": "look-02",
+      "name": "细线垂序（附件 2）",
+      "source": "references/designs/look-02-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "an empty minimal dark stone gallery, cool gray limestone walls and matte charcoal floor, soft daylight from a narrow tall window",
+      "referenced_image_paths": [
+        "references/designs/look-02-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-02-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-02-asian-man",
+      "styleId": "look-02",
+      "name": "细线垂序（附件 2）",
+      "source": "references/designs/look-02-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "an empty minimal dark stone gallery, cool gray limestone walls and matte charcoal floor, soft daylight from a narrow tall window",
+      "referenced_image_paths": [
+        "references/designs/look-02-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-02-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-02-asian-woman",
+      "styleId": "look-02",
+      "name": "细线垂序（附件 2）",
+      "source": "references/designs/look-02-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "an empty minimal dark stone gallery, cool gray limestone walls and matte charcoal floor, soft daylight from a narrow tall window",
+      "referenced_image_paths": [
+        "references/designs/look-02-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-02-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-03-black-man",
+      "styleId": "look-03",
+      "name": "暗紫交汇（附件 3）",
+      "source": "references/designs/look-03-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a brushed oxidized metal entrance and near-black stone facade at twilight, subtle plum reflections without neon signs",
+      "referenced_image_paths": [
+        "references/designs/look-03-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-03-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-03-asian-man",
+      "styleId": "look-03",
+      "name": "暗紫交汇（附件 3）",
+      "source": "references/designs/look-03-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a brushed oxidized metal entrance and near-black stone facade at twilight, subtle plum reflections without neon signs",
+      "referenced_image_paths": [
+        "references/designs/look-03-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-03-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-03-asian-woman",
+      "styleId": "look-03",
+      "name": "暗紫交汇（附件 3）",
+      "source": "references/designs/look-03-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a brushed oxidized metal entrance and near-black stone facade at twilight, subtle plum reflections without neon signs",
+      "referenced_image_paths": [
+        "references/designs/look-03-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-03-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-04-black-man",
+      "styleId": "look-04",
+      "name": "01 VEIL CHAPTER",
+      "source": "references/designs/look-04-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a quiet concrete art-book gallery with tall vertical shadows, no posters or writing, warm-gray mineral floor",
+      "referenced_image_paths": [
+        "references/designs/look-04-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-04-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-04-asian-man",
+      "styleId": "look-04",
+      "name": "01 VEIL CHAPTER",
+      "source": "references/designs/look-04-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a quiet concrete art-book gallery with tall vertical shadows, no posters or writing, warm-gray mineral floor",
+      "referenced_image_paths": [
+        "references/designs/look-04-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-04-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-04-asian-woman",
+      "styleId": "look-04",
+      "name": "01 VEIL CHAPTER",
+      "source": "references/designs/look-04-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a quiet concrete art-book gallery with tall vertical shadows, no posters or writing, warm-gray mineral floor",
+      "referenced_image_paths": [
+        "references/designs/look-04-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-04-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-05-black-man",
+      "styleId": "look-05",
+      "name": "02 GILDED IMPACT",
+      "source": "references/designs/look-05-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a charcoal stone vestibule, oxidized bronze edge on one architectural wall, restrained warm side light with cool ambient fill",
+      "referenced_image_paths": [
+        "references/designs/look-05-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-05-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-05-asian-man",
+      "styleId": "look-05",
+      "name": "02 GILDED IMPACT",
+      "source": "references/designs/look-05-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a charcoal stone vestibule, oxidized bronze edge on one architectural wall, restrained warm side light with cool ambient fill",
+      "referenced_image_paths": [
+        "references/designs/look-05-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-05-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-05-asian-woman",
+      "styleId": "look-05",
+      "name": "02 GILDED IMPACT",
+      "source": "references/designs/look-05-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a charcoal stone vestibule, oxidized bronze edge on one architectural wall, restrained warm side light with cool ambient fill",
+      "referenced_image_paths": [
+        "references/designs/look-05-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-05-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-06-black-man",
+      "styleId": "look-06",
+      "name": "03 CHROMA ECHO",
+      "source": "references/designs/look-06-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a cool slate passage with smoky glass, diffuse blue-hour light and a faint quiet plum reflection, uncluttered mineral floor",
+      "referenced_image_paths": [
+        "references/designs/look-06-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-06-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-06-asian-man",
+      "styleId": "look-06",
+      "name": "03 CHROMA ECHO",
+      "source": "references/designs/look-06-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a cool slate passage with smoky glass, diffuse blue-hour light and a faint quiet plum reflection, uncluttered mineral floor",
+      "referenced_image_paths": [
+        "references/designs/look-06-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "archive/superseded/look-06-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-06-asian-woman",
+      "styleId": "look-06",
+      "name": "03 CHROMA ECHO",
+      "source": "references/designs/look-06-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a cool slate passage with smoky glass, diffuse blue-hour light and a faint quiet plum reflection, uncluttered mineral floor",
+      "referenced_image_paths": [
+        "references/designs/look-06-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-06-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-07-black-man",
+      "styleId": "look-07",
+      "name": "04 SIGNAL LEAGUE",
+      "source": "references/designs/look-07-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a restrained burgundy stone and gray concrete facade, diffuse overcast light, a quiet architectural courtyard without crowds",
+      "referenced_image_paths": [
+        "references/designs/look-07-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-07-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-07-asian-man",
+      "styleId": "look-07",
+      "name": "04 SIGNAL LEAGUE",
+      "source": "references/designs/look-07-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a restrained burgundy stone and gray concrete facade, diffuse overcast light, a quiet architectural courtyard without crowds",
+      "referenced_image_paths": [
+        "references/designs/look-07-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-07-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-07-asian-woman",
+      "styleId": "look-07",
+      "name": "04 SIGNAL LEAGUE",
+      "source": "references/designs/look-07-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a restrained burgundy stone and gray concrete facade, diffuse overcast light, a quiet architectural courtyard without crowds",
+      "referenced_image_paths": [
+        "references/designs/look-07-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-07-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-08-black-man",
+      "styleId": "look-08",
+      "name": "TS14 SPINE RELIC",
+      "source": "references/designs/look-08-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a charcoal plaster photo studio with a single architectural vertical recess, gentle gray gradient, quiet gallery atmosphere",
+      "referenced_image_paths": [
+        "references/designs/look-08-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-08-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-08-asian-man",
+      "styleId": "look-08",
+      "name": "TS14 SPINE RELIC",
+      "source": "references/designs/look-08-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a charcoal plaster photo studio with a single architectural vertical recess, gentle gray gradient, quiet gallery atmosphere",
+      "referenced_image_paths": [
+        "references/designs/look-08-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-08-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-08-asian-woman",
+      "styleId": "look-08",
+      "name": "TS14 SPINE RELIC",
+      "source": "references/designs/look-08-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a charcoal plaster photo studio with a single architectural vertical recess, gentle gray gradient, quiet gallery atmosphere",
+      "referenced_image_paths": [
+        "references/designs/look-08-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-08-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-09-black-man",
+      "styleId": "look-09",
+      "name": "TS15 LATERAL VEIL",
+      "source": "references/designs/look-09-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a blackened steel gallery door set into cool concrete, quiet blue-gray diffuse daylight and slightly textured gray ground",
+      "referenced_image_paths": [
+        "references/designs/look-09-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-09-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-09-asian-man",
+      "styleId": "look-09",
+      "name": "TS15 LATERAL VEIL",
+      "source": "references/designs/look-09-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a blackened steel gallery door set into cool concrete, quiet blue-gray diffuse daylight and slightly textured gray ground",
+      "referenced_image_paths": [
+        "references/designs/look-09-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-09-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-09-asian-woman",
+      "styleId": "look-09",
+      "name": "TS15 LATERAL VEIL",
+      "source": "references/designs/look-09-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a blackened steel gallery door set into cool concrete, quiet blue-gray diffuse daylight and slightly textured gray ground",
+      "referenced_image_paths": [
+        "references/designs/look-09-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-09-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-10-black-man",
+      "styleId": "look-10",
+      "name": "TS18 OXIDE VOW",
+      "source": "references/designs/look-10-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a deep charcoal wall and cool silver architectural threshold, diffused reflected light with restrained grazing texture",
+      "referenced_image_paths": [
+        "references/designs/look-10-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-10-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-10-asian-man",
+      "styleId": "look-10",
+      "name": "TS18 OXIDE VOW",
+      "source": "references/designs/look-10-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a deep charcoal wall and cool silver architectural threshold, diffused reflected light with restrained grazing texture",
+      "referenced_image_paths": [
+        "references/designs/look-10-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-10-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-10-asian-woman",
+      "styleId": "look-10",
+      "name": "TS18 OXIDE VOW",
+      "source": "references/designs/look-10-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a deep charcoal wall and cool silver architectural threshold, diffused reflected light with restrained grazing texture",
+      "referenced_image_paths": [
+        "references/designs/look-10-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-10-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-11-black-man",
+      "styleId": "look-11",
+      "name": "TS25 GILDED QUIET",
+      "source": "references/designs/look-11-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a midnight-black gallery interior with one distant muted brass doorway, soft cool front fill, clean matte stone floor",
+      "referenced_image_paths": [
+        "references/designs/look-11-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-11-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-11-asian-man",
+      "styleId": "look-11",
+      "name": "TS25 GILDED QUIET",
+      "source": "references/designs/look-11-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a midnight-black gallery interior with one distant muted brass doorway, soft cool front fill, clean matte stone floor",
+      "referenced_image_paths": [
+        "references/designs/look-11-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-11-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-11-asian-woman",
+      "styleId": "look-11",
+      "name": "TS25 GILDED QUIET",
+      "source": "references/designs/look-11-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a midnight-black gallery interior with one distant muted brass doorway, soft cool front fill, clean matte stone floor",
+      "referenced_image_paths": [
+        "references/designs/look-11-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-11-asian-woman.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-12-black-man",
+      "styleId": "look-12",
+      "name": "TS20 VOID TIP",
+      "source": "references/designs/look-12-design.png",
+      "model": "black-man",
+      "modelLabel": "黑人男",
+      "view": "back",
+      "viewLabel": "背面／侧后方",
+      "scene": "a cool concrete portico with a deep black doorway and pale-gray floor, late-evening diffuse blue ambient fill",
+      "referenced_image_paths": [
+        "references/designs/look-12-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-12-black-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-12-asian-man",
+      "styleId": "look-12",
+      "name": "TS20 VOID TIP",
+      "source": "references/designs/look-12-design.png",
+      "model": "asian-man",
+      "modelLabel": "亚裔男",
+      "view": "front",
+      "viewLabel": "正面",
+      "scene": "a cool concrete portico with a deep black doorway and pale-gray floor, late-evening diffuse blue ambient fill",
+      "referenced_image_paths": [
+        "references/designs/look-12-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-12-asian-man.png",
+      "status": "pending"
+    },
+    {
+      "id": "look-12-asian-woman",
+      "styleId": "look-12",
+      "name": "TS20 VOID TIP",
+      "source": "references/designs/look-12-design.png",
+      "model": "asian-woman",
+      "modelLabel": "亚裔女",
+      "view": "three-quarter",
+      "viewLabel": "侧前方",
+      "scene": "a cool concrete portico with a deep black doorway and pale-gray floor, late-evening diffuse blue ambient fill",
+      "referenced_image_paths": [
+        "references/designs/look-12-design.png",
+        "references/styling/styling-stacked-high-top.png",
+        "references/styling/styling-draped-flare.png",
+        "references/identity/moverno-emblem.png"
+      ],
+      "output": "final/look-12-asian-woman.png",
+      "status": "pending"
+    }
+  ]
+}

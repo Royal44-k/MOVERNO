@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-14",
+  "gallery": {
+    "desktopViewport": [
+      1440,
+      1080
+    ],
+    "mobileViewport": [
+      375,
+      812
+    ],
+    "displayedImageCount": 48,
+    "failedImages": 0,
+    "missingLinkedFiles": 0,
+    "jsErrors": 0,
+    "mobileScrollWidth": 375,
+    "sections": 12,
+    "modelImageCount": 36
+  },
+  "images": {
+    "finals": 36,
+    "retainedDrafts": 2,
+    "width": 1024,
+    "height": 1536,
+    "format": "PNG"
+  },
+  "visualReview": {
+    "reviewedAllOutputs": true,
+    "targetedCorrections": 2,
+    "physicalSampleMatchVerified": false,
+    "pixelExactPrintMatchVerified": false,
+    "commercialReleaseApproved": false
+  },
+  "note": "文件／页面测试不替代图案、美术、实物及权利审核；未声称该批已经可直接商用上架。"
+}

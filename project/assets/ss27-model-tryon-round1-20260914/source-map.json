@@ -1,0 +1,613 @@
+{
+  "sourceFileCount": 67,
+  "finalImages": 36,
+  "supersededImages": 2,
+  "referenceImages": 15,
+  "pathBase": "bundle root",
+  "note": "PNG files copied byte-for-byte. Text paths normalized for public, portable archiving; local originals remain unchanged.",
+  "files": [
+    {
+      "sourceRelative": "correction-prompts-final.json",
+      "archivedPath": "prompts/correction-prompts-final.json",
+      "originalBytes": 1852,
+      "archivedBytes": 1722,
+      "sourceSHA256": "d02015d523f37c1e6254011bdbd918c0e01befb861e6841c6cb99259a775e334",
+      "archivedSHA256": "b34f9dfec3d5945d0d4b27f5b14e50f86eb370aa9ea33d3fd7170e3d9f27720b",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "correction-prompts.json",
+      "archivedPath": "archive/prompts/correction-prompts.json",
+      "originalBytes": 873,
+      "archivedBytes": 808,
+      "sourceSHA256": "f831d7b127df3da1713391c6a7f92bab55bec889213b05a24a2a4d85f8d93253",
+      "archivedSHA256": "8b28f12f09f4a308be2e633b156964aa615c3076f86b6263a7fb4c75f4b3d5f0",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "delivery-manifest.json",
+      "archivedPath": "delivery-manifest.json",
+      "originalBytes": 24501,
+      "archivedBytes": 20808,
+      "sourceSHA256": "ce87d2b47642c3d8850c993cfa29ee89d4de2449e25f2ac084147426eef6db0a",
+      "archivedSHA256": "9d444d272083f177104077609efa7fe56acfebd943f2b3622405901529803290",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "look-01-asian-man.png",
+      "archivedPath": "final/look-01-asian-man.png",
+      "originalBytes": 1987720,
+      "archivedBytes": 1987720,
+      "sourceSHA256": "4741c6fd7a9c36466bf1b1453b550cd996a304fa131e45f2447a86c091da395c",
+      "archivedSHA256": "4741c6fd7a9c36466bf1b1453b550cd996a304fa131e45f2447a86c091da395c",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-01-asian-woman-v2.png",
+      "archivedPath": "final/look-01-asian-woman-v2.png",
+      "originalBytes": 1739415,
+      "archivedBytes": 1739415,
+      "sourceSHA256": "5652863d8b95924134da2621dd1c82a8f5140f33c29e3a738be2102bc2a6d28d",
+      "archivedSHA256": "5652863d8b95924134da2621dd1c82a8f5140f33c29e3a738be2102bc2a6d28d",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-01-asian-woman.png",
+      "archivedPath": "archive/superseded/look-01-asian-woman.png",
+      "originalBytes": 1976692,
+      "archivedBytes": 1976692,
+      "sourceSHA256": "eec8f241f5b4aa0e5c6447e6678abdd82a311fd9c95208ee9889e6b6fa1573c8",
+      "archivedSHA256": "eec8f241f5b4aa0e5c6447e6678abdd82a311fd9c95208ee9889e6b6fa1573c8",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-01-black-man.png",
+      "archivedPath": "final/look-01-black-man.png",
+      "originalBytes": 2049424,
+      "archivedBytes": 2049424,
+      "sourceSHA256": "fe03b518147d48f58534f65e97ea5c270d308fa897234dbebab703ee1493e614",
+      "archivedSHA256": "fe03b518147d48f58534f65e97ea5c270d308fa897234dbebab703ee1493e614",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-02-asian-man.png",
+      "archivedPath": "final/look-02-asian-man.png",
+      "originalBytes": 2087892,
+      "archivedBytes": 2087892,
+      "sourceSHA256": "cfed63bf3feb048a9632482470b28dfb622bc39f508e062d2ae1db177d904486",
+      "archivedSHA256": "cfed63bf3feb048a9632482470b28dfb622bc39f508e062d2ae1db177d904486",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-02-asian-woman.png",
+      "archivedPath": "final/look-02-asian-woman.png",
+      "originalBytes": 2102974,
+      "archivedBytes": 2102974,
+      "sourceSHA256": "6b09168f295d88525704b68aa9737bab748ab63c2b3cca61eacdb9260ef2e6e8",
+      "archivedSHA256": "6b09168f295d88525704b68aa9737bab748ab63c2b3cca61eacdb9260ef2e6e8",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-02-black-man.png",
+      "archivedPath": "final/look-02-black-man.png",
+      "originalBytes": 2201643,
+      "archivedBytes": 2201643,
+      "sourceSHA256": "00827e83c04ed0f9560a2b5a81ac4e534521ef44896e5e53b0d155a0b7626737",
+      "archivedSHA256": "00827e83c04ed0f9560a2b5a81ac4e534521ef44896e5e53b0d155a0b7626737",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-03-asian-man.png",
+      "archivedPath": "final/look-03-asian-man.png",
+      "originalBytes": 2159797,
+      "archivedBytes": 2159797,
+      "sourceSHA256": "7cbf8a7c4b9325c996ef613682de7c54333502a30d7e71211930b6baf445d24d",
+      "archivedSHA256": "7cbf8a7c4b9325c996ef613682de7c54333502a30d7e71211930b6baf445d24d",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-03-asian-woman.png",
+      "archivedPath": "final/look-03-asian-woman.png",
+      "originalBytes": 2125743,
+      "archivedBytes": 2125743,
+      "sourceSHA256": "0629a020729c9dec62bb8636f985915cb263b34fd0c7691e311331a0f456a5c1",
+      "archivedSHA256": "0629a020729c9dec62bb8636f985915cb263b34fd0c7691e311331a0f456a5c1",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-03-black-man.png",
+      "archivedPath": "final/look-03-black-man.png",
+      "originalBytes": 2216972,
+      "archivedBytes": 2216972,
+      "sourceSHA256": "4214e1bc14d01469b742f79a4bbd692cf1fb2c1f5896671974a597d91aed2a33",
+      "archivedSHA256": "4214e1bc14d01469b742f79a4bbd692cf1fb2c1f5896671974a597d91aed2a33",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-04-asian-man.png",
+      "archivedPath": "final/look-04-asian-man.png",
+      "originalBytes": 2152080,
+      "archivedBytes": 2152080,
+      "sourceSHA256": "77cb5731f972bee51665549f3fd93877daed447057ff7663a26870d8fec46598",
+      "archivedSHA256": "77cb5731f972bee51665549f3fd93877daed447057ff7663a26870d8fec46598",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-04-asian-woman.png",
+      "archivedPath": "final/look-04-asian-woman.png",
+      "originalBytes": 2144542,
+      "archivedBytes": 2144542,
+      "sourceSHA256": "729235f38d2521b50d6db49fd69c1ef4912cf8b31f037ec9c8a5db1cdb1143bc",
+      "archivedSHA256": "729235f38d2521b50d6db49fd69c1ef4912cf8b31f037ec9c8a5db1cdb1143bc",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-04-black-man.png",
+      "archivedPath": "final/look-04-black-man.png",
+      "originalBytes": 2202264,
+      "archivedBytes": 2202264,
+      "sourceSHA256": "fbea5945a86b460f8300c3255c005992adf4415a763d7d8522bbc6dcc6ce9c62",
+      "archivedSHA256": "fbea5945a86b460f8300c3255c005992adf4415a763d7d8522bbc6dcc6ce9c62",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-05-asian-man.png",
+      "archivedPath": "final/look-05-asian-man.png",
+      "originalBytes": 2201609,
+      "archivedBytes": 2201609,
+      "sourceSHA256": "38aa8c41e54b23190e190d445eeef65569d7d08ba8f5c29e1f96446205f48986",
+      "archivedSHA256": "38aa8c41e54b23190e190d445eeef65569d7d08ba8f5c29e1f96446205f48986",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-05-asian-woman.png",
+      "archivedPath": "final/look-05-asian-woman.png",
+      "originalBytes": 2114287,
+      "archivedBytes": 2114287,
+      "sourceSHA256": "274171f88b3ec933592307e2cb588c273e8205a3ccb14535f99062b8df7bb5ca",
+      "archivedSHA256": "274171f88b3ec933592307e2cb588c273e8205a3ccb14535f99062b8df7bb5ca",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-05-black-man.png",
+      "archivedPath": "final/look-05-black-man.png",
+      "originalBytes": 2191765,
+      "archivedBytes": 2191765,
+      "sourceSHA256": "b80b3d542b8521bfcef399e6e7f038e9541f83e0f9cd57be51c336e4b07ab805",
+      "archivedSHA256": "b80b3d542b8521bfcef399e6e7f038e9541f83e0f9cd57be51c336e4b07ab805",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-06-asian-man-v2.png",
+      "archivedPath": "final/look-06-asian-man-v2.png",
+      "originalBytes": 1894018,
+      "archivedBytes": 1894018,
+      "sourceSHA256": "eed7238c60aa7e3d2345e85b69161000dffd2656c78b6f0605dba085628f72f8",
+      "archivedSHA256": "eed7238c60aa7e3d2345e85b69161000dffd2656c78b6f0605dba085628f72f8",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-06-asian-man.png",
+      "archivedPath": "archive/superseded/look-06-asian-man.png",
+      "originalBytes": 2161111,
+      "archivedBytes": 2161111,
+      "sourceSHA256": "b22601e8bf8477fed950b1a4da9ff943baea56abe654aad59f812fabc7c45255",
+      "archivedSHA256": "b22601e8bf8477fed950b1a4da9ff943baea56abe654aad59f812fabc7c45255",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-06-asian-woman.png",
+      "archivedPath": "final/look-06-asian-woman.png",
+      "originalBytes": 2172528,
+      "archivedBytes": 2172528,
+      "sourceSHA256": "2aaf805cf3c73f75bd582e86beb416c77632197933860413a4c133aa1f8333bf",
+      "archivedSHA256": "2aaf805cf3c73f75bd582e86beb416c77632197933860413a4c133aa1f8333bf",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-06-black-man.png",
+      "archivedPath": "final/look-06-black-man.png",
+      "originalBytes": 1955341,
+      "archivedBytes": 1955341,
+      "sourceSHA256": "e3c851faeb07780cbaeef25d2378bc04834c019a6a4395091cc20803814c984e",
+      "archivedSHA256": "e3c851faeb07780cbaeef25d2378bc04834c019a6a4395091cc20803814c984e",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-07-asian-man.png",
+      "archivedPath": "final/look-07-asian-man.png",
+      "originalBytes": 2297733,
+      "archivedBytes": 2297733,
+      "sourceSHA256": "ff6e3ed467200961840e84328d52f47af698e212be23eb84288db17dd19672bd",
+      "archivedSHA256": "ff6e3ed467200961840e84328d52f47af698e212be23eb84288db17dd19672bd",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-07-asian-woman.png",
+      "archivedPath": "final/look-07-asian-woman.png",
+      "originalBytes": 2252728,
+      "archivedBytes": 2252728,
+      "sourceSHA256": "fb4468a758294dc4e562fe6116884d28745cebe2ffcc777a1daa2dc3003cc6ef",
+      "archivedSHA256": "fb4468a758294dc4e562fe6116884d28745cebe2ffcc777a1daa2dc3003cc6ef",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-07-black-man.png",
+      "archivedPath": "final/look-07-black-man.png",
+      "originalBytes": 2439324,
+      "archivedBytes": 2439324,
+      "sourceSHA256": "27b28dba2bd9706f9e052f20ffec7a558077d178509d9cd33c3d759b745dd296",
+      "archivedSHA256": "27b28dba2bd9706f9e052f20ffec7a558077d178509d9cd33c3d759b745dd296",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-08-asian-man.png",
+      "archivedPath": "final/look-08-asian-man.png",
+      "originalBytes": 2102358,
+      "archivedBytes": 2102358,
+      "sourceSHA256": "ee8f9bc918901be373b1abc2e023c042676583f22bddd3ed4aeda1d3a2517e80",
+      "archivedSHA256": "ee8f9bc918901be373b1abc2e023c042676583f22bddd3ed4aeda1d3a2517e80",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-08-asian-woman.png",
+      "archivedPath": "final/look-08-asian-woman.png",
+      "originalBytes": 1936977,
+      "archivedBytes": 1936977,
+      "sourceSHA256": "f03cc6c1062b4688dea253c2fa7d502510082b5b6aa7a8a2398d52bd49db6207",
+      "archivedSHA256": "f03cc6c1062b4688dea253c2fa7d502510082b5b6aa7a8a2398d52bd49db6207",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-08-black-man.png",
+      "archivedPath": "final/look-08-black-man.png",
+      "originalBytes": 1996419,
+      "archivedBytes": 1996419,
+      "sourceSHA256": "6fb51f91eafb167d64c8e7bf113ff9fd520038e335243c717f5c92561b8ee2ef",
+      "archivedSHA256": "6fb51f91eafb167d64c8e7bf113ff9fd520038e335243c717f5c92561b8ee2ef",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-09-asian-man.png",
+      "archivedPath": "final/look-09-asian-man.png",
+      "originalBytes": 2350491,
+      "archivedBytes": 2350491,
+      "sourceSHA256": "a945ace06cd6d2169418e51d36cd5691bcc2b73f50189f95653605d22cd863af",
+      "archivedSHA256": "a945ace06cd6d2169418e51d36cd5691bcc2b73f50189f95653605d22cd863af",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-09-asian-woman.png",
+      "archivedPath": "final/look-09-asian-woman.png",
+      "originalBytes": 2445938,
+      "archivedBytes": 2445938,
+      "sourceSHA256": "bb76f23e5b78c718e1e5c3ff03aa152b72acfd52fdcee139dc64247ef4d9b0f3",
+      "archivedSHA256": "bb76f23e5b78c718e1e5c3ff03aa152b72acfd52fdcee139dc64247ef4d9b0f3",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-09-black-man.png",
+      "archivedPath": "final/look-09-black-man.png",
+      "originalBytes": 2403282,
+      "archivedBytes": 2403282,
+      "sourceSHA256": "c4030517f3211a4cb36710684308362364088cca43c9dbf016641eba2e986f0e",
+      "archivedSHA256": "c4030517f3211a4cb36710684308362364088cca43c9dbf016641eba2e986f0e",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-10-asian-man.png",
+      "archivedPath": "final/look-10-asian-man.png",
+      "originalBytes": 2142514,
+      "archivedBytes": 2142514,
+      "sourceSHA256": "9c349c3102d7c00c0f245650e95175bc68d48fa27e78a8eaeee95898fc0749d9",
+      "archivedSHA256": "9c349c3102d7c00c0f245650e95175bc68d48fa27e78a8eaeee95898fc0749d9",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-10-asian-woman.png",
+      "archivedPath": "final/look-10-asian-woman.png",
+      "originalBytes": 2169439,
+      "archivedBytes": 2169439,
+      "sourceSHA256": "d68b3c34e699a6155c062cb546d0784b3df3fd0e71952ddb25ad178ab908cea5",
+      "archivedSHA256": "d68b3c34e699a6155c062cb546d0784b3df3fd0e71952ddb25ad178ab908cea5",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-10-black-man.png",
+      "archivedPath": "final/look-10-black-man.png",
+      "originalBytes": 2052188,
+      "archivedBytes": 2052188,
+      "sourceSHA256": "f05fa297d9951e2eb7e362fcc6be6fbb359a4ba511b201e42f69cf240ecc211c",
+      "archivedSHA256": "f05fa297d9951e2eb7e362fcc6be6fbb359a4ba511b201e42f69cf240ecc211c",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-11-asian-man.png",
+      "archivedPath": "final/look-11-asian-man.png",
+      "originalBytes": 1960506,
+      "archivedBytes": 1960506,
+      "sourceSHA256": "531c4689d60149e315a19e527817d72aa3546c616e290aa44ce355935514872e",
+      "archivedSHA256": "531c4689d60149e315a19e527817d72aa3546c616e290aa44ce355935514872e",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-11-asian-woman.png",
+      "archivedPath": "final/look-11-asian-woman.png",
+      "originalBytes": 1977770,
+      "archivedBytes": 1977770,
+      "sourceSHA256": "a07e7dffe50f73a132e894c2cf751884ddeb98dea480f0bfda063a4f47ed4b8f",
+      "archivedSHA256": "a07e7dffe50f73a132e894c2cf751884ddeb98dea480f0bfda063a4f47ed4b8f",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-11-black-man.png",
+      "archivedPath": "final/look-11-black-man.png",
+      "originalBytes": 1964494,
+      "archivedBytes": 1964494,
+      "sourceSHA256": "c63b047514ad3d9f1c38bd5730d35ae57c0d265e2384c6a1b75108c5f3e3da4f",
+      "archivedSHA256": "c63b047514ad3d9f1c38bd5730d35ae57c0d265e2384c6a1b75108c5f3e3da4f",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-12-asian-man.png",
+      "archivedPath": "final/look-12-asian-man.png",
+      "originalBytes": 1953623,
+      "archivedBytes": 1953623,
+      "sourceSHA256": "68216e4a5b72a6187647e41ff0ee5d06e8151c0f91d713a0c6130f27772c2977",
+      "archivedSHA256": "68216e4a5b72a6187647e41ff0ee5d06e8151c0f91d713a0c6130f27772c2977",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-12-asian-woman.png",
+      "archivedPath": "final/look-12-asian-woman.png",
+      "originalBytes": 2053219,
+      "archivedBytes": 2053219,
+      "sourceSHA256": "f262efbf244beb5ed0e86a644f4c64e92a6f694b1e5987606c49f15a19120bb0",
+      "archivedSHA256": "f262efbf244beb5ed0e86a644f4c64e92a6f694b1e5987606c49f15a19120bb0",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "look-12-black-man.png",
+      "archivedPath": "final/look-12-black-man.png",
+      "originalBytes": 2018812,
+      "archivedBytes": 2018812,
+      "sourceSHA256": "20c5c7c19b279150e2694242cdffc4a2d4347d9088c02058ac7c8c5cde43c142",
+      "archivedSHA256": "20c5c7c19b279150e2694242cdffc4a2d4347d9088c02058ac7c8c5cde43c142",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "manifest.json",
+      "archivedPath": "archive/manifest-initial.json",
+      "originalBytes": 40811,
+      "archivedBytes": 27445,
+      "sourceSHA256": "ee19fa4626504606fed6a3425b310d4d02fc81cb12a45ac3a70d49f371efffdb",
+      "archivedSHA256": "a4e8ce6f6702f55362c9f366ed56ec759fa027a3fc4d5b0198ffbe52d1028592",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "prompt-set-final.json",
+      "archivedPath": "prompts/prompt-set-final.json",
+      "originalBytes": 207212,
+      "archivedBytes": 191378,
+      "sourceSHA256": "6a9f0177aacfa9b98af84c2e55cbf17526a587dc7681c41be389555f941a00e1",
+      "archivedSHA256": "333af121a76d778e66ec45da56496e8b82d1e9ce5046936c8ae8dc6e97162f4c",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "prompt-set-v2.json",
+      "archivedPath": "archive/prompts/prompt-set-v2.json",
+      "originalBytes": 199046,
+      "archivedBytes": 185680,
+      "sourceSHA256": "53cf35e19aa782ea253b8b8cb1cb857177b996a480b8aca25efd1d7a46b99579",
+      "archivedSHA256": "5745484edc92baeead1320f5f335b41f59f50d930d990ab880c3154eb208f2ad",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "prompt-set.json",
+      "archivedPath": "archive/prompts/prompt-set.json",
+      "originalBytes": 194619,
+      "archivedBytes": 181475,
+      "sourceSHA256": "36b74ac95e4aa9606662effa277f5f314408655a5ea53b6f4ff6cef1a499e6e5",
+      "archivedSHA256": "44df45dd09defecf5705853f013662a23f23b60d00e303e6f47ec1e18564dde4",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "qa-review-desktop.png",
+      "archivedPath": "qa/original/qa-review-desktop.png",
+      "originalBytes": 880392,
+      "archivedBytes": 880392,
+      "sourceSHA256": "420a656cc18b157782d5267c118f3e50e56d79611107c3a0670269630090a3b8",
+      "archivedSHA256": "420a656cc18b157782d5267c118f3e50e56d79611107c3a0670269630090a3b8",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "qa-review-mobile.png",
+      "archivedPath": "qa/original/qa-review-mobile.png",
+      "originalBytes": 267659,
+      "archivedBytes": 267659,
+      "sourceSHA256": "64af7572c323ddb0c0e69290792d9bcc2f4fcb4e08ab566f57fcbdd1d786f2dc",
+      "archivedSHA256": "64af7572c323ddb0c0e69290792d9bcc2f4fcb4e08ab566f57fcbdd1d786f2dc",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "README.md",
+      "archivedPath": "archive/source-README.md",
+      "originalBytes": 2136,
+      "archivedBytes": 2139,
+      "sourceSHA256": "2878d24fa99fabcd777b1447dff3075e6928b7d177e4416615476609791e4328",
+      "archivedSHA256": "3ff99ea21ac11aa9e136c054d2667c2e6d34f512799a8b610dbfeca7d1b20b0d",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "references/look-01-design.png",
+      "archivedPath": "references/designs/look-01-design.png",
+      "originalBytes": 1869512,
+      "archivedBytes": 1869512,
+      "sourceSHA256": "f285f665b2f42997d3652a8256520f65def85babf7241ed552e67c9026723d5a",
+      "archivedSHA256": "f285f665b2f42997d3652a8256520f65def85babf7241ed552e67c9026723d5a",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-02-design.png",
+      "archivedPath": "references/designs/look-02-design.png",
+      "originalBytes": 1853808,
+      "archivedBytes": 1853808,
+      "sourceSHA256": "5a1681ec84fca4b562a4ceceedc33931a4f6ca42911147b28bc95a98fb2ee274",
+      "archivedSHA256": "5a1681ec84fca4b562a4ceceedc33931a4f6ca42911147b28bc95a98fb2ee274",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-03-design.png",
+      "archivedPath": "references/designs/look-03-design.png",
+      "originalBytes": 1770897,
+      "archivedBytes": 1770897,
+      "sourceSHA256": "2d186c423feb222fb944322873cb52cc3c955b1cf06f3ae31b5889dd7ac6fa43",
+      "archivedSHA256": "2d186c423feb222fb944322873cb52cc3c955b1cf06f3ae31b5889dd7ac6fa43",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-04-design.png",
+      "archivedPath": "references/designs/look-04-design.png",
+      "originalBytes": 2515438,
+      "archivedBytes": 2515438,
+      "sourceSHA256": "fbb56a090a50330a75f8fdc2c9a349dd8f9038acdcebe3c4977a21a54b5f2e7c",
+      "archivedSHA256": "fbb56a090a50330a75f8fdc2c9a349dd8f9038acdcebe3c4977a21a54b5f2e7c",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-05-design.png",
+      "archivedPath": "references/designs/look-05-design.png",
+      "originalBytes": 2384909,
+      "archivedBytes": 2384909,
+      "sourceSHA256": "c6e0a490c202f6cc439e556f7fb08d0bc2efba5158b07808a1f6f3e8720084cf",
+      "archivedSHA256": "c6e0a490c202f6cc439e556f7fb08d0bc2efba5158b07808a1f6f3e8720084cf",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-06-design.png",
+      "archivedPath": "references/designs/look-06-design.png",
+      "originalBytes": 2337345,
+      "archivedBytes": 2337345,
+      "sourceSHA256": "bbc235e34cb80ce307f486008580b75f0278a67a45363fc38563d62e30f037cc",
+      "archivedSHA256": "bbc235e34cb80ce307f486008580b75f0278a67a45363fc38563d62e30f037cc",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-07-design.png",
+      "archivedPath": "references/designs/look-07-design.png",
+      "originalBytes": 2328354,
+      "archivedBytes": 2328354,
+      "sourceSHA256": "8b38084fd8356f3a29e05f2e77ab056741011e3a6d0592d80e645e325eea1591",
+      "archivedSHA256": "8b38084fd8356f3a29e05f2e77ab056741011e3a6d0592d80e645e325eea1591",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-08-design.png",
+      "archivedPath": "references/designs/look-08-design.png",
+      "originalBytes": 1567601,
+      "archivedBytes": 1567601,
+      "sourceSHA256": "542f1946ecef48fad3207eb2a06c536bd7268d3f19714059070245f246ee8870",
+      "archivedSHA256": "542f1946ecef48fad3207eb2a06c536bd7268d3f19714059070245f246ee8870",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-09-design.png",
+      "archivedPath": "references/designs/look-09-design.png",
+      "originalBytes": 2070796,
+      "archivedBytes": 2070796,
+      "sourceSHA256": "b201b36da059ac9809733530bf1999bbcdc896c69bda32e6f46cb2818b7cdcc9",
+      "archivedSHA256": "b201b36da059ac9809733530bf1999bbcdc896c69bda32e6f46cb2818b7cdcc9",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-10-design.png",
+      "archivedPath": "references/designs/look-10-design.png",
+      "originalBytes": 2135348,
+      "archivedBytes": 2135348,
+      "sourceSHA256": "f859be1f96c98fa5a6c32d3cc3a7260aec75b73aa4e9cca985a684a8806d648f",
+      "archivedSHA256": "f859be1f96c98fa5a6c32d3cc3a7260aec75b73aa4e9cca985a684a8806d648f",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-11-design.png",
+      "archivedPath": "references/designs/look-11-design.png",
+      "originalBytes": 1991464,
+      "archivedBytes": 1991464,
+      "sourceSHA256": "2c73486b125f4caa9f7ee6b58589768e6fd1f521daced23fca0045cd38077264",
+      "archivedSHA256": "2c73486b125f4caa9f7ee6b58589768e6fd1f521daced23fca0045cd38077264",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/look-12-design.png",
+      "archivedPath": "references/designs/look-12-design.png",
+      "originalBytes": 2221116,
+      "archivedBytes": 2221116,
+      "sourceSHA256": "faf0f2b1c11a00298f6cc677c4c00d0c18cc2d235605de356b2faabbcdaf6ce6",
+      "archivedSHA256": "faf0f2b1c11a00298f6cc677c4c00d0c18cc2d235605de356b2faabbcdaf6ce6",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/moverno-emblem.png",
+      "archivedPath": "references/identity/moverno-emblem.png",
+      "originalBytes": 79984,
+      "archivedBytes": 79984,
+      "sourceSHA256": "d96ddc3f84cd2bedbcca4578d11d0489e7d10f027cc3af8473554b3b7a4012cf",
+      "archivedSHA256": "d96ddc3f84cd2bedbcca4578d11d0489e7d10f027cc3af8473554b3b7a4012cf",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/styling-draped-flare.png",
+      "archivedPath": "references/styling/styling-draped-flare.png",
+      "originalBytes": 68583,
+      "archivedBytes": 68583,
+      "sourceSHA256": "ba360127a01e315dd691ab0c5adb101cb6233ccf22ef68d76e81c24563fdad4b",
+      "archivedSHA256": "ba360127a01e315dd691ab0c5adb101cb6233ccf22ef68d76e81c24563fdad4b",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "references/styling-stacked-high-top.png",
+      "archivedPath": "references/styling/styling-stacked-high-top.png",
+      "originalBytes": 139494,
+      "archivedBytes": 139494,
+      "sourceSHA256": "09f4399d89ad6fe8afb904c89ce6a8c26d84f1b61c8ecd1bf4eee3b818ee9ee8",
+      "archivedSHA256": "09f4399d89ad6fe8afb904c89ce6a8c26d84f1b61c8ecd1bf4eee3b818ee9ee8",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "REVIEW-NOTES.md",
+      "archivedPath": "docs/REVIEW-NOTES.md",
+      "originalBytes": 2507,
+      "archivedBytes": 2507,
+      "sourceSHA256": "59652b51a903b7accabdac9da1c241301942435d0c3cbdded1d2d96d2eb53aaf",
+      "archivedSHA256": "59652b51a903b7accabdac9da1c241301942435d0c3cbdded1d2d96d2eb53aaf",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "review.html",
+      "archivedPath": "review.html",
+      "originalBytes": 32978,
+      "archivedBytes": 33711,
+      "sourceSHA256": "38cbbe999ed9fa2ced6e5178ff193e3c8b511e9f5409cc8209f5344de3498ca7",
+      "archivedSHA256": "c47737c2ff5d34b3d7fc0b321fb5a2f24c5f9bee55f26c2173c516c89f591483",
+      "textPortabilityTransform": true
+    },
+    {
+      "sourceRelative": "verification-report.json",
+      "archivedPath": "qa/original/verification-report.json",
+      "originalBytes": 795,
+      "archivedBytes": 795,
+      "sourceSHA256": "2d7b88f9c3e55fcd96ba5abb136d03b0da1cf0dfc40c19006c5de62871bcd06e",
+      "archivedSHA256": "2d7b88f9c3e55fcd96ba5abb136d03b0da1cf0dfc40c19006c5de62871bcd06e",
+      "textPortabilityTransform": false
+    },
+    {
+      "sourceRelative": "verify-gallery.cjs",
+      "archivedPath": "tools/verify-gallery.cjs",
+      "originalBytes": 1854,
+      "archivedBytes": 1980,
+      "sourceSHA256": "9b0b2ea64d4574c599e6c224712295cdbe57cc5d2f77da107674116020af4f64",
+      "archivedSHA256": "fda3f57dd08a3757bbb7f3002384794abe89b8d716fef446bdb789f7d1567025",
+      "textPortabilityTransform": true
+    }
+  ]
+}

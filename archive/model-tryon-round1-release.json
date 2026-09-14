@@ -1,0 +1,14 @@
+{
+  "collection": "ss27-model-tryon-round1-20260914",
+  "selectedStyles": 12,
+  "finalModelPhotos": 36,
+  "originalSourceFiles": 67,
+  "portableBundleFiles": 75,
+  "releaseTag": "model-tryon-round1-2026-09-14",
+  "downloadUrl": "https://github.com/Royal44-k/MOVERNO/releases/download/model-tryon-round1-2026-09-14/moverno-model-tryon-round1-complete-2026-09-14.zip",
+  "fileName": "moverno-model-tryon-round1-complete-2026-09-14.zip",
+  "bytes": 101091242,
+  "sha256": "c0e6114569b6b669235d3e929d6e33c1079b9754278c6e516ae4cdef98debf2d",
+  "extraction": "ZIP contains ss27-model-tryon-round1-20260914/; open review.html inside it for offline review.",
+  "validation": "Original 55 PNG assets byte-identical; all 67 source files mapped; local absolute paths removed from public text copies. File checksum verification is not commercial product approval."
+}

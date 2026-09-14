@@ -16,6 +16,7 @@
 | 短袖、裤装、鞋履与视频索引 | [产品与内容目录](archive/04-products-and-content.md) |
 | 逐款编号、名称、来源与版本状态 | [款式登记](archive/STYLE-INDEX.md) |
 | 预算、售价、运营、网站和待办 | [商业计划与交接](archive/05-business-and-next-steps.md) |
+| 本次 12 款／36 张模特上身图、参考与提示词 | [模特上身归档](archive/07-model-tryon-round1.md) · [全部图片](project/assets/ss27-model-tryon-round1-20260914/LOOKBOOK.md) |
 | 全部素材分组及代表预览 | [素材目录](archive/ASSET-CATALOG.md) |
 | 完整原始素材包 | [GitHub Release](https://github.com/Royal44-k/MOVERNO/releases/tag/brand-archive-2026-09-14) |
 | 下载、恢复和校验 | [恢复说明](archive/RESTORE.md) |
@@ -44,3 +45,4 @@ GitHub Release 全部素材包；下载后还原 project/ 与 recovered/
 历史研究保持原查询日期，本次归档没有重新核验商标、域名、趋势或价格。外部参考图的原权利归其权利人；包含参考图的审款板不能直接当作本品牌商品宣传。详见[来源与权利说明](archive/06-provenance-and-rights.md)。
 
 本次归档依据用户明确上传请求；没有新生成款式、替用户选择设计、部署网站或发布社媒广告。原项目目录保持原状。
+

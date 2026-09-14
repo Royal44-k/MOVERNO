@@ -1,0 +1,7 @@
+[
+  {
+    "id": "look-01-asian-woman",
+    "prompt": "Use case: precise-object-edit. Image 1 is the edit target. Keep the entire photo unchanged, especially the woman's identity, face, pose, T-shirt back artwork, original garment silhouette, architecture, light and shoes. Make ONE local correction: remove the two ivory drawstrings incorrectly hanging down from the BACK waistband/seat of her trousers. Replace only those thin string-shaped areas with the continuous black trouser cloth and natural folds behind them. This is a rear view; waistband drawstrings belong on the hidden front and must not show on the seat. Do not add anything, do not change the T-shirt, do not recolor or retouch the rest. Preserve full original resolution and framing.",
+    "output": "final/look-01-asian-woman-v2.png"
+  }
+]
